@@ -85,11 +85,7 @@ https://a-stergianas.github.io/greek-epg/epg.xml.gz
 | Κατηγορία | Πηγές |
 | --- | --- |
 | Οδηγοί Ελλάδας | [Digea](https://www.digea.gr/el/tileoptikoi-stathmoi/ilektronikos-odigos-programmatos) · [ERTFLIX](https://www.ertflix.gr/#/guide) · [ANT1](https://www.antenna.gr/tvguide) · [MagentaTV](https://www.magentatv.gr/program) · [Nova](https://epg.nova.gr/) |
-| Ελληνικά κανάλια | [ALPHA](https://www.alphatv.gr/programma/) · [ΣΚΑΪ](https://www.skai.gr/tv/programma) · [OPEN](https://www.tvopen.gr/schedule) · [STAR](https://www.star.gr/tv/programma) · [MEGA](https://www.megatv.com/tv-program/) |
 | Αθλητικά | [ΣΠΟΡ FM TV](https://www.sportfmtv.gr/el/guide) |
-| Παιδικά | [Disney Channel](https://tv.disney.gr/whats-on) · [Disney Junior](https://tv.disney.gr/whats-on/disney-junior) · [Baby TV](https://tv.disney.gr/whats-on/baby-tv) |
-| Ντοκιμαντέρ | [National Geographic](https://www.natgeotv.com/gr/schedule/natgeo) · [National Geographic Wild](https://www.natgeotv.com/gr/schedule/nationalgeographicwild) |
-| Ψυχαγωγία | [FX](https://www.fxchannel.gr/schedule/fx) · [FX Life](https://www.fxchannel.gr/schedule/fxlife) |
 | Κύπρος | [Cyta / Cytavision](https://epg.cyta.com.cy/tv-guide/el) · [Cablenet](https://cablenet.com.cy/tv/tv-guide/) · [ΡΙΚ](https://tv.rik.cy/schedule/) |
 | Mesimvria | [Movies Best HD](https://www.mesimvria.com/channel/movies-hd/) · [Greek Cinema](https://www.mesimvria.com/channel/greek-cinema/) · [Cablenet Cinema](https://www.mesimvria.com/channel/cablenet-showtime-1-hd-2/) |
 
