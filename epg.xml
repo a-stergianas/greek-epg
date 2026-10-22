@@ -2112,60 +2112,109 @@
     <title lang="el">Pure Action Show</title>
     <desc lang="el">[K8] Η εκπομπή αυτή αφορά αθλητικά γεγονότα και παρουσίαση αθλημάτων. Σε κάθε επεισόδιο θα παρουσιάζεται ξεχωριστό event που θα επικεντρώνεται στις καλύτερες στιγμές. Στόχος είναι να αναδεικνύονται κάθε φορα όλες οι ιδιαιτερότητες του εκάστοτε αθλήματος.</desc>
   </programme>
-  <programme start="20261024050000 +0000" stop="20261024090000 +0000" channel="action24.gr">
-    <title lang="el">ACTION24</title>
-    <desc lang="el">Απολαύστε αγώνες σε αποκλειστικότητα, άμεση αθλητική ενημέρωση αλλά και ψυχαγωγία από το ACTION24, το μοναδικό ελεύθερο αθλητικό κανάλι στην Αττική.</desc>
-    <category lang="el">Special</category>
+  <programme start="20261024060000 +0300" stop="20261024100000 +0300" channel="action24.gr">
+    <title lang="el">Action Σαββατοκύριακο</title>
+    <desc lang="el">[K8] Το ανανεωμένο ενημερωτικό μαγκαζίνο του Action 24, με τον Δημήτρη Καμπουράκη και την Ντόνα Δρούτσα, «Action Σαββατοκύριακο», έρχεται για μια ακόμη τηλεοπτική σεζόν να παρουσιάσει από νωρίς το πρωί όλα τα γεγονότα και τις εξελίξεις γύρω από την πολιτική, την οικονομία και την κοινωνία.</desc>
   </programme>
-  <programme start="20261024090000 +0000" stop="20261024130000 +0000" channel="action24.gr">
-    <title lang="el">ACTION24</title>
-    <desc lang="el">Απολαύστε αγώνες σε αποκλειστικότητα, άμεση αθλητική ενημέρωση αλλά και ψυχαγωγία από το ACTION24, το μοναδικό ελεύθερο αθλητικό κανάλι στην Αττική.</desc>
-    <category lang="el">Special</category>
+  <programme start="20261024100000 +0300" stop="20261024110000 +0300" channel="action24.gr">
+    <title lang="el">The Rookies (Ε)</title>
+    <desc lang="el">[K8] Μια δημοφιλής και αγαπημένη αμερικανική σειρά, με ήρωες τρεις νεαρούς αστυνομικούς σε μια πόλη της Νότιας Καλιφόρνιας.</desc>
   </programme>
-  <programme start="20261024130000 +0000" stop="20261024170000 +0000" channel="action24.gr">
-    <title lang="el">ACTION24</title>
-    <desc lang="el">Απολαύστε αγώνες σε αποκλειστικότητα, άμεση αθλητική ενημέρωση αλλά και ψυχαγωγία από το ACTION24, το μοναδικό ελεύθερο αθλητικό κανάλι στην Αττική.</desc>
-    <category lang="el">Special</category>
+  <programme start="20261024110000 +0300" stop="20261024130000 +0300" channel="action24.gr">
+    <title lang="el">Απλώς Υπέροχη (Just Super)</title>
+    <desc lang="el">[K8] Ξένη ταινία. Δεν χρειάζεται να είσαι υπερήρωας για να είσαι σπουδαίος. Η Χέντβιγκ έχει μικρύνει τη στολή υπερήρωα του μπαμπά, οπότε τώρα δεν μπορεί πια να είναι ο Σούπερ-Λιοντάρι. Η Χέντβιγκ που παίζει βιντεοπαιχνίδια είναι αδέξια, αλλά όταν ο μπαμπάς επιλέγει τον ξάδερφο Άντριαν να γίνει ο επόμενος ήρωας, η Χέντβιγκ πρέπει να αντιδράσει.</desc>
   </programme>
-  <programme start="20261024170000 +0000" stop="20261024210000 +0000" channel="action24.gr">
-    <title lang="el">ACTION24</title>
-    <desc lang="el">Απολαύστε αγώνες σε αποκλειστικότητα, άμεση αθλητική ενημέρωση αλλά και ψυχαγωγία από το ACTION24, το μοναδικό ελεύθερο αθλητικό κανάλι στην Αττική.</desc>
-    <category lang="el">Special</category>
+  <programme start="20261024130000 +0300" stop="20261024140000 +0300" channel="action24.gr">
+    <title lang="el">Μεσημεριανό Δελτίο Ειδήσεων #ActionNews</title>
+    <desc lang="el">[K8] Το μεσημβρινό δελτίο ειδήσεων του Σαββατοκύριακου, παρουσιάζει η Τζένη Κρυσταλλακίδου.</desc>
   </programme>
-  <programme start="20261024210000 +0000" stop="20261025010000 +0000" channel="action24.gr">
-    <title lang="el">ACTION24</title>
-    <desc lang="el">Απολαύστε αγώνες σε αποκλειστικότητα, άμεση αθλητική ενημέρωση αλλά και ψυχαγωγία από το ACTION24, το μοναδικό ελεύθερο αθλητικό κανάλι στην Αττική.</desc>
-    <category lang="el">Special</category>
+  <programme start="20261024140000 +0300" stop="20261024160000 +0300" channel="action24.gr">
+    <title lang="el">Η Μία και Εγώ (Mia and Me)</title>
+    <desc lang="el">[K8] Ξένη ταινία. Η Μία ανακαλύπτει ότι η μαγική της πέτρα είναι μέρος μιας αρχαίας προφητείας και ξεκινά ένα συναρπαστικό ταξίδι στα πιο απομακρυσμένα νησιά της Κεντοπίας για να αντιμετωπίσει ένα μεγάλο κακό και να σμιλέψει το δικό της πεπρωμένο.</desc>
   </programme>
-  <programme start="20261025010000 +0000" stop="20261025020000 +0000" channel="action24.gr">
-    <title lang="el">ACTION24</title>
-    <desc lang="el">Απολαύστε αγώνες σε αποκλειστικότητα, άμεση αθλητική ενημέρωση αλλά και ψυχαγωγία από το ACTION24, το μοναδικό ελεύθερο αθλητικό κανάλι στην Αττική.</desc>
-    <category lang="el">Special</category>
+  <programme start="20261024160000 +0300" stop="20261024171500 +0300" channel="action24.gr">
+    <title lang="el">The Rookies (Ε)</title>
+    <desc lang="el">[K8] Μια δημοφιλής και αγαπημένη αμερικανική σειρά, με ήρωες τρεις νεαρούς αστυνομικούς σε μια πόλη της Νότιας Καλιφόρνιας.</desc>
   </programme>
-  <programme start="20261025020000 +0000" stop="20261025060000 +0000" channel="action24.gr">
-    <title lang="el">ACTION24</title>
-    <desc lang="el">Απολαύστε αγώνες σε αποκλειστικότητα, άμεση αθλητική ενημέρωση αλλά και ψυχαγωγία από το ACTION24, το μοναδικό ελεύθερο αθλητικό κανάλι στην Αττική.</desc>
-    <category lang="el">Special</category>
+  <programme start="20261024171500 +0300" stop="20261024175000 +0300" channel="action24.gr">
+    <title lang="el">Χωρίς Χάρτη</title>
+    <desc lang="el">[K8] Ο Δημήτρης Καρβέλης μας ταξιδεύει στην Ελλάδα αναδεικνύοντας τις ομορφιές του τόπου μας.</desc>
   </programme>
-  <programme start="20261025060000 +0000" stop="20261025100000 +0000" channel="action24.gr">
-    <title lang="el">ACTION24</title>
-    <desc lang="el">Απολαύστε αγώνες σε αποκλειστικότητα, άμεση αθλητική ενημέρωση αλλά και ψυχαγωγία από το ACTION24, το μοναδικό ελεύθερο αθλητικό κανάλι στην Αττική.</desc>
-    <category lang="el">Special</category>
+  <programme start="20261024175000 +0300" stop="20261024184900 +0300" channel="action24.gr">
+    <title lang="el">Καλύτερα Αργά (E)</title>
+    <desc lang="el">[K8] Διαφορετικές συνεντεύξεις, διαφορετικές προσεγγίσεις, διαφορετικές συζητήσεις. Ερωτήσεις και απαντήσεις εφ' όλης της ύλης με πρόσωπα που κυριαρχούν στην επικαιρότητα. Παρουσιάστρια: Αθηναΐς Νέγκα.</desc>
   </programme>
-  <programme start="20261025100000 +0000" stop="20261025140000 +0000" channel="action24.gr">
-    <title lang="el">ACTION24</title>
-    <desc lang="el">Απολαύστε αγώνες σε αποκλειστικότητα, άμεση αθλητική ενημέρωση αλλά και ψυχαγωγία από το ACTION24, το μοναδικό ελεύθερο αθλητικό κανάλι στην Αττική.</desc>
-    <category lang="el">Special</category>
+  <programme start="20261024184900 +0300" stop="20261024200000 +0300" channel="action24.gr">
+    <title lang="el">Βραδινό Δελτίο Ειδήσεων #ActionNews</title>
+    <desc lang="el">[K] Την Παρασκευή, καθώς και το Σαββατοκύριακο, το κεντρικό δελτίο ειδήσεων αναλαμβάνει η Αθηνά Σούτζου μεταφεροντας όλες τις σημαντικές εξελίξεις της επικαιρότητας με εγκυρότητα και αμεσότητα.</desc>
   </programme>
-  <programme start="20261025140000 +0000" stop="20261025180000 +0000" channel="action24.gr">
-    <title lang="el">ACTION24</title>
-    <desc lang="el">Απολαύστε αγώνες σε αποκλειστικότητα, άμεση αθλητική ενημέρωση αλλά και ψυχαγωγία από το ACTION24, το μοναδικό ελεύθερο αθλητικό κανάλι στην Αττική.</desc>
-    <category lang="el">Special</category>
+  <programme start="20261024200000 +0300" stop="20261024210000 +0300" channel="action24.gr">
+    <title lang="el">Info War (E)</title>
+    <desc lang="el">[K8] Το "Info War", ένα από τα δημοφιλέστερα και παλαιότερα ελληνικά podcast, επιστρέφει στην τηλεόραση. Ο Άρης Χατζηστεφάνου από τις Ηνωμένες Πολιτείες και ο Χρήστος Αβραμίδης από την Ελλάδα ετοίμασαν μια σειρά από δέκα μίνι ντοκιμαντέρ που αναλύουν τις τάσεις της διεθνούς πραγματικότητας.</desc>
   </programme>
-  <programme start="20261025180000 +0000" stop="20261025220000 +0000" channel="action24.gr">
-    <title lang="el">ACTION24</title>
-    <desc lang="el">Απολαύστε αγώνες σε αποκλειστικότητα, άμεση αθλητική ενημέρωση αλλά και ψυχαγωγία από το ACTION24, το μοναδικό ελεύθερο αθλητικό κανάλι στην Αττική.</desc>
-    <category lang="el">Special</category>
+  <programme start="20261024210000 +0300" stop="20261024220000 +0300" channel="action24.gr">
+    <title lang="el">The Rookies (Ε)</title>
+    <desc lang="el">[K8] Μια δημοφιλής και αγαπημένη αμερικανική σειρά, με ήρωες τρεις νεαρούς αστυνομικούς σε μια πόλη της Νότιας Καλιφόρνιας.</desc>
+  </programme>
+  <programme start="20261024220000 +0300" stop="20261025000000 +0300" channel="action24.gr">
+    <title lang="el">Πριγκίπισσα Μονονόκε (Princess Mononoke)</title>
+    <desc lang="el">[K8] Ξένη ταινία. Καθώς προσπαθεί να θεραπευτεί από ένα κατάρα, ο νεαρός πολεμιστής Άσιτακα πέφτει τυχαία σε μια σύγκρουση μεταξύ των ανθρώπων της Σιδηρούπολης και της Πριγκίπισσας Μονονόκε, ενός κοριτσιού που μεγάλωσε με λύκους, η οποία δεν θα σταματήσει σε τίποτα για να αποτρέψει την καταστροφή του σπιτιού της.</desc>
+  </programme>
+  <programme start="20261025000000 +0300" stop="20261025010000 +0300" channel="action24.gr">
+    <title lang="el">Αστερόσκονη (Ε)</title>
+    <desc lang="el">[K8] Ο στιχουργός Νίκος Γρίτσης μας προσκαλεί στον μαγικό κόσμο των αγαπημένων μας τραγουδιών. Σε κάθε επεισόδιο ανακαλύπτουμε τις ιστορίες που κρύβονται πίσω από τις μεγαλύτερες επιτυχίες, τις εμπνεύσεις που οδήγησαν στη δημιουργία τους και τα συναισθήματα που ήθελαν να μοιραστούν οι δημιουργοί τους.Κάθε τραγούδι είναι σαν ένα μικρό αστέρι που λάμπει για πάντα. Στόχος της εκπομπής είναι να αιχμαλωτίσει λίγη από τη μαγεία που μας χαρίζουν τα τραγούδια και οι δημιουργοί τους σαν σκόνη από τα αστέρια που συνεχίζουν να φωτίζουν τον δρόμο μας.</desc>
+  </programme>
+  <programme start="20261025010000 +0300" stop="20261025020000 +0300" channel="action24.gr">
+    <title lang="el">Damages (Ε)</title>
+    <desc lang="el">[K16] Ξένη σειρά. Aμερικανική δικαστική δραματική σειρά που έχει κερδίσει 4 Emmys. H πλοκή περιστρέφεται γύρω από την λαμπρή, αδίστακτη δικηγόρο Πάτυ Χιουζ (Glen Close) και την νεότερη προστατευόμενή της, την απόφοιτο της νομικής σχολής Έλεν Παρσονς.</desc>
+  </programme>
+  <programme start="20261025020000 +0300" stop="20261025030000 +0300" channel="action24.gr">
+    <title lang="el">Damages (Ε)</title>
+    <desc lang="el">[K16] Ξένη σειρά. Aμερικανική δικαστική δραματική σειρά που έχει κερδίσει 4 Emmys. H πλοκή περιστρέφεται γύρω από την λαμπρή, αδίστακτη δικηγόρο Πάτυ Χιουζ (Glen Close) και την νεότερη προστατευόμενή της, την απόφοιτο της νομικής σχολής Έλεν Παρσονς.</desc>
+  </programme>
+  <programme start="20261025030000 +0300" stop="20261025060000 +0200" channel="action24.gr">
+    <title lang="el">Pure Action Show</title>
+    <desc lang="el">[K8] Η εκπομπή αυτή αφορά αθλητικά γεγονότα και παρουσίαση αθλημάτων. Σε κάθε επεισόδιο θα παρουσιάζεται ξεχωριστό event που θα επικεντρώνεται στις καλύτερες στιγμές. Στόχος είναι να αναδεικνύονται κάθε φορα όλες οι ιδιαιτερότητες του εκάστοτε αθλήματος.</desc>
+  </programme>
+  <programme start="20261025060000 +0200" stop="20261025100000 +0200" channel="action24.gr">
+    <title lang="el">Action Σαββατοκύριακο</title>
+    <desc lang="el">[K8] Το ανανεωμένο ενημερωτικό μαγκαζίνο του Action 24, με τον Δημήτρη Καμπουράκη και την Ντόνα Δρούτσα, «Action Σαββατοκύριακο», έρχεται για μια ακόμη τηλεοπτική σεζόν να παρουσιάσει από νωρίς το πρωί όλα τα γεγονότα και τις εξελίξεις γύρω από την πολιτική, την οικονομία και την κοινωνία.</desc>
+  </programme>
+  <programme start="20261025100000 +0200" stop="20261025110000 +0200" channel="action24.gr">
+    <title lang="el">The Rookies (Ε)</title>
+    <desc lang="el">[K8] Μια δημοφιλής και αγαπημένη αμερικανική σειρά, με ήρωες τρεις νεαρούς αστυνομικούς σε μια πόλη της Νότιας Καλιφόρνιας.</desc>
+  </programme>
+  <programme start="20261025110000 +0200" stop="20261025130000 +0200" channel="action24.gr">
+    <title lang="el">Η Μία και Εγώ (Mia and Me)</title>
+    <desc lang="el">[K8] Ξένη ταινία. Η Μία ανακαλύπτει ότι η μαγική της πέτρα είναι μέρος μιας αρχαίας προφητείας και ξεκινά ένα συναρπαστικό ταξίδι στα πιο απομακρυσμένα νησιά της Κεντοπίας για να αντιμετωπίσει ένα μεγάλο κακό και να σμιλέψει το δικό της πεπρωμένο.</desc>
+  </programme>
+  <programme start="20261025130000 +0200" stop="20261025140000 +0200" channel="action24.gr">
+    <title lang="el">Μεσημεριανό Δελτίο Ειδήσεων #ActionNews</title>
+    <desc lang="el">[K8] Το μεσημβρινό δελτίο ειδήσεων του Σαββατοκύριακου, παρουσιάζει η Τζένη Κρυσταλλακίδου.</desc>
+  </programme>
+  <programme start="20261025140000 +0200" stop="20261025160000 +0200" channel="action24.gr">
+    <title lang="el">Μυστήριο στη Φάρμα των Ζώων (A Mystery on the Cattle Hill Express)</title>
+    <desc lang="el">[K8] Ξένη ταινία. Τι θα γινόταν αν υπήρχε ένα σπόρο που θα μπορούσε να αναπτυχθεί χωρίς βροχή και ήλιο, ακόμη και χωρίς χώμα; Ο ιδιοφυής εφευρέτης γουρούνι Άλμπερτ Αϊνστάιν έχει με τον υπερσπόρο του τη λύση για τον λόφο των βοοειδών, που αντιμετωπίζει προβλήματα με τις προμήθειες.</desc>
+  </programme>
+  <programme start="20261025160000 +0200" stop="20261025171500 +0200" channel="action24.gr">
+    <title lang="el">The Rookies (Ε)</title>
+    <desc lang="el">[K8] Μια δημοφιλής και αγαπημένη αμερικανική σειρά, με ήρωες τρεις νεαρούς αστυνομικούς σε μια πόλη της Νότιας Καλιφόρνιας.</desc>
+  </programme>
+  <programme start="20261025171500 +0200" stop="20261025175000 +0200" channel="action24.gr">
+    <title lang="el">Χωρίς Χάρτη</title>
+    <desc lang="el">[K8] Ο Δημήτρης Καρβέλης μας ταξιδεύει στην Ελλάδα αναδεικνύοντας τις ομορφιές του τόπου μας.</desc>
+  </programme>
+  <programme start="20261025175000 +0200" stop="20261025184900 +0200" channel="action24.gr">
+    <title lang="el">Καλύτερα Αργά (E)</title>
+    <desc lang="el">[K8] Διαφορετικές συνεντεύξεις, διαφορετικές προσεγγίσεις, διαφορετικές συζητήσεις. Ερωτήσεις και απαντήσεις εφ' όλης της ύλης με πρόσωπα που κυριαρχούν στην επικαιρότητα. Παρουσιάστρια: Αθηναΐς Νέγκα.</desc>
+  </programme>
+  <programme start="20261025184900 +0200" stop="20261025200000 +0200" channel="action24.gr">
+    <title lang="el">Βραδινό Δελτίο Ειδήσεων #ActionNews</title>
+    <desc lang="el">[K] Την Παρασκευή, καθώς και το Σαββατοκύριακο, το κεντρικό δελτίο ειδήσεων αναλαμβάνει η Αθηνά Σούτζου μεταφεροντας όλες τις σημαντικές εξελίξεις της επικαιρότητας με εγκυρότητα και αμεσότητα.</desc>
+  </programme>
+  <programme start="20261025200000 +0200" stop="20261026000000 +0200" channel="action24.gr">
+    <title lang="el">Athletiko FC</title>
+    <desc lang="el">[K8] Το Athletiko FC είναι η Κυριακάτικη ποδοσφαιρική εκπομπή του Athletiko.gr που σχολιάζει οσα συμβαίνουν στα γήπεδα του ελληνικού ποδοσφαίρου.</desc>
   </programme>
   <programme start="20261020060000 +0300" stop="20261020120000 +0300" channel="aechannelthessaloniki.gr">
     <title lang="el">Η Αγορά Σήμερα</title>
@@ -29949,27 +29998,11 @@
     <title lang="el">Ντοκιμαντέρ</title>
     <desc lang="el">[K] Ντοκιμαντέρ.</desc>
   </programme>
-  <programme start="20261022180000 +0300" stop="20261022190000 +0300" channel="orestiada.gr">
-    <title lang="el">Ντοκιμαντέρ</title>
-    <desc lang="el">[K] Ντοκιμαντέρ.</desc>
+  <programme start="20261022180000 +0300" stop="20261022220000 +0300" channel="orestiada.gr">
+    <title lang="el">Ειδική Συνεδρίαση Λογοδοσίας</title>
+    <desc lang="el">[K] Σε απευθείας μετάδοση η ειδική συνεδρίαση λογοδοσίας.</desc>
   </programme>
-  <programme start="20261022190000 +0300" stop="20261022201000 +0300" channel="orestiada.gr">
-    <title lang="el">Ντοκιμαντέρ</title>
-    <desc lang="el">[K] Ντοκιμαντέρ.</desc>
-  </programme>
-  <programme start="20261022201000 +0300" stop="20261022202000 +0300" channel="orestiada.gr">
-    <title lang="el">Ματιές στο Χθες</title>
-    <desc lang="el">[K] Εκπομπή.</desc>
-  </programme>
-  <programme start="20261022202000 +0300" stop="20261022210000 +0300" channel="orestiada.gr">
-    <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
-    <desc lang="el">[K] Η Επικαιρότητα στην Α.Μ.Θ.</desc>
-  </programme>
-  <programme start="20261022210000 +0300" stop="20261022213000 +0300" channel="orestiada.gr">
-    <title lang="el">Τηλεπωλήσεις (FIC)</title>
-    <desc lang="el">[K] Τηλεπωλήσεις.</desc>
-  </programme>
-  <programme start="20261022213000 +0300" stop="20261022231500 +0300" channel="orestiada.gr">
+  <programme start="20261022220000 +0300" stop="20261022231500 +0300" channel="orestiada.gr">
     <title lang="el">Ξένη Ταινία</title>
     <desc lang="el">[K12] Ξένη ταινία, γουέστερν [Περιέχει σκηνές με βία, σεξ και ακατάλληλη φρασεολογία].</desc>
   </programme>
@@ -60627,7 +60660,7 @@
   </programme>
   <programme start="20261023213000 +0000" stop="20261023233000 +0000" channel="eurosport1.gr">
     <title lang="el">Σνούκερ: Οπεν Βόρειας Ιρλανδίας</title>
-    <desc lang="el">Προ-ημιτελικοί, Μπέλφαστ. Το τουρνουά κατάταξης Northern Ireland Open αποτελεί μέρος του κουαρτέτου Home Nations, μαζί με τα English Open, Scottish Open και Welsh Open.</desc>
+    <desc lang="el">Τελικός, Μπέλφαστ. Το τουρνουά κατάταξης Northern Ireland Open αποτελεί μέρος του κουαρτέτου Home Nations, μαζί με τα English Open, Scottish Open και Welsh Open.</desc>
   </programme>
   <programme start="20261023233000 +0000" stop="20261024003000 +0000" channel="eurosport1.gr">
     <title lang="el">Ποδηλασία: Pro Series: Ιταλία</title>
@@ -60670,24 +60703,20 @@
     <desc lang="el">Μούγιου, 1η Ημέρα. Το Golden Trail World Series είναι μια διεθνής σειρά αγώνων ορεινού τρεξίματος βασισμένη σε σύστημα βαθμολογίας, η οποία περιλαμβάνει κάθε χρόνο διαφορετικούς κορυφαίους αγώνες.</desc>
   </programme>
   <programme start="20261024163000 +0000" stop="20261024180000 +0000" channel="eurosport1.gr">
-    <title lang="el">Σνούκερ: Οπεν Βόρειας Ιρλανδίας</title>
-    <desc lang="el">Ημιτελικοί, Μπέλφαστ. Το τουρνουά κατάταξης Northern Ireland Open αποτελεί μέρος του κουαρτέτου Home Nations, μαζί με τα English Open, Scottish Open και Welsh Open.</desc>
+    <title lang="el">Ιππασία: Global Champions Tour</title>
+    <desc lang="el">Κάιρο. 30 κορυφαίοι αθλητές υπερπήδησης εμποδίων διαγωνίζονται στο Global Champions Tour για ένα αξιοζήλευτο χρηματικό ποσό.</desc>
   </programme>
   <programme start="20261024180000 +0000" stop="20261024213000 +0000" channel="eurosport1.gr">
     <title lang="el">Σνούκερ: Οπεν Βόρειας Ιρλανδίας</title>
     <desc lang="el">Ημιτελικοί, Μπέλφαστ (Z). Το τουρνουά κατάταξης Northern Ireland Open αποτελεί μέρος του κουαρτέτου Home Nations, μαζί με τα English Open, Scottish Open και Welsh Open.</desc>
   </programme>
-  <programme start="20261024213000 +0000" stop="20261024220000 +0000" channel="eurosport1.gr">
-    <title lang="el">Αλπικό Σκι: Παγκόσμιο Κύπελλο: Αυστρία</title>
-    <desc lang="el">Χειμερινά σπορ. Η κορυφαία διοργάνωση καταβάσεων περιλαμβάνει κούρσες σε 5 διαφορετικά αγωνίσματα: σλάλομ, γιγαντιαίο σλάλομ, super G, κατάβαση και σύνθετο.</desc>
-  </programme>
-  <programme start="20261024220000 +0000" stop="20261024223000 +0000" channel="eurosport1.gr">
+  <programme start="20261024213000 +0000" stop="20261024223000 +0000" channel="eurosport1.gr">
     <title lang="el">Αλπικό Σκι: Παγκόσμιο Κύπελλο: Αυστρία</title>
     <desc lang="el">Χειμερινά σπορ. Η κορυφαία διοργάνωση καταβάσεων περιλαμβάνει κούρσες σε 5 διαφορετικά αγωνίσματα: σλάλομ, γιγαντιαίο σλάλομ, super G, κατάβαση και σύνθετο.</desc>
   </programme>
   <programme start="20261024223000 +0000" stop="20261024233000 +0000" channel="eurosport1.gr">
-    <title lang="el">Σνούκερ: Οπεν Βόρειας Ιρλανδίας</title>
-    <desc lang="el">Ημιτελικοί, Μπέλφαστ. Το τουρνουά κατάταξης Northern Ireland Open αποτελεί μέρος του κουαρτέτου Home Nations, μαζί με τα English Open, Scottish Open και Welsh Open.</desc>
+    <title lang="el">Αλπικό Σκι: Παγκόσμιο Κύπελλο: Αυστρία</title>
+    <desc lang="el">Χειμερινά σπορ. Η κορυφαία διοργάνωση καταβάσεων περιλαμβάνει κούρσες σε 5 διαφορετικά αγωνίσματα: σλάλομ, γιγαντιαίο σλάλομ, super G, κατάβαση και σύνθετο.</desc>
   </programme>
   <programme start="20261024233000 +0000" stop="20261025013000 +0000" channel="eurosport1.gr">
     <title lang="el">Ποδηλασία: Eneco Tour</title>
@@ -60741,9 +60770,13 @@
     <title lang="el">Τρέιλ: GT World Series: Νότια Κορέα</title>
     <desc lang="el">Μούγιου, 2η Ημέρα. Το Golden Trail World Series είναι μια διεθνής σειρά αγώνων ορεινού τρεξίματος βασισμένη σε σύστημα βαθμολογίας, η οποία περιλαμβάνει κάθε χρόνο διαφορετικούς κορυφαίους αγώνες.</desc>
   </programme>
-  <programme start="20261025170000 +0000" stop="20261025190000 +0000" channel="eurosport1.gr">
+  <programme start="20261025170000 +0000" stop="20261025180000 +0000" channel="eurosport1.gr">
     <title lang="el">Ιππασία: Global Champions Tour</title>
     <desc lang="el">Κάιρο. 30 κορυφαίοι αθλητές υπερπήδησης εμποδίων διαγωνίζονται στο Global Champions Tour για ένα αξιοζήλευτο χρηματικό ποσό.</desc>
+  </programme>
+  <programme start="20261025180000 +0000" stop="20261025190000 +0000" channel="eurosport1.gr">
+    <title lang="el">Σνούκερ: Οπεν Βόρειας Ιρλανδίας</title>
+    <desc lang="el">Τελικός, Μπέλφαστ. Το τουρνουά κατάταξης Northern Ireland Open αποτελεί μέρος του κουαρτέτου Home Nations, μαζί με τα English Open, Scottish Open και Welsh Open.</desc>
   </programme>
   <programme start="20261025190000 +0000" stop="20261025220000 +0000" channel="eurosport1.gr">
     <title lang="el">Σνούκερ: Οπεν Βόρειας Ιρλανδίας</title>
@@ -61121,13 +61154,9 @@
     <title lang="el">Καλλιτεχνικό Πατινάζ: Γκραν Πρι</title>
     <desc lang="el">Γυναίκες, Σύντομο Πρόγραμμα.</desc>
   </programme>
-  <programme start="20261024103000 +0000" stop="20261024120000 +0000" channel="eurosport2.gr">
+  <programme start="20261024103000 +0000" stop="20261024122000 +0000" channel="eurosport2.gr">
     <title lang="el">Καλλιτεχνικό Πατινάζ: Γκραν Πρι</title>
     <desc lang="el">Ανδρες, Σύντομο Πρόγραμμα (Z).</desc>
-  </programme>
-  <programme start="20261024120000 +0000" stop="20261024122000 +0000" channel="eurosport2.gr">
-    <title lang="el">Καλλιτεχνικό Πατινάζ: Γκραν Πρι</title>
-    <desc lang="el">Ρυθμικός Χορός. Στη διοργάνωση διαγωνίζονται οι κορυφαίοι αθλητές του καλλιτεχνικού πατινάζ παγκοσμίως, μεταξύ των οποίων Ολυμπιονίκες, Παγκόσμιοι και Ευρωπαίοι Πρωταθλητές, και κάτοχοι μεταλλίων.</desc>
   </programme>
   <programme start="20261024122000 +0000" stop="20261024135000 +0000" channel="eurosport2.gr">
     <title lang="el">Καλλιτεχνικό Πατινάζ: Γκραν Πρι</title>
@@ -61165,13 +61194,9 @@
     <title lang="el">Σνούκερ: Οπεν Βόρειας Ιρλανδίας</title>
     <desc lang="el">Ημιτελικοί, Μπέλφαστ. Το τουρνουά κατάταξης Northern Ireland Open αποτελεί μέρος του κουαρτέτου Home Nations, μαζί με τα English Open, Scottish Open και Welsh Open.</desc>
   </programme>
-  <programme start="20261025013000 +0000" stop="20261025020000 +0000" channel="eurosport2.gr">
-    <title lang="el">Ποδηλασία: Eneco Tour</title>
-    <desc lang="el">5ο Ετάπ, Ανδρες.</desc>
-  </programme>
-  <programme start="20261025020000 +0000" stop="20261025030000 +0000" channel="eurosport2.gr">
-    <title lang="el">Ποδηλασία: Κλασικός Αγώνας</title>
-    <desc lang="el">Βενετία.</desc>
+  <programme start="20261025013000 +0000" stop="20261025030000 +0000" channel="eurosport2.gr">
+    <title lang="el">Ποδηλασία: Ο Γύρος της Λομβαρδίας</title>
+    <desc lang="el">Αθλητική εκπομπή. Παρακολουθήστε τον ιστορικό αυτό αγώνα που διεξάγεται στην Ιταλία από το 1905. Οι αγωνιζόμενοι ξεκινούν από την πόλη του Μιλάνο και ποδηλατούν έως το Κόμο.</desc>
   </programme>
   <programme start="20261025030000 +0000" stop="20261025040000 +0000" channel="eurosport2.gr">
     <title lang="el">Σνούκερ: Οπεν Βόρειας Ιρλανδίας</title>
@@ -61185,11 +61210,11 @@
     <title lang="el">Σνούκερ: Οπεν Βόρειας Ιρλανδίας</title>
     <desc lang="el">Ημιτελικοί, Μπέλφαστ. Το τουρνουά κατάταξης Northern Ireland Open αποτελεί μέρος του κουαρτέτου Home Nations, μαζί με τα English Open, Scottish Open και Welsh Open.</desc>
   </programme>
-  <programme start="20261025070000 +0000" stop="20261025090000 +0000" channel="eurosport2.gr">
+  <programme start="20261025070000 +0000" stop="20261025083000 +0000" channel="eurosport2.gr">
     <title lang="el">Ιππασία: Global Champions Tour</title>
     <desc lang="el">Κάιρο. 30 κορυφαίοι αθλητές υπερπήδησης εμποδίων διαγωνίζονται στο Global Champions Tour για ένα αξιοζήλευτο χρηματικό ποσό.</desc>
   </programme>
-  <programme start="20261025090000 +0000" stop="20261025093000 +0000" channel="eurosport2.gr">
+  <programme start="20261025083000 +0000" stop="20261025093000 +0000" channel="eurosport2.gr">
     <title lang="el">Καλλιτεχνικό Πατινάζ: Γκραν Πρι</title>
     <desc lang="el">Ανδρες, Σύντομο Πρόγραμμα.</desc>
   </programme>
@@ -61197,21 +61222,13 @@
     <title lang="el">Καλλιτεχνικό Πατινάζ: Γκραν Πρι</title>
     <desc lang="el">Γυναίκες, Ελεύθερο Πρόγραμμα.</desc>
   </programme>
-  <programme start="20261025103000 +0000" stop="20261025115000 +0000" channel="eurosport2.gr">
+  <programme start="20261025103000 +0000" stop="20261025121000 +0000" channel="eurosport2.gr">
     <title lang="el">Καλλιτεχνικό Πατινάζ: Γκραν Πρι</title>
     <desc lang="el">Αθλητική εκπομπή (Z).</desc>
   </programme>
-  <programme start="20261025115000 +0000" stop="20261025121000 +0000" channel="eurosport2.gr">
-    <title lang="el">Καλλιτεχνικό Πατινάζ: Γκραν Πρι</title>
-    <desc lang="el">Ανδρες, Σύντομο Πρόγραμμα.</desc>
-  </programme>
-  <programme start="20261025121000 +0000" stop="20261025140000 +0000" channel="eurosport2.gr">
+  <programme start="20261025121000 +0000" stop="20261025140500 +0000" channel="eurosport2.gr">
     <title lang="el">Καλλιτεχνικό Πατινάζ: Γκραν Πρι</title>
     <desc lang="el">Ανδρες, Ελεύθερο Πρόγραμμα (Z).</desc>
-  </programme>
-  <programme start="20261025140000 +0000" stop="20261025140500 +0000" channel="eurosport2.gr">
-    <title lang="el">Cycling Show</title>
-    <desc lang="el">Αθλητική Εκπομπή. Μαγκαζίνο ποδηλασίας.</desc>
   </programme>
   <programme start="20261025140500 +0000" stop="20261025151500 +0000" channel="eurosport2.gr">
     <title lang="el">Σάϊκλο-Κρος: Σουπερπρεστίζ</title>
@@ -61241,9 +61258,9 @@
     <title lang="el">Αλπικό Σκι: Παγκόσμιο Κύπελλο: Αυστρία</title>
     <desc lang="el">Χειμερινά σπορ. Η κορυφαία διοργάνωση καταβάσεων περιλαμβάνει κούρσες σε 5 διαφορετικά αγωνίσματα: σλάλομ, γιγαντιαίο σλάλομ, super G, κατάβαση και σύνθετο.</desc>
   </programme>
-  <programme start="20261025210000 +0000" stop="20261025220000 +0000" channel="eurosport2.gr">
-    <title lang="el">Καλλιτεχνικό Πατινάζ: Γκραν Πρι</title>
-    <desc lang="el">Ανδρες, Ελεύθερο Πρόγραμμα.</desc>
+  <programme start="20261025210000 +0000" stop="20261025230000 +0000" channel="eurosport2.gr">
+    <title lang="el">Αναρρίχηση: Διεθνής Σειρά Αγώνων: Χιλή</title>
+    <desc lang="el">Σαντιάγκο ντε Τσίλε (Z).</desc>
   </programme>
   <programme start="20261020060000 +0300" stop="20261020120000 +0300" channel="eurotv.gr">
     <title lang="el">EURO TV</title>
@@ -78511,41 +78528,41 @@
     <title lang="el">Διπλή Ταυτότητα (E)</title>
     <desc lang="el">[K8] Η Λίνα Μπάστα συζητά και αναλύει θέματα πολιτικής και κοινωνικής επικαιρότητας με καλεσμένους πρόσωπα της κεντρικής πολιτικής σκηνής, της περιφέρειας, της αυτοδιοίκησης και του επιχειρείν.</desc>
   </programme>
-  <programme start="20261023150000 +0300" stop="20261023170000 +0300" channel="ionian.gr">
-    <title lang="el">Χαμηλή Πτήση</title>
-    <desc lang="el">[K8] Το καθημερινό magazino του Ionian, που κάνει τα μεσημέρια μας ενδιαφέροντα. Ειδήσεις, video, σχολιασμοί, ζωντανές (live) συνδέσεις. Η θεματολογία της εκπομπής καλύπτει το σύνολο της Περιφερειακής Ζώνης που εκπέμπει το ΙΟΝΙΑΝ, αλλά και θέματα που αφορούν την υπόλοιπη Ελλάδα και το εξωτερικό.</desc>
+  <programme start="20261023150000 +0300" stop="20261023160000 +0300" channel="ionian.gr">
+    <title lang="el">Travel Diary</title>
+    <desc lang="el">[K8] Μια δροσερή εκπομπή που έρχεται στις οθόνες μας, με σκοπό να μας ταξιδέψει και να μας γεμίσει με ενέργεια και διάθεση για απόδραση!</desc>
+  </programme>
+  <programme start="20261023160000 +0300" stop="20261023170000 +0300" channel="ionian.gr">
+    <title lang="el">Γαλάζιο Παράθυρο</title>
+    <desc lang="el">[K8] Το καθημερινό Magazino με ειδήσεις, Video, Σχολιασμούς, Ζωντανές Συνδέσεις. Η θεματολογία της εκπομπής καλύπτει το σύνολο της Περιφερειακής Ζώνης που εκπέμπει το Ιonian, αλλά και θέματα που αφορούν την υπόλοιπη Ελλάδα και το Εξωτερικό.</desc>
   </programme>
   <programme start="20261023170000 +0300" stop="20261023180000 +0300" channel="ionian.gr">
-    <title lang="el">Travel Diary (Ε)</title>
-    <desc lang="el">[K8] Μια δροσερή εκπομπή που έρχεται στις οθόνες μας, με σκοπό να μας ταξιδέψει και να μας γεμίσει με ενέργεια και διάθεση για απόδραση!</desc>
+    <title lang="el">Ιστορίες Γηπέδων (Ε)</title>
+    <desc lang="el">[K8] Αθλητική εκπομπή. Ιστορίες, συνεντεύξεις, αφηγήσεις με ιστορικά πρόσωπα και παλαίμαχους του αθλητισμού. Με τον Βασίλη Δελημάρη.</desc>
   </programme>
   <programme start="20261023180000 +0300" stop="20261023190000 +0300" channel="ionian.gr">
     <title lang="el">Η Άλλη Άποψη (Ε)</title>
     <desc lang="el">[K8] Ενημερωτική εκπομπή με επίκεντρο την πολιτική, οικονομική, επιστημονική, πολιτιστική αλλά και την κοινωνική ζωή της Αχαϊκής πρωτεύουσας, καθώς και της ευρύτερης Δυτικής Ελλάδας, μέσα από ειδικά αφιερώματα και ρεπορτάζ.</desc>
   </programme>
   <programme start="20261023190000 +0300" stop="20261023200000 +0300" channel="ionian.gr">
-    <title lang="el">Προσεγγίσεις στην Αργολίδα</title>
-    <desc lang="el">[K8] Προσεγγίσεις στα πρόσωπα και στα γεγονότα της Αργολίδας. Παρεμβάσεις - θέσεις και προτάσεις για όσα πρωταγωνιστούν στην επικαιρότητα στην κοινωνία της Αργολίδας.</desc>
+    <title lang="el">Πας Μαγειρεύοντας (Ε)</title>
+    <desc lang="el">[K8] Γευστικές συνταγές και μικρά μυστικά για απολαυστικά πιάτα, από τον σεφ Βασίλη Πατσή. Ανακαλύψτε παραδοσιακές συνταγές και διεθνείς κουζίνες.</desc>
   </programme>
   <programme start="20261023200000 +0300" stop="20261023210000 +0300" channel="ionian.gr">
     <title lang="el">Δελτίο Ειδήσεων</title>
     <desc lang="el">[K8] Όλη η ειδησεογραφία της ημέρας από το δίκτυο ενημέρωσης του Ιonian. Περιφερειακή ενημέρωση από την Πελοπόννησο, τα Ιόνια Νησιά και την Στερεά Ελλάδα. Εθνική και διεθνής επικαιρότητα, σχολιασμοί, συνεντεύξεις, έρευνες, ζωντανές συνδέσεις.</desc>
   </programme>
-  <programme start="20261023210000 +0300" stop="20261023220000 +0300" channel="ionian.gr">
-    <title lang="el">Εντός Αρκαδίας</title>
-    <desc lang="el">[K8] Μια εκπομπή με επίκεντρο την όμορφη Αρκαδία με σκοπό να αναδείξει τα επίκαιρα γεγονότα της περιοχής, τις πολιτικές εξελίξεις, τα πολιτιστικά δρώμενα και τις κοινωνικές αναζητήσεις της καθημερινότητας των Αρκάδων.</desc>
-  </programme>
-  <programme start="20261023220000 +0300" stop="20261023230000 +0300" channel="ionian.gr">
-    <title lang="el">Εκτός Πλάνου</title>
-    <desc lang="el">[K8] Η κοινωνική, πολιτική και οικονομική πραγματικότητα μέσα από τη διεισδυτική ματιά του Τάσου Θεοδόση. Ρεπορτάζ, καλεσμένοι, αναλύσεις "Εκτός Πλάνου" αλλά εντός επικαιρότητας.</desc>
+  <programme start="20261023210000 +0300" stop="20261023230000 +0300" channel="ionian.gr">
+    <title lang="el">Ξένη Ταινία</title>
+    <desc lang="el">[K8] Ξένη ταινία από το αρχείο του Ionian.</desc>
   </programme>
   <programme start="20261023230000 +0300" stop="20261024000000 +0300" channel="ionian.gr">
     <title lang="el">Travel Guide (Ε)</title>
     <desc lang="el">[K8] Ο Θάνος Παπαδημητρίου προσκαλεί τους τηλεθεατές σε ένα μοναδικό ταξίδι στα πιο όμορφα μέρη του πλανήτη. Η ταξιδιωτική εκπομπή προβάλλεται στο Ionian, παρουσιάζοντας εξωτικούς και ελληνικούς προορισμούς μέσα από σύγχρονες και εμπνευσμένες περιηγήσεις.</desc>
   </programme>
   <programme start="20261024000000 +0300" stop="20261024010000 +0300" channel="ionian.gr">
-    <title lang="el">Πας Μαγειρεύοντας (Ε)</title>
-    <desc lang="el">[K8] Γευστικές συνταγές και μικρά μυστικά για απολαυστικά πιάτα, από τον σεφ Βασίλη Πατσή. Ανακαλύψτε παραδοσιακές συνταγές και διεθνείς κουζίνες.</desc>
+    <title lang="el">Γαλάζιο Παράθυρο (Ε)</title>
+    <desc lang="el">[K8] Το καθημερινό Magazino με ειδήσεις, Video, Σχολιασμούς, Ζωντανές Συνδέσεις. Η θεματολογία της εκπομπής καλύπτει το σύνολο της Περιφερειακής Ζώνης που εκπέμπει το Ιonian, αλλά και θέματα που αφορούν την υπόλοιπη Ελλάδα και το Εξωτερικό.</desc>
   </programme>
   <programme start="20261024010000 +0300" stop="20261024020000 +0300" channel="ionian.gr">
     <title lang="el">Δελτίο Ειδήσεων (Ε)</title>
@@ -101383,153 +101400,157 @@
     <title lang="el">Kafig: Mosaik</title>
     <desc lang="el">Χορός. Το hip-hop συναντά τον σύγχρονο χορό σε αυτή τη τολμηρή, πρωτοποριακή παραγωγή του διάσημου χορογράφου Mourad Merzouki.</desc>
   </programme>
-  <programme start="20261023211500 +0000" stop="20261023224600 +0000" channel="marqueetv.gr">
+  <programme start="20261023211500 +0000" stop="20261023214600 +0000" channel="marqueetv.gr">
     <title lang="el">Sir Simon Rattle - Berliner Philharm.</title>
     <desc lang="el">Mozart / Haydn.</desc>
   </programme>
-  <programme start="20261023224600 +0000" stop="20261024002500 +0000" channel="marqueetv.gr">
+  <programme start="20261023214600 +0000" stop="20261023232500 +0000" channel="marqueetv.gr">
     <title lang="el">Sir Simon Rattle</title>
     <desc lang="el">Mozart: The Last Symphonies. Ο Simon Rattle και η Φιλαρμονική του Βερολίνου ερμηνεύουν τις τρεις τελευταίες συμφωνίες του Μότσαρτ.</desc>
   </programme>
-  <programme start="20261024002500 +0000" stop="20261024025900 +0000" channel="marqueetv.gr">
+  <programme start="20261023232500 +0000" stop="20261024015900 +0000" channel="marqueetv.gr">
     <title lang="el">Romeo and Juliet</title>
     <desc lang="el">Θέατρο. Δύο έφηβοι ερωτεύονται παράφορα, αψηφώντας την έχθρα ανάμεσα στις οικογένειές τους. Το κλασικό έργο του Shakespeare ζωντανεύει με συγκινητική δύναμη σε παραγωγή του Stratford Festival.</desc>
   </programme>
-  <programme start="20261024025900 +0000" stop="20261024044000 +0000" channel="marqueetv.gr">
+  <programme start="20261024015900 +0000" stop="20261024034000 +0000" channel="marqueetv.gr">
     <title lang="el">J. S. Bach</title>
     <desc lang="el">The Six Brandenburg Concertos. Τα Βρανδεμβούργια Κοντσέρτα του Bach κατατάσσονται ανάμεσα στα πιο δημοφιλή έργα της μπαρόκ μουσικής.</desc>
   </programme>
-  <programme start="20261024044000 +0000" stop="20261024054000 +0000" channel="marqueetv.gr">
+  <programme start="20261024034000 +0000" stop="20261024044000 +0000" channel="marqueetv.gr">
     <title lang="el">Solange</title>
     <desc lang="el">Κύκλος 1 · Επεισόδιο 6. Τζαζ. Η Solange Knowles, μια οραματίστρια και ατρόμητη δημιουργός, χάραξε τον δικό της δρόμο, μακριά από τη σκιά της αδερφής της Beyonce.</desc>
   </programme>
-  <programme start="20261024054000 +0000" stop="20261024054500 +0000" channel="marqueetv.gr">
+  <programme start="20261024044000 +0000" stop="20261024044500 +0000" channel="marqueetv.gr">
     <title lang="el">Tempest</title>
     <desc lang="el">Χορός. Το Tempest, με πρωταγωνίστρια την Agnes Su, είναι μια καθηλωτική ταινία που αποτυπώνει τη λεπτεπίλεπτη ένταση ανάμεσα στη φιλοδοξία και την αυτοαποδοχή.</desc>
   </programme>
-  <programme start="20261024054500 +0000" stop="20261024064500 +0000" channel="marqueetv.gr">
+  <programme start="20261024044500 +0000" stop="20261024054500 +0000" channel="marqueetv.gr">
     <title lang="el">Michel Legrand: Live in Brussels - Part 1</title>
     <desc lang="el">Τζαζ. Ο Michel Legrand είναι ένας από τους σπουδαιότερους δημιουργούς κινηματογραφικής μουσικής.</desc>
   </programme>
-  <programme start="20261024064500 +0000" stop="20261024074500 +0000" channel="marqueetv.gr">
+  <programme start="20261024054500 +0000" stop="20261024064500 +0000" channel="marqueetv.gr">
     <title lang="el">Michel Legrand: Live in Brussels - Part 2</title>
     <desc lang="el">Τζαζ. Παρακολουθήστε τον ζωντανό θρύλο Michel Legrand να ερμηνεύει και να διευθύνει μερικές από τις πιο γνωστές συνθέσεις του, μαζί με τη Ορχήστρα της Φλαμανδικής Ραδιοφωνίας.</desc>
   </programme>
-  <programme start="20261024074500 +0000" stop="20261024101000 +0000" channel="marqueetv.gr">
+  <programme start="20261024064500 +0000" stop="20261024091000 +0000" channel="marqueetv.gr">
     <title lang="el">Romeo et Juliette - Charles Gounod</title>
     <desc lang="el">Όπερα. Το "Romeo et Juliette" του Charles Gounod, η δεύτερη σημαντικότερη όπερά του μετά τον θρίαμβο του 'Faust', παρουσιάστηκε το 1867 στην Παγκόσμια Έκθεση του Παρισιού και έγινε αμέσως επιτυχία.</desc>
   </programme>
-  <programme start="20261024101000 +0000" stop="20261024115300 +0000" channel="marqueetv.gr">
+  <programme start="20261024091000 +0000" stop="20261024105300 +0000" channel="marqueetv.gr">
     <title lang="el">The Land of Smiles</title>
     <desc lang="el">Όπερα. Η οπερέτα του Franz Lehar είναι από τις πιο γνωστές επιτυχίες όλων των εποχών.</desc>
   </programme>
-  <programme start="20261024115300 +0000" stop="20261024120000 +0000" channel="marqueetv.gr">
+  <programme start="20261024105300 +0000" stop="20261024110000 +0000" channel="marqueetv.gr">
     <title lang="el">Instinct</title>
     <desc lang="el">Χορός. Τρία άτομα, ένας ζωτικός πόρος, καμία δυνατότητα συμβιβασμού.</desc>
   </programme>
-  <programme start="20261024120000 +0000" stop="20261024130000 +0000" channel="marqueetv.gr">
+  <programme start="20261024110000 +0000" stop="20261024120000 +0000" channel="marqueetv.gr">
     <title lang="el">Repertoire#1</title>
     <desc lang="el">Χορός. Ο Mourad Merzouki φέρνει στη σκηνή πέντε φίλους του χορογράφους και τριάντα χορευτές για να δημιουργήσει την παράσταση Repertoire#1.</desc>
   </programme>
-  <programme start="20261024130000 +0000" stop="20261024141500 +0000" channel="marqueetv.gr">
+  <programme start="20261024120000 +0000" stop="20261024131500 +0000" channel="marqueetv.gr">
     <title lang="el">Pixel</title>
     <desc lang="el">Χορός. Ο χορογράφος της Hip Hop Mourad Merzouki δημιουργεί ένα νέο έργο για την τεχνολογική εποχή. Το "Pixel" εμπνεύστηκε από την καθημερινή μας αντιπαράθεση με 'εικόνες, οθόνες, ψηφιοποίηση.</desc>
   </programme>
-  <programme start="20261024141500 +0000" stop="20261024151500 +0000" channel="marqueetv.gr">
+  <programme start="20261024131500 +0000" stop="20261024141500 +0000" channel="marqueetv.gr">
     <title lang="el">Michel Legrand: Live in Brussels - Part 1</title>
     <desc lang="el">Τζαζ. Ο Michel Legrand είναι ένας από τους σπουδαιότερους δημιουργούς κινηματογραφικής μουσικής.</desc>
   </programme>
-  <programme start="20261024151500 +0000" stop="20261024161500 +0000" channel="marqueetv.gr">
+  <programme start="20261024141500 +0000" stop="20261024151500 +0000" channel="marqueetv.gr">
     <title lang="el">Michel Legrand: Live in Brussels - Part 2</title>
     <desc lang="el">Τζαζ. Παρακολουθήστε τον ζωντανό θρύλο Michel Legrand να ερμηνεύει και να διευθύνει μερικές από τις πιο γνωστές συνθέσεις του, μαζί με τη Ορχήστρα της Φλαμανδικής Ραδιοφωνίας.</desc>
   </programme>
-  <programme start="20261024161500 +0000" stop="20261024174500 +0000" channel="marqueetv.gr">
+  <programme start="20261024151500 +0000" stop="20261024164500 +0000" channel="marqueetv.gr">
     <title lang="el">Matthew Bourne's Nutcracker!</title>
     <desc lang="el">Μπαλέτο. Συνοδέψτε την Clara σε ένα μαγικό ταξίδι, καθώς ο Matthew Bourne μεταμορφώνει ένα κλασικό έργο σε μια νέα γιορτή για τις αισθήσεις.</desc>
   </programme>
-  <programme start="20261024174500 +0000" stop="20261024184500 +0000" channel="marqueetv.gr">
+  <programme start="20261024164500 +0000" stop="20261024174500 +0000" channel="marqueetv.gr">
     <title lang="el">Solange</title>
     <desc lang="el">Κύκλος 1 · Επεισόδιο 6. Τζαζ. Η Solange Knowles, μια οραματίστρια και ατρόμητη δημιουργός, χάραξε τον δικό της δρόμο, μακριά από τη σκιά της αδερφής της Beyonce.</desc>
   </programme>
-  <programme start="20261024184500 +0000" stop="20261024190000 +0000" channel="marqueetv.gr">
+  <programme start="20261024174500 +0000" stop="20261024180000 +0000" channel="marqueetv.gr">
     <title lang="el">Daniel Barenboim - Beethoven</title>
     <desc lang="el">Complete Piano Sonatas: No.22, Op.54. Ο πιανίστας και μαέστρος Daniel Barenboim προσεγγίζει την αποκαλούμενη "Καινή Διαθήκη" της μουσικής, τις τριάντα δύο σονάτες για πιάνο που συνέθεσε ο Ludwig van.</desc>
   </programme>
-  <programme start="20261024190000 +0000" stop="20261024210500 +0000" channel="marqueetv.gr">
+  <programme start="20261024180000 +0000" stop="20261024200500 +0000" channel="marqueetv.gr">
     <title lang="el">The Tokyo Ballet: Kaguyahime</title>
     <desc lang="el">Μπαλέτο. Η ιστορία της Kaguya-hime, μιας πριγκίπισσας από τη Σελήνη.</desc>
   </programme>
-  <programme start="20261024210500 +0000" stop="20261024223200 +0000" channel="marqueetv.gr">
+  <programme start="20261024200500 +0000" stop="20261024213300 +0000" channel="marqueetv.gr">
     <title lang="el">Matthew Bourne's Nutcracker!</title>
     <desc lang="el">Μπαλέτο. Συνοδέψτε την Clara σε ένα μαγικό ταξίδι, καθώς ο Matthew Bourne μεταμορφώνει ένα κλασικό έργο σε μια νέα γιορτή για τις αισθήσεις.</desc>
   </programme>
-  <programme start="20261024223200 +0000" stop="20261025015400 +0000" channel="marqueetv.gr">
+  <programme start="20261024213300 +0000" stop="20261024235500 +0000" channel="marqueetv.gr">
     <title lang="el">Romeo et Juliette - Charles Gounod</title>
     <desc lang="el">Όπερα. Το "Romeo et Juliette" του Charles Gounod, η δεύτερη σημαντικότερη όπερά του μετά τον θρίαμβο του 'Faust', παρουσιάστηκε το 1867 στην Παγκόσμια Έκθεση του Παρισιού και έγινε αμέσως επιτυχία.</desc>
   </programme>
-  <programme start="20261025015400 +0000" stop="20261025045100 +0000" channel="marqueetv.gr">
+  <programme start="20261024235500 +0000" stop="20261025035100 +0000" channel="marqueetv.gr">
     <title lang="el">Lucia di Lammermoor by Gaetano Donizetti</title>
     <desc lang="el">Όπερα. Μια νεαρή γυναίκα ερωτεύεται, όμως βυθίζεται στην απόγνωση όταν ο αγαπημένος της την κατηγορεί για προδοσία επειδή παντρεύτηκε άλλον παρά τη θέλησή της.</desc>
   </programme>
-  <programme start="20261025045100 +0000" stop="20261025063000 +0000" channel="marqueetv.gr">
+  <programme start="20261025035100 +0000" stop="20261025053000 +0000" channel="marqueetv.gr">
     <title lang="el">J. S. Bach</title>
     <desc lang="el">The Six Brandenburg Concertos. Τα Βρανδεμβούργια Κοντσέρτα του Bach κατατάσσονται ανάμεσα στα πιο δημοφιλή έργα της μπαρόκ μουσικής.</desc>
   </programme>
-  <programme start="20261025063000 +0000" stop="20261025073000 +0000" channel="marqueetv.gr">
+  <programme start="20261025053000 +0000" stop="20261025063000 +0000" channel="marqueetv.gr">
     <title lang="el">Solange</title>
     <desc lang="el">Κύκλος 1 · Επεισόδιο 6. Τζαζ. Η Solange Knowles, μια οραματίστρια και ατρόμητη δημιουργός, χάραξε τον δικό της δρόμο, μακριά από τη σκιά της αδερφής της Beyonce.</desc>
   </programme>
-  <programme start="20261025073000 +0000" stop="20261025073500 +0000" channel="marqueetv.gr">
+  <programme start="20261025063000 +0000" stop="20261025063500 +0000" channel="marqueetv.gr">
     <title lang="el">Tempest</title>
     <desc lang="el">Χορός. Το Tempest, με πρωταγωνίστρια την Agnes Su, είναι μια καθηλωτική ταινία που αποτυπώνει τη λεπτεπίλεπτη ένταση ανάμεσα στη φιλοδοξία και την αυτοαποδοχή.</desc>
   </programme>
-  <programme start="20261025073500 +0000" stop="20261025083500 +0000" channel="marqueetv.gr">
+  <programme start="20261025063500 +0000" stop="20261025073500 +0000" channel="marqueetv.gr">
     <title lang="el">Speak the Music</title>
     <desc lang="el">R.Mann - The Mysteries of Chamber Music.</desc>
   </programme>
-  <programme start="20261025083500 +0000" stop="20261025093500 +0000" channel="marqueetv.gr">
+  <programme start="20261025073500 +0000" stop="20261025083500 +0000" channel="marqueetv.gr">
     <title lang="el">John Cage: Journeys in Sound</title>
     <desc lang="el">Ντοκιμαντέρ. Από τους βραβευμένους με Όσκαρ Allan Miller και Emmy Paul Smaczny, το ντοκιμαντέρ αποτίνει φόρο τιμής στον συναρπαστικό Αμερικανό αβανγκάρντ συνθέτη John Cage.</desc>
   </programme>
-  <programme start="20261025093500 +0000" stop="20261025103500 +0000" channel="marqueetv.gr">
+  <programme start="20261025083500 +0000" stop="20261025093500 +0000" channel="marqueetv.gr">
     <title lang="el">Move to Live with Akram Khan &amp; Andy Serkis</title>
     <desc lang="el">Κύκλος 1 · Επεισόδιο 3. Ντοκιμαντέρ.</desc>
   </programme>
-  <programme start="20261025103500 +0000" stop="20261025105500 +0000" channel="marqueetv.gr">
+  <programme start="20261025093500 +0000" stop="20261025095500 +0000" channel="marqueetv.gr">
     <title lang="el">Daniel Barenboim - Beethoven</title>
     <desc lang="el">Piano Sonatas: No.26, Op.81a Les adieux.</desc>
   </programme>
-  <programme start="20261025105500 +0000" stop="20261025130000 +0000" channel="marqueetv.gr">
+  <programme start="20261025095500 +0000" stop="20261025120000 +0000" channel="marqueetv.gr">
     <title lang="el">The Tokyo Ballet: Kaguyahime</title>
     <desc lang="el">Μπαλέτο. Η ιστορία της Kaguya-hime, μιας πριγκίπισσας από τη Σελήνη.</desc>
   </programme>
-  <programme start="20261025130000 +0000" stop="20261025153500 +0000" channel="marqueetv.gr">
+  <programme start="20261025120000 +0000" stop="20261025143500 +0000" channel="marqueetv.gr">
     <title lang="el">Antony and Cleopatra</title>
     <desc lang="el">Θέατρο. Ο Μάρκος Αντώνιος και η Κλεοπάτρα παραδίδονται στο πάθος τους, πυροδοτώντας έναν εμφύλιο που κλονίζει τη Ρώμη.</desc>
   </programme>
-  <programme start="20261025153500 +0000" stop="20261025181000 +0000" channel="marqueetv.gr">
+  <programme start="20261025143500 +0000" stop="20261025171000 +0000" channel="marqueetv.gr">
     <title lang="el">Romeo and Juliet</title>
     <desc lang="el">Θέατρο. Δύο έφηβοι ερωτεύονται παράφορα, αψηφώντας την έχθρα ανάμεσα στις οικογένειές τους. Το κλασικό έργο του Shakespeare ζωντανεύει με συγκινητική δύναμη σε παραγωγή του Stratford Festival.</desc>
   </programme>
-  <programme start="20261025181000 +0000" stop="20261025194600 +0000" channel="marqueetv.gr">
+  <programme start="20261025171000 +0000" stop="20261025184600 +0000" channel="marqueetv.gr">
     <title lang="el">J. S. Bach</title>
     <desc lang="el">The Six Brandenburg Concertos. Τα Βρανδεμβούργια Κοντσέρτα του Bach κατατάσσονται ανάμεσα στα πιο δημοφιλή έργα της μπαρόκ μουσικής.</desc>
   </programme>
-  <programme start="20261025194600 +0000" stop="20261025195500 +0000" channel="marqueetv.gr">
+  <programme start="20261025184600 +0000" stop="20261025185500 +0000" channel="marqueetv.gr">
     <title lang="el">Back to the Beginning</title>
     <desc lang="el">Barbara Hannigan. Το Back to the Beginning παρουσιάζει την αρχή της πορείας μεγάλων καλλιτεχνών.</desc>
   </programme>
-  <programme start="20261025195500 +0000" stop="20261025200000 +0000" channel="marqueetv.gr">
+  <programme start="20261025185500 +0000" stop="20261025190000 +0000" channel="marqueetv.gr">
     <title lang="el">Tempest</title>
     <desc lang="el">Χορός. Το Tempest, με πρωταγωνίστρια την Agnes Su, είναι μια καθηλωτική ταινία που αποτυπώνει τη λεπτεπίλεπτη ένταση ανάμεσα στη φιλοδοξία και την αυτοαποδοχή.</desc>
   </programme>
-  <programme start="20261025200000 +0000" stop="20261025213500 +0000" channel="marqueetv.gr">
+  <programme start="20261025190000 +0000" stop="20261025203500 +0000" channel="marqueetv.gr">
     <title lang="el">Sir Simon Rattle - Berliner Philharm.</title>
     <desc lang="el">Rachmaninoff &amp; Stravinsky.</desc>
   </programme>
-  <programme start="20261025213500 +0000" stop="20261025222000 +0000" channel="marqueetv.gr">
+  <programme start="20261025203500 +0000" stop="20261025212000 +0000" channel="marqueetv.gr">
     <title lang="el">Beatriz Fernandez Aucejo</title>
     <desc lang="el">Directs the Paris Mozart Orchestra. Η Paris Mozart Orchestra προσκαλεί την Ισπανίδα μαέστρο Beatriz Fernandez Aucejo στη Philharmonie de Paris, όπου παρουσιάζει όλο τον πλούτο του ρεπερτορίου της.</desc>
+  </programme>
+  <programme start="20261025212000 +0000" stop="20261025225700 +0000" channel="marqueetv.gr">
+    <title lang="el">J. S. Bach</title>
+    <desc lang="el">The Six Brandenburg Concertos. Τα Βρανδεμβούργια Κοντσέρτα του Bach κατατάσσονται ανάμεσα στα πιο δημοφιλή έργα της μπαρόκ μουσικής.</desc>
   </programme>
   <programme start="20261018231000 +0300" stop="20261019001000 +0300" channel="mega.gr">
     <title lang="el">ΚΆΜΠΙΝΓΚ</title>
@@ -108238,7 +108259,7 @@
   </programme>
   <programme start="20261020062500 +0000" stop="20261020070500 +0000" channel="natgeowild.gr">
     <title lang="el">Λιοντάρι</title>
-    <desc lang="el">Κεφάλαιο 1: Γεννιέται ένας Πρίγκηπας, Κύκλος 1 | Επεισόδιο 1 Ο Κίο, ένα ντροπαλό λιονταράκι, γεννιέται από τη βασίλισσα μιας πανίσχυρης αγέλης, τη Σάμερ. Όταν ένα κυνήγι παίρνει τραγική τροπή, ο Κίο συνειδητοποιεί πόσο απρόβλεπτη είναι η ζωή στη σαβάνα. Σιγά σιγά γίνεται πιο θαρραλέος, μέχρι που μια μοναχική περιπέτεια τον φέρνει αντιμέτωπο με τον ορκισμένο εχθρό της αγέλης: τους βούβαλους.</desc>
+    <desc lang="el">Κεφάλαιο 2: Τα Αδέλφια, Κύκλος 1 | Επεισόδιο 2 Έχοντας γλιτώσει στο τσακ, ο 12 εβδομάδων Κίο πρέπει να κερδίσει τον σεβασμό των μεγαλύτερων αδελφών του για να επιβιώσει και μια μέρα να γίνει βασιλιάς. Πάνω που βρίσκει τη θέση του ανάμεσά τους, μια καταστροφή διαλύει την οικογένεια, αναγκάζοντας τη Σάμερ να κάνει μια τεράστια θυσία για να προστατεύσει το μέλλον του Κίο.</desc>
   </programme>
   <programme start="20261020070500 +0000" stop="20261020075000 +0000" channel="natgeowild.gr">
     <title lang="el">Κρυμμένα Βασίλεια της Κίνας</title>
@@ -108250,7 +108271,7 @@
   </programme>
   <programme start="20261020083000 +0000" stop="20261020090500 +0000" channel="natgeowild.gr">
     <title lang="el">Λιοντάρι</title>
-    <desc lang="el">Κεφάλαιο 1: Γεννιέται ένας Πρίγκηπας, Κύκλος 1 | Επεισόδιο 1 Ο Κίο, ένα ντροπαλό λιονταράκι, γεννιέται από τη βασίλισσα μιας πανίσχυρης αγέλης, τη Σάμερ. Όταν ένα κυνήγι παίρνει τραγική τροπή, ο Κίο συνειδητοποιεί πόσο απρόβλεπτη είναι η ζωή στη σαβάνα. Σιγά σιγά γίνεται πιο θαρραλέος, μέχρι που μια μοναχική περιπέτεια τον φέρνει αντιμέτωπο με τον ορκισμένο εχθρό της αγέλης: τους βούβαλους.</desc>
+    <desc lang="el">Κεφάλαιο 2: Τα Αδέλφια, Κύκλος 1 | Επεισόδιο 2 Έχοντας γλιτώσει στο τσακ, ο 12 εβδομάδων Κίο πρέπει να κερδίσει τον σεβασμό των μεγαλύτερων αδελφών του για να επιβιώσει και μια μέρα να γίνει βασιλιάς. Πάνω που βρίσκει τη θέση του ανάμεσά τους, μια καταστροφή διαλύει την οικογένεια, αναγκάζοντας τη Σάμερ να κάνει μια τεράστια θυσία για να προστατεύσει το μέλλον του Κίο.</desc>
   </programme>
   <programme start="20261020090500 +0000" stop="20261020095000 +0000" channel="natgeowild.gr">
     <title lang="el">Κρυμμένα Βασίλεια της Κίνας</title>
@@ -108342,7 +108363,7 @@
   </programme>
   <programme start="20261021003000 +0000" stop="20261021011000 +0000" channel="natgeowild.gr">
     <title lang="el">Λιοντάρι</title>
-    <desc lang="el">Κεφάλαιο 1: Γεννιέται ένας Πρίγκηπας, Κύκλος 1 | Επεισόδιο 1 Ο Κίο, ένα ντροπαλό λιονταράκι, γεννιέται από τη βασίλισσα μιας πανίσχυρης αγέλης, τη Σάμερ. Όταν ένα κυνήγι παίρνει τραγική τροπή, ο Κίο συνειδητοποιεί πόσο απρόβλεπτη είναι η ζωή στη σαβάνα. Σιγά σιγά γίνεται πιο θαρραλέος, μέχρι που μια μοναχική περιπέτεια τον φέρνει αντιμέτωπο με τον ορκισμένο εχθρό της αγέλης: τους βούβαλους.</desc>
+    <desc lang="el">Κεφάλαιο 2: Τα Αδέλφια, Κύκλος 1 | Επεισόδιο 2 Έχοντας γλιτώσει στο τσακ, ο 12 εβδομάδων Κίο πρέπει να κερδίσει τον σεβασμό των μεγαλύτερων αδελφών του για να επιβιώσει και μια μέρα να γίνει βασιλιάς. Πάνω που βρίσκει τη θέση του ανάμεσά τους, μια καταστροφή διαλύει την οικογένεια, αναγκάζοντας τη Σάμερ να κάνει μια τεράστια θυσία για να προστατεύσει το μέλλον του Κίο.</desc>
   </programme>
   <programme start="20261021011000 +0000" stop="20261021015500 +0000" channel="natgeowild.gr">
     <title lang="el">Κρυμμένα Βασίλεια της Κίνας</title>
@@ -108358,7 +108379,7 @@
   </programme>
   <programme start="20261021032000 +0000" stop="20261021040000 +0000" channel="natgeowild.gr">
     <title lang="el">Λιοντάρι</title>
-    <desc lang="el">Κεφάλαιο 1: Γεννιέται ένας Πρίγκηπας, Κύκλος 1 | Επεισόδιο 1 Ο Κίο, ένα ντροπαλό λιονταράκι, γεννιέται από τη βασίλισσα μιας πανίσχυρης αγέλης, τη Σάμερ. Όταν ένα κυνήγι παίρνει τραγική τροπή, ο Κίο συνειδητοποιεί πόσο απρόβλεπτη είναι η ζωή στη σαβάνα. Σιγά σιγά γίνεται πιο θαρραλέος, μέχρι που μια μοναχική περιπέτεια τον φέρνει αντιμέτωπο με τον ορκισμένο εχθρό της αγέλης: τους βούβαλους.</desc>
+    <desc lang="el">Κεφάλαιο 2: Τα Αδέλφια, Κύκλος 1 | Επεισόδιο 2 Έχοντας γλιτώσει στο τσακ, ο 12 εβδομάδων Κίο πρέπει να κερδίσει τον σεβασμό των μεγαλύτερων αδελφών του για να επιβιώσει και μια μέρα να γίνει βασιλιάς. Πάνω που βρίσκει τη θέση του ανάμεσά τους, μια καταστροφή διαλύει την οικογένεια, αναγκάζοντας τη Σάμερ να κάνει μια τεράστια θυσία για να προστατεύσει το μέλλον του Κίο.</desc>
   </programme>
   <programme start="20261021040000 +0000" stop="20261021044500 +0000" channel="natgeowild.gr">
     <title lang="el">Φονικές Σφήκες της Ασίας</title>
@@ -109301,7 +109322,12 @@
     <title lang="el">Έξω από τα Όρια της Επιστήμης</title>
     <desc lang="el">Επεισόδιο 4, Κύκλος 8 | Επεισόδιο 4 Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αποτυχίες όταν επιχειρούμε διπλό ανάποδο σάλτο στο σκι, τη χημεία της ανθρακοποίησης και όταν κατεβαίνουμε σκάλες με τα χέρια.</desc>
   </programme>
-  <programme start="20261021035500 +0000" stop="20261021044500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261021031000 +0000" stop="20261021040000 +0000" channel="nationalgeographic.gr">
+    <title lang="el">Διάσωση στον Παγετό: Διαδρομές Χάους - Ειδική Έκδοση Ε1</title>
+    <desc lang="el">Επεισόδιο: Πόλεμος Φαγητού. Χειμωνιάτικοι δρόμοι και φορτηγά με φαγητό αποτελούν καταστροφικό συνδυασμό. Οι διασώστες καθαρίζουν τον χαμό.</desc>
+    <category lang="el">Ριάλιτι</category>
+  </programme>
+  <programme start="20261021040000 +0000" stop="20261021044500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Family Guns</title>
     <desc lang="el">Οικογένεια σε Πόλεμο, Κύκλος 1 | Επεισόδιο 1 Γνωρίστε τους Cranmer, τους ιδιοκτήτες μιας από τις μεγαλύτερες αντικερί στρατιωτικών αντικειμένων στον κόσμο, καθώς ετοιμάζουν μία εκδήλωση σκοποβολής για τους Βικτωριανούς Τουφεκιοφόρους.</desc>
   </programme>
@@ -109309,35 +109335,40 @@
     <title lang="el">Ζωή Kάτω από το Mηδέν: Η Επόμενη Γενιά</title>
     <desc lang="el">Άγνωστα και Αχαρτογράφητα, Κύκλος 1 | Επεισόδιο 2 Καθώς η Αρκτική εισχωρεί στον χειμώνα, εκείνοι που ζουν μακριά από τον πολιτισμό πρέπει να εργαστούν οργανωμένα για να αποκτήσουν βασικούς πόρους.</desc>
   </programme>
-  <programme start="20261021053000 +0000" stop="20261021061500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261021053000 +0000" stop="20261021062000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Τραγωδία στον Αέρα</title>
     <desc lang="el">Φονικός Αγώνας, Κύκλος 18 | Επεισόδιο 2 Πετώντας μόλις μερικά μέτρα πάνω από την έρημο, το μονοκινητήριο μαχητικό του Β' Παγκοσμίου Πολέμου ετοιμάζεται για την επίδειξή του στους αγώνες Αερομαχίας του Ρίνο, με 30.000 θεατές να παρακολουθούν από το έδαφος.</desc>
   </programme>
-  <programme start="20261021061500 +0000" stop="20261021070500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261021062000 +0000" stop="20261021070500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Τραγωδία στον Αέρα</title>
     <desc lang="el">Συνοριακές Τακτικές, Κύκλος 18 | Επεισόδιο 4 Ένα αμερικάνικο φορτηγό αεροπλάνο επιχειρεί δύσκολη προσγείωση στον Ναυτικό Σταθμό του Γκουάνταμο. Με τον αεροδιάδρομο να βρίσκεται μόλις λίγα μέτρα από ένοπλους συνοριοφύλακες, το αεροπλάνο πρέπει να αποφύγει τον εναέριο χώρο της Κούβας.</desc>
   </programme>
-  <programme start="20261021070500 +0000" stop="20261021075000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261021070500 +0000" stop="20261021075500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Τραγωδία στον Αέρα</title>
     <desc lang="el">Φονική Κλίση, Κύκλος 18 | Επεισόδιο 5 Η πτήση 101 της Fine Air Cargo προς τον Άγιο Δομίνικο απογειώνεται από το Μαϊάμι μεταφέροντας 40 τόννους τζιν υφάσματος. Αλλά, λίγα λεπτά αργότερα, το αεροπλάνο συντρίβεται στο έδαφος και πέφτει πάνω σε ένα κτήριο.</desc>
   </programme>
-  <programme start="20261021075000 +0000" stop="20261021081500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261021075500 +0000" stop="20261021081500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Brain Games</title>
     <desc lang="el">Λάθος Aντίληψη, Κύκλος 5 | Επεισόδιο 6 Ανακαλύψτε εάν χρησιμοποιείτε μόνο το 10 τοις εκατό του εγκεφάλου σας ή όχι, εάν το μέγεθος όντως μετράει και αν το να ακούτε Μότσαρτ, σας κάνει πιο έξυπνους.</desc>
   </programme>
-  <programme start="20261021081500 +0000" stop="20261021083500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261021081500 +0000" stop="20261021084000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Brain Games</title>
     <desc lang="el">Επιρροή, Κύκλος 5 | Επεισόδιο 8 Εάν πιστεύετε ότι έχετε τον απόλυτο έλεγχο των σκέψεων και των πράξεών σας, ξανασκεφτείτε το. Υπάρχει περίπτωση το μυαλό σας να είναι σχεδιασμένο να θέλει να ταιριάξει παντού.</desc>
   </programme>
-  <programme start="20261021083500 +0000" stop="20261021090000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261021084000 +0000" stop="20261021090500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Brain Games</title>
     <desc lang="el">Λογική, Κύκλος 5 | Επεισόδιο 9 Μέσα από μια σειρά διαδραστικών παιχνιδιών και πειραμάτων, ανακαλύψτε τη δύναμη και τα όρια της λογικής ικανότητας.</desc>
   </programme>
-  <programme start="20261021090000 +0000" stop="20261021092500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261021090500 +0000" stop="20261021092500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Brain Games</title>
     <desc lang="el">Πρόσωπα, Κύκλος 5 | Επεισόδιο 10 Παίζουμε με το μυαλό σας για να σας δείξουμε ότι ένα πρόσωπο κρύβει πολλά περισσότερα από αυτά που αφήνει να φανούν.</desc>
   </programme>
-  <programme start="20261021101000 +0000" stop="20261021110000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261021092500 +0000" stop="20261021101500 +0000" channel="nationalgeographic.gr">
+    <title lang="el">Διάσωση στον Παγετό: Διαδρομές Χάους - Ειδική Έκδοση Ε2</title>
+    <desc lang="el">Επεισόδιο: Μικρά Αυτοκίνητα, Μεγάλοι Μπελάδες. Ο Thord και οι υπόλοιποι διασώστες διασώζουν μικρά οχήματα σε μεγάλες συγκρούσεις.</desc>
+    <category lang="el">Ριάλιτι</category>
+  </programme>
+  <programme start="20261021101500 +0000" stop="20261021110000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Family Guns</title>
     <desc lang="el">Θέλω Τζιπ, Κύκλος 1 | Επεισόδιο 2 Ο Christian δοκιμάζει ένα κανόνι 25.000 δολαρίων. Κάπου αλλού, ο Alex και τα παιδιά της αποθήκης πειραματίζονται με δύο τουφέκια του Β' Παγκοσμίου Πολέμου.</desc>
   </programme>
@@ -109345,95 +109376,95 @@
     <title lang="el">Ζωή Kάτω από το Mηδέν: Η Επόμενη Γενιά</title>
     <desc lang="el">Ζωή στα Όρια, Κύκλος 1 | Επεισόδιο 3 Καθώς έρχεται ο χειμώνας, οι κάτοικοι της Αλάσκα καλούνται να αντιμετωπίσουν σκληρές πραγματικότητες για να μπορέσουν να επιτύχουν την ανεξάρτητη ζωή που αναζητούν.</desc>
   </programme>
-  <programme start="20261021114500 +0000" stop="20261021123000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261021114500 +0000" stop="20261021123500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Παναγία των Παρισίων: Πύρινη Κόλαση</title>
     <desc lang="el">Στις 15 Απριλίου 2019, κατά τη διάρκεια της Λειτουργίας της Μεγάλης Δευτέρας, ο πιο διάσημος καθεδρικός ναός του κόσμου έπιασε φωτιά. Η Παναγία των Παρισίων τυλίχτηκε στις φλόγες μέσα σε λίγα μόλις λεπτά. Μία επική μάχη ξεκίνησε για τους ηρωικούς Γάλλους πυροσβέστες οι οποίοι, υπό το βλέμμα των ΜΜΕ από όλο τον κόσμο, πάλευαν με την πυρκαγιά για περισσότερες από 15 ώρες. Το National Geographic παρουσιάζει πρώτο, ένα αφιέρωμα με αποκλειστικά πλάνα και συνεντεύξεις που αφηγούνται λεπτό προς λεπτό τη γενναία προσπάθεια των αστυνομικών και πυροσβεστικών δυνάμεων της γαλλικής πρωτεύουσας, που κινδύνευσαν για να σώσουν τον ιστορικό ναό.</desc>
   </programme>
-  <programme start="20261021123000 +0000" stop="20261021125500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261021123500 +0000" stop="20261021125500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Χρόνος Κατασκευής: Μία Ημέρα</title>
     <desc lang="el">Ηλεκτρικά Αυτοκίνητα, Κύκλος 1 | Επεισόδιο 1 Ο τομέας της παραγωγής έχει γνωρίσει επανάσταση μέσα στην τελευταία δεκαετία. Το μοντέλο οικονομίας just in time σημαίνει ότι τα προϊόντα που αγαπάμε παράγονται σε τεράστια κλίμακα σε χρόνο ρεκόρ, ενώ η μείωση της γραφειοκρατίας σημαίνει ότι το παγκόσμιο εμπόριο και η διανομή γίνονται πιο γρήγορα από ποτέ.</desc>
   </programme>
-  <programme start="20261021125500 +0000" stop="20261021131500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261021125500 +0000" stop="20261021132000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Χρόνος Κατασκευής: Μία Ημέρα</title>
     <desc lang="el">Πικάντικη Σάλτσα, Κύκλος 1 | Επεισόδιο 8 Καυτερές πιπεριές από όλον τον κόσμο μεταφέρονται σε μια φυτεία στη Λουιζιάνα και μετατρέπονται – χρησιμοποιώντας μια οικογενειακή συνταγή – σε ένα από τα πιο δημοφιλή προϊόντα, το ταμπάσκο. Αυτή είναι η ιστορία της παρασκευής της νο 1 πικάντικης σάλτσας στον κόσμο, σε μαζική κλίμακα.</desc>
   </programme>
-  <programme start="20261021131500 +0000" stop="20261021134000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261021132000 +0000" stop="20261021134500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Χρόνος Κατασκευής: Μία Ημέρα</title>
     <desc lang="el">Διαστημικοί Πύραυλοι, Κύκλος 1 | Επεισόδιο 7 Με το διάστημα να προσφέρει οικονομικά οφέλη σε όλους, οι εκτοξεύσεις πυραύλων βρίσκονται σε ζήτηση παγκοσμίως. Αυτή είναι η ιστορία της παραγωγής πυραύλων από τη ULA, κάτι που αποτελεί προτεραιότητα για την Αμερική.</desc>
   </programme>
-  <programme start="20261021134000 +0000" stop="20261021140500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261021134500 +0000" stop="20261021140500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Χρόνος Κατασκευής: Μία Ημέρα</title>
     <desc lang="el">Ηλεκτρικές Κιθάρες, Κύκλος 1 | Επεισόδιο 2 Οι κιθάρες Gibson αποκαλύπτουν πώς η υπερσύγχρονη τεχνολογία, οι χειροτεχνικές ικανότητες και το παγκόσμιο εμπόριο συνδυάζονται για να φέρουν τις ηλεκτρικές κιθάρες στον κόσμο.</desc>
   </programme>
-  <programme start="20261021140500 +0000" stop="20261021145000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261021140500 +0000" stop="20261021145500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Αυτοκίνητα Εκπέμπουν S.O.S.</title>
     <desc lang="el">Austin 7, Κύκλος 8 | Επεισόδιο 8 Η ομάδα του 'Αυτοκίνητα Εκπέμπουν S.O.S.' αναλαμβάνει μια πολύ συγκινητική αποστολή. Επισκευάζουν ένα Austin 7 Chummy του 1924, το οποίο είχε πουλήσει ο ιδιοκτήτης του 50 χρόνια.</desc>
   </programme>
-  <programme start="20261021145000 +0000" stop="20261021151500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261021145500 +0000" stop="20261021151500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Έξω από τα Όρια της Επιστήμης</title>
     <desc lang="el">Επεισόδιο 7, Κύκλος 8 | Επεισόδιο 7 Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αποτυχίες όταν κάνουμε σνόουμπορντ χωρίς χιόνι, όταν κατασκευάζουμε μια βάρκα και όταν περπατάμε πάνω στην εξωτερική σανίδα ενός πλοίου.</desc>
   </programme>
-  <programme start="20261021151500 +0000" stop="20261021153500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261021151500 +0000" stop="20261021154000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Έξω από τα Όρια της Επιστήμης</title>
     <desc lang="el">Επεισόδιο 2, Κύκλος 8 | Επεισόδιο 2 Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αποτυχίες όταν ρίχνουμε δίχτυ για ψάρεμα, όταν κατασκευάζουμε πίστα για λουτζ μόνοι μας και όταν βουτάμε σε ρηχά νερά.</desc>
   </programme>
-  <programme start="20261021153500 +0000" stop="20261021162000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261021154000 +0000" stop="20261021162500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Τραγωδία στον Αέρα</title>
     <desc lang="el">Μοιραία Άνοδος, Κύκλος 18 | Επεισόδιο 6 Λίγα λεπτά μετά την απογείωσή της από το Βουκουρέστι, η πτήση 371 της Tarom γέρνει απότομα προς την αριστερή πλευρά, βγαίνει εκτός πορείας και πέφτει στο χωράφι ενός αγρότη. Πρόκειται για το πιο θανατηφόρο αεροπορικό δυστύχημα στην ιστορία της χώρας.</desc>
   </programme>
-  <programme start="20261021162000 +0000" stop="20261021171000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261021162500 +0000" stop="20261021171500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Τραγωδία στον Αέρα</title>
     <desc lang="el">Μοιραία Προσέγγιση, Κύκλος 18 | Επεισόδιο 3 Στην πτήση 433 της KLM Cityhopper από το Άμστερνταμ στο Κάρντιφ, το πλήρωμα αναφέρει ένα μηχανικό πρόβλημα και κατευθύνονται πίσω στο αεροδρόμιο. Αλλά, ενώ ετοιμάζεται να προσγειωθεί, το αεροπλάνο συντρίβεται.</desc>
   </programme>
-  <programme start="20261021171000 +0000" stop="20261021180000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261021171500 +0000" stop="20261021180000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Τραγωδία στον Αέρα</title>
     <desc lang="el">Εκτός Αεροδιαδρόμου, Κύκλος 18 | Επεισόδιο 7 Η πτήση 1404 της Continental Airlines αναπτύσσει ταχύτητα στον αεροδιάδρομο του Διεθνούς Αερολιμένα του Ντένβερ όταν το αεροπλάνο ξαφνικά φεύγει εκτός πορείας, συγκρούεται και πιάνει φωτιά.</desc>
   </programme>
-  <programme start="20261021180000 +0000" stop="20261021184500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261021180000 +0000" stop="20261021185000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Διάσωση στον Παγετό</title>
     <desc lang="el">Μεγάλος Κίνδυνος, Κύκλος 11 | Επεισόδιο 2 Στην Οβερχάλα, ο Ρέιντο αντιμετωπίζει ήδη διπλό πρόβλημα καθώς επιχειρεί να ανασύρει δύο φορτηγά, όταν ένα τρίτο φορτηγό πλησιάζει το σημείο του ατυχήματος και διπλώνει, κλείνοντας το οδόστρωμα. Στον νότο, ο Μπγιορν επιχειρεί να ανασύρει ένα φορτηγό με καρότσα που βγήκε από τον δρόμο. Δουλεύοντας μόνος του σε μια δουλειά που κανονικά απαιτεί ολόκληρη ομάδα, νιώθει την πίεση, μέχρι που καταφθάνει απρόσμενη βοήθεια.</desc>
   </programme>
-  <programme start="20261021184500 +0000" stop="20261021193500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261021185000 +0000" stop="20261021193500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Επιβίωση στο Νόρθγουντς</title>
     <desc lang="el">Ήρθε ο Χειμώνας, Κύκλος 1 | Επεισόδιο 4 Οι έποικοι έρχονται αντιμέτωποι με τον σκληρό και ανελέητο χειμώνα του βορρά, καθώς μάχονται να επιβιώσουν και να επιβιώσουν στην αχανή καναδική άγρια φύση.</desc>
   </programme>
-  <programme start="20261021193500 +0000" stop="20261021202000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261021193500 +0000" stop="20261021202500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Υπερκατασκευές των Ναζί</title>
     <desc lang="el">Το Τείχος του Ατλαντικού, Κύκλος 1 | Επεισόδιο 1 Ανακαλύψτε την ιστορία πίσω από το αμυντικό τείχος που εκτείνεται για χιλιάδες χιλιόμετρα και χτίστηκε από το Τρίτο Ράιχ για να προστατευτεί από τους Συμμάχους.</desc>
   </programme>
-  <programme start="20261021202000 +0000" stop="20261021211000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261021202500 +0000" stop="20261021211500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Υπερκατασκευές των Ναζί</title>
     <desc lang="el">Υποβρύχια U-boat, Κύκλος 1 | Επεισόδιο 2 Για να δημιουργήσουν ένα ασφαλές λιμάνι για τα υποβρύχια U-boat, οι Ναζί κατασκεύασαν τα γιγάντια απροσπέλαστα καταφύγια που υπάρχουν ακόμα και σήμερα.</desc>
   </programme>
-  <programme start="20261021211000 +0000" stop="20261021215500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261021211500 +0000" stop="20261021220000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Διάσωση στον Παγετό</title>
     <desc lang="el">Μεγάλος Κίνδυνος, Κύκλος 11 | Επεισόδιο 2 Στην Οβερχάλα, ο Ρέιντο αντιμετωπίζει ήδη διπλό πρόβλημα καθώς επιχειρεί να ανασύρει δύο φορτηγά, όταν ένα τρίτο φορτηγό πλησιάζει το σημείο του ατυχήματος και διπλώνει, κλείνοντας το οδόστρωμα. Στον νότο, ο Μπγιορν επιχειρεί να ανασύρει ένα φορτηγό με καρότσα που βγήκε από τον δρόμο. Δουλεύοντας μόνος του σε μια δουλειά που κανονικά απαιτεί ολόκληρη ομάδα, νιώθει την πίεση, μέχρι που καταφθάνει απρόσμενη βοήθεια.</desc>
   </programme>
-  <programme start="20261021215500 +0000" stop="20261021224000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261021220000 +0000" stop="20261021224500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Επιβίωση στο Νόρθγουντς</title>
     <desc lang="el">Ήρθε ο Χειμώνας, Κύκλος 1 | Επεισόδιο 4 Οι έποικοι έρχονται αντιμέτωποι με τον σκληρό και ανελέητο χειμώνα του βορρά, καθώς μάχονται να επιβιώσουν και να επιβιώσουν στην αχανή καναδική άγρια φύση.</desc>
   </programme>
-  <programme start="20261021224000 +0000" stop="20261021233000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261021224500 +0000" stop="20261021233500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Τραγωδία στον Αέρα</title>
     <desc lang="el">Μοιραία Άνοδος, Κύκλος 18 | Επεισόδιο 6 Λίγα λεπτά μετά την απογείωσή της από το Βουκουρέστι, η πτήση 371 της Tarom γέρνει απότομα προς την αριστερή πλευρά, βγαίνει εκτός πορείας και πέφτει στο χωράφι ενός αγρότη. Πρόκειται για το πιο θανατηφόρο αεροπορικό δυστύχημα στην ιστορία της χώρας.</desc>
   </programme>
-  <programme start="20261021233000 +0000" stop="20261022001500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261021233500 +0000" stop="20261022002000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Τραγωδία στον Αέρα</title>
     <desc lang="el">Μοιραία Προσέγγιση, Κύκλος 18 | Επεισόδιο 3 Στην πτήση 433 της KLM Cityhopper από το Άμστερνταμ στο Κάρντιφ, το πλήρωμα αναφέρει ένα μηχανικό πρόβλημα και κατευθύνονται πίσω στο αεροδρόμιο. Αλλά, ενώ ετοιμάζεται να προσγειωθεί, το αεροπλάνο συντρίβεται.</desc>
   </programme>
-  <programme start="20261022001500 +0000" stop="20261022010500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261022002000 +0000" stop="20261022011000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Τραγωδία στον Αέρα</title>
     <desc lang="el">Εκτός Αεροδιαδρόμου, Κύκλος 18 | Επεισόδιο 7 Η πτήση 1404 της Continental Airlines αναπτύσσει ταχύτητα στον αεροδιάδρομο του Διεθνούς Αερολιμένα του Ντένβερ όταν το αεροπλάνο ξαφνικά φεύγει εκτός πορείας, συγκρούεται και πιάνει φωτιά.</desc>
   </programme>
-  <programme start="20261022010500 +0000" stop="20261022015000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261022011000 +0000" stop="20261022015500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Διάσωση στον Παγετό</title>
     <desc lang="el">Μεγάλος Κίνδυνος, Κύκλος 11 | Επεισόδιο 2 Στην Οβερχάλα, ο Ρέιντο αντιμετωπίζει ήδη διπλό πρόβλημα καθώς επιχειρεί να ανασύρει δύο φορτηγά, όταν ένα τρίτο φορτηγό πλησιάζει το σημείο του ατυχήματος και διπλώνει, κλείνοντας το οδόστρωμα. Στον νότο, ο Μπγιορν επιχειρεί να ανασύρει ένα φορτηγό με καρότσα που βγήκε από τον δρόμο. Δουλεύοντας μόνος του σε μια δουλειά που κανονικά απαιτεί ολόκληρη ομάδα, νιώθει την πίεση, μέχρι που καταφθάνει απρόσμενη βοήθεια.</desc>
   </programme>
-  <programme start="20261022015000 +0000" stop="20261022023500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261022015500 +0000" stop="20261022024000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Επιβίωση στο Νόρθγουντς</title>
     <desc lang="el">Ήρθε ο Χειμώνας, Κύκλος 1 | Επεισόδιο 4 Οι έποικοι έρχονται αντιμέτωποι με τον σκληρό και ανελέητο χειμώνα του βορρά, καθώς μάχονται να επιβιώσουν και να επιβιώσουν στην αχανή καναδική άγρια φύση.</desc>
   </programme>
-  <programme start="20261022023500 +0000" stop="20261022030500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261022024000 +0000" stop="20261022030500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Έξω από τα Όρια της Επιστήμης</title>
     <desc lang="el">Επεισόδιο 7, Κύκλος 8 | Επεισόδιο 7 Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αποτυχίες όταν κάνουμε σνόουμπορντ χωρίς χιόνι, όταν κατασκευάζουμε μια βάρκα και όταν περπατάμε πάνω στην εξωτερική σανίδα ενός πλοίου.</desc>
   </programme>
@@ -109442,11 +109473,11 @@
     <desc lang="el">Επεισόδιο: Μικρά Αυτοκίνητα, Μεγάλοι Μπελάδες. Ο Thord και οι υπόλοιποι διασώστες διασώζουν μικρά οχήματα σε μεγάλες συγκρούσεις.</desc>
     <category lang="el">Ριάλιτι</category>
   </programme>
-  <programme start="20261022035500 +0000" stop="20261022044500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261022035500 +0000" stop="20261022044000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Family Guns</title>
     <desc lang="el">Θέλω Τζιπ, Κύκλος 1 | Επεισόδιο 2 Ο Christian δοκιμάζει ένα κανόνι 25.000 δολαρίων. Κάπου αλλού, ο Alex και τα παιδιά της αποθήκης πειραματίζονται με δύο τουφέκια του Β' Παγκοσμίου Πολέμου.</desc>
   </programme>
-  <programme start="20261022044500 +0000" stop="20261022053000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261022044000 +0000" stop="20261022053000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Ζωή Kάτω από το Mηδέν: Η Επόμενη Γενιά</title>
     <desc lang="el">Ζωή στα Όρια, Κύκλος 1 | Επεισόδιο 3 Καθώς έρχεται ο χειμώνας, οι κάτοικοι της Αλάσκα καλούνται να αντιμετωπίσουν σκληρές πραγματικότητες για να μπορέσουν να επιτύχουν την ανεξάρτητη ζωή που αναζητούν.</desc>
   </programme>
@@ -109454,19 +109485,19 @@
     <title lang="el">Τραγωδία στον Αέρα</title>
     <desc lang="el">Μοιραία Άνοδος, Κύκλος 18 | Επεισόδιο 6 Λίγα λεπτά μετά την απογείωσή της από το Βουκουρέστι, η πτήση 371 της Tarom γέρνει απότομα προς την αριστερή πλευρά, βγαίνει εκτός πορείας και πέφτει στο χωράφι ενός αγρότη. Πρόκειται για το πιο θανατηφόρο αεροπορικό δυστύχημα στην ιστορία της χώρας.</desc>
   </programme>
-  <programme start="20261022061500 +0000" stop="20261022070000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261022061500 +0000" stop="20261022070500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Τραγωδία στον Αέρα</title>
     <desc lang="el">Μοιραία Προσέγγιση, Κύκλος 18 | Επεισόδιο 3 Στην πτήση 433 της KLM Cityhopper από το Άμστερνταμ στο Κάρντιφ, το πλήρωμα αναφέρει ένα μηχανικό πρόβλημα και κατευθύνονται πίσω στο αεροδρόμιο. Αλλά, ενώ ετοιμάζεται να προσγειωθεί, το αεροπλάνο συντρίβεται.</desc>
   </programme>
-  <programme start="20261022070000 +0000" stop="20261022075000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261022070500 +0000" stop="20261022075000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Τραγωδία στον Αέρα</title>
     <desc lang="el">Εκτός Αεροδιαδρόμου, Κύκλος 18 | Επεισόδιο 7 Η πτήση 1404 της Continental Airlines αναπτύσσει ταχύτητα στον αεροδιάδρομο του Διεθνούς Αερολιμένα του Ντένβερ όταν το αεροπλάνο ξαφνικά φεύγει εκτός πορείας, συγκρούεται και πιάνει φωτιά.</desc>
   </programme>
-  <programme start="20261022075000 +0000" stop="20261022083500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261022075000 +0000" stop="20261022084000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Brain Games</title>
     <desc lang="el">Γνωρίστε τον Eγκέφαλο, Κύκλος 7 | Επεισόδιο 4 Ταξιδέψτε μέσα στον λαβύρινθο του Λονδίνου - μια μεταφορά για τον εγκέφαλό μας και τα αναρίθμητα μέρη και πολύπλοκα μονοπάτια που το αποτελούν.</desc>
   </programme>
-  <programme start="20261022083500 +0000" stop="20261022092500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261022084000 +0000" stop="20261022092500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Brain Games</title>
     <desc lang="el">Θεϊκό Mυαλό, Κύκλος 7 | Επεισόδιο 5 Οι επιστήμονες συνεργάζονται με οδηγούς ταξί για να εξηγήσουν πώς το μυαλό αποτελείται από σαφή ξεχωριστά τμήματα που συνεργάζονται αδιάκοπα.</desc>
   </programme>
@@ -109491,11 +109522,11 @@
     <title lang="el">Χρόνος Κατασκευής: Μία Ημέρα</title>
     <desc lang="el">Πυροσβεστικά Οχήματα, Κύκλος 1 | Επεισόδιο 5 Τα πυροσβεστικά οχήματα μεταφέρουν τους πυροσβέστες στη μάχη κάθε μέρα. Η εταιρεία Pierce κατασκευάζει 18.000 τέτοια οχήματα κάθε μέρα. Αυτή είναι η ιστορία παραγωγής τους.</desc>
   </programme>
-  <programme start="20261022125500 +0000" stop="20261022131500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261022125500 +0000" stop="20261022132000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Χρόνος Κατασκευής: Μία Ημέρα</title>
     <desc lang="el">Δορυφόροι, Κύκλος 1 | Επεισόδιο 12 Η εταιρεία OneWeb Satellites αποκαλύπτει πώς οι σχεδιαστές διαστημικών οχημάτων, οι μηχανολόγοι και η ρομποτική συνδυάζονται για να κατασκευάσουν και να εκτοξεύσουν δορυφόρους στο διάστημα.</desc>
   </programme>
-  <programme start="20261022131500 +0000" stop="20261022134000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261022132000 +0000" stop="20261022134000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Χρόνος Κατασκευής: Μία Ημέρα</title>
     <desc lang="el">Τρακτέρ, Κύκλος 1 | Επεισόδιο 9 Ο κολοσσός των τρακτέρ Deere αποκαλύπτει πώς συνδυάζεται η βαριά βιομηχανία με την υπερσύγχρονη τεχνολογία για την κατασκευή τεράστιων τρακτέρ, σχεδιασμένων να παρέχουν τροφή στον κόσμο.</desc>
   </programme>
@@ -109515,11 +109546,11 @@
     <title lang="el">Έξω από τα Όρια της Επιστήμης</title>
     <desc lang="el">Επεισόδιο 11, Κύκλος 8 | Επεισόδιο 11 Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αποτυχίες όταν επιχειρούμε άλματα με σκούτερ, όταν τοποθετούμε στέγες και όταν πηδάμε με χιονόχημα.</desc>
   </programme>
-  <programme start="20261022153500 +0000" stop="20261022162000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261022153500 +0000" stop="20261022162500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Τραγωδία στον Αέρα</title>
     <desc lang="el">Φονικά Όρια, Κύκλος 18 | Επεισόδιο 8 Η εσωτερική πτήση 821 της Aeroflot Nord από τη Μόσχα στο Περμ πλησιάζει στον προορισμό της όταν το αεροπλάνο πέφτει κατακόρυφα πάνω στον υπερσιβηρικό σιδηρόδρομο. Το μόνο που απέμεινε ήταν καμμένα συντρίμμια.</desc>
   </programme>
-  <programme start="20261022162000 +0000" stop="20261022171000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261022162500 +0000" stop="20261022171000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Τραγωδία στον Αέρα</title>
     <desc lang="el">Φονική Πτώση, Κύκλος 18 | Επεισόδιο 1 Η πτήση 780 της Cathay Pacific από την Ινδονησία στο Χονγκ Κονγκ βρίσκεται ψηλά πάνω από τη θάλασσα της Κίνας όταν σταματούν και οι δύο μηχανές και το Airbus A-330 μετατρέπεται σε ανεμοπλάνο 200 τόνων.</desc>
   </programme>
@@ -109527,11 +109558,11 @@
     <title lang="el">Τραγωδία στον Αέρα</title>
     <desc lang="el">Ποδοσφαιρική Τραγωδία, Κύκλος 18 | Επεισόδιο 9 Μεταφέροντας την ποδοσφαιρική ομάδα της βραζιλιάνικης Chapecoense, η πτήση 2933 της LaMia πλησιάζει στο Μεντεγίν της Κολούμπια όταν το πλήρωμα ξαφνικά ανακοινώνει ότι υπάρχει πρόβλημα με τα καύσιμα.</desc>
   </programme>
-  <programme start="20261022180000 +0000" stop="20261022184500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261022180000 +0000" stop="20261022185000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Κολοσσιαίες Μηχανές</title>
     <desc lang="el">Ισχύς Επόμενης Γενιάς, Κύκλος 2 | Επεισόδιο 5 Σε κάθε γενιά, οι τεχνολογικές εξελίξεις ανταποκρίνονται στις προκλήσεις της οικονομίας. Ειδικοί παρουσιάζουν την τελευταία επιστήμη πίσω από αυτές τις μηχανές.</desc>
   </programme>
-  <programme start="20261022184500 +0000" stop="20261022193500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261022185000 +0000" stop="20261022193500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Κολοσσιαίες Μηχανές</title>
     <desc lang="el">Δαίμονες Ταχύτητας, Κύκλος 2 | Επεισόδιο 6 Η ανάγκη για ταχύτητα έχει αντιμετωπιστεί με μια σειρά από υπέρτατες μηχανές. Ειδικοί διερευνούν τον σχεδιασμό μερικών από τις πιο γρήγορες μηχανές του κόσμου.</desc>
   </programme>
@@ -109539,11 +109570,11 @@
     <title lang="el">Υπερκατασκευές των Ναζί</title>
     <desc lang="el">Βάσεις Πυραύλων V2, Κύκλος 1 | Επεισόδιο 3 Ανακαλύψτε πώς ο Ναζί επιστήμονας Wernher von Braun προανήγγειλε τη γέννηση των βαλλιστικών πυραύλων και έθεσε τα τεχνολογικά θεμέλια για το ταξίδι στο διάστημα.</desc>
   </programme>
-  <programme start="20261022202500 +0000" stop="20261022211000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261022202500 +0000" stop="20261022211500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Υπερκατασκευές των Ναζί</title>
     <desc lang="el">Υπέρ-τανκς, Κύκλος 1 | Επεισόδιο 4 Η ιστορία των μηχανικών των Ναζί που έχουν αναλάβει να εκπληρώσουν τα μεγαλομανή όνειρα του Χίτλερ για την κατασκευή ενός θωρηκτού που ζυγίζει 1.000 τόνους.</desc>
   </programme>
-  <programme start="20261022211000 +0000" stop="20261022220000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261022211500 +0000" stop="20261022220000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Κολοσσιαίες Μηχανές</title>
     <desc lang="el">Ισχύς Επόμενης Γενιάς, Κύκλος 2 | Επεισόδιο 5 Σε κάθε γενιά, οι τεχνολογικές εξελίξεις ανταποκρίνονται στις προκλήσεις της οικονομίας. Ειδικοί παρουσιάζουν την τελευταία επιστήμη πίσω από αυτές τις μηχανές.</desc>
   </programme>
@@ -109551,65 +109582,69 @@
     <title lang="el">Κολοσσιαίες Μηχανές</title>
     <desc lang="el">Δαίμονες Ταχύτητας, Κύκλος 2 | Επεισόδιο 6 Η ανάγκη για ταχύτητα έχει αντιμετωπιστεί με μια σειρά από υπέρτατες μηχανές. Ειδικοί διερευνούν τον σχεδιασμό μερικών από τις πιο γρήγορες μηχανές του κόσμου.</desc>
   </programme>
-  <programme start="20261022224500 +0000" stop="20261022233000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261022224500 +0000" stop="20261022233500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Τραγωδία στον Αέρα</title>
     <desc lang="el">Φονικά Όρια, Κύκλος 18 | Επεισόδιο 8 Η εσωτερική πτήση 821 της Aeroflot Nord από τη Μόσχα στο Περμ πλησιάζει στον προορισμό της όταν το αεροπλάνο πέφτει κατακόρυφα πάνω στον υπερσιβηρικό σιδηρόδρομο. Το μόνο που απέμεινε ήταν καμμένα συντρίμμια.</desc>
   </programme>
-  <programme start="20261022233000 +0000" stop="20261023002000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261022233500 +0000" stop="20261023002000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Τραγωδία στον Αέρα</title>
     <desc lang="el">Φονική Πτώση, Κύκλος 18 | Επεισόδιο 1 Η πτήση 780 της Cathay Pacific από την Ινδονησία στο Χονγκ Κονγκ βρίσκεται ψηλά πάνω από τη θάλασσα της Κίνας όταν σταματούν και οι δύο μηχανές και το Airbus A-330 μετατρέπεται σε ανεμοπλάνο 200 τόνων.</desc>
   </programme>
-  <programme start="20261023002000 +0000" stop="20261023010500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261023002000 +0000" stop="20261023011000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Τραγωδία στον Αέρα</title>
     <desc lang="el">Ποδοσφαιρική Τραγωδία, Κύκλος 18 | Επεισόδιο 9 Μεταφέροντας την ποδοσφαιρική ομάδα της βραζιλιάνικης Chapecoense, η πτήση 2933 της LaMia πλησιάζει στο Μεντεγίν της Κολούμπια όταν το πλήρωμα ξαφνικά ανακοινώνει ότι υπάρχει πρόβλημα με τα καύσιμα.</desc>
   </programme>
-  <programme start="20261023010500 +0000" stop="20261023015500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261023011000 +0000" stop="20261023020000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Κολοσσιαίες Μηχανές</title>
     <desc lang="el">Ισχύς Επόμενης Γενιάς, Κύκλος 2 | Επεισόδιο 5 Σε κάθε γενιά, οι τεχνολογικές εξελίξεις ανταποκρίνονται στις προκλήσεις της οικονομίας. Ειδικοί παρουσιάζουν την τελευταία επιστήμη πίσω από αυτές τις μηχανές.</desc>
   </programme>
-  <programme start="20261023015500 +0000" stop="20261023024000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261023020000 +0000" stop="20261023024500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Κολοσσιαίες Μηχανές</title>
     <desc lang="el">Δαίμονες Ταχύτητας, Κύκλος 2 | Επεισόδιο 6 Η ανάγκη για ταχύτητα έχει αντιμετωπιστεί με μια σειρά από υπέρτατες μηχανές. Ειδικοί διερευνούν τον σχεδιασμό μερικών από τις πιο γρήγορες μηχανές του κόσμου.</desc>
   </programme>
-  <programme start="20261023024000 +0000" stop="20261023031000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261023024500 +0000" stop="20261023031000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Έξω από τα Όρια της Επιστήμης</title>
     <desc lang="el">Επεισόδιο 13, Κύκλος 8 | Επεισόδιο 13 Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αποτυχίες όταν οδηγούμε στην παραλία, όταν τρέχουμε μεγάλες αποστάσεις και όταν κάνουμε ελεύθερη κατάδυση.</desc>
   </programme>
-  <programme start="20261023031000 +0000" stop="20261023035000 +0000" channel="nationalgeographic.gr">
-    <title lang="el">Ice Road Rescue: Διαδρομές Χάους - Ειδική Έκδοση Κ3 ΕΠ3</title>
+  <programme start="20261023031000 +0000" stop="20261023035500 +0000" channel="nationalgeographic.gr">
+    <title lang="el">Διάσωση στον Παγετό: Διαδρομές Χάους - Ειδική Έκδοση Ε3</title>
+    <desc lang="el">Επεισόδιο: Βαριές Ρυμουλκήσεις. Τα πιο βαριά φορτηγά αποτελούν την πιο δύσκολη δουλειά για τους διασώστες της Νορβηγίας.</desc>
+    <category lang="el">Ριάλιτι</category>
   </programme>
-  <programme start="20261023035000 +0000" stop="20261023044000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261023035500 +0000" stop="20261023044500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Family Guns</title>
     <desc lang="el">Κλέφτες Κανονιών, Κύκλος 1 | Επεισόδιο 3 Ο Paul παίρνει ένα ρίσκο 30.000 δολαρίων όταν δοκιμάζει ένα κανόνι του 17ου αιώνα. Θα τα καταφέρει το αρχαίο αυτό όπλο; Κάπου αλλού, ο Christian κάνει μια πολύ ακριβή αγορά.</desc>
   </programme>
-  <programme start="20261023044000 +0000" stop="20261023052500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261023044500 +0000" stop="20261023053000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Ζωή Kάτω από το Mηδέν: Η Επόμενη Γενιά</title>
     <desc lang="el">Ο Αγώνας Ξεκινά, Κύκλος 1 | Επεισόδιο 4 Καθώς ο παγωμένος, σκληρός χειμώνας της Αλάσκα πλησιάζει, οι κάτοικοι καλούνται να αντιμετωπίσουν ακραίους κινδύνους, προκλήσεις και δυσκολίες σε μια προσπάθεια απλώς να επιβιώσουν.</desc>
   </programme>
-  <programme start="20261023052500 +0000" stop="20261023061000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261023053000 +0000" stop="20261023061500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Τραγωδία στον Αέρα</title>
     <desc lang="el">Φονικά Όρια, Κύκλος 18 | Επεισόδιο 8 Η εσωτερική πτήση 821 της Aeroflot Nord από τη Μόσχα στο Περμ πλησιάζει στον προορισμό της όταν το αεροπλάνο πέφτει κατακόρυφα πάνω στον υπερσιβηρικό σιδηρόδρομο. Το μόνο που απέμεινε ήταν καμμένα συντρίμμια.</desc>
   </programme>
-  <programme start="20261023061000 +0000" stop="20261023070000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261023061500 +0000" stop="20261023070000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Τραγωδία στον Αέρα</title>
     <desc lang="el">Φονική Πτώση, Κύκλος 18 | Επεισόδιο 1 Η πτήση 780 της Cathay Pacific από την Ινδονησία στο Χονγκ Κονγκ βρίσκεται ψηλά πάνω από τη θάλασσα της Κίνας όταν σταματούν και οι δύο μηχανές και το Airbus A-330 μετατρέπεται σε ανεμοπλάνο 200 τόνων.</desc>
   </programme>
-  <programme start="20261023070000 +0000" stop="20261023074500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261023070000 +0000" stop="20261023075000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Τραγωδία στον Αέρα</title>
     <desc lang="el">Ποδοσφαιρική Τραγωδία, Κύκλος 18 | Επεισόδιο 9 Μεταφέροντας την ποδοσφαιρική ομάδα της βραζιλιάνικης Chapecoense, η πτήση 2933 της LaMia πλησιάζει στο Μεντεγίν της Κολούμπια όταν το πλήρωμα ξαφνικά ανακοινώνει ότι υπάρχει πρόβλημα με τα καύσιμα.</desc>
   </programme>
-  <programme start="20261023074500 +0000" stop="20261023083000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261023075000 +0000" stop="20261023083500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Brain Games</title>
     <desc lang="el">Κακή Συμπεριφορά Εγκεφάλου, Κύκλος 7 | Επεισόδιο 1 Ανακαλύψτε γιατί το μυαλό μας μπορεί να είναι προγραμματισμένο να πιστεύει ό,τι ακούμε και μάθετε πώς να πείθετε τους πάντες με μόλις μία απλή λέξη.</desc>
   </programme>
-  <programme start="20261023083000 +0000" stop="20261023092000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261023083500 +0000" stop="20261023092000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Brain Games</title>
     <desc lang="el">Η Zωή του Eγκεφάλου, Κύκλος 7 | Επεισόδιο 2 Από τη γέννησή μας ως το γήρας, ο εγκέφαλος προσαρμόζεται διαρκώς για να μας βοηθά να είμαστε όσο καλύτεροι μπορούμε σε κάθε στάδιο της ζωής μας. Οι αναμνήσεις, οι απόψεις μας, η αντίληψη του ίδιου μας του εαυτού αλλάζουν συνεχώς και όχι απαραίτητα με τον τρόπο που εμείς νομίζουμε.</desc>
   </programme>
-  <programme start="20261023092000 +0000" stop="20261023100500 +0000" channel="nationalgeographic.gr">
-    <title lang="el">Ice Road Rescue: Διαδρομές Χάους - Ειδική Έκδοση Κ3 ΕΠ4</title>
+  <programme start="20261023092000 +0000" stop="20261023101000 +0000" channel="nationalgeographic.gr">
+    <title lang="el">Διάσωση στον Παγετό: Διαδρομές Χάους - Ειδική Έκδοση Ε4</title>
+    <desc lang="el">Επεισόδιο: Ομάδα Εκκαθάρισης. Οι διασώστες της Νορβηγίας αντιμετωπίζουν την πρόκληση να ξεκολλήσουν απορριμματοφόρα.</desc>
+    <category lang="el">Ριάλιτι</category>
   </programme>
-  <programme start="20261023100500 +0000" stop="20261023105500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261023101000 +0000" stop="20261023105500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Family Guns</title>
     <desc lang="el">Ανταλλαγή Πυροβολισμών, Κύκλος 1 | Επεισόδιο 4 Η ομάδα δοκιμάζει μια ποικιλία όπλων του Β' Παγκοσμίου Πολέμου κατά τη διάρκεια της προετοιμασίας για μια προσεχή αναπαράσταση.</desc>
   </programme>
@@ -109629,27 +109664,27 @@
     <title lang="el">Breakthrough</title>
     <desc lang="el">Αντιμετωπίζοντας τις Πανδημίες, Κύκλος 1 | Επεισόδιο 4 Οι νέες τεχνολογίες που έχουν αναπτυχθεί από επιστήμονες και ειδικούς της ιατρικής σύντομα θα χρησιμοποιούνται για την αντιμετώπιση πανδημικών ιών του μέλλοντος.</desc>
   </programme>
-  <programme start="20261023140500 +0000" stop="20261023145000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261023140500 +0000" stop="20261023145500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Αυτοκίνητα Εκπέμπουν S.O.S.</title>
     <desc lang="el">Fiat X1/9, Κύκλος 9 | Επεισόδιο 3 Ο Tim και ο Fuzz αναλαμβάνουν μια έκτακτη ανάγκη. Ο Steve, ο 53χρονος ιδιοκτήτης ενός Fiat X1/9, έχει καρκίνο στο τελευταίο στάδιο αλλά επιθυμεί να δει τον γιο του να οδηγεί το αμάξι πριν να είναι πολύ αργά.</desc>
   </programme>
-  <programme start="20261023145000 +0000" stop="20261023151500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261023145500 +0000" stop="20261023151500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Έξω από τα Όρια της Επιστήμης</title>
     <desc lang="el">Επεισόδιο 12, Κύκλος 8 | Επεισόδιο 12 Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αποτυχίες όταν ξεφορτώνουμε φορτηγό, όταν κάνουμε πολλά πράγματα ταυτόχρονα και όταν κάνουμε ανάποδη τούμπα με μοτοσυκλέτα.</desc>
   </programme>
-  <programme start="20261023151500 +0000" stop="20261023153500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261023151500 +0000" stop="20261023154000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Έξω από τα Όρια της Επιστήμης</title>
     <desc lang="el">Επεισόδιο 15, Κύκλος 8 | Επεισόδιο 15 Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αποτυχίες όταν ρυμουλκούμε μια βάρκα, όταν φτιάχνουμε κούνια πάνω σε δέντρο και όταν επιχειρούμε να κάνουμε τούμπα ξυπόλυτοι στο θαλάσσιο σκι.</desc>
   </programme>
-  <programme start="20261023153500 +0000" stop="20261023162000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261023154000 +0000" stop="20261023162500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Τραγωδία στον Αέρα</title>
     <desc lang="el">Κάθετη Πτώση, Κύκλος 18 | Επεισόδιο 10 Καθ' οδόν από την Ουάσινγκτον στο Κολούμπους του Οχάιο, η πτήση 6291 της United Express πλησιάζει στον προορισμό της όταν το υπερσύγχρονο αεροσκάφος συντρίβεται μόλις ενάμισι χιλιόμετρο από τον αεροδιάδρομο.</desc>
   </programme>
-  <programme start="20261023162000 +0000" stop="20261023171000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261023162500 +0000" stop="20261023171500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Τραγωδία στον Αέρα</title>
     <desc lang="el">Εκρηκτική Προσγείωση, Κύκλος 19 | Επεισόδιο 3 Μετά από μια προσγείωση ρουτίνας, ένα αεροπλάνο της Ταϊβάν συνταράζεται από μια τεράστια έκρηξη, αλλά οι ερευνητές δεν βρίσκουν ενδείξεις για ύπαρξη βόμβας στο εσωτερικό του.</desc>
   </programme>
-  <programme start="20261023171000 +0000" stop="20261023180000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261023171500 +0000" stop="20261023180000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Τραγωδία στον Αέρα</title>
     <desc lang="el">Αναταραχή στον Αεροδιάδρομο, Κύκλος 19 | Επεισόδιο 4 Μέσα στη σύγχυση και την πυκνή ομίχλη, ένα DC-9 καταλήγει στη λάθος μεριά ενός αεροδιάδρομου στο Ντιτρόιτ και βρίσκεται ακριβώς πάνω στην πορεία ενός 727 που πλησιάζει.</desc>
   </programme>
@@ -109657,51 +109692,51 @@
     <title lang="el">Ανατομία Αεροπορικής Συντριβής</title>
     <desc lang="el">Delta 191 / Ντάλας - Φορτ Γουόρθ, Κύκλος 2 | Επεισόδιο 2 Η πτήση 191 της Delta μπήκε σε μια καταιγίδα στο ταξίδι από το Φορτ Λόντερντεϊλ προς το Ντάλας-Φορτ Γουόρθ. Κατά την τελική προσέγγιση, μια ξαφνική καθοδική ριπή ανέμου κατέστησε αδύνατη την ασφαλή προσγείωση. Το πλήρωμα έχασε τον έλεγχο του αεροσκάφους, το οποίο συνετρίβη πριν φτάσει στον διάδρομο. Το επεισόδιο παρουσιάζει τις μετεωρολογικές γνώσεις που αποκτήθηκαν μέσα από αυτή την τραγωδία.</desc>
   </programme>
-  <programme start="20261023185000 +0000" stop="20261023193500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261023185000 +0000" stop="20261023194000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Δίωξη Λαθρεμπορίου</title>
     <desc lang="el">Μυστηριώδη Φάρμακα, Κύκλος 1 | Επεισόδιο 7 Στο Μισισίπι, πράκτορες σταματούν διάφορα φορτηγά για τα οποία υπάρχουν υποψίες ότι μεταφέρουν παράνομο φορτίο. Στη Φλόριντα, ερευνούν ένα σκάφος από την Τζαμάικα. Στο Σαν Χουάν, επιβάτες επιχειρούν να διακινήσουν παράνομα φάρμακα.</desc>
   </programme>
-  <programme start="20261023193500 +0000" stop="20261023202500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261023194000 +0000" stop="20261023202500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Υπερκατασκευές των Ναζί</title>
     <desc lang="el">Οι Κρυμμένες Σπηλιές του Χίτλερ, Κύκλος 1 | Επεισόδιο 5 Η ιστορία πίσω από τη δημιουργία του πιο προηγμένου αεροπλάνου του Β' Παγκοσμίου πολέμου, του Messerschmitt Me 262 και του υπόγειου εργαστηρίου στο οποίο κατασκευάστηκε.</desc>
   </programme>
-  <programme start="20261023202500 +0000" stop="20261023211000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261023202500 +0000" stop="20261023211500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Υπερκατασκευές των Ναζί</title>
     <desc lang="el">Οχυρωμένος στο Βερολίνο, Κύκλος 1 | Επεισόδιο 6 Απρίλιος του 1945. Ασφαλής στο απόρθητο κρησφύγετό του στο κέντρο του Βερολίνου, ο Χίτλερ προετοιμάζεται για την τελική επίθεση των Συμμάχων.</desc>
   </programme>
-  <programme start="20261023211000 +0000" stop="20261023220000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261023211500 +0000" stop="20261023220000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Ανατομία Αεροπορικής Συντριβής</title>
     <desc lang="el">Delta 191 / Ντάλας - Φορτ Γουόρθ, Κύκλος 2 | Επεισόδιο 2 Η πτήση 191 της Delta μπήκε σε μια καταιγίδα στο ταξίδι από το Φορτ Λόντερντεϊλ προς το Ντάλας-Φορτ Γουόρθ. Κατά την τελική προσέγγιση, μια ξαφνική καθοδική ριπή ανέμου κατέστησε αδύνατη την ασφαλή προσγείωση. Το πλήρωμα έχασε τον έλεγχο του αεροσκάφους, το οποίο συνετρίβη πριν φτάσει στον διάδρομο. Το επεισόδιο παρουσιάζει τις μετεωρολογικές γνώσεις που αποκτήθηκαν μέσα από αυτή την τραγωδία.</desc>
   </programme>
-  <programme start="20261023220000 +0000" stop="20261023224500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261023220000 +0000" stop="20261023225000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Δίωξη Λαθρεμπορίου</title>
     <desc lang="el">Μυστηριώδη Φάρμακα, Κύκλος 1 | Επεισόδιο 7 Στο Μισισίπι, πράκτορες σταματούν διάφορα φορτηγά για τα οποία υπάρχουν υποψίες ότι μεταφέρουν παράνομο φορτίο. Στη Φλόριντα, ερευνούν ένα σκάφος από την Τζαμάικα. Στο Σαν Χουάν, επιβάτες επιχειρούν να διακινήσουν παράνομα φάρμακα.</desc>
   </programme>
-  <programme start="20261023224500 +0000" stop="20261023233000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261023225000 +0000" stop="20261023233500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Τραγωδία στον Αέρα</title>
     <desc lang="el">Κάθετη Πτώση, Κύκλος 18 | Επεισόδιο 10 Καθ' οδόν από την Ουάσινγκτον στο Κολούμπους του Οχάιο, η πτήση 6291 της United Express πλησιάζει στον προορισμό της όταν το υπερσύγχρονο αεροσκάφος συντρίβεται μόλις ενάμισι χιλιόμετρο από τον αεροδιάδρομο.</desc>
   </programme>
-  <programme start="20261023233000 +0000" stop="20261024002000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261023233500 +0000" stop="20261024002500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Τραγωδία στον Αέρα</title>
     <desc lang="el">Εκρηκτική Προσγείωση, Κύκλος 19 | Επεισόδιο 3 Μετά από μια προσγείωση ρουτίνας, ένα αεροπλάνο της Ταϊβάν συνταράζεται από μια τεράστια έκρηξη, αλλά οι ερευνητές δεν βρίσκουν ενδείξεις για ύπαρξη βόμβας στο εσωτερικό του.</desc>
   </programme>
-  <programme start="20261024002000 +0000" stop="20261024010500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261024002500 +0000" stop="20261024011000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Τραγωδία στον Αέρα</title>
     <desc lang="el">Αναταραχή στον Αεροδιάδρομο, Κύκλος 19 | Επεισόδιο 4 Μέσα στη σύγχυση και την πυκνή ομίχλη, ένα DC-9 καταλήγει στη λάθος μεριά ενός αεροδιάδρομου στο Ντιτρόιτ και βρίσκεται ακριβώς πάνω στην πορεία ενός 727 που πλησιάζει.</desc>
   </programme>
-  <programme start="20261024010500 +0000" stop="20261024015500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261024011000 +0000" stop="20261024020000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Ανατομία Αεροπορικής Συντριβής</title>
     <desc lang="el">Delta 191 / Ντάλας - Φορτ Γουόρθ, Κύκλος 2 | Επεισόδιο 2 Η πτήση 191 της Delta μπήκε σε μια καταιγίδα στο ταξίδι από το Φορτ Λόντερντεϊλ προς το Ντάλας-Φορτ Γουόρθ. Κατά την τελική προσέγγιση, μια ξαφνική καθοδική ριπή ανέμου κατέστησε αδύνατη την ασφαλή προσγείωση. Το πλήρωμα έχασε τον έλεγχο του αεροσκάφους, το οποίο συνετρίβη πριν φτάσει στον διάδρομο. Το επεισόδιο παρουσιάζει τις μετεωρολογικές γνώσεις που αποκτήθηκαν μέσα από αυτή την τραγωδία.</desc>
   </programme>
-  <programme start="20261024015500 +0000" stop="20261024024000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261024020000 +0000" stop="20261024024500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Δίωξη Λαθρεμπορίου</title>
     <desc lang="el">Μυστηριώδη Φάρμακα, Κύκλος 1 | Επεισόδιο 7 Στο Μισισίπι, πράκτορες σταματούν διάφορα φορτηγά για τα οποία υπάρχουν υποψίες ότι μεταφέρουν παράνομο φορτίο. Στη Φλόριντα, ερευνούν ένα σκάφος από την Τζαμάικα. Στο Σαν Χουάν, επιβάτες επιχειρούν να διακινήσουν παράνομα φάρμακα.</desc>
   </programme>
-  <programme start="20261024024000 +0000" stop="20261024030500 +0000" channel="nationalgeographic.gr">
+  <programme start="20261024024500 +0000" stop="20261024031000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Έξω από τα Όρια της Επιστήμης</title>
     <desc lang="el">Επεισόδιο 12, Κύκλος 8 | Επεισόδιο 12 Σε αυτό το επεισόδιο, μαθαίνουμε την επιστήμη πίσω από τις αποτυχίες όταν ξεφορτώνουμε φορτηγό, όταν κάνουμε πολλά πράγματα ταυτόχρονα και όταν κάνουμε ανάποδη τούμπα με μοτοσυκλέτα.</desc>
   </programme>
-  <programme start="20261024030500 +0000" stop="20261024035000 +0000" channel="nationalgeographic.gr">
+  <programme start="20261024031000 +0000" stop="20261024035000 +0000" channel="nationalgeographic.gr">
     <title lang="el">Brain Games</title>
     <desc lang="el">Μυαλό Εναντίον Σώματος, Κύκλος 1 | Επεισόδιο 2 Ανακαλύψτε τους πολλούς τρόπους με τους οποίους το μυαλό και το σώμα μας συνεργάζονται και δείτε πόσο εύκολο είναι να καταστραφεί αυτή η συνεργασία.</desc>
   </programme>
@@ -112910,8 +112945,8 @@
     <desc lang="el">Ενημερωτικό Μαγκαζίνο. Ενημερωθείτε για όλα όσα συμβαίνουν στο συναρπαστικό χώρο της έβδομης τέχνης αποκλειστικά από τα κανάλια Novacinema!</desc>
   </programme>
   <programme start="20261025065000 +0000" stop="20261025083500 +0000" channel="novacinema1.gr">
-    <title lang="el">The Best Christmas Pageant Ever</title>
-    <desc lang="el">Κωμωδία. Όταν μια άτακτη παρέα παιδιών αναλαμβάνει ξαφνικά τη χριστουγεννιάτικη γιορτή της πόλης, επικρατεί χαμός. Ανάμεσα σε γέλια και ανατροπές όλοι ανακαλύπτουν το αληθινό πνεύμα των γιορτών.</desc>
+    <title lang="el">Το Κουκλόσπιτο της Γκάμπι: Η Ταινία</title>
+    <desc lang="el">Οικογενειακή Ταινία.</desc>
   </programme>
   <programme start="20261025083500 +0000" stop="20261025102000 +0000" channel="novacinema1.gr">
     <title lang="el">On Fire</title>
@@ -114967,7 +115002,7 @@
   </programme>
   <programme start="20261024133000 +0000" stop="20261024153000 +0000" channel="novasports2.gr">
     <title lang="el">Λειψία - Έλβερσμπεργκ (Ζ) : Bundesliga 2026/27</title>
-    <desc lang="el">Bundesliga 2026/27. Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες.</desc>
+    <desc lang="el">Bundesliga 2026/27. Η Λειψία (7η-9β) θέλει να αντιδράσει μετά τη βαριά ήττα με 6-1 από την Μπάγερν στο Μόναχο και συναντά στην 7η αγωνιστική την Έλβερσμπεργκ (6η-10β), που πήρε εντός έδρας νίκη με.</desc>
   </programme>
   <programme start="20261024153000 +0000" stop="20261024160000 +0000" channel="novasports2.gr">
     <title lang="el">Παγκόσμιο Πρωτάθλημα UIM F1Η2Ο 2026 : Στιγμιότυπα, Σαγκάη - Β' Μέρος</title>
@@ -114983,7 +115018,7 @@
   </programme>
   <programme start="20261024183000 +0000" stop="20261024203000 +0000" channel="novasports2.gr">
     <title lang="el">Νυρεμβέργη - Καϊζερσλάουτερν (Ζ) : 2.Bundesliga 2026/27</title>
-    <desc lang="el">2.Bundesliga 2026/27. Παρακολουθείτε αγώνες της Bundesliga 2, της δεύτερης κατηγορίας του γερμανικού πρωταθλήματος ποδοσφαίρου.</desc>
+    <desc lang="el">2.Bundesliga 2026/27. Η Νυρεμβέργη (2η-18β) φιλοξενεί την Καϊζερσλάουτερν (4η-15β) στην 9η αγωνιστική του πρωταθλήματος της δεύτερης κατηγορίας της Γερμανίας. Περιγραφή: Δ. Στρούμπος</desc>
   </programme>
   <programme start="20261024203000 +0000" stop="20261024210000 +0000" channel="novasports2.gr">
     <title lang="el">Racing on the Edge : Στιγμιότυπα SailGP Series</title>
@@ -115251,7 +115286,7 @@
   </programme>
   <programme start="20261024133000 +0000" stop="20261024153000 +0000" channel="novasports3.gr">
     <title lang="el">Κολωνία - Σάλκε (Ζ) : Bundesliga 2026/27</title>
-    <desc lang="el">Bundesliga 2026/27. Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες.</desc>
+    <desc lang="el">Bundesliga 2026/27. Η Κολωνία (12η-7β) και η Σάλκε (15η-5β) έρχονται αντιμέτωπες στην 7η αγωνιστική της Bundesliga και προέρχονται από ήττες με 1-0 στα ματς με την Άιντραχτ εκτός και τη Μάιντς εντός.</desc>
   </programme>
   <programme start="20261024153000 +0000" stop="20261024163000 +0000" channel="novasports3.gr">
     <title lang="el">Bundesliga 2026/27 : Ανασκόπηση 6ης Αγωνιστικής</title>
@@ -115259,7 +115294,7 @@
   </programme>
   <programme start="20261024163000 +0000" stop="20261024183000 +0000" channel="novasports3.gr">
     <title lang="el">Ντόρτμουντ - Άιντραχτ Φρανκφούρτης (Ζ) : Bundesliga 2026/27</title>
-    <desc lang="el">Bundesliga 2026/27. Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες.</desc>
+    <desc lang="el">Bundesliga 2026/27. Η Ντόρτμουντ (2η-14β), που θέλει να επιστρέψει στις νίκες μετά από δύο σερί ισοπαλίες, και η Άιντραχτ (11η-8β), που πήρε την πρώτη της εντός έδρας νίκη με 1-0 επί της Κολωνίας,.</desc>
   </programme>
   <programme start="20261024183000 +0000" stop="20261024203000 +0000" channel="novasports3.gr">
     <title lang="el">Βέρντερ Βρέμης - Πάντερμπορν : Bundesliga 2026/27</title>
@@ -115503,7 +115538,7 @@
   </programme>
   <programme start="20261024133000 +0000" stop="20261024153000 +0000" channel="novasports4.gr">
     <title lang="el">Μάιντς - Βέρντερ Βρέμης (Z) : Bundesliga 2026/27</title>
-    <desc lang="el">Bundesliga 2026/27. Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες.</desc>
+    <desc lang="el">Bundesliga 2026/27. Η Μάιντς (5η-10β), που επικράτησε με 1-0 στην έδρα της Σάλκε, και η Βέρντερ (8η-9β), η οποία προέρχεται από δύο συνεχόμενες ισοπαλίες, έρχονται αντιμέτωπες για την 7η αγωνιστική.</desc>
   </programme>
   <programme start="20261024153000 +0000" stop="20261024160000 +0000" channel="novasports4.gr">
     <title lang="el">Novasports Exclusive : Εργκίν Αταμάν</title>
@@ -115723,7 +115758,7 @@
   </programme>
   <programme start="20261024133000 +0000" stop="20261024153000 +0000" channel="novasports5.gr">
     <title lang="el">Άουγκσμπουργκ - Ουνιόν Βερολίνου (Ζ) : Bundesliga 2026/27</title>
-    <desc lang="el">Bundesliga 2026/27. Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες.</desc>
+    <desc lang="el">Bundesliga 2026/27. Η Άουγκσμπουργκ (10η-8β), που δεν έχει νίκη στα τέσσερα τελευταία παιχνίδια της, και η Ουνιόν (17η-5β), που πήρε ισοπαλία 0-0 κόντρα στην Ντόρτμουντ εντός, έρχονται αντιμέτωπες.</desc>
   </programme>
   <programme start="20261024153000 +0000" stop="20261024173000 +0000" channel="novasports5.gr">
     <title lang="el">Μανρέσα - Ρόμα : EuroCup 2026/27</title>
@@ -115983,7 +116018,7 @@
   </programme>
   <programme start="20261024133000 +0000" stop="20261024153000 +0000" channel="novasports6.gr">
     <title lang="el">Πάντερμπορν - Αμβούργο (Ζ) : Bundesliga 2026/27</title>
-    <desc lang="el">Bundesliga 2026/27. Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες.</desc>
+    <desc lang="el">Bundesliga 2026/27. Η Πάντερμπορν (16η-5β), που προέρχεται από ισοπαλία 2-2 με τη Βέρντερ εκτός, και το Αμβούργο (9ο-9β), που πέτυχε τρίτη σερί νίκη επικρατώντας 1-0 της Στουτγκάρδης εντός,.</desc>
   </programme>
   <programme start="20261024153000 +0000" stop="20261024164500 +0000" channel="novasports6.gr">
     <title lang="el">Τένις: WTA 1000 2026 : Πεκίνο, Φάση των 64</title>
@@ -116851,15 +116886,15 @@
   </programme>
   <programme start="20261024113000 +0000" stop="20261024133000 +0000" channel="novasportspremierleague.gr">
     <title lang="el">Άστον Βίλα - Μάντσεστερ Σίτι (Ζ) : Premier League 2026/27</title>
-    <desc lang="el">Premier League 2026/27. Η Premier League, η κορυφαία κατηγορία του αγγλικού ποδοσφαίρου που καθηλώνει εκατομμύρια φιλάθλους, αποκλειστικά στο Novasports!</desc>
+    <desc lang="el">Premier League 2026/27. Η Άστον Βίλα (12η-8β) υποδέχεται τη Μάντσεστερ Σίτι (1η-21β) για την 8η αγωνιστική, με τις δύο ομάδες να προέρχονται από νίκες επί της Νιούκαστλ εκτός με 1-0 και της Ίπσουιτς.</desc>
   </programme>
   <programme start="20261024133000 +0000" stop="20261024140000 +0000" channel="novasportspremierleague.gr">
-    <title lang="el">Ιστορίες της Premier League : Αθλητική Εκπομπή</title>
-    <desc lang="el">Αθλητική Εκπομπή. Αυτό το πρόγραμμα παρουσιάζει τις προσωπικότητες που διαμόρφωσαν την εποχή της Premier League, με ιδιαίτερη έμφαση στις ιστορίες που έχουν απήχηση στο διεθνές κοινό.</desc>
+    <title lang="el">Ιστορίες της Premier League : Η Εξέλιξη της Θέσης του Τερματοφύλακα</title>
+    <desc lang="el">Η Εξέλιξη της Θέσης του Τερματοφύλακα.</desc>
   </programme>
   <programme start="20261024140000 +0000" stop="20261024160000 +0000" channel="novasportspremierleague.gr">
     <title lang="el">Άρσεναλ - Έβερτον (Ζ) : Premier League 2026/27</title>
-    <desc lang="el">Premier League 2026/27. Η Premier League, η κορυφαία κατηγορία του αγγλικού ποδοσφαίρου που καθηλώνει εκατομμύρια φιλάθλους, αποκλειστικά στο Novasports!</desc>
+    <desc lang="el">Premier League 2026/27. Η Άρσεναλ (2η-18β), που παρέμεινε κοντά στην κορυφή με εκτός έδρας νίκη 1-0 επί της Νότιγχαμ Φόρεστ, και η Έβερτον (8η-10β), που υπέστη εντός έδρας ήττα 2-0 από την Τσέλσι,.</desc>
   </programme>
   <programme start="20261024160000 +0000" stop="20261024163000 +0000" channel="novasportspremierleague.gr">
     <title lang="el">Προεπισκόπηση Premier League : 8η Αγωνιστική</title>
@@ -116867,11 +116902,11 @@
   </programme>
   <programme start="20261024163000 +0000" stop="20261024183000 +0000" channel="novasportspremierleague.gr">
     <title lang="el">Τσέλσι - Τότεναμ (Ζ) : Premier League 2026/27</title>
-    <desc lang="el">Premier League 2026/27. Η Premier League, η κορυφαία κατηγορία του αγγλικού ποδοσφαίρου που καθηλώνει εκατομμύρια φιλάθλους, αποκλειστικά στο Novasports!</desc>
+    <desc lang="el">Premier League 2026/27. Η Τσέλσι (4η-13β) υποδέχεται την Τότεναμ (16η-6β) για την 8η αγωνιστική, με τις δύο ομάδες να προέρχονται από νίκες στα ματς κόντρα στην Έβερτον εκτός με 2-0 και την Κόβεντρι.</desc>
   </programme>
   <programme start="20261024183000 +0000" stop="20261024190000 +0000" channel="novasportspremierleague.gr">
-    <title lang="el">Ιστορίες της Premier League : Αθλητική Εκπομπή</title>
-    <desc lang="el">Αθλητική Εκπομπή. Αυτό το πρόγραμμα παρουσιάζει τις προσωπικότητες που διαμόρφωσαν την εποχή της Premier League, με ιδιαίτερη έμφαση στις ιστορίες που έχουν απήχηση στο διεθνές κοινό.</desc>
+    <title lang="el">Ιστορίες της Premier League : Η Εξέλιξη της Θέσης του Τερματοφύλακα</title>
+    <desc lang="el">Η Εξέλιξη της Θέσης του Τερματοφύλακα.</desc>
   </programme>
   <programme start="20261024190000 +0000" stop="20261024210000 +0000" channel="novasportspremierleague.gr">
     <title lang="el">Φούλαμ - Χαλ : Premier League 2026/27</title>
@@ -117223,7 +117258,7 @@
   </programme>
   <programme start="20261024163000 +0000" stop="20261024184500 +0000" channel="novasportsprime.gr">
     <title lang="el">Asteras AKTOR - Λεβαδειακός (Ζ) : Super League 2026/27</title>
-    <desc lang="el">Super League 2026/27. Το ελληνικό πρωτάθλημα της Super League, με αποκλειστικούς αγώνες κορυφαίων ομάδων αλλά και δυνατά ντέρμπι της φετινής σεζόν ανάμεσα στους διεκδικητές του τίτλου, είναι στα.</desc>
+    <desc lang="el">Super League 2026/27. Ο Asteras AKTOR (11ος-5β) προέρχεται από βαριά ήττα με 5-1 κόντρα στον Παναθηναϊκό εκτός και φιλοξενεί στην 8η αγωνιστική τoν Λεβαδειακό (13ος-2β), που ήρθε ισόπαλος 0-0 με τον.</desc>
   </programme>
   <programme start="20261024184500 +0000" stop="20261024203000 +0000" channel="novasportsprime.gr">
     <title lang="el">Η Ωρα των Πρωταθλητών (Ζ) : Αθλητική Εκπομπή</title>
@@ -117579,7 +117614,7 @@
   </programme>
   <programme start="20261024140000 +0000" stop="20261024160000 +0000" channel="novasportsstart.gr">
     <title lang="el">Κόβεντρι - Φούλαμ (Ζ) : Premier League 2026/27</title>
-    <desc lang="el">Premier League 2026/27. Η Premier League, η κορυφαία κατηγορία του αγγλικού ποδοσφαίρου που καθηλώνει εκατομμύρια φιλάθλους, αποκλειστικά στο Novasports!</desc>
+    <desc lang="el">Premier League 2026/27. Η Κόβεντρι (17η-6β), που ηττήθηκε με 3-1 από την Τότεναμ εκτός έδρας, και η Φούλαμ (18η-5β), που πήρε την πρώτη της νίκη με 1-0 επί της Χαλ εντός, συναντιούνται στο πλαίσιο.</desc>
   </programme>
   <programme start="20261024160000 +0000" stop="20261024170000 +0000" channel="novasportsstart.gr">
     <title lang="el">Σειρά Michelin 24H 2026 : Βαρκελώνη, Ισπανία</title>
@@ -133902,7 +133937,7 @@
   </programme>
   <programme start="20261022210000 +0300" stop="20261022223000 +0300" channel="skai.gr">
     <title lang="el">Μπλε Ώρες | Επεισόδιο 35</title>
-    <desc lang="el">Η Ολυμπία κάνει έναν πολύ μεγάλο καβγά στον Δημήτρη, με αφορμή το ψέμα για την πεθαμένη θεία του και σε έξαλλη κατάσταση φεύγει και πηγαίνει στη Σκιάθο για να ηρεμήσει, παρά τις αντιδράσεις της Κορίνας. Η Μάρθα, στο σπίτι της Όλγας, συναντιέται με τον Άγγελο και τώρα πια ξέρει ποιος είναι ο άντρας που της τράβηξε την προσοχή. Το εξομολογείται στην Ελένη, χωρίς όμως να της πει το όνομά του και ποιος είναι. Η Βάσια με τον Διονύση κάνουν μια συζήτηση και του αποκαλύπτει αυτό που έμαθε για τη Νίκη, λέγοντάς του ότι δεν μπορεί να γίνει τίποτα μεταξύ τους, γιατί για εκείνη είναι πάνω απ’ όλα η φιλία. Ο Άγγελος πάει στο μαγαζί της Ελένης και πίνει αρκετά. Η Εύα δεν μπορεί να τον αφήσει να οδηγήσει μέχρι το σπίτι του και τον πηγαίνει αυτή. Ο Άγγελος βρίσκεται σε ευάλωτη κατάσταση και της εξομολογείται όλα όσα κρύβει μέσα του. Η Εύα δεν μπορεί να αντισταθεί στα συναισθήματά της και υποκύπτει στον έρωτα που αισθάνεται για εκείνον. Την επόμενη μέρα, ο Άγγελος νομίζει ότι θα είναι και πάλι μαζί, αλλά η ψυχρή στάση της Εύας, τον απογοητεύει για μια ακόμα φορά. Βία, Σεξ, Ακατάλληλη Φρασεολογία #MpleOres</desc>
+    <desc lang="el">Η Ολυμπία κάνει έναν πολύ μεγάλο καβγά στον Δημήτρη, με αφορμή το ψέμα για την πεθαμένη θεία του και σε έξαλλη κατάσταση φεύγει και πηγαίνει στη Σκιάθο για να ηρεμήσει, παρά τις αντιδράσεις της Κορίνας. Η Μάρθα, στο σπίτι της Όλγας, συναντιέται με τον Άγγελο και τώρα πια ξέρει ποιος είναι ο άντρας που της τράβηξε την προσοχή. Το εξομολογείται στην Ελένη, χωρίς όμως να της πει το όνομά του και ποιος είναι. Η Βάσια με τον Διονύση κάνουν μια συζήτηση και του αποκαλύπτει αυτό που έμαθε για τη Νίκη, λέγοντάς του ότι δεν μπορεί να γίνει τίποτα μεταξύ τους, γιατί για εκείνη είναι πάνω απ’ όλα η φιλία. Ο Άγγελος πάει στο μαγαζί της Ελένης και πίνει αρκετά. Η Εύα δεν μπορεί να τον αφήσει να οδηγήσει μέχρι το σπίτι του και τον πηγαίνει αυτή. Ο Άγγελος βρίσκεται σε ευάλωτη κατάσταση και της εξομολογείται όλα όσα κρύβει μέσα του. Η Εύα δεν μπορεί να αντισταθεί στα συναισθήματά της και υποκύπτει στον έρωτα που αισθάνεται για εκείνον. Την επόμενη μέρα, ο Άγγελος νομίζει ότι θα είναι και πάλι μαζί, αλλά η ψυχρή στάση της Εύας, τον απογοητεύει για μια ακόμα φορά. Σεξ, Ακατάλληλη Φρασεολογία #MpleOres</desc>
   </programme>
   <programme start="20261022223000 +0300" stop="20261023004500 +0300" channel="skai.gr">
     <title lang="el">Ο Άνθρωπος που Έσπαγε Πλάκα</title>
@@ -133974,7 +134009,7 @@
   </programme>
   <programme start="20261023221000 +0300" stop="20261024001000 +0300" channel="skai.gr">
     <title lang="el">Dragons’ Den</title>
-    <desc lang="el">To DRAGONS’ DEN, με τον Σάκη Τανιμανίδη, το μοναδικό τηλεοπτικό, ψυχαγωγικό πρόγραμμα για την επιχειρηματικότητα, δίνει τη δυνατότητα σε φιλόδοξους startuppers, κάθε ηλικίας και τομέα, να διεκδικήσουν μεγάλες συμφωνίες που θα απογειώσουν την επιχείρησή τους. Επτά leaders του επιχειρείν, ο Χάρης Βαφειάς, o Λέων Γιοχάη, η Μαρία Χατζηστεφανή, ο Γιάννης Τσιώρης, η Ελευθερία Ζούρου, ο Αντώνης Καράτζης και ο Κώστας Χαλκιάς, είναι οι Dragons, που μέσα από σκληρές διαπραγματεύσεις θα αποφασίσουν εάν θα πάρουν ρίσκο να προχωρήσουν σε στρατηγικά deals, με τις επιχειρήσεις που τους παρουσιάζονται. #DragonsDenGR</desc>
+    <desc lang="el">Έξι πρωτοποριακές επιχειρήσεις φέρνει στις οθόνες μας το σημερινό επεισόδιο «DRAGONS’ DEN» με τον Σάκη Τανιμανίδη. Ο Χάρης Βαφειάς, η Μαρία Χατζηστεφανή, ο Λέων Γιοχάη, ο Γιάννης Τσιώρης, ο Αντώνης Καράτζης, η Ελευθερία Ζούρου και ο Κώστας Χαλκιάς είναι έτοιμοι να πάρουν το ρίσκο για εκείνες τις επιχειρήσεις που θα ξεχωρίσουν. Μία πολύ δυναμική tattoo artist εμφανίζεται μπροστά στους Dragons και η επιχείρησή της συνδυάζει το προϊόν με την εμπειρία. Θα καταφέρουν τα mystery boxes να κινήσουν την περιέργειά τους αρκετά, ώστε να κλείσει συμφωνία; Δύο νέοι startuppers από τη Λαμία παρουσιάζουν την πλατφόρμα τους με στόχο να κάνουν deal με την Ελευθερία Ζούρου. Θα έχει αποτέλεσμα η… στοχοπροσήλωσή τους; Ένα βιβλίο διαφορετικό από τα άλλα βάζει τους Dragons σε σκέψεις ενώ ένα αρωματικό προϊόν τους κάνει να επιβιβαστούν σε αυτοκίνητο... Ένας startupper, με έδρα της επιχείρησής του τις Σέρρες, έρχεται για να μας κάνει όλους «παστρικοθοδώρες». Η μυρωδιά της καθαριότητας διεγείρει το επιχειρηματικό ένστικτο των Dragons και η μάχη της διεκδίκησης ξεκινά… Τα χειροποίητα προϊόντα μόδας μίας δημιουργού από την Θεσσαλονίκη φαίνεται να εκτιμώνται ιδιαιτέρως από τις γυναίκες Dragons, αποτελούν όμως επενδυτική ευκαιρία; #DragonsDenGR</desc>
   </programme>
   <programme start="20261024001000 +0300" stop="20261024014000 +0300" channel="skai.gr">
     <title lang="el">Στην Αγκαλιά του Φάνη</title>
@@ -134005,8 +134040,8 @@
     <desc lang="el">Για 2η σεζόν, η εκπομπή «Ζω Καλά» με τον Μιχάλη Κεφαλογιάννη αποτελεί έναν οδηγό ευζωίας που επιχειρεί να μετατρέψει τη γνώση σε κάτι κατανοητό, χρήσιμο και πρακτικό. Με επίκεντρο τον άνθρωπο, μιλάει για όσα μπορούν να κάνουν καλύτερη την καθημερινότητά μας και χωρίς να χάνει το κύρος και την εγκυρότητά της, ανοίγει τη συζήτηση γύρω από όλα όσα επηρεάζουν την ποιότητα της ζωής μας και φέρνει στο προσκήνιο την πρόληψη, την υγεία, τη διατροφή, την άσκηση και την ψυχική ευεξία. Με ανανεωμένη δομή και μέσα από διαδραστικούς τρόπους που καλούν τον τηλεθεατή να συμμετάσχει, η πληροφορία γίνεται πιο εύληπτη με τη βοήθεια γραφικών χωρίς να χάνει την επιστημονική της αξία. Με τη συμμετοχή καταξιωμένων επιστημόνων, αλλά και μέσα από πραγματικές ιστορίες ανθρώπων, η εκπομπή αναζητά απαντήσεις σε ερωτήματα που μας απασχολούν όλους. #ZwKala</desc>
   </programme>
   <programme start="20261024124500 +0300" stop="20261024135000 +0300" channel="skai.gr">
-    <title lang="el">Happy Traveller</title>
-    <desc lang="el">Ο Ευτύχης Μπλέτσας και η Ηλέκτρα Αστέρη έχουν ταξιδέψει σε όλες τις ηπείρους και έχουν επισκεφτεί κάθε γωνιά του πλανήτη. Για 12η σεζόν, οι τηλεθεατές του ΣΚΑΪ «ταξιδεύουν» μαζί τους σε πανέμορφα μέρη της Ελλάδας και μαγικά μέρη στην άλλη άκρη της γης. Με την πιο σημαντική αποσκευή την καλή της διάθεση, η οικογένεια του Happy Traveller «πλημμυρίζει» την τηλεοπτική μας οθόνη με εντυπωσιακές εικόνες, συναρπαστικές εμπειρίες και αμέτρητα, αμέτρητα ταξίδια… #ΗappyΤraveller</desc>
+    <title lang="el">Happy Traveller | Ακρωτήρι Χανίων</title>
+    <desc lang="el">Το Happy Traveller πηγαίνει στην Κρήτη για να εξερευνήσει μια ιδιαίτερη περιοχή δίπλα στα Χανιά. Στο σημερινό επεισόδιο, θα δούμε το Ακρωτήρι, με τα ιστορικά μοναστήρια, τις εντυπωσιακές σπηλιές και τις όμορφες παραλίες. Ο Ευτύχης πηγαίνει στη Μονή Αγίας Τριάδας των Τζαγκαρόλων και τη Μονή Γουβερνέτου. Από εκεί, παίρνει το μονοπάτι προς το εντυπωσιακό Καθολικό, ανακαλύπτοντας το παλιό μοναστήρι και τις μυστηριώδεις σπηλιές της περιοχής. Το επόμενο πρωί, ο Ευτύχης ξεκινάει πριν ακόμη βγει ο ήλιος, για να προλάβει την ανατολή από τα βράχια πάνω από τη διάσημη παραλία Σεϊτάν Λιμάνια. Κατεβαίνει το απότομο μονοπάτι και φτάνει στην παραλία νωρίς. Επισκέπτεται και τη σπηλαιοεκκλησιά του Αγίου Σπυρίδωνα που βρίσκεται στην ίδια περιοχή. Συνεχίζει για τη χρυσή αμμουδιά στον Σταυρό, τη γνωστή «παραλία του Ζορμπά» και βρίσκει το σημείο όπου γυρίστηκε η διάσημη σκηνή με τον Άντονι Κουίν να χορεύει συρτάκι. Ο Ευτύχης κάνει μια βουτιά και πηγαίνει στο αρχαίο λατομείο και τη φυσική πισίνα του Σταυρού. Επόμενη στάση είναι το Μαράθι, μια ακόμη όμορφη και δημοφιλής παραλία, στη βόρεια πλευρά του κόλπου της Σούδας. Το οδοιπορικό ολοκληρώνεται στον Προφήτη Ηλία, όπου βρίσκονται οι Τάφοι των Βενιζέλων, απολαμβάνοντας την πανοραμική θέα στα Χανιά. #ΗappyΤraveller</desc>
   </programme>
   <programme start="20261024135000 +0300" stop="20261024143000 +0300" channel="skai.gr">
     <title lang="el">Ειδήσεις I Μεσημβρινό Δελτίο</title>
@@ -134018,7 +134053,7 @@
   </programme>
   <programme start="20261024160000 +0300" stop="20261024171500 +0300" channel="skai.gr">
     <title lang="el">Kitchen Lab</title>
-    <desc lang="el">Ο Άκης Πετρετζίκης επιστρέφει δυναμικά με το «Kitchen Lab» για 10η συνεχόμενη σεζόν, κάθε Σάββατο και Κυριακή, στον ΣΚΑΪ! Ο κορυφαίος σεφ μας προσκαλεί σε ένα συναρπαστικό γαστρονομικό ταξίδι, γεμάτο μυρωδιές, πρωτότυπες ιδέες και πιάτα που... απογειώνουν το οικογενειακό τραπέζι. Αναδεικνύει την ομορφιά της μαγειρικής μέσα από απλά υλικά, μοιράζεται πρακτικές τεχνικές που πετυχαίνουν πάντα και προτείνει συνταγές που δίνουν γεύση στα σαββατοκύριακά μας. Και όλα αυτά, με τη μοναδική φρέσκια ματιά του, τη θετική του ενέργεια, το αυθόρμητο χιούμορ και την αμεσότητα, που τον έχουν κάνει σταθερή αξία στην ελληνική κουζίνα! #KitchenLabTV</desc>
+    <desc lang="el">Ο κορυφαίος σεφ ανοίγει το εργαστήριο του και παρουσιάζει ένα επεισόδιο του «Kitchen Lab» με άρωμα Ελλάδας. Τρεις αγαπημένες συνταγές που έχουν μεγαλώσει γενιές, γνώριμες γεύσεις του οικογενειακού τραπεζιού και αυθεντικές πρώτες ύλες συνθέτουν ένα μενού που αποδεικνύει πως η ελληνική κουζίνα ξέρει πάντα να δημιουργεί δυνατές γευστικές αναμνήσεις. Η τυρόπιτα με χωριάτικο φύλλο, μια από τις πιο αγαπημένες πίτες της ελληνικής κουζίνας, ανοίγει το σημερινό μενού, με τραγανό χωριάτικο φύλλο και μια πλούσια γέμιση από φέτα, ανθότυρο και γραβιέρα. Για κυρίως γεύμα, ο Άκης φτιάχνει μπιφτέκια προβατίνας με τηγανιτές πατάτες. Η προβατίνα, με την πλούσια και χαρακτηριστική γεύση της, πρωταγωνιστεί σε αυτή τη διαφορετική εκδοχή του αγαπημένου μπιφτεκιού. Τέλος, μπορεί κανείς να φτιάξει εύκολη και σπιτική πορτοκαλόπιτα; Αν ακολουθήσει τις οδηγίες του σεφ, φυσικά και μπορεί, χωρίς να χάνει τίποτα από τη ζουμερή υφή και τη χαρακτηριστική γεύση της. #KitchenLabTV</desc>
   </programme>
   <programme start="20261024171500 +0300" stop="20261024173000 +0300" channel="skai.gr">
     <title lang="el">Δελτίο στη Νοηματική</title>
@@ -134074,7 +134109,7 @@
   </programme>
   <programme start="20261025160000 +0200" stop="20261025171500 +0200" channel="skai.gr">
     <title lang="el">Kitchen Lab</title>
-    <desc lang="el">Ο Άκης Πετρετζίκης επιστρέφει δυναμικά με το «Kitchen Lab» για 10η συνεχόμενη σεζόν, κάθε Σάββατο και Κυριακή, στον ΣΚΑΪ! Ο κορυφαίος σεφ μας προσκαλεί σε ένα συναρπαστικό γαστρονομικό ταξίδι, γεμάτο μυρωδιές, πρωτότυπες ιδέες και πιάτα που... απογειώνουν το οικογενειακό τραπέζι. Αναδεικνύει την ομορφιά της μαγειρικής μέσα από απλά υλικά, μοιράζεται πρακτικές τεχνικές που πετυχαίνουν πάντα και προτείνει συνταγές που δίνουν γεύση στα σαββατοκύριακά μας. Και όλα αυτά, με τη μοναδική φρέσκια ματιά του, τη θετική του ενέργεια, το αυθόρμητο χιούμορ και την αμεσότητα, που τον έχουν κάνει σταθερή αξία στην ελληνική κουζίνα! #KitchenLabTV</desc>
+    <desc lang="el">Ο Άκης Πετρετζίκης επιστρέφει με ένα ακόμη επεισόδιο του «Kitchen Lab» και ετοιμάζει τρεις εύκολες, πληθωρικές συνταγές με διαφορετικό χαρακτήρα. Η ελληνική θάλασσα συναντά ένα αγαπημένο πιάτο ζυμαρικών, με αφορμή την Παγκόσμια Ημέρα Ζυμαρικών, ενώ η σοκολάτα αναλαμβάνει το απολαυστικό κλείσιμο σε ένα μενού γεμάτο έντονες γεύσεις και ενδιαφέρουσες υφές. Γαύρος στον ταβά: Ένα από τα πιο αγαπημένα μικρά ψάρια της ελληνικής κουζίνας πρωταγωνιστεί σε έναν απλό αλλά άκρως απολαυστικό ψαρομεζέ. Στη συνέχεια, η λογική ενός από τους πιο αγαπημένους ελληνικούς μεζέδες μεταφέρεται σε μια πληθωρική μακαρονάδα μπουγιουρντί. Τέλος, η αγαπημένη ζύμη των soft cookies αποκτά εντυπωσιακές διαστάσεις και μετατρέπεται σε μια μεγάλη σοκολατένια τάρτα. #KitchenLabTV</desc>
   </programme>
   <programme start="20261025171500 +0200" stop="20261025173000 +0200" channel="skai.gr">
     <title lang="el">Δελτίο στη Νοηματική</title>
@@ -138946,15 +138981,15 @@
   </programme>
   <programme start="20261022093000 +0300" stop="20261022130000 +0300" channel="star.gr">
     <title lang="el">ΠΡΩΤΟΣ ΚΑΦΕΣ ΜΕ ΤΗ ΖΗΝΑ</title>
-    <desc lang="el">Με τη Ζήνα Κουτσελίνη</desc>
+    <desc lang="el">22.10.2026 - Πρώτος Καφές με τη Ζήνα</desc>
   </programme>
   <programme start="20261022130000 +0300" stop="20261022140000 +0300" channel="star.gr">
     <title lang="el">ΜΕΣΗΜΕΡΙΑΝΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ</title>
-    <desc lang="el">Με τον Γιώργο Ευγενίδη</desc>
+    <desc lang="el">22.10.2026 - Μεσημεριανό Δελτίο Ειδήσεων</desc>
   </programme>
   <programme start="20261022140000 +0300" stop="20261022141500 +0300" channel="star.gr">
     <title lang="el">ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ ΣΤΗ ΝΟΗΜΑΤΙΚΗ</title>
-    <desc lang="el">Με την Άννα Σταματιάδου</desc>
+    <desc lang="el">22.10.2026 - Δελτίο Ειδήσεων στη Νοηματική</desc>
   </programme>
   <programme start="20261022141500 +0300" stop="20261022150000 +0300" channel="star.gr">
     <title lang="el">ΤΑ ΦΙΛΑΡΑΚΙΑ (FRIENDS)</title>
@@ -138964,19 +138999,19 @@
   </programme>
   <programme start="20261022172000 +0300" stop="20261022182500 +0300" channel="star.gr">
     <title lang="el">CASH OR TRASH</title>
-    <desc lang="el">Με τη Δέσποινα Μοιραράκη | Καθημερινά, στις 17:20</desc>
+    <desc lang="el">22.10.2026 - Cash or Trash</desc>
   </programme>
   <programme start="20261022182500 +0300" stop="20261022194500 +0300" channel="star.gr">
     <title lang="el">ΤΡΟΧΟΣ ΤΗΣ ΤΥΧΗΣ</title>
-    <desc lang="el">Με τον Πέτρο Πολυχρονίδη - Μαζί του η Νατάσα Κουβελά</desc>
+    <desc lang="el">22.10.2026 - Τροχός της Τύχης</desc>
   </programme>
   <programme start="20261022194500 +0300" stop="20261022204000 +0300" channel="star.gr">
     <title lang="el">ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ</title>
-    <desc lang="el">Με τη Μάρα Ζαχαρέα</desc>
+    <desc lang="el">22.10.2026 - Κεντρικό Δελτίο Ειδήσεων</desc>
   </programme>
   <programme start="20261022204000 +0300" stop="20261022210000 +0300" channel="star.gr">
     <title lang="el">STAR ΚΑΙΡΟΣ</title>
-    <desc lang="el">Πρόγνωση Ε.Μ.Υ. για 23.10.2026</desc>
+    <desc lang="el">22.10.2026 - Star Καιρός</desc>
   </programme>
   <programme start="20261022210000 +0300" stop="20261022224000 +0300" channel="star.gr">
     <title lang="el">FIRST DATES</title>
@@ -142861,7 +142896,7 @@
   </programme>
   <programme start="20261023103500 +0000" stop="20261023112500 +0000" channel="tlc.gr">
     <title lang="el">Πες Ναι στο Νυφικό 18</title>
-    <desc lang="el">Κύκλος 18 · Επεισόδιο 8. Με Ποιανού το Μέρος Είσαι;. Η Μικαέλα παντρεύεται σε κάστρο της Ιρλανδίας και θέλει πριγκιπικό νυφικό για την ξεχωριστή μέρα. Η φασιονίστα Σαβόν πρέπει να διατηρήσει το περιώνυμο γούστο της.</desc>
+    <desc lang="el">Κύκλος 18. Με Ποιανού το Μέρος Είσαι;. Η Μικαέλα παντρεύεται σε κάστρο της Ιρλανδίας και θέλει πριγκιπικό νυφικό για την ξεχωριστή μέρα. Η φασιονίστα Σαβόν πρέπει να διατηρήσει το περιώνυμο γούστο της.</desc>
   </programme>
   <programme start="20261023112500 +0000" stop="20261023121000 +0000" channel="tlc.gr">
     <title lang="el">Αλλόκοτα Σώματα</title>
@@ -143013,7 +143048,7 @@
   </programme>
   <programme start="20261024134500 +0000" stop="20261024143000 +0000" channel="tlc.gr">
     <title lang="el">Πες Ναι στο Νυφικό 18</title>
-    <desc lang="el">Κύκλος 18 · Επεισόδιο 9. Μου Πέταξε Μπούτι. Η Σαμάνθα εκπλήρωσε τον στόχο απώλειας βάρους, θα καταφέρει όμως να πείσει τη μαμά της να συμπαθήσει το νυφικό της. Ακόμα, μια νύφη κάνει εντυπωσιακό γάμο στο Πουέρτο Ρίκο!</desc>
+    <desc lang="el">Κύκλος 18. Μου Πέταξε Μπούτι. Η Σαμάνθα εκπλήρωσε τον στόχο απώλειας βάρους, θα καταφέρει όμως να πείσει τη μαμά της να συμπαθήσει το νυφικό της. Ακόμα, μια νύφη κάνει εντυπωσιακό γάμο στο Πουέρτο Ρίκο!</desc>
   </programme>
   <programme start="20261024143000 +0000" stop="20261024152000 +0000" channel="tlc.gr">
     <title lang="el">Πες Ναι στο Νυφικό: Λάνκασιρ 2</title>
