@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-24T08:04:54.968581+00:00",
+  "generated_at": "2026-10-24T18:07:01.047193+00:00",
   "demo": false,
   "channels": 245,
-  "programmes": 39236,
+  "programmes": 39382,
   "window": {
     "start": "2026-10-21T00:00:00+03:00",
     "stop": "2026-10-28T00:00:00+02:00"
@@ -51,18 +51,6 @@
     {
       "channel_id": "onechannel.cy",
       "date": "2026-10-21"
-    },
-    {
-      "channel_id": "onechannel.cy",
-      "date": "2026-10-25"
-    },
-    {
-      "channel_id": "onechannel.cy",
-      "date": "2026-10-26"
-    },
-    {
-      "channel_id": "onechannel.cy",
-      "date": "2026-10-27"
     },
     {
       "channel_id": "realmadridtv.cy",
@@ -959,14 +947,12 @@
       "coverage_status": "complete"
     },
     "antennadrama.gr": {
-      "programmes": 103,
+      "programmes": 222,
       "used_sources": {
-        "antenna": 103
+        "antenna": 222
       },
-      "overlapping_or_duplicate_dropped": {
-        "antenna": 120
-      },
-      "coverage_ratio": 0.9956,
+      "overlapping_or_duplicate_dropped": {},
+      "coverage_ratio": 0.9911,
       "max_gap_hours": 0.75,
       "coverage_required": false,
       "collection_started_on": "2026-10-13",
@@ -997,35 +983,35 @@
           }
         },
         "2026-10-24": {
-          "programmes": 8,
-          "coverage_ratio": 1.0,
-          "max_gap_hours": 0.0,
+          "programmes": 31,
+          "coverage_ratio": 0.9688,
+          "max_gap_hours": 0.75,
           "sources": {
-            "antenna": 8
+            "antenna": 31
           }
         },
         "2026-10-25": {
-          "programmes": 1,
+          "programmes": 32,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "antenna": 1
+            "antenna": 32
           }
         },
         "2026-10-26": {
-          "programmes": 1,
+          "programmes": 32,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "antenna": 1
+            "antenna": 32
           }
         },
         "2026-10-27": {
-          "programmes": 1,
+          "programmes": 32,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "antenna": 1
+            "antenna": 32
           }
         }
       },
@@ -1773,9 +1759,9 @@
       "coverage_status": "complete"
     },
     "cablenetsports3.cy": {
-      "programmes": 119,
+      "programmes": 120,
       "used_sources": {
-        "cablenet": 112,
+        "cablenet": 113,
         "cyta": 7
       },
       "overlapping_or_duplicate_dropped": {
@@ -1831,20 +1817,20 @@
           }
         },
         "2026-10-26": {
-          "programmes": 17,
+          "programmes": 16,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "cablenet": 16,
+            "cablenet": 15,
             "cyta": 1
           }
         },
         "2026-10-27": {
-          "programmes": 19,
+          "programmes": 20,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "cablenet": 18,
+            "cablenet": 19,
             "cyta": 1
           }
         }
@@ -2001,11 +1987,11 @@
     "cartoonnetwork.cy": {
       "programmes": 200,
       "used_sources": {
-        "cablenet": 190,
-        "cyta": 10
+        "cablenet": 193,
+        "cyta": 7
       },
       "overlapping_or_duplicate_dropped": {
-        "cyta": 190
+        "cyta": 193
       },
       "coverage_ratio": 0.9995,
       "max_gap_hours": 0.0833,
@@ -2054,8 +2040,8 @@
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "cablenet": 1,
-            "cyta": 4
+            "cablenet": 4,
+            "cyta": 1
           }
         },
         "2026-10-26": {
@@ -2063,8 +2049,8 @@
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "cyta": 2,
-            "cablenet": 37
+            "cablenet": 38,
+            "cyta": 1
           }
         },
         "2026-10-27": {
@@ -2936,9 +2922,9 @@
       "coverage_status": "complete"
     },
     "cytavisionsports5.cy": {
-      "programmes": 50,
+      "programmes": 51,
       "used_sources": {
-        "cyta": 50
+        "cyta": 51
       },
       "overlapping_or_duplicate_dropped": {
         "cablenet": 70
@@ -3007,9 +2993,9 @@
       "coverage_status": "complete"
     },
     "cytavisionsports6.cy": {
-      "programmes": 64,
+      "programmes": 66,
       "used_sources": {
-        "cyta": 64
+        "cyta": 66
       },
       "overlapping_or_duplicate_dropped": {
         "cablenet": 84
@@ -3051,19 +3037,19 @@
           }
         },
         "2026-10-25": {
-          "programmes": 14,
+          "programmes": 15,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "cyta": 14
+            "cyta": 15
           }
         },
         "2026-10-26": {
-          "programmes": 7,
+          "programmes": 8,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "cyta": 7
+            "cyta": 8
           }
         },
         "2026-10-27": {
@@ -3078,9 +3064,9 @@
       "coverage_status": "complete"
     },
     "cytavisionsports7.cy": {
-      "programmes": 47,
+      "programmes": 48,
       "used_sources": {
-        "cyta": 47
+        "cyta": 48
       },
       "overlapping_or_duplicate_dropped": {
         "cablenet": 77
@@ -3130,11 +3116,11 @@
           }
         },
         "2026-10-26": {
-          "programmes": 6,
+          "programmes": 7,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "cyta": 6
+            "cyta": 7
           }
         },
         "2026-10-27": {
@@ -3154,7 +3140,7 @@
         "cyta": 52
       },
       "overlapping_or_duplicate_dropped": {
-        "cablenet": 70
+        "cablenet": 78
       },
       "coverage_ratio": 1.0,
       "max_gap_hours": 0.0,
@@ -3665,7 +3651,7 @@
       },
       "overlapping_or_duplicate_dropped": {
         "nova": 153,
-        "cablenet": 2328
+        "cablenet": 3860
       },
       "coverage_ratio": 1.0,
       "max_gap_hours": 0.0,
@@ -5317,7 +5303,7 @@
       "overlapping_or_duplicate_dropped": {
         "nova": 310,
         "cyta": 312,
-        "cablenet": 299
+        "cablenet": 301
       },
       "coverage_ratio": 1.0,
       "max_gap_hours": 0.0,
@@ -8974,7 +8960,6 @@
         "antenna": 188
       },
       "overlapping_or_duplicate_dropped": {
-        "antenna": 1,
         "digea": 135,
         "magentatv": 141,
         "nova": 141
@@ -10951,7 +10936,7 @@
       "overlapping_or_duplicate_dropped": {
         "magentatv": 58,
         "cyta": 28,
-        "cablenet": 12
+        "cablenet": 14
       },
       "coverage_ratio": 1.0,
       "max_gap_hours": 0.0,
@@ -11024,7 +11009,7 @@
       "overlapping_or_duplicate_dropped": {
         "magentatv": 58,
         "cyta": 28,
-        "cablenet": 12
+        "cablenet": 14
       },
       "coverage_ratio": 1.0,
       "max_gap_hours": 0.0,
@@ -11097,7 +11082,7 @@
       "overlapping_or_duplicate_dropped": {
         "magentatv": 58,
         "cyta": 28,
-        "cablenet": 12
+        "cablenet": 14
       },
       "coverage_ratio": 1.0,
       "max_gap_hours": 0.0,
@@ -11170,7 +11155,7 @@
       "overlapping_or_duplicate_dropped": {
         "magentatv": 54,
         "cyta": 28,
-        "cablenet": 12
+        "cablenet": 14
       },
       "coverage_ratio": 1.0,
       "max_gap_hours": 0.0,
@@ -11823,7 +11808,7 @@
         "cyta": 146
       },
       "overlapping_or_duplicate_dropped": {
-        "cablenet": 62
+        "cablenet": 71
       },
       "coverage_ratio": 1.0,
       "max_gap_hours": 0.0,
@@ -11965,13 +11950,13 @@
       "coverage_status": "complete"
     },
     "onechannel.cy": {
-      "programmes": 67,
+      "programmes": 89,
       "used_sources": {
-        "cablenet": 67
+        "cablenet": 89
       },
       "overlapping_or_duplicate_dropped": {},
-      "coverage_ratio": 0.5266,
-      "max_gap_hours": 69.0,
+      "coverage_ratio": 0.8462,
+      "max_gap_hours": 6.5,
       "coverage_required": false,
       "collection_started_on": "2026-10-13",
       "history_collection_started_on": "2026-10-21",
@@ -12009,24 +11994,28 @@
           }
         },
         "2026-10-25": {
-          "programmes": 2,
-          "coverage_ratio": 0.16,
-          "max_gap_hours": 21.0,
+          "programmes": 18,
+          "coverage_ratio": 0.88,
+          "max_gap_hours": 3.0,
           "sources": {
-            "cablenet": 2
+            "cablenet": 18
           }
         },
         "2026-10-26": {
-          "programmes": 0,
-          "coverage_ratio": 0.0,
-          "max_gap_hours": 24.0,
-          "sources": {}
+          "programmes": 3,
+          "coverage_ratio": 0.75,
+          "max_gap_hours": 6.0,
+          "sources": {
+            "cablenet": 3
+          }
         },
         "2026-10-27": {
-          "programmes": 0,
-          "coverage_ratio": 0.0,
-          "max_gap_hours": 24.0,
-          "sources": {}
+          "programmes": 3,
+          "coverage_ratio": 0.75,
+          "max_gap_hours": 6.0,
+          "sources": {
+            "cablenet": 3
+          }
         }
       },
       "coverage_status": "incomplete"
@@ -12990,7 +12979,7 @@
       },
       "overlapping_or_duplicate_dropped": {
         "cyta": 126,
-        "cablenet": 82
+        "cablenet": 112
       },
       "coverage_ratio": 1.0,
       "max_gap_hours": 0.0,
@@ -13583,8 +13572,8 @@
         "sportfmtv": 5
       },
       "overlapping_or_duplicate_dropped": {},
-      "coverage_ratio": 0.068,
-      "max_gap_hours": 67.5,
+      "coverage_ratio": 0.0685,
+      "max_gap_hours": 67.4167,
       "coverage_required": false,
       "schedule_mode": "events",
       "off_air": false,
@@ -13616,8 +13605,8 @@
         },
         "2026-10-24": {
           "programmes": 2,
-          "coverage_ratio": 0.1875,
-          "max_gap_hours": 17.5,
+          "coverage_ratio": 0.191,
+          "max_gap_hours": 17.4167,
           "sources": {
             "sportfmtv": 2
           },
@@ -13729,8 +13718,8 @@
         "sportfmtv": 1
       },
       "overlapping_or_duplicate_dropped": {},
-      "coverage_ratio": 0.0148,
-      "max_gap_hours": 89.0,
+      "coverage_ratio": 0.0153,
+      "max_gap_hours": 88.9167,
       "coverage_required": false,
       "schedule_mode": "events",
       "off_air": false,
@@ -13760,8 +13749,8 @@
         },
         "2026-10-24": {
           "programmes": 1,
-          "coverage_ratio": 0.1042,
-          "max_gap_hours": 17.0,
+          "coverage_ratio": 0.1076,
+          "max_gap_hours": 16.9167,
           "sources": {
             "sportfmtv": 1
           },
@@ -13797,7 +13786,7 @@
         "sportfmtv": 1
       },
       "overlapping_or_duplicate_dropped": {},
-      "coverage_ratio": 0.0148,
+      "coverage_ratio": 0.0207,
       "max_gap_hours": 89.5,
       "coverage_required": false,
       "schedule_mode": "events",
@@ -13828,7 +13817,7 @@
         },
         "2026-10-24": {
           "programmes": 1,
-          "coverage_ratio": 0.1042,
+          "coverage_ratio": 0.1458,
           "max_gap_hours": 17.5,
           "sources": {
             "sportfmtv": 1

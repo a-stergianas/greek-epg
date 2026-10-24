@@ -8267,7 +8267,484 @@
     <title lang="el">ΣΥΝΟΡΑ ΑΓΑΠΗΣ</title>
     <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
   </programme>
-  <programme start="20261024021500 +0000" stop="20261101040000 +0000" channel="antennadrama.gr">
+  <programme start="20261024030000 +0000" stop="20261024034500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΜΠΡΟΥΣΚΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261024034500 +0000" stop="20261024043000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261024043000 +0000" stop="20261024051500 +0000" channel="antennadrama.gr">
+    <title lang="el">Η ΕΚΔΡΟΜΗ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261024051500 +0000" stop="20261024060000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΚΑΡΜΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261024060000 +0000" stop="20261024064500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΑΓΓΙΓΜΑ ΨΥΧΗΣ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ: Σταύρος Αβδούλος - Ειρήνη Ριτσώνη ΣΚΗΝΟΘΕΣΙΑ: Μανούσος Μανουσάκης ΜΟΥΣΙΚΗ: Χατζηνάσιου</desc>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261024064500 +0000" stop="20261024073000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261024073000 +0000" stop="20261024081500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΣΥΝΟΡΑ ΑΓΑΠΗΣ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261024081500 +0000" stop="20261024090000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΒΑΜΜΈΝΑ ΚΌΚΚΙΝΑ ΜΑΛΛΙΆ</title>
+  </programme>
+  <programme start="20261024090000 +0000" stop="20261024094500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΜΠΡΟΥΣΚΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261024094500 +0000" stop="20261024103000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261024103000 +0000" stop="20261024111500 +0000" channel="antennadrama.gr">
+    <title lang="el">Η ΕΚΔΡΟΜΗ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261024111500 +0000" stop="20261024120000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΚΑΡΜΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261024120000 +0000" stop="20261024124500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΑΓΓΙΓΜΑ ΨΥΧΗΣ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ: Σταύρος Αβδούλος - Ειρήνη Ριτσώνη ΣΚΗΝΟΘΕΣΙΑ: Μανούσος Μανουσάκης ΜΟΥΣΙΚΗ: Χατζηνάσιου</desc>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261024124500 +0000" stop="20261024133000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261024133000 +0000" stop="20261024141500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΣΥΝΟΡΑ ΑΓΑΠΗΣ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261024141500 +0000" stop="20261024150000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΒΑΜΜΈΝΑ ΚΌΚΚΙΝΑ ΜΑΛΛΙΆ</title>
+  </programme>
+  <programme start="20261024150000 +0000" stop="20261024154500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΜΠΡΟΥΣΚΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261024154500 +0000" stop="20261024163000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261024163000 +0000" stop="20261024171500 +0000" channel="antennadrama.gr">
+    <title lang="el">Η ΕΚΔΡΟΜΗ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261024171500 +0000" stop="20261024180000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΚΑΡΜΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261024180000 +0000" stop="20261024184500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΑΓΓΙΓΜΑ ΨΥΧΗΣ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ: Σταύρος Αβδούλος - Ειρήνη Ριτσώνη ΣΚΗΝΟΘΕΣΙΑ: Μανούσος Μανουσάκης ΜΟΥΣΙΚΗ: Χατζηνάσιου</desc>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261024184500 +0000" stop="20261024193000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261024193000 +0000" stop="20261024201500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΣΥΝΟΡΑ ΑΓΑΠΗΣ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261024201500 +0000" stop="20261024210000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΒΑΜΜΈΝΑ ΚΌΚΚΙΝΑ ΜΑΛΛΙΆ</title>
+  </programme>
+  <programme start="20261024210000 +0000" stop="20261024214500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΜΠΡΟΥΣΚΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261024214500 +0000" stop="20261024223000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261024223000 +0000" stop="20261024231500 +0000" channel="antennadrama.gr">
+    <title lang="el">Η ΕΚΔΡΟΜΗ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261024231500 +0000" stop="20261025010000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΚΑΡΜΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261025010000 +0000" stop="20261025014500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΑΓΓΙΓΜΑ ΨΥΧΗΣ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ: Σταύρος Αβδούλος - Ειρήνη Ριτσώνη ΣΚΗΝΟΘΕΣΙΑ: Μανούσος Μανουσάκης ΜΟΥΣΙΚΗ: Χατζηνάσιου</desc>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261025014500 +0000" stop="20261025023000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261025023000 +0000" stop="20261025031500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΣΥΝΟΡΑ ΑΓΑΠΗΣ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261025031500 +0000" stop="20261025040000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΒΑΜΜΈΝΑ ΚΌΚΚΙΝΑ ΜΑΛΛΙΆ</title>
+  </programme>
+  <programme start="20261025040000 +0000" stop="20261025044500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΜΠΡΟΥΣΚΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261025044500 +0000" stop="20261025053000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261025053000 +0000" stop="20261025061500 +0000" channel="antennadrama.gr">
+    <title lang="el">Η ΕΚΔΡΟΜΗ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261025061500 +0000" stop="20261025070000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΚΑΡΜΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261025070000 +0000" stop="20261025074500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΑΓΓΙΓΜΑ ΨΥΧΗΣ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ: Σταύρος Αβδούλος - Ειρήνη Ριτσώνη ΣΚΗΝΟΘΕΣΙΑ: Μανούσος Μανουσάκης ΜΟΥΣΙΚΗ: Χατζηνάσιου</desc>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261025074500 +0000" stop="20261025083000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261025083000 +0000" stop="20261025091500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΣΥΝΟΡΑ ΑΓΑΠΗΣ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261025091500 +0000" stop="20261025100000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΒΑΜΜΈΝΑ ΚΌΚΚΙΝΑ ΜΑΛΛΙΆ</title>
+  </programme>
+  <programme start="20261025100000 +0000" stop="20261025104500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΜΠΡΟΥΣΚΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261025104500 +0000" stop="20261025113000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261025113000 +0000" stop="20261025121500 +0000" channel="antennadrama.gr">
+    <title lang="el">Η ΕΚΔΡΟΜΗ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261025121500 +0000" stop="20261025130000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΚΑΡΜΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261025130000 +0000" stop="20261025134500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΑΓΓΙΓΜΑ ΨΥΧΗΣ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ: Σταύρος Αβδούλος - Ειρήνη Ριτσώνη ΣΚΗΝΟΘΕΣΙΑ: Μανούσος Μανουσάκης ΜΟΥΣΙΚΗ: Χατζηνάσιου</desc>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261025134500 +0000" stop="20261025143000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261025143000 +0000" stop="20261025151500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΣΥΝΟΡΑ ΑΓΑΠΗΣ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261025151500 +0000" stop="20261025160000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΒΑΜΜΈΝΑ ΚΌΚΚΙΝΑ ΜΑΛΛΙΆ</title>
+  </programme>
+  <programme start="20261025160000 +0000" stop="20261025164500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΜΠΡΟΥΣΚΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261025164500 +0000" stop="20261025173000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261025173000 +0000" stop="20261025181500 +0000" channel="antennadrama.gr">
+    <title lang="el">Η ΕΚΔΡΟΜΗ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261025181500 +0000" stop="20261025190000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΚΑΡΜΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261025190000 +0000" stop="20261025194500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΑΓΓΙΓΜΑ ΨΥΧΗΣ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ: Σταύρος Αβδούλος - Ειρήνη Ριτσώνη ΣΚΗΝΟΘΕΣΙΑ: Μανούσος Μανουσάκης ΜΟΥΣΙΚΗ: Χατζηνάσιου</desc>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261025194500 +0000" stop="20261025203000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261025203000 +0000" stop="20261025211500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΣΥΝΟΡΑ ΑΓΑΠΗΣ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261025211500 +0000" stop="20261025220000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΒΑΜΜΈΝΑ ΚΌΚΚΙΝΑ ΜΑΛΛΙΆ</title>
+  </programme>
+  <programme start="20261025220000 +0000" stop="20261025224500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΜΠΡΟΥΣΚΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261025224500 +0000" stop="20261025233000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261025233000 +0000" stop="20261026001500 +0000" channel="antennadrama.gr">
+    <title lang="el">Η ΕΚΔΡΟΜΗ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261026001500 +0000" stop="20261026010000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΚΑΡΜΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261026010000 +0000" stop="20261026014500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΑΓΓΙΓΜΑ ΨΥΧΗΣ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ: Σταύρος Αβδούλος - Ειρήνη Ριτσώνη ΣΚΗΝΟΘΕΣΙΑ: Μανούσος Μανουσάκης ΜΟΥΣΙΚΗ: Χατζηνάσιου</desc>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261026014500 +0000" stop="20261026023000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261026023000 +0000" stop="20261026031500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΣΥΝΟΡΑ ΑΓΑΠΗΣ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261026031500 +0000" stop="20261026040000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΒΑΜΜΈΝΑ ΚΌΚΚΙΝΑ ΜΑΛΛΙΆ</title>
+  </programme>
+  <programme start="20261026040000 +0000" stop="20261026044500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΜΠΡΟΥΣΚΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261026044500 +0000" stop="20261026053000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261026053000 +0000" stop="20261026061500 +0000" channel="antennadrama.gr">
+    <title lang="el">Η ΕΚΔΡΟΜΗ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261026061500 +0000" stop="20261026070000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΚΑΡΜΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261026070000 +0000" stop="20261026074500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΑΓΓΙΓΜΑ ΨΥΧΗΣ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ: Σταύρος Αβδούλος - Ειρήνη Ριτσώνη ΣΚΗΝΟΘΕΣΙΑ: Μανούσος Μανουσάκης ΜΟΥΣΙΚΗ: Χατζηνάσιου</desc>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261026074500 +0000" stop="20261026083000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261026083000 +0000" stop="20261026091500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΣΥΝΟΡΑ ΑΓΑΠΗΣ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261026091500 +0000" stop="20261026100000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΒΑΜΜΈΝΑ ΚΌΚΚΙΝΑ ΜΑΛΛΙΆ</title>
+  </programme>
+  <programme start="20261026100000 +0000" stop="20261026104500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΜΠΡΟΥΣΚΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261026104500 +0000" stop="20261026113000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261026113000 +0000" stop="20261026121500 +0000" channel="antennadrama.gr">
+    <title lang="el">Η ΕΚΔΡΟΜΗ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261026121500 +0000" stop="20261026130000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΚΑΡΜΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261026130000 +0000" stop="20261026134500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΑΓΓΙΓΜΑ ΨΥΧΗΣ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ: Σταύρος Αβδούλος - Ειρήνη Ριτσώνη ΣΚΗΝΟΘΕΣΙΑ: Μανούσος Μανουσάκης ΜΟΥΣΙΚΗ: Χατζηνάσιου</desc>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261026134500 +0000" stop="20261026143000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261026143000 +0000" stop="20261026151500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΣΥΝΟΡΑ ΑΓΑΠΗΣ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261026151500 +0000" stop="20261026160000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΒΑΜΜΈΝΑ ΚΌΚΚΙΝΑ ΜΑΛΛΙΆ</title>
+  </programme>
+  <programme start="20261026160000 +0000" stop="20261026164500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΜΠΡΟΥΣΚΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261026164500 +0000" stop="20261026173000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261026173000 +0000" stop="20261026181500 +0000" channel="antennadrama.gr">
+    <title lang="el">Η ΕΚΔΡΟΜΗ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261026181500 +0000" stop="20261026190000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΚΑΡΜΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261026190000 +0000" stop="20261026194500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΑΓΓΙΓΜΑ ΨΥΧΗΣ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ: Σταύρος Αβδούλος - Ειρήνη Ριτσώνη ΣΚΗΝΟΘΕΣΙΑ: Μανούσος Μανουσάκης ΜΟΥΣΙΚΗ: Χατζηνάσιου</desc>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261026194500 +0000" stop="20261026203000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261026203000 +0000" stop="20261026211500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΣΥΝΟΡΑ ΑΓΑΠΗΣ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261026211500 +0000" stop="20261026220000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΒΑΜΜΈΝΑ ΚΌΚΚΙΝΑ ΜΑΛΛΙΆ</title>
+  </programme>
+  <programme start="20261026220000 +0000" stop="20261026224500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΜΠΡΟΥΣΚΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261026224500 +0000" stop="20261026233000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261026233000 +0000" stop="20261027001500 +0000" channel="antennadrama.gr">
+    <title lang="el">Η ΕΚΔΡΟΜΗ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261027001500 +0000" stop="20261027010000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΚΑΡΜΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261027010000 +0000" stop="20261027014500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΑΓΓΙΓΜΑ ΨΥΧΗΣ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ: Σταύρος Αβδούλος - Ειρήνη Ριτσώνη ΣΚΗΝΟΘΕΣΙΑ: Μανούσος Μανουσάκης ΜΟΥΣΙΚΗ: Χατζηνάσιου</desc>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261027014500 +0000" stop="20261027023000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261027023000 +0000" stop="20261027031500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΣΥΝΟΡΑ ΑΓΑΠΗΣ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261027031500 +0000" stop="20261027040000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΒΑΜΜΈΝΑ ΚΌΚΚΙΝΑ ΜΑΛΛΙΆ</title>
+  </programme>
+  <programme start="20261027040000 +0000" stop="20261027044500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΜΠΡΟΥΣΚΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261027044500 +0000" stop="20261027053000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261027053000 +0000" stop="20261027061500 +0000" channel="antennadrama.gr">
+    <title lang="el">Η ΕΚΔΡΟΜΗ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261027061500 +0000" stop="20261027070000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΚΑΡΜΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261027070000 +0000" stop="20261027074500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΑΓΓΙΓΜΑ ΨΥΧΗΣ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ: Σταύρος Αβδούλος - Ειρήνη Ριτσώνη ΣΚΗΝΟΘΕΣΙΑ: Μανούσος Μανουσάκης ΜΟΥΣΙΚΗ: Χατζηνάσιου</desc>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261027074500 +0000" stop="20261027083000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261027083000 +0000" stop="20261027091500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΣΥΝΟΡΑ ΑΓΑΠΗΣ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261027091500 +0000" stop="20261027100000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΒΑΜΜΈΝΑ ΚΌΚΚΙΝΑ ΜΑΛΛΙΆ</title>
+  </programme>
+  <programme start="20261027100000 +0000" stop="20261027104500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΜΠΡΟΥΣΚΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261027104500 +0000" stop="20261027113000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261027113000 +0000" stop="20261027121500 +0000" channel="antennadrama.gr">
+    <title lang="el">Η ΕΚΔΡΟΜΗ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261027121500 +0000" stop="20261027130000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΚΑΡΜΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261027130000 +0000" stop="20261027134500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΑΓΓΙΓΜΑ ΨΥΧΗΣ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ: Σταύρος Αβδούλος - Ειρήνη Ριτσώνη ΣΚΗΝΟΘΕΣΙΑ: Μανούσος Μανουσάκης ΜΟΥΣΙΚΗ: Χατζηνάσιου</desc>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261027134500 +0000" stop="20261027143000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261027143000 +0000" stop="20261027151500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΣΥΝΟΡΑ ΑΓΑΠΗΣ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261027151500 +0000" stop="20261027160000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΒΑΜΜΈΝΑ ΚΌΚΚΙΝΑ ΜΑΛΛΙΆ</title>
+  </programme>
+  <programme start="20261027160000 +0000" stop="20261027164500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΜΠΡΟΥΣΚΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261027164500 +0000" stop="20261027173000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΜΗ ΜΟΥ ΛΕΣ ΑΝΤΙΟ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261027173000 +0000" stop="20261027181500 +0000" channel="antennadrama.gr">
+    <title lang="el">Η ΕΚΔΡΟΜΗ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261027181500 +0000" stop="20261027190000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΚΑΡΜΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261027190000 +0000" stop="20261027194500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΑΓΓΙΓΜΑ ΨΥΧΗΣ</title>
+    <desc lang="el">ΣΕΝΑΡΙΟ: Σταύρος Αβδούλος - Ειρήνη Ριτσώνη ΣΚΗΝΟΘΕΣΙΑ: Μανούσος Μανουσάκης ΜΟΥΣΙΚΗ: Χατζηνάσιου</desc>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261027194500 +0000" stop="20261027203000 +0000" channel="antennadrama.gr">
+    <title lang="el">ΤΗΣ ΑΓΑΠΗΣ ΜΑΧΑΙΡΙΑ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261027203000 +0000" stop="20261027211500 +0000" channel="antennadrama.gr">
+    <title lang="el">ΣΥΝΟΡΑ ΑΓΑΠΗΣ</title>
+    <category lang="el">ΕΛΛΗΝΙΚΗ ΣΕΙΡΑ</category>
+  </programme>
+  <programme start="20261027211500 +0000" stop="20261027220000 +0000" channel="antennadrama.gr">
     <title lang="el">ΒΑΜΜΈΝΑ ΚΌΚΚΙΝΑ ΜΑΛΛΙΆ</title>
   </programme>
   <programme start="20261020235500 +0300" stop="20261021004000 +0300" channel="arttv.gr">
@@ -21550,7 +22027,7 @@
     <desc lang="el">Η Cablenet μέσα από τα κανάλια της φέρνει κοντά μας τις καλύτερες ομάδες του Ολλανδικού Ποδοσφαίρου, μία από τις πιο συναρπαστικές διοργανώσεις ποδοσφαίρου της Ευρώπης. Through its channels, Cablenet brings us the best Eredivisie Dutch League games, one of the most exciting football league in Europe.</desc>
   </programme>
   <programme start="20261025230000 +0000" stop="20261026010000 +0000" channel="cablenetsports1.cy">
-    <title lang="el">Paris Saint-Germain - Lyon 25/10/26</title>
+    <title lang="el">Lens - Paris FC 24/10/26 (E)</title>
     <desc lang="el">Οι δεκαοχτώ καλύτερες ομάδες του Γαλλικού ποδοσφαίρου συναγωνίζονται στην Λιγκ 1, μία απο τις πιο συναρπαστικές διοργανώσεις ποδοσφαίρου στο κόσμο. The Ligue 1 represents the pinnacle of French club football. The eighteen finest teams in the country take part in one of the most exciting and demanding leagues in the world.</desc>
   </programme>
   <programme start="20261026010000 +0000" stop="20261026030000 +0000" channel="cablenetsports1.cy">
@@ -22038,8 +22515,8 @@
     <desc lang="el">Άντρεα Καφά, Βάσσος Ηλιάδης &amp; Σοφοκλής Κασκαούνιας ενώνουν τις γνώσεις και το χιούμορ τους για το πιο ολοκληρωμένο και απολαυστικό ποδοσφαιρικό ραντεβού της εβδομάδας, στον απόηχο της αγωνιστικής του κυπριακού πρωταθλήματος. Andrea Kafas, Vassos Eliades and Sofoklis Kaskounias combine their knowledge and humor to deliver the most complete and entertaining football show of the week? wrapping up all the action from the Cypriot league.</desc>
   </programme>
   <programme start="20261025194500 +0000" stop="20261025220000 +0000" channel="cablenetsports2.cy">
-    <title lang="el">Paris Saint-Germain - Lyon 25/10/26</title>
-    <desc lang="el">Οι δεκαοχτώ καλύτερες ομάδες του Γαλλικού ποδοσφαίρου συναγωνίζονται στην Λιγκ 1, μία απο τις πιο συναρπαστικές διοργανώσεις ποδοσφαίρου στο κόσμο. The Ligue 1 represents the pinnacle of French club football. The eighteen finest teams in the country take part in one of the most exciting and demanding leagues in the world.</desc>
+    <title lang="el">Ανόρθωση - Ομόνοια Αραδίππου 24/10/26 (E)</title>
+    <desc lang="el">Το Παγκύπριο Πρωτάθλημα Α Κατηγορίας προσφέρει για ακόμη μια χρονιά πλούσια ντέρμπι και εκπλήξεις. The 1st Division Cyprus Football Championship provides great derbies, intense local rivalries and the best action from Cyprus stadiums.</desc>
   </programme>
   <programme start="20261025220000 +0000" stop="20261026000000 +0000" channel="cablenetsports2.cy">
     <title lang="el">Toulouse - Troyes 25/10/26</title>
@@ -22544,8 +23021,8 @@
     <desc lang="el">Οι δεκαοχτώ καλύτερες ομάδες του Γαλλικού ποδοσφαίρου συναγωνίζονται στην Λιγκ 1, μία απο τις πιο συναρπαστικές διοργανώσεις ποδοσφαίρου στο κόσμο. The Ligue 1 represents the pinnacle of French club football. The eighteen finest teams in the country take part in one of the most exciting and demanding leagues in the world.</desc>
   </programme>
   <programme start="20261026090000 +0000" stop="20261026110000 +0000" channel="cablenetsports3.cy">
-    <title lang="el">Paris Saint-Germain - Lyon 25/10/26</title>
-    <desc lang="el">Οι δεκαοχτώ καλύτερες ομάδες του Γαλλικού ποδοσφαίρου συναγωνίζονται στην Λιγκ 1, μία απο τις πιο συναρπαστικές διοργανώσεις ποδοσφαίρου στο κόσμο. The Ligue 1 represents the pinnacle of French club football. The eighteen finest teams in the country take part in one of the most exciting and demanding leagues in the world.</desc>
+    <title lang="el">Barcelona - Casademont Zaragoza 24/10/26 (E)</title>
+    <desc lang="el">Η Cablenet μέσα από τα κανάλια της φέρνει κοντά μας τις καλύτερες ομάδες της Ισπανικής καλαθόσφαιρας, μία από τις πιο συναρπαστικές διοργανώσεις καλαθόσφαιρας στον κόσμο. Through its channels, Cablenet brings us the best teams of Spanish basketball, one of the most exciting basketball events in the world.</desc>
   </programme>
   <programme start="20261026110000 +0000" stop="20261026120000 +0000" channel="cablenetsports3.cy">
     <title lang="el">Τυχερός # 03 The Talented Mr Ferrari (E)</title>
@@ -22579,19 +23056,23 @@
     <title lang="el">Αθλητικά Ντοκιμαντέρ Θυμωμένος Ουρανός (E)</title>
     <desc lang="el">Η ιστορία του Nick Piantanida, ιδιοκτήτη καταστήματος κατοικίδιων ζώων στο Νιου Τζέρσεϋ και οδηγός φορτηγού, του οποίου η αγάπη για το αλεξίπτωτο και την ελεύθερη πτώση τον βάζει σε μια προσπάθεια να σπάσει το ρεκόρ για το υψηλότερο άλμα με αλεξίπτωτο. The story of Nick Piantanida, a New Jersey pet store owner and truck driver whose love of parachuting and skydiving puts him on a quest to break the record for the highest recorded parachute jump.</desc>
   </programme>
-  <programme start="20261026193000 +0000" stop="20261026200000 +0000" channel="cablenetsports3.cy">
-    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 5) # 04 Daredevils (E)</title>
-    <desc lang="el">Ποιοι είναι οι μεγαλύτεροι τολμηροί του αθλητισμού όλων των εποχών; Who are sports greatest dare-devils of all time?</desc>
+  <programme start="20261026193000 +0000" stop="20261026213000 +0000" channel="cablenetsports3.cy">
+    <title lang="el">Paris Saint-Germain - Lyon 25/10/26</title>
+    <desc lang="el">Οι δεκαοχτώ καλύτερες ομάδες του Γαλλικού ποδοσφαίρου συναγωνίζονται στην Λιγκ 1, μία απο τις πιο συναρπαστικές διοργανώσεις ποδοσφαίρου στο κόσμο. The Ligue 1 represents the pinnacle of French club football. The eighteen finest teams in the country take part in one of the most exciting and demanding leagues in the world.</desc>
   </programme>
-  <programme start="20261026200000 +0000" stop="20261026203000 +0000" channel="cablenetsports3.cy">
+  <programme start="20261026213000 +0000" stop="20261026220000 +0000" channel="cablenetsports3.cy">
     <title lang="el">Game R1 (Season 7) 2026-27 # 09 23/10/26</title>
     <desc lang="el">Το «Game R1» είναι μια εκπομπή αφιερωμένη στο gaming, η οποία καλύπτει τις τελευταίες ειδήσεις, κυκλοφορίες παιχνιδιών, ανακοινώσεις και θέματα της gaming βιομηχανίας. "Game R1" is a show dedicated to gaming that covers the latest news, game releases, announcements, and topics related to the gaming industry.</desc>
   </programme>
-  <programme start="20261026203000 +0000" stop="20261026223000 +0000" channel="cablenetsports3.cy">
+  <programme start="20261026220000 +0000" stop="20261026223000 +0000" channel="cablenetsports3.cy">
+    <title lang="el">Οι Μεγαλύτεροι Όλων των Εποχών (Σεζόν 5) # 04 Daredevils (E)</title>
+    <desc lang="el">Ποιοι είναι οι μεγαλύτεροι τολμηροί του αθλητισμού όλων των εποχών; Who are sports greatest dare-devils of all time?</desc>
+  </programme>
+  <programme start="20261026223000 +0000" stop="20261027003000 +0000" channel="cablenetsports3.cy">
     <title lang="el">Sparta Rotterdam - Ajax 25/10/26</title>
     <desc lang="el">Η Cablenet μέσα από τα κανάλια της φέρνει κοντά μας τις καλύτερες ομάδες του Ολλανδικού Ποδοσφαίρου, μία από τις πιο συναρπαστικές διοργανώσεις ποδοσφαίρου της Ευρώπης. Through its channels, Cablenet brings us the best Eredivisie Dutch League games, one of the most exciting football league in Europe.</desc>
   </programme>
-  <programme start="20261026223000 +0000" stop="20261027020000 +0000" channel="cablenetsports3.cy">
+  <programme start="20261027003000 +0000" stop="20261027020000 +0000" channel="cablenetsports3.cy">
     <title lang="el">Σύντομα Ξανά Κοντά Σας</title>
     <desc lang="el">Σύντομα περισσότερες αθλητικές μεταδόσεις. More sports events coming soon.</desc>
   </programme>
@@ -27006,13 +27487,16 @@
     <title lang="el">Adventure Time Κ3</title>
   </programme>
   <programme start="20261025050000 +0000" stop="20261025110000 +0000" channel="cartoonnetwork.cy">
-    <title lang="el">Adventure Time Κ3</title>
+    <title lang="el">Adventure Time</title>
+    <desc lang="el">The grounded Ice King hires a fire-manipulating hitman. / Finn and Jake need to retrieve a wake spell from Marceline's memory but they must go inside her mind to find it. / Jake starts to turn lumpy after being bitten by Lumpy Space Princess! / Princess Bubblegum tells Finn about a book for heroes, they embark on a quest for the book. / Finn and Jake happen upon a jiggly creature who follows them home to their tree house.</desc>
   </programme>
   <programme start="20261025110000 +0000" stop="20261025170000 +0000" channel="cartoonnetwork.cy">
-    <title lang="el">Adventure Time Κ3</title>
+    <title lang="el">Adventure Time</title>
+    <desc lang="el">The grounded Ice King hires a fire-manipulating hitman. / Finn and Jake need to retrieve a wake spell from Marceline's memory but they must go inside her mind to find it. / Jake starts to turn lumpy after being bitten by Lumpy Space Princess! / Princess Bubblegum tells Finn about a book for heroes, they embark on a quest for the book. / Finn and Jake happen upon a jiggly creature who follows them home to their tree house.</desc>
   </programme>
   <programme start="20261025170000 +0000" stop="20261026020000 +0000" channel="cartoonnetwork.cy">
-    <title lang="el">Adventure Time Κ3</title>
+    <title lang="el">Adventure Time</title>
+    <desc lang="el">The grounded Ice King hires a fire-manipulating hitman. / Finn and Jake need to retrieve a wake spell from Marceline's memory but they must go inside her mind to find it. / Jake starts to turn lumpy after being bitten by Lumpy Space Princess! / Princess Bubblegum tells Finn about a book for heroes, they embark on a quest for the book. / Finn and Jake happen upon a jiggly creature who follows them home to their tree house.</desc>
   </programme>
   <programme start="20261026020000 +0000" stop="20261026044000 +0000" channel="cartoonnetwork.cy">
     <title lang="el">The Amazing World of Gumball Κ4</title>
@@ -27105,11 +27589,11 @@
     <title lang="el">Adventure Time</title>
     <desc lang="el">Marceline messes with Finn and Jake, and tells them they're vampires. / Lumpy Space Princess's parents ask Finn and Jake to find their daughter.</desc>
   </programme>
-  <programme start="20261026144500 +0000" stop="20261026152500 +0000" channel="cartoonnetwork.cy">
+  <programme start="20261026144500 +0000" stop="20261026153000 +0000" channel="cartoonnetwork.cy">
     <title lang="el">Teen Titans Go!</title>
     <desc lang="el">Robin is ready to answer a crime alert but the other Titans are in no rush. / Will a trip to the Eastory Factory be a magical time for the Titans or is it another one of the Easter Bunny's tricks? / The Titans decide to not produce a Halloween special this year but soon discover they may not have a choice. / The Titans are in Boston, and with the help of Deadman, search for a legendary bowl of clam chowder.</desc>
   </programme>
-  <programme start="20261026152500 +0000" stop="20261026155000 +0000" channel="cartoonnetwork.cy">
+  <programme start="20261026153000 +0000" stop="20261026155000 +0000" channel="cartoonnetwork.cy">
     <title lang="el">Clarence</title>
     <desc lang="el">When Jeff realizes Sumo's new classes have been rubbing off on Sumo he attempts to further foster this newfound intellectual Sumo! But will Clarence's lowbrow antics reverse Jeff's hard work? / Clarence feels the call of the wild.</desc>
   </programme>
@@ -27192,31 +27676,31 @@
     <title lang="el">Looney Tunes Cartoons</title>
     <desc lang="el">Daffy plays one too many pranks on Porky. Bugs is having Pete Puma for dinner. / Bug’s relaxing afternoon is interrupted by a hungry Puma looking for a “hare-y” snack / Daffy meets his match with an office photocopier.</desc>
   </programme>
-  <programme start="20261027054500 +0000" stop="20261027062900 +0000" channel="cartoonnetwork.cy">
+  <programme start="20261027054500 +0000" stop="20261027063000 +0000" channel="cartoonnetwork.cy">
     <title lang="el">Be Cool, Scooby-Doo!</title>
     <desc lang="el">Shaggy drags the gang to a childhood arcade where he's determined to finally collect enough tickets to win the prize he's wanted since he was a boy. / The gang investigate claims that the ghost of a magician is haunting the concert hall where their friend is playing.</desc>
   </programme>
-  <programme start="20261027062900 +0000" stop="20261027065000 +0000" channel="cartoonnetwork.cy">
+  <programme start="20261027063000 +0000" stop="20261027065500 +0000" channel="cartoonnetwork.cy">
     <title lang="el">Adventure Time: Side Quests</title>
     <desc lang="el">Following a big embarrassment, Finn flees society and lands on an island where he’s taken in by a clan obsessed with their own shame. / Finn and Jake are forced to help Ice King babysit the maniacal son of a Goblin Queen who Ice King claims to be dating.</desc>
   </programme>
-  <programme start="20261027065000 +0000" stop="20261027071000 +0000" channel="cartoonnetwork.cy">
+  <programme start="20261027065500 +0000" stop="20261027072000 +0000" channel="cartoonnetwork.cy">
     <title lang="el">Lana Longbeard</title>
     <desc lang="el">Lana scrambles to complete a quest to save her Guild membership, but Horatius sabotages her efforts. Can she finish in time? / Lana's first cake offering is ruined by Sprog. Now she must bake another to calm a whirlpool and save the Mighty Windbreaker.</desc>
   </programme>
-  <programme start="20261027071000 +0000" stop="20261027080000 +0000" channel="cartoonnetwork.cy">
+  <programme start="20261027072000 +0000" stop="20261027080500 +0000" channel="cartoonnetwork.cy">
     <title lang="el">Clarence</title>
     <desc lang="el">Clarence bonds with girl called Amy from down the street, as they both search for a monster-sized boulder called an 'erratic'. / Can Clarence, Jeff and Sumo manage to have a good time at "Pizza Swamp" Arcade with only one dollar to spend between them? Yes. / Clarence's Mom treats Clarence, Jeff and Sumo to an afternoon at Rough Riders Chicken, a fast food restaurant with a play emporium.</desc>
   </programme>
-  <programme start="20261027080000 +0000" stop="20261027084000 +0000" channel="cartoonnetwork.cy">
+  <programme start="20261027080500 +0000" stop="20261027083500 +0000" channel="cartoonnetwork.cy">
     <title lang="el">The Amazing World of Gumball</title>
     <desc lang="el">Gumball and Darwin accidentally create a loveable monster that eats their family. / Gumball is embarrassed when Mum comes to school to spend some “quality time”. / Gumball’s magic tinfoil helmet threatens to tear the Watterson family apart!</desc>
   </programme>
-  <programme start="20261027084000 +0000" stop="20261027092500 +0000" channel="cartoonnetwork.cy">
+  <programme start="20261027083500 +0000" stop="20261027091500 +0000" channel="cartoonnetwork.cy">
     <title lang="el">Teen Titans Go!</title>
     <desc lang="el">When the Titans' real ages are revealed they must think and act like teenagers to remain Teen Titans. / Inspired by a commercial, the Titans visit Dr. Light and Dr. Moon to learn how to make extra money. / Control Freak tries once more to convince the Titans that the original show is the superior series. / Cyborg and Beast Boy realize that what they order to eat at a diner might have much bigger consequences.</desc>
   </programme>
-  <programme start="20261027092500 +0000" stop="20261027094000 +0000" channel="cartoonnetwork.cy">
+  <programme start="20261027091500 +0000" stop="20261027094000 +0000" channel="cartoonnetwork.cy">
     <title lang="el">Adventure Time: Side Quests</title>
     <desc lang="el">Following a big embarrassment, Finn flees society and lands on an island where he’s taken in by a clan obsessed with their own shame. / Finn and Jake are forced to help Ice King babysit the maniacal son of a Goblin Queen who Ice King claims to be dating.</desc>
   </programme>
@@ -27224,11 +27708,11 @@
     <title lang="el">Totally Spies!</title>
     <desc lang="el">Giant vegetables are on the loose as the Spies go undercover camping. / Giant durians are on the rampage but Clover’s distracted by a classmate.</desc>
   </programme>
-  <programme start="20261027102500 +0000" stop="20261027105000 +0000" channel="cartoonnetwork.cy">
+  <programme start="20261027102500 +0000" stop="20261027104500 +0000" channel="cartoonnetwork.cy">
     <title lang="el">LEGO City: No Limits MAX</title>
     <desc lang="el">Mech-Max builds a slushy van and Jason tries to prove he’s the most extreme. / Just Jason becomes a real criminal, while Bytz takes on the entire city for a game of dodgeball.</desc>
   </programme>
-  <programme start="20261027105000 +0000" stop="20261027111000 +0000" channel="cartoonnetwork.cy">
+  <programme start="20261027104500 +0000" stop="20261027111000 +0000" channel="cartoonnetwork.cy">
     <title lang="el">Ninjago: Dragons Rising</title>
     <desc lang="el">After a cataclysm changes their world forever, new and old Ninja must team up to save all the realms from high-tech villains bent on domination.</desc>
   </programme>
@@ -27240,59 +27724,59 @@
     <title lang="el">Adventure Time</title>
     <desc lang="el">When a group of businessmen wash ashore, Jake convinces Finn to take them under their wing. / When Finn tries to help a sad mountain he ends up upsetting someone else. / On a dark and stormy night Finn and Jake are visited by Marceline the Vampire Queen.</desc>
   </programme>
-  <programme start="20261027123000 +0000" stop="20261027125500 +0000" channel="cartoonnetwork.cy">
+  <programme start="20261027123000 +0000" stop="20261027125000 +0000" channel="cartoonnetwork.cy">
     <title lang="el">Clarence</title>
     <desc lang="el">Jeff is all set to go to bed so he can wake up for the early morning meteor shower when Clarence suggests the unthinkable: What if they stay up all night? / The trio heads to Squirty's Moist Mountain water park. As Clarence learns the truth about his idol Squirty Jeff and Sumo wait in line for the reopening of the parks tallest slide.</desc>
   </programme>
-  <programme start="20261027125500 +0000" stop="20261027132000 +0000" channel="cartoonnetwork.cy">
+  <programme start="20261027125000 +0000" stop="20261027131500 +0000" channel="cartoonnetwork.cy">
     <title lang="el">Regular Show</title>
     <desc lang="el">While everyone prepares for the park's annual barbecue things go awry when Rigby accidentally burns Benson's premium hot dogs. Mordecai and Rigby search for more hot dogs in the freezer but Rigby accidentally traps them inside and breaks the thermostat causing Mordecai to go unconscious. Rigby carries Mordecai's body and finds living hot dogs and they help them escape from the freezer. / ...and much more!</desc>
   </programme>
-  <programme start="20261027132000 +0000" stop="20261027134500 +0000" channel="cartoonnetwork.cy">
+  <programme start="20261027131500 +0000" stop="20261027133500 +0000" channel="cartoonnetwork.cy">
     <title lang="el">The Amazing World of Gumball</title>
     <desc lang="el">Darwin develops a texting addiction when he and Gumball get their first cell phone. / Richard gets a job as a pizza delivery man which worries Nicole when at the same time strange things begin to occur around the neighbourhood.</desc>
   </programme>
-  <programme start="20261027134500 +0000" stop="20261027140000 +0000" channel="cartoonnetwork.cy">
+  <programme start="20261027133500 +0000" stop="20261027140000 +0000" channel="cartoonnetwork.cy">
     <title lang="el">Apple &amp; Onion</title>
     <desc lang="el">Burger's roommate is not only a problem for him, but for Apple and Onion who need Burger's help for something else. / DJ Saltfish and MC Ackee are in town for two nights only and Apple and Onion are determined to make the most of it and bust some moves on the dance floor.</desc>
   </programme>
-  <programme start="20261027140000 +0000" stop="20261027142500 +0000" channel="cartoonnetwork.cy">
+  <programme start="20261027140000 +0000" stop="20261027142000 +0000" channel="cartoonnetwork.cy">
     <title lang="el">Adventure Time: Side Quests</title>
     <desc lang="el">After startling a mythical beast, Finn and Jake unleash Candy Ragnarök and must save the Kingdom from total ruin. / Jake enlists Finn’s help to win a giant hot dog contest, but he’s soon torn after discovering the win means doom for a family living in Jake’s belly.</desc>
   </programme>
-  <programme start="20261027142500 +0000" stop="20261027144500 +0000" channel="cartoonnetwork.cy">
+  <programme start="20261027142000 +0000" stop="20261027144000 +0000" channel="cartoonnetwork.cy">
     <title lang="el">Adventure Time</title>
     <desc lang="el">Jake's Dad appears in a holographic message with a mysterious challenge for Finn and Jake. / Finn and Jake are feeling peckish and only one thing can satisfy their hunger.</desc>
   </programme>
-  <programme start="20261027144500 +0000" stop="20261027152500 +0000" channel="cartoonnetwork.cy">
+  <programme start="20261027144000 +0000" stop="20261027152500 +0000" channel="cartoonnetwork.cy">
     <title lang="el">Teen Titans Go!</title>
     <desc lang="el">A behind the scenes look at the history of Teen Titans Go! / The Wonder Twins teach the Titans about water conservation. / Cyborg and Beast Boy disguise themselves as ice villains at the Cold Academy in order to help Captain Cold. / Cyborg's birthday wish goes wrong and everything becomes cake.</desc>
   </programme>
-  <programme start="20261027152500 +0000" stop="20261027155000 +0000" channel="cartoonnetwork.cy">
+  <programme start="20261027152500 +0000" stop="20261027154500 +0000" channel="cartoonnetwork.cy">
     <title lang="el">Clarence</title>
     <desc lang="el">Clarence accidentally knocks Belson's new video game. / Mary buys a new trampoline for the family.</desc>
   </programme>
-  <programme start="20261027155000 +0000" stop="20261027161500 +0000" channel="cartoonnetwork.cy">
+  <programme start="20261027154500 +0000" stop="20261027161000 +0000" channel="cartoonnetwork.cy">
     <title lang="el">The Wonderfully Weird World of Gumball</title>
     <desc lang="el">During a heatwave, Richard recruits the kids to help him sneak into the Robinsons’ new above-ground pool. / Nicole wants a new family portrait where everyone’s entire face is in the photo and they’re all smiling.</desc>
   </programme>
-  <programme start="20261027161500 +0000" stop="20261027163900 +0000" channel="cartoonnetwork.cy">
+  <programme start="20261027161000 +0000" stop="20261027163500 +0000" channel="cartoonnetwork.cy">
     <title lang="el">Regular Show</title>
     <desc lang="el">Mordecai and Rigby beat Muscle Man and High-Five Ghost in a cart race and pick up some girls who have some flat tires. However they soon destroy the cart so Benson punishes them by taking away their cart privileges and forcing them to ride kiddie bikes. Angered at the “uncoolness of the bikes Mordecai protests the decision due to them taking away their cool appeal. / ...and much more!</desc>
   </programme>
-  <programme start="20261027163900 +0000" stop="20261027170000 +0000" channel="cartoonnetwork.cy">
+  <programme start="20261027163500 +0000" stop="20261027165500 +0000" channel="cartoonnetwork.cy">
     <title lang="el">Adventure Time: Side Quests</title>
     <desc lang="el">After startling a mythical beast, Finn and Jake unleash Candy Ragnarök and must save the Kingdom from total ruin. / Jake enlists Finn’s help to win a giant hot dog contest, but he’s soon torn after discovering the win means doom for a family living in Jake’s belly.</desc>
   </programme>
-  <programme start="20261027170000 +0000" stop="20261027172500 +0000" channel="cartoonnetwork.cy">
+  <programme start="20261027165500 +0000" stop="20261027172000 +0000" channel="cartoonnetwork.cy">
     <title lang="el">Regular Show: The Lost Tapes</title>
     <desc lang="el">Benson learns a better way to motivate. / A secret nap spot causes major problems.</desc>
   </programme>
-  <programme start="20261027172500 +0000" stop="20261027174500 +0000" channel="cartoonnetwork.cy">
+  <programme start="20261027172000 +0000" stop="20261027174000 +0000" channel="cartoonnetwork.cy">
     <title lang="el">Regular Show</title>
     <desc lang="el">Benson has to get to work on time so he can win a gold watch. / Mordecai and Rigby have to paint a house</desc>
   </programme>
-  <programme start="20261027174500 +0000" stop="20261027182500 +0000" channel="cartoonnetwork.cy">
+  <programme start="20261027174000 +0000" stop="20261027182500 +0000" channel="cartoonnetwork.cy">
     <title lang="el">Teen Titans Go!</title>
     <desc lang="el">It's Mother's Day and the Titans compete to determine which of them is the best mom and deserves all the gifts. / The Titans' day at the beach is interrupted by something vicious in the ocean. / The Titans encourage King Shark to start playing pool again but he must first learn how to trust his gut. / King Shark wears a tank top and teaches the Titans all about the "tank life."</desc>
   </programme>
@@ -27300,27 +27784,27 @@
     <title lang="el">The Wonderfully Weird World of Gumball</title>
     <desc lang="el">Anais starts aging prematurely due to the stress and pressure of looking out for the rest of her stupid family. / After tasting Masami’s gourmet, double-truffle mac-n-cheese at lunch, Gumball decides to do whatever it takes to get a full serving of the delicious meal.</desc>
   </programme>
-  <programme start="20261027185000 +0000" stop="20261027191500 +0000" channel="cartoonnetwork.cy">
+  <programme start="20261027185000 +0000" stop="20261027191000 +0000" channel="cartoonnetwork.cy">
     <title lang="el">The Amazing World of Gumball</title>
     <desc lang="el">Elmore residents are going missing and the cause of these disappearances may be closer to home than Gumball and Darwin think. A breaking news report tells the Wattersons that their neighbour is among the several mysterious disappearances happening across Elmore. Their search for clues leads them to find a strange egg which they soon discover belongs to their own Evil Turtle. / ...and much more!</desc>
   </programme>
-  <programme start="20261027191500 +0000" stop="20261027193500 +0000" channel="cartoonnetwork.cy">
+  <programme start="20261027191000 +0000" stop="20261027193500 +0000" channel="cartoonnetwork.cy">
     <title lang="el">Adventure Time: Side Quests</title>
     <desc lang="el">After startling a mythical beast, Finn and Jake unleash Candy Ragnarök and must save the Kingdom from total ruin. / Jake enlists Finn’s help to win a giant hot dog contest, but he’s soon torn after discovering the win means doom for a family living in Jake’s belly.</desc>
   </programme>
-  <programme start="20261027193500 +0000" stop="20261027200000 +0000" channel="cartoonnetwork.cy">
+  <programme start="20261027193500 +0000" stop="20261027195500 +0000" channel="cartoonnetwork.cy">
     <title lang="el">Adventure Time</title>
     <desc lang="el">Jake's Dad appears in a holographic message with a mysterious challenge for Finn and Jake. / Finn and Jake are feeling peckish and only one thing can satisfy their hunger.</desc>
   </programme>
-  <programme start="20261027200000 +0000" stop="20261027204500 +0000" channel="cartoonnetwork.cy">
+  <programme start="20261027195500 +0000" stop="20261027204000 +0000" channel="cartoonnetwork.cy">
     <title lang="el">Totally Spies!</title>
     <desc lang="el">Champion snowboarders go missing and Alex’s competitive edge is tested. / Cute kittens threaten to destroy WOOHP World and Alex’s heart.</desc>
   </programme>
-  <programme start="20261027204500 +0000" stop="20261027213000 +0000" channel="cartoonnetwork.cy">
+  <programme start="20261027204000 +0000" stop="20261027212500 +0000" channel="cartoonnetwork.cy">
     <title lang="el">The Wonderfully Weird World of Gumball</title>
     <desc lang="el">Nicole befriends a sympathetic AI, but as their bond grows, it tries to isolate her from the rest of the Wattersons. / Gumball must find a way to save his relationship with Darwin after the boys are forced to live in separate rooms. / To save Nicole’s family dinner, Richard must retrace his day and uncover what “the thing” is before disaster strikes again. / The Wattersons must get Anais to Daisyland before the park closes for good.</desc>
   </programme>
-  <programme start="20261027213000 +0000" stop="20261028020000 +0000" channel="cartoonnetwork.cy">
+  <programme start="20261027212500 +0000" stop="20261028020000 +0000" channel="cartoonnetwork.cy">
     <title lang="el">The Amazing World of Gumball</title>
     <desc lang="el">The kids try to help Dad bond with Frankie. / The kids realise that they've never known their neighbour's name, and they're way past the window where they can ask. / Gumball has something uncomfortable to tell Penny but doesn't know how, until he makes a deal with Principal Brown. / Elmore has been plunged into black and white and Gumball and Darwin have to figure out what's going on. / Gumball and Anais go head to head in a leadership election voted for by their classmates.</desc>
   </programme>
@@ -45141,8 +45625,11 @@
   <programme start="20261025180000 +0000" stop="20261025190000 +0000" channel="cytavisionsports5.cy">
     <title lang="el">MAN UTD TV</title>
   </programme>
-  <programme start="20261025190000 +0000" stop="20261026040000 +0000" channel="cytavisionsports5.cy">
+  <programme start="20261025190000 +0000" stop="20261025220000 +0000" channel="cytavisionsports5.cy">
     <title lang="el">ATP 250 - LYON (FINAL)</title>
+  </programme>
+  <programme start="20261025220000 +0000" stop="20261026040000 +0000" channel="cytavisionsports5.cy">
+    <title lang="el">MAN UTD TV</title>
   </programme>
   <programme start="20261026040000 +0000" stop="20261026100000 +0000" channel="cytavisionsports5.cy">
     <title lang="el">MAN UTD TV</title>
@@ -45330,7 +45817,13 @@
   <programme start="20261025190000 +0000" stop="20261025200000 +0000" channel="cytavisionsports6.cy">
     <title lang="el">ERC PORTUGAL 2026Stage 2 (60)</title>
   </programme>
-  <programme start="20261025200000 +0000" stop="20261026040000 +0000" channel="cytavisionsports6.cy">
+  <programme start="20261025200000 +0000" stop="20261025210000 +0000" channel="cytavisionsports6.cy">
+    <title lang="el">MOTORVISION</title>
+  </programme>
+  <programme start="20261025210000 +0000" stop="20261026000000 +0000" channel="cytavisionsports6.cy">
+    <title lang="el">UTAH - LA LAKERS (Z)</title>
+  </programme>
+  <programme start="20261026000000 +0000" stop="20261026040000 +0000" channel="cytavisionsports6.cy">
     <title lang="el">MOTORVISION</title>
   </programme>
   <programme start="20261026040000 +0000" stop="20261026100000 +0000" channel="cytavisionsports6.cy">
@@ -45474,8 +45967,11 @@
   <programme start="20261025173000 +0000" stop="20261025203000 +0000" channel="cytavisionsports7.cy">
     <title lang="el">HORSE TV</title>
   </programme>
-  <programme start="20261025203000 +0000" stop="20261026040000 +0000" channel="cytavisionsports7.cy">
+  <programme start="20261025203000 +0000" stop="20261025223000 +0000" channel="cytavisionsports7.cy">
     <title lang="el">SPORTING - ACADEMICO (Z)</title>
+  </programme>
+  <programme start="20261025223000 +0000" stop="20261026040000 +0000" channel="cytavisionsports7.cy">
+    <title lang="el">HORSE TV</title>
   </programme>
   <programme start="20261026040000 +0000" stop="20261026100000 +0000" channel="cytavisionsports7.cy">
     <title lang="el">HORSE TV</title>
@@ -123347,6 +123843,88 @@
     <title lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
     <desc lang="el">Οι καλύτερες ξένες κινηματογραφικές ταινίες από όλο τον κόσμο.</desc>
   </programme>
+  <programme start="20261025040000 +0000" stop="20261025043000 +0000" channel="onechannel.cy">
+    <title lang="el">ΑΟΡΑΤΟΣ ΦΑΚΟΣ</title>
+    <desc lang="el">ΑΟΡΑΤΟΣ ΦΑΚΟΣ, ΦΑΡΣΕΣ</desc>
+  </programme>
+  <programme start="20261025043000 +0000" stop="20261025050000 +0000" channel="onechannel.cy">
+    <title lang="el">ONE NEWS (E)</title>
+    <desc lang="el">ONE NEWS (Ε)</desc>
+  </programme>
+  <programme start="20261025050000 +0000" stop="20261025090000 +0000" channel="onechannel.cy">
+    <title lang="el">ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗ ONE CHANNEL GR</title>
+    <desc lang="el">ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗ ONE CHANNEL GR</desc>
+  </programme>
+  <programme start="20261025090000 +0000" stop="20261025103000 +0000" channel="onechannel.cy">
+    <title lang="el">ΡΑΓΙΣΜΕΝΕΣ ΚΑΡΔΙΕΣ</title>
+    <desc lang="el">Στη διάρκεια του ελληνοϊταλικού πολέμου μια κοπέλα μαθαίνει ότι αγνοείται ο αγαπημένος της. Τον θεωρεί νεκρό και αποφασίζει να παντρευτεί τον καλύτερό του φίλο. Λίγο πριν τον γάμο εμφανίζεται ο αγνοούμενος ο οποίος διεκδικεί και κερδίζει την αγαπημένη του. Αισθηματική παραγωγής 1945. Πρωταγωνιστούν: Στέλλα Γκρέκα, Λάμπρος Κωνσταντάρας, Ντίνος Βαλέντης. Σκηνοθεσία: Ορέστης Λάσκος.</desc>
+  </programme>
+  <programme start="20261025103000 +0000" stop="20261025110000 +0000" channel="onechannel.cy">
+    <title lang="el">TELEMARKETING</title>
+    <desc lang="el">TELEMARKETING</desc>
+  </programme>
+  <programme start="20261025110000 +0000" stop="20261025114500 +0000" channel="onechannel.cy">
+    <title lang="el">ΕΛΙΕΣ ΘΡΟΥΜΠΕΣ</title>
+    <desc lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</desc>
+  </programme>
+  <programme start="20261025114500 +0000" stop="20261025123000 +0000" channel="onechannel.cy">
+    <title lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">Οι καλύτερες ξένες κινηματογραφικές ταινίες από όλο τον κόσμο.</desc>
+  </programme>
+  <programme start="20261025123000 +0000" stop="20261025140000 +0000" channel="onechannel.cy">
+    <title lang="el">ΕΛΛΗΝΙΚΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΤΟΓΡΑΦΟΣ</desc>
+  </programme>
+  <programme start="20261025140000 +0000" stop="20261025153000 +0000" channel="onechannel.cy">
+    <title lang="el">ΚΡΑΤΑ ΜΟΥ ΤΟ ΧΕΡΙ</title>
+    <desc lang="el">ΚΡΑΤΑ ΜΟΥ ΤΟ ΧΕΡΙ</desc>
+  </programme>
+  <programme start="20261025153000 +0000" stop="20261025160000 +0000" channel="onechannel.cy">
+    <title lang="el">ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΕΣ ΕΠΙΤΥΧΙΕΣ</title>
+    <desc lang="el">ΤΗΛΕΠΩΛΗΣΕΙΣ</desc>
+  </programme>
+  <programme start="20261025160000 +0000" stop="20261025170000 +0000" channel="onechannel.cy">
+    <title lang="el">ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗ ONE CHANNEL GR</title>
+    <desc lang="el">ΑΠΕΥΘΕΙΑΣ ΣΥΝΔΕΣΗ ONE CHANNEL GR</desc>
+  </programme>
+  <programme start="20261025170000 +0000" stop="20261025190000 +0000" channel="onechannel.cy">
+    <title lang="el">ΕΛΛΗΝΙΚΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">ΕΛΛΗΝΙΚΟΣ ΚΙΝΗΜΤΟΓΡΑΦΟΣ</desc>
+  </programme>
+  <programme start="20261025190000 +0000" stop="20261025190500 +0000" channel="onechannel.cy">
+    <title lang="el">LUBEN</title>
+    <desc lang="el">LUBEN</desc>
+  </programme>
+  <programme start="20261025190500 +0000" stop="20261025204500 +0000" channel="onechannel.cy">
+    <title lang="el">Η ΚΟΡΗ ΜΟΥ</title>
+    <desc lang="el">ΤΟΥΡΚΙΚΗ ΔΡΑΜΑΤΙΚΗ ΣΕΙΡΑ</desc>
+  </programme>
+  <programme start="20261025204500 +0000" stop="20261025211500 +0000" channel="onechannel.cy">
+    <title lang="el">ONE NEWS</title>
+    <desc lang="el">Τηλεοπτικό εκπομπή με την Ματίνα Βεντούρα και τον Δημοσθένη Καρμίρη</desc>
+  </programme>
+  <programme start="20261025211500 +0000" stop="20261025220000 +0000" channel="onechannel.cy">
+    <title lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</title>
+    <desc lang="el">ΞΕΝΗ ΚΙΝΗΜΑΤΟΓΡΑΦΙΚΗ ΤΑΙΝΙΑ</desc>
+  </programme>
+  <programme start="20261026040000 +0000" stop="20261026100000 +0000" channel="onechannel.cy">
+    <title lang="el">This is One Channel CY</title>
+  </programme>
+  <programme start="20261026100000 +0000" stop="20261026160000 +0000" channel="onechannel.cy">
+    <title lang="el">This is One Channel CY</title>
+  </programme>
+  <programme start="20261026160000 +0000" stop="20261026220000 +0000" channel="onechannel.cy">
+    <title lang="el">This is One Channel CY</title>
+  </programme>
+  <programme start="20261027040000 +0000" stop="20261027100000 +0000" channel="onechannel.cy">
+    <title lang="el">This is One Channel CY</title>
+  </programme>
+  <programme start="20261027100000 +0000" stop="20261027160000 +0000" channel="onechannel.cy">
+    <title lang="el">This is One Channel CY</title>
+  </programme>
+  <programme start="20261027160000 +0000" stop="20261027220000 +0000" channel="onechannel.cy">
+    <title lang="el">This is One Channel CY</title>
+  </programme>
   <programme start="20261020234500 +0300" stop="20261021020000 +0300" channel="openbeyond.gr">
     <title lang="el">STATUS QUO</title>
     <desc lang="el">Ενημερωτική εκπομπή με την Έφη Κουτσοκώστα και τον Αργύρη Ντινόπουλο Το " Status Quo " δεν παρακολουθεί απλώς τις εξελίξεις. Προσφέρει μια νέα, βαθιά ματιά στις αλλαγές που καθορίζουν τον κόσμο μας.</desc>
@@ -143169,14 +143747,14 @@
     <desc lang="el">GBL MD4</desc>
   </programme>
   <programme start="20261027153000 +0000" stop="20261027173000 +0000" channel="sportfmtv1.gr">
-    <title lang="el">Αστέρας Τρίπολης – Κηφισιά (LIVE)</title>
+    <title lang="el">Αστέρας AKTOR – Κηφισιά Tutu Deals (LIVE)</title>
     <desc lang="el">Superbet Κύπελλο Ελλάδας · Τρίτη 27/10, 17:30 · Ζωντανά</desc>
   </programme>
   <programme start="20261021163000 +0000" stop="20261021190000 +0000" channel="sportfmtv2.gr">
     <title lang="el">Ηρακλής – Ντζίκι Βαρσοβίας (LIVE)</title>
     <desc lang="el">FIBA Europe Cup · 3η αγωνιστική · Τετάρτη 21/10, 19:30 · Ζωντανά</desc>
   </programme>
-  <programme start="20261024143000 +0000" stop="20261024170000 +0000" channel="sportfmtv2.gr">
+  <programme start="20261024142500 +0000" stop="20261024170000 +0000" channel="sportfmtv2.gr">
     <title lang="el">ΠΑΟΚ – ΑΕΚ (LIVE)</title>
     <desc lang="el">Stoiximan GBL · 4η αγωνιστική · Σάββατο 24/10, 17:30 · Ζωντανά</desc>
   </programme>
@@ -143204,11 +143782,11 @@
     <title lang="el">Παναθηναϊκός – Παναθλητικός (LIVE)</title>
     <desc lang="el">Allwyn WBL1 · 4η αγωνιστική · Κυριακή 25/10, 14:30 · Ζωντανά</desc>
   </programme>
-  <programme start="20261024140000 +0000" stop="20261024163000 +0000" channel="sportfmtv4.gr">
+  <programme start="20261024135500 +0000" stop="20261024163000 +0000" channel="sportfmtv4.gr">
     <title lang="el">Δόξα Λευκάδας Elabet- Ηρακλής (LIVE)</title>
     <desc lang="el">Stoiximan GBL · 4η αγωνιστική · Σάββατο 24/10, 17:00 · Ζωντανά</desc>
   </programme>
-  <programme start="20261024143000 +0000" stop="20261024170000 +0000" channel="sportfmtv5.gr">
+  <programme start="20261024143000 +0000" stop="20261024180000 +0000" channel="sportfmtv5.gr">
     <title lang="el">Περιστέρι Betsson – Μαρούσι (LIVE)</title>
     <desc lang="el">Stoiximan GBL · 4η αγωνιστική · Σάββατο 24/10, 17:30 · Ζωντανά</desc>
   </programme>
@@ -144237,11 +144815,11 @@
   </programme>
   <programme start="20261024150000 +0300" stop="20261024151500 +0300" channel="star.gr">
     <title lang="el">ΜΕΣΗΜΕΡΙΑΝΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ</title>
-    <desc lang="el">Με την Κατερίνα Τσαμούρη</desc>
+    <desc lang="el">24.10.2026 - Μεσημεριανό Δελτίο Ειδήσεων</desc>
   </programme>
   <programme start="20261024151500 +0300" stop="20261024153000 +0300" channel="star.gr">
     <title lang="el">ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ ΣΤΗ ΝΟΗΜΑΤΙΚΗ</title>
-    <desc lang="el">Με την Βαλεντίνα Καραγεωργίου</desc>
+    <desc lang="el">24.10.2026 - Δελτίο Ειδήσεων στη Νοηματική</desc>
   </programme>
   <programme start="20261024153000 +0300" stop="20261024160000 +0300" channel="star.gr">
     <title lang="el">ΤΑ ΦΙΛΑΡΑΚΙΑ (FRIENDS)</title>
@@ -144254,15 +144832,14 @@
   </programme>
   <programme start="20261024182500 +0300" stop="20261024194500 +0300" channel="star.gr">
     <title lang="el">LINGO</title>
-    <desc lang="el">Επεισόδιο 7 - πρώτη μετάδοση: 24.10.2026</desc>
+    <desc lang="el">24.10.2026 - Lingo</desc>
   </programme>
   <programme start="20261024194500 +0300" stop="20261024204000 +0300" channel="star.gr">
     <title lang="el">ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ ΣΑΒΒΑΤΟΚΥΡΙΑΚΟΥ</title>
-    <desc lang="el">Με τον Σπύρο Λάμπρου</desc>
   </programme>
   <programme start="20261024204000 +0300" stop="20261024210000 +0300" channel="star.gr">
     <title lang="el">STAR ΚΑΙΡΟΣ</title>
-    <desc lang="el">Πρόγνωση Ε.Μ.Υ. για 25.10.2026</desc>
+    <desc lang="el">24.10.2026 - Star Καιρός</desc>
   </programme>
   <programme start="20261024210000 +0300" stop="20261024231500 +0300" channel="star.gr">
     <title lang="el">ΑΡΧΗΓΟΣ ΑΠΟ ΚΟΥΝΙΑ 2: ΟΙΚΟΓΕΝΕΙΑΚΗ ΥΠΟΘΕΣΗ (THE BOSS BABY: FAMILY BUSINESS)</title>
