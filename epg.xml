@@ -45448,19 +45448,19 @@
     <title lang="el">MAN UTD TV</title>
   </programme>
   <programme start="20261025100000 +0000" stop="20261025123000 +0000" channel="cytavisionsports5.cy">
-    <title lang="el">ATP 250 - ALMATY (FINAL) (Z)</title>
+    <title lang="el">Daniil MEDVEDEV - Nikoloz BASILASHVILI (FINAL) (Z)</title>
   </programme>
   <programme start="20261025123000 +0000" stop="20261025153000 +0000" channel="cytavisionsports5.cy">
     <title lang="el">MAN UTD TV</title>
   </programme>
   <programme start="20261025153000 +0000" stop="20261025180000 +0000" channel="cytavisionsports5.cy">
-    <title lang="el">ATP 250 - BRUSSELS (FINAL) (Z)</title>
+    <title lang="el">Jan-Lennard STRUFF - Tallon GRIEKSPOOR (FINAL) (Z)</title>
   </programme>
   <programme start="20261025180000 +0000" stop="20261025190000 +0000" channel="cytavisionsports5.cy">
     <title lang="el">MAN UTD TV</title>
   </programme>
   <programme start="20261025190000 +0000" stop="20261025220000 +0000" channel="cytavisionsports5.cy">
-    <title lang="el">ATP 250 - LYON (FINAL)</title>
+    <title lang="el">Lorenzo MUSETTI - Taylor FRITZ (FINAL)</title>
   </programme>
   <programme start="20261025220000 +0000" stop="20261026040000 +0000" channel="cytavisionsports5.cy">
     <title lang="el">MAN UTD TV</title>
@@ -80763,320 +80763,389 @@
   <programme start="20261024205900 +0000" stop="20261024212900 +0000" channel="insighttv.cy">
     <title lang="el">Blue World Κ8 ΕΠ7</title>
   </programme>
-  <programme start="20261024213000 +0000" stop="20261024223000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ17 ΕΠ9</title>
+  <programme start="20261024212900 +0000" stop="20261024220000 +0000" channel="insighttv.cy">
+    <title lang="el">Blue World Κ8 ΕΠ8</title>
   </programme>
-  <programme start="20261024223000 +0000" stop="20261024230000 +0000" channel="insighttv.cy">
-    <title lang="el">Δείτε Ζωντανά Ό,τι Συμβαίνει Κ23 ΕΠ166</title>
+  <programme start="20261024220000 +0000" stop="20261024225900 +0000" channel="insighttv.cy">
+    <title lang="el">Epic Exploring Κ1 ΕΠ8</title>
   </programme>
-  <programme start="20261024230000 +0000" stop="20261025000000 +0000" channel="insighttv.cy">
-    <title lang="el">Τα πλουσιόπαιδα του Μπέβερλι Χιλς Κ3 ΕΠ8</title>
+  <programme start="20261024225900 +0000" stop="20261025000000 +0000" channel="insighttv.cy">
+    <title lang="el">Epic Exploring Κ1 ΕΠ9</title>
   </programme>
   <programme start="20261025000000 +0000" stop="20261025010000 +0000" channel="insighttv.cy">
-    <title lang="el">#Τα πλουσιόπαιδα του Μπέβερλι Χιλς Κ4 ΕΠ1</title>
+    <title lang="el">Car Crews with Supercar Blondie Κ1 ΕΠ2</title>
   </programme>
   <programme start="20261025010000 +0000" stop="20261025020000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ17 ΕΠ4</title>
+    <title lang="el">Car Crews with Supercar Blondie Κ1 ΕΠ3</title>
   </programme>
-  <programme start="20261025020000 +0000" stop="20261025030000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ17 ΕΠ5</title>
+  <programme start="20261025020000 +0000" stop="20261025023000 +0000" channel="insighttv.cy">
+    <title lang="el">Epic Exploring: Going Local Κ2 ΕΠ12</title>
   </programme>
-  <programme start="20261025030000 +0000" stop="20261025035900 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ10 ΕΠ1</title>
+  <programme start="20261025023000 +0000" stop="20261025030000 +0000" channel="insighttv.cy">
+    <title lang="el">Epic Exploring: Going Local Κ2 ΕΠ13</title>
   </programme>
-  <programme start="20261025035900 +0000" stop="20261025050000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ10 ΕΠ2</title>
+  <programme start="20261025030000 +0000" stop="20261025031500 +0000" channel="insighttv.cy">
+    <title lang="el">Power &amp; Football Κ2 ΕΠ5</title>
   </programme>
-  <programme start="20261025050000 +0000" stop="20261025055500 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ10 ΕΠ3</title>
+  <programme start="20261025031500 +0000" stop="20261025033000 +0000" channel="insighttv.cy">
+    <title lang="el">Power &amp; Football Κ2 ΕΠ6</title>
   </programme>
-  <programme start="20261025055500 +0000" stop="20261025065000 +0000" channel="insighttv.cy">
-    <title lang="el">Τα πλουσιόπαιδα του Μπέβερλι Χιλς Κ3 ΕΠ8</title>
+  <programme start="20261025033000 +0000" stop="20261025040000 +0000" channel="insighttv.cy">
+    <title lang="el">Journey Within Κ1 ΕΠ3</title>
   </programme>
-  <programme start="20261025065000 +0000" stop="20261025074500 +0000" channel="insighttv.cy">
-    <title lang="el">#Τα πλουσιόπαιδα του Μπέβερλι Χιλς Κ4 ΕΠ1</title>
+  <programme start="20261025040000 +0000" stop="20261025042900 +0000" channel="insighttv.cy">
+    <title lang="el">Journey Within Κ1 ΕΠ4</title>
   </programme>
-  <programme start="20261025074500 +0000" stop="20261025084000 +0000" channel="insighttv.cy">
-    <title lang="el">Παραμορφωμένοι από τη φύση Κ1 ΕΠ7</title>
+  <programme start="20261025042900 +0000" stop="20261025050000 +0000" channel="insighttv.cy">
+    <title lang="el">A Simple Path Κ3 ΕΠ3</title>
   </programme>
-  <programme start="20261025084000 +0000" stop="20261025093500 +0000" channel="insighttv.cy">
-    <title lang="el">Παραμορφωμένοι από τη φύση Κ1 ΕΠ8</title>
+  <programme start="20261025050000 +0000" stop="20261025055900 +0000" channel="insighttv.cy">
+    <title lang="el">My Greek Odyssey Κ3 ΕΠ1</title>
   </programme>
-  <programme start="20261025093500 +0000" stop="20261025103000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ17 ΕΠ6</title>
+  <programme start="20261025055900 +0000" stop="20261025065900 +0000" channel="insighttv.cy">
+    <title lang="el">My Greek Odyssey Κ3 ΕΠ2</title>
   </programme>
-  <programme start="20261025103000 +0000" stop="20261025112500 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ17 ΕΠ7</title>
+  <programme start="20261025065900 +0000" stop="20261025075900 +0000" channel="insighttv.cy">
+    <title lang="el">Modern Explorers Κ1 ΕΠ1</title>
   </programme>
-  <programme start="20261025112500 +0000" stop="20261025122000 +0000" channel="insighttv.cy">
-    <title lang="el">#Τα πλουσιόπαιδα του Μπέβερλι Χιλς Κ4 ΕΠ2</title>
+  <programme start="20261025075900 +0000" stop="20261025090000 +0000" channel="insighttv.cy">
+    <title lang="el">Modern Explorers Κ1 ΕΠ2</title>
   </programme>
-  <programme start="20261025122000 +0000" stop="20261025131500 +0000" channel="insighttv.cy">
-    <title lang="el">#Τα πλουσιόπαιδα του Μπέβερλι Χιλς Κ4 ΕΠ3</title>
+  <programme start="20261025090000 +0000" stop="20261025092900 +0000" channel="insighttv.cy">
+    <title lang="el">Gymkhana Grid Profiles Κ1 ΕΠ6</title>
   </programme>
-  <programme start="20261025131500 +0000" stop="20261025141000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ10 ΕΠ1</title>
+  <programme start="20261025092900 +0000" stop="20261025095900 +0000" channel="insighttv.cy">
+    <title lang="el">Gymkhana Grid Profiles Κ1 ΕΠ7</title>
   </programme>
-  <programme start="20261025141000 +0000" stop="20261025150500 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ10 ΕΠ2</title>
+  <programme start="20261025095900 +0000" stop="20261025102900 +0000" channel="insighttv.cy">
+    <title lang="el">Capturing Winter Κ1 ΕΠ1</title>
   </programme>
-  <programme start="20261025150500 +0000" stop="20261025160000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ17 ΕΠ8</title>
+  <programme start="20261025102900 +0000" stop="20261025105900 +0000" channel="insighttv.cy">
+    <title lang="el">Capturing Winter Κ1 ΕΠ2</title>
   </programme>
-  <programme start="20261025160000 +0000" stop="20261025170000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ17 ΕΠ9</title>
+  <programme start="20261025105900 +0000" stop="20261025120000 +0000" channel="insighttv.cy">
+    <title lang="el">Chasing Monsters: El Nino Κ1 ΕΠ7</title>
   </programme>
-  <programme start="20261025170000 +0000" stop="20261025173000 +0000" channel="insighttv.cy">
-    <title lang="el">Δείτε Ζωντανά Ό,τι Συμβαίνει Κ23 ΕΠ167</title>
+  <programme start="20261025120000 +0000" stop="20261025130000 +0000" channel="insighttv.cy">
+    <title lang="el">Chasing Monsters: El Nino Κ1 ΕΠ8</title>
   </programme>
-  <programme start="20261025173000 +0000" stop="20261025183000 +0000" channel="insighttv.cy">
-    <title lang="el">#Τα πλουσιόπαιδα του Μπέβερλι Χιλς Κ4 ΕΠ8</title>
+  <programme start="20261025130000 +0000" stop="20261025140000 +0000" channel="insighttv.cy">
+    <title lang="el">Chasing Monsters: El Nino Κ1 ΕΠ9</title>
   </programme>
-  <programme start="20261025183000 +0000" stop="20261025193000 +0000" channel="insighttv.cy">
-    <title lang="el">Cavallari από την αρχή ως το τέλος Κ1 ΕΠ1</title>
+  <programme start="20261025140000 +0000" stop="20261025143000 +0000" channel="insighttv.cy">
+    <title lang="el">Wild Jobs Κ1 ΕΠ7</title>
   </programme>
-  <programme start="20261025193000 +0000" stop="20261025203000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ10 ΕΠ3</title>
+  <programme start="20261025143000 +0000" stop="20261025150000 +0000" channel="insighttv.cy">
+    <title lang="el">Wild Jobs Κ1 ΕΠ8</title>
   </programme>
-  <programme start="20261025203000 +0000" stop="20261025213000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ10 ΕΠ4</title>
+  <programme start="20261025150000 +0000" stop="20261025160500 +0000" channel="insighttv.cy">
+    <title lang="el">Wildest Middle East Κ1 ΕΠ4</title>
   </programme>
-  <programme start="20261025213000 +0000" stop="20261025223000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ17 ΕΠ10</title>
+  <programme start="20261025160500 +0000" stop="20261025172000 +0000" channel="insighttv.cy">
+    <title lang="el">Two Oceans Κ1 ΕΠ3</title>
   </programme>
-  <programme start="20261025223000 +0000" stop="20261025233000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ17 ΕΠ11</title>
+  <programme start="20261025172000 +0000" stop="20261025183600 +0000" channel="insighttv.cy">
+    <title lang="el">Aquarium: An Aquatic Life Κ1 ΕΠ3</title>
   </programme>
-  <programme start="20261025233000 +0000" stop="20261026000000 +0000" channel="insighttv.cy">
-    <title lang="el">Δείτε Ζωντανά Ό,τι Συμβαίνει Κ23 ΕΠ168</title>
+  <programme start="20261025183600 +0000" stop="20261025195100 +0000" channel="insighttv.cy">
+    <title lang="el">Oceans of Contrast</title>
   </programme>
-  <programme start="20261026000000 +0000" stop="20261026010000 +0000" channel="insighttv.cy">
-    <title lang="el">#Τα πλουσιόπαιδα του Μπέβερλι Χιλς Κ4 ΕΠ2</title>
+  <programme start="20261025195100 +0000" stop="20261025202100 +0000" channel="insighttv.cy">
+    <title lang="el">The Armchair Adventurer Κ1 ΕΠ15</title>
   </programme>
-  <programme start="20261026010000 +0000" stop="20261026020000 +0000" channel="insighttv.cy">
-    <title lang="el">#Τα πλουσιόπαιδα του Μπέβερλι Χιλς Κ4 ΕΠ3</title>
+  <programme start="20261025202100 +0000" stop="20261025205100 +0000" channel="insighttv.cy">
+    <title lang="el">The Armchair Adventurer Κ1 ΕΠ16</title>
   </programme>
-  <programme start="20261026020000 +0000" stop="20261026030000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ17 ΕΠ6</title>
+  <programme start="20261025205100 +0000" stop="20261025215100 +0000" channel="insighttv.cy">
+    <title lang="el">Luxe Travels Κ1 ΕΠ8</title>
   </programme>
-  <programme start="20261026030000 +0000" stop="20261026040000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ17 ΕΠ7</title>
+  <programme start="20261025215100 +0000" stop="20261025230000 +0000" channel="insighttv.cy">
+    <title lang="el">Luxe Travels Κ1 ΕΠ9</title>
   </programme>
-  <programme start="20261026040000 +0000" stop="20261026050000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ10 ΕΠ3</title>
+  <programme start="20261025230000 +0000" stop="20261026001500 +0000" channel="insighttv.cy">
+    <title lang="el">Magical Bones: Black Magic Live</title>
   </programme>
-  <programme start="20261026050000 +0000" stop="20261026055500 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ10 ΕΠ5</title>
+  <programme start="20261026001500 +0000" stop="20261026011400 +0000" channel="insighttv.cy">
+    <title lang="el">Living Stone Κ1 ΕΠ1</title>
   </programme>
-  <programme start="20261026055500 +0000" stop="20261026065500 +0000" channel="insighttv.cy">
-    <title lang="el">#Τα πλουσιόπαιδα του Μπέβερλι Χιλς Κ4 ΕΠ2</title>
+  <programme start="20261026011400 +0000" stop="20261026021400 +0000" channel="insighttv.cy">
+    <title lang="el">Living Stone Κ1 ΕΠ2</title>
   </programme>
-  <programme start="20261026065500 +0000" stop="20261026075000 +0000" channel="insighttv.cy">
-    <title lang="el">#Τα πλουσιόπαιδα του Μπέβερλι Χιλς Κ4 ΕΠ3</title>
+  <programme start="20261026021400 +0000" stop="20261026031500 +0000" channel="insighttv.cy">
+    <title lang="el">King of the Hammers: the Ultra4 Saga Κ1 ΕΠ7</title>
   </programme>
-  <programme start="20261026075000 +0000" stop="20261026084500 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ10 ΕΠ1</title>
+  <programme start="20261026031500 +0000" stop="20261026041500 +0000" channel="insighttv.cy">
+    <title lang="el">King of the Hammers: the Ultra4 Saga Κ1 ΕΠ8</title>
   </programme>
-  <programme start="20261026084500 +0000" stop="20261026094000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ10 ΕΠ2</title>
+  <programme start="20261026041500 +0000" stop="20261026044500 +0000" channel="insighttv.cy">
+    <title lang="el">Hollywood Weapons: Fact Or Fiction? Κ4 ΕΠ7</title>
   </programme>
-  <programme start="20261026094000 +0000" stop="20261026103500 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ17 ΕΠ8</title>
+  <programme start="20261026044500 +0000" stop="20261026050000 +0000" channel="insighttv.cy">
+    <title lang="el">The Flying Kestrel Κ1 ΕΠ5</title>
   </programme>
-  <programme start="20261026103500 +0000" stop="20261026113500 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ17 ΕΠ9</title>
+  <programme start="20261026050000 +0000" stop="20261026060000 +0000" channel="insighttv.cy">
+    <title lang="el">Ultimate Goal Κ2 ΕΠ3</title>
   </programme>
-  <programme start="20261026113500 +0000" stop="20261026122500 +0000" channel="insighttv.cy">
-    <title lang="el">#Τα πλουσιόπαιδα του Μπέβερλι Χιλς Κ4 ΕΠ4</title>
+  <programme start="20261026060000 +0000" stop="20261026070000 +0000" channel="insighttv.cy">
+    <title lang="el">Ultimate Goal Κ2 ΕΠ4</title>
   </programme>
-  <programme start="20261026122500 +0000" stop="20261026131500 +0000" channel="insighttv.cy">
-    <title lang="el">#Τα πλουσιόπαιδα του Μπέβερλι Χιλς Κ4 ΕΠ5</title>
+  <programme start="20261026070000 +0000" stop="20261026075900 +0000" channel="insighttv.cy">
+    <title lang="el">Travel with a Goat Κ1 ΕΠ4</title>
   </programme>
-  <programme start="20261026131500 +0000" stop="20261026141000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ10 ΕΠ3</title>
+  <programme start="20261026075900 +0000" stop="20261026084300 +0000" channel="insighttv.cy">
+    <title lang="el">Streetfood Nomad: Kolkata Κ1 ΕΠ6</title>
   </programme>
-  <programme start="20261026141000 +0000" stop="20261026150500 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ10 ΕΠ4</title>
+  <programme start="20261026084300 +0000" stop="20261026085900 +0000" channel="insighttv.cy">
+    <title lang="el">Power &amp; Football Κ2 ΕΠ7</title>
   </programme>
-  <programme start="20261026150500 +0000" stop="20261026160000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ17 ΕΠ10</title>
+  <programme start="20261026085900 +0000" stop="20261026095900 +0000" channel="insighttv.cy">
+    <title lang="el">Order Up! Κ1 ΕΠ7</title>
   </programme>
-  <programme start="20261026160000 +0000" stop="20261026170000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ17 ΕΠ11</title>
+  <programme start="20261026095900 +0000" stop="20261026105900 +0000" channel="insighttv.cy">
+    <title lang="el">Order Up! Κ1 ΕΠ8</title>
   </programme>
-  <programme start="20261026170000 +0000" stop="20261026173000 +0000" channel="insighttv.cy">
-    <title lang="el">Δείτε Ζωντανά Ό,τι Συμβαίνει Κ23 ΕΠ169</title>
+  <programme start="20261026105900 +0000" stop="20261026115900 +0000" channel="insighttv.cy">
+    <title lang="el">On the Run Κ1 ΕΠ9</title>
   </programme>
-  <programme start="20261026173000 +0000" stop="20261026183000 +0000" channel="insighttv.cy">
-    <title lang="el">Cavallari από την αρχή ως το τέλος Κ1 ΕΠ2</title>
+  <programme start="20261026115900 +0000" stop="20261026130000 +0000" channel="insighttv.cy">
+    <title lang="el">On the Run Κ1 ΕΠ10</title>
   </programme>
-  <programme start="20261026183000 +0000" stop="20261026193000 +0000" channel="insighttv.cy">
-    <title lang="el">Cavallari από την αρχή ως το τέλος Κ1 ΕΠ3</title>
+  <programme start="20261026130000 +0000" stop="20261026140000 +0000" channel="insighttv.cy">
+    <title lang="el">Graveyard Carz Κ6 ΕΠ10</title>
   </programme>
-  <programme start="20261026193000 +0000" stop="20261026203000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ10 ΕΠ5</title>
+  <programme start="20261026140000 +0000" stop="20261026145900 +0000" channel="insighttv.cy">
+    <title lang="el">Graveyard Carz Κ6 ΕΠ11</title>
   </programme>
-  <programme start="20261026203000 +0000" stop="20261026213000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ10 ΕΠ6</title>
+  <programme start="20261026145900 +0000" stop="20261026155900 +0000" channel="insighttv.cy">
+    <title lang="el">Geared Up Κ1 ΕΠ5</title>
   </programme>
-  <programme start="20261026213000 +0000" stop="20261026223000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ17 ΕΠ12</title>
+  <programme start="20261026155900 +0000" stop="20261026165900 +0000" channel="insighttv.cy">
+    <title lang="el">Geared Up Κ1 ΕΠ6</title>
   </programme>
-  <programme start="20261026223000 +0000" stop="20261026233000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ18 ΕΠ1</title>
+  <programme start="20261026165900 +0000" stop="20261026175900 +0000" channel="insighttv.cy">
+    <title lang="el">The Ride Life with Sung Kang Κ1 ΕΠ4</title>
   </programme>
-  <programme start="20261026233000 +0000" stop="20261027000000 +0000" channel="insighttv.cy">
-    <title lang="el">Δείτε Ζωντανά Ό,τι Συμβαίνει Κ23 ΕΠ170</title>
+  <programme start="20261026175900 +0000" stop="20261026190000 +0000" channel="insighttv.cy">
+    <title lang="el">The Ride Life with Sung Kang Κ1 ΕΠ5</title>
   </programme>
-  <programme start="20261027000000 +0000" stop="20261027010000 +0000" channel="insighttv.cy">
-    <title lang="el">#Τα πλουσιόπαιδα του Μπέβερλι Χιλς Κ4 ΕΠ4</title>
+  <programme start="20261026190000 +0000" stop="20261026193000 +0000" channel="insighttv.cy">
+    <title lang="el">Muscle Cars of Texas Κ1 ΕΠ3</title>
   </programme>
-  <programme start="20261027010000 +0000" stop="20261027020000 +0000" channel="insighttv.cy">
-    <title lang="el">#Τα πλουσιόπαιδα του Μπέβερλι Χιλς Κ4 ΕΠ5</title>
+  <programme start="20261026193000 +0000" stop="20261026200000 +0000" channel="insighttv.cy">
+    <title lang="el">Muscle Cars of Texas Κ1 ΕΠ4</title>
   </programme>
-  <programme start="20261027020000 +0000" stop="20261027030000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ17 ΕΠ8</title>
+  <programme start="20261026200000 +0000" stop="20261026210000 +0000" channel="insighttv.cy">
+    <title lang="el">Find Me a Classic Κ1 ΕΠ3</title>
   </programme>
-  <programme start="20261027030000 +0000" stop="20261027040000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ17 ΕΠ9</title>
+  <programme start="20261026210000 +0000" stop="20261026220000 +0000" channel="insighttv.cy">
+    <title lang="el">Find Me a Classic Κ1 ΕΠ4</title>
   </programme>
-  <programme start="20261027040000 +0000" stop="20261027050000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ10 ΕΠ6</title>
+  <programme start="20261026220000 +0000" stop="20261026223000 +0000" channel="insighttv.cy">
+    <title lang="el">Fast and Famous Κ1 ΕΠ1</title>
   </programme>
-  <programme start="20261027050000 +0000" stop="20261027055500 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ10 ΕΠ7</title>
+  <programme start="20261026223000 +0000" stop="20261026230000 +0000" channel="insighttv.cy">
+    <title lang="el">The Flying Kestrel Κ2 ΕΠ3</title>
   </programme>
-  <programme start="20261027055500 +0000" stop="20261027064500 +0000" channel="insighttv.cy">
-    <title lang="el">#Τα πλουσιόπαιδα του Μπέβερλι Χιλς Κ4 ΕΠ4</title>
+  <programme start="20261026230000 +0000" stop="20261026232800 +0000" channel="insighttv.cy">
+    <title lang="el">Top Million Dollar Agent Κ6 ΕΠ5</title>
   </programme>
-  <programme start="20261027064500 +0000" stop="20261027073500 +0000" channel="insighttv.cy">
-    <title lang="el">#Τα πλουσιόπαιδα του Μπέβερλι Χιλς Κ4 ΕΠ5</title>
+  <programme start="20261026232800 +0000" stop="20261026235900 +0000" channel="insighttv.cy">
+    <title lang="el">Top Million Dollar Agent Κ6 ΕΠ6</title>
   </programme>
-  <programme start="20261027073500 +0000" stop="20261027083500 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ10 ΕΠ3</title>
+  <programme start="20261026235900 +0000" stop="20261027002900 +0000" channel="insighttv.cy">
+    <title lang="el">Photonis Ultimate Forces Challenge Κ1 ΕΠ11</title>
   </programme>
-  <programme start="20261027083500 +0000" stop="20261027093500 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ10 ΕΠ4</title>
+  <programme start="20261027002900 +0000" stop="20261027010000 +0000" channel="insighttv.cy">
+    <title lang="el">Photonis Ultimate Forces Challenge Κ1 ΕΠ12</title>
   </programme>
-  <programme start="20261027093500 +0000" stop="20261027103500 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ17 ΕΠ10</title>
+  <programme start="20261027010000 +0000" stop="20261027013000 +0000" channel="insighttv.cy">
+    <title lang="el">Streetball with Kenny Dobbs Κ1 ΕΠ4</title>
   </programme>
-  <programme start="20261027103500 +0000" stop="20261027113000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ17 ΕΠ11</title>
+  <programme start="20261027013000 +0000" stop="20261027015900 +0000" channel="insighttv.cy">
+    <title lang="el">Streetball with Kenny Dobbs Κ1 ΕΠ5</title>
   </programme>
-  <programme start="20261027113000 +0000" stop="20261027122500 +0000" channel="insighttv.cy">
-    <title lang="el">#Τα πλουσιόπαιδα του Μπέβερλι Χιλς Κ4 ΕΠ6</title>
+  <programme start="20261027015900 +0000" stop="20261027023000 +0000" channel="insighttv.cy">
+    <title lang="el">Droners Κ1 ΕΠ5</title>
   </programme>
-  <programme start="20261027122500 +0000" stop="20261027132000 +0000" channel="insighttv.cy">
-    <title lang="el">#Τα πλουσιόπαιδα του Μπέβερλι Χιλς Κ4 ΕΠ7</title>
+  <programme start="20261027023000 +0000" stop="20261027033000 +0000" channel="insighttv.cy">
+    <title lang="el">Droners Κ1 ΕΠ6</title>
   </programme>
-  <programme start="20261027132000 +0000" stop="20261027141500 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ10 ΕΠ5</title>
+  <programme start="20261027033000 +0000" stop="20261027040000 +0000" channel="insighttv.cy">
+    <title lang="el">Dropped Κ6 ΕΠ5</title>
   </programme>
-  <programme start="20261027141500 +0000" stop="20261027151000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ10 ΕΠ6</title>
+  <programme start="20261027040000 +0000" stop="20261027043000 +0000" channel="insighttv.cy">
+    <title lang="el">Dropped Κ6 ΕΠ6</title>
   </programme>
-  <programme start="20261027151000 +0000" stop="20261027160500 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ17 ΕΠ12</title>
+  <programme start="20261027043000 +0000" stop="20261027044400 +0000" channel="insighttv.cy">
+    <title lang="el">The Streets Κ1 ΕΠ3</title>
   </programme>
-  <programme start="20261027160500 +0000" stop="20261027170000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ18 ΕΠ1</title>
+  <programme start="20261027044400 +0000" stop="20261027050000 +0000" channel="insighttv.cy">
+    <title lang="el">Bright Now Κ1 ΕΠ11</title>
   </programme>
-  <programme start="20261027170000 +0000" stop="20261027173000 +0000" channel="insighttv.cy">
-    <title lang="el">Δείτε Ζωντανά Ό,τι Συμβαίνει Κ23 ΕΠ170</title>
+  <programme start="20261027050000 +0000" stop="20261027055900 +0000" channel="insighttv.cy">
+    <title lang="el">Streetkings in Jail Κ1 ΕΠ3</title>
   </programme>
-  <programme start="20261027173000 +0000" stop="20261027183000 +0000" channel="insighttv.cy">
-    <title lang="el">Cavallari από την αρχή ως το τέλος Κ1 ΕΠ4</title>
+  <programme start="20261027055900 +0000" stop="20261027065900 +0000" channel="insighttv.cy">
+    <title lang="el">Streetkings in Jail Κ1 ΕΠ4</title>
   </programme>
-  <programme start="20261027183000 +0000" stop="20261027193000 +0000" channel="insighttv.cy">
-    <title lang="el">Cavallari από την αρχή ως το τέλος Κ1 ΕΠ5</title>
+  <programme start="20261027065900 +0000" stop="20261027074500 +0000" channel="insighttv.cy">
+    <title lang="el">Foodwise Κ2 ΕΠ12</title>
   </programme>
-  <programme start="20261027193000 +0000" stop="20261027203000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ10 ΕΠ7</title>
+  <programme start="20261027074500 +0000" stop="20261027083000 +0000" channel="insighttv.cy">
+    <title lang="el">Foodwise Κ3 ΕΠ1</title>
   </programme>
-  <programme start="20261027203000 +0000" stop="20261027213000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ10 ΕΠ8</title>
+  <programme start="20261027083000 +0000" stop="20261027085900 +0000" channel="insighttv.cy">
+    <title lang="el">A Simple Path Κ3 ΕΠ5</title>
   </programme>
-  <programme start="20261027213000 +0000" stop="20261027223000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ18 ΕΠ2</title>
+  <programme start="20261027085900 +0000" stop="20261027091500 +0000" channel="insighttv.cy">
+    <title lang="el">Science of Sound Κ1 ΕΠ6</title>
   </programme>
-  <programme start="20261027223000 +0000" stop="20261027233000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ18 ΕΠ3</title>
+  <programme start="20261027091500 +0000" stop="20261027094100 +0000" channel="insighttv.cy">
+    <title lang="el">Hollywood Weapons: Fact Or Fiction? Κ4 ΕΠ8</title>
   </programme>
-  <programme start="20261027233000 +0000" stop="20261028000000 +0000" channel="insighttv.cy">
-    <title lang="el">Δείτε Ζωντανά Ό,τι Συμβαίνει Κ23 ΕΠ171</title>
+  <programme start="20261027094100 +0000" stop="20261027101000 +0000" channel="insighttv.cy">
+    <title lang="el">Hollywood Weapons: Fact Or Fiction? Κ5 ΕΠ1</title>
   </programme>
-  <programme start="20261028000000 +0000" stop="20261028010000 +0000" channel="insighttv.cy">
-    <title lang="el">#Τα πλουσιόπαιδα του Μπέβερλι Χιλς Κ4 ΕΠ6</title>
+  <programme start="20261027101000 +0000" stop="20261027104000 +0000" channel="insighttv.cy">
+    <title lang="el">Ghost Chasers Κ2 ΕΠ1</title>
   </programme>
-  <programme start="20261028010000 +0000" stop="20261028020000 +0000" channel="insighttv.cy">
-    <title lang="el">#Τα πλουσιόπαιδα του Μπέβερλι Χιλς Κ4 ΕΠ7</title>
+  <programme start="20261027104000 +0000" stop="20261027111000 +0000" channel="insighttv.cy">
+    <title lang="el">Ghost Chasers Κ2 ΕΠ2</title>
   </programme>
-  <programme start="20261028020000 +0000" stop="20261028030000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ17 ΕΠ10</title>
+  <programme start="20261027111000 +0000" stop="20261027121100 +0000" channel="insighttv.cy">
+    <title lang="el">Street Art Challenge Κ1 ΕΠ3</title>
   </programme>
-  <programme start="20261028030000 +0000" stop="20261028040000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ17 ΕΠ11</title>
+  <programme start="20261027121100 +0000" stop="20261027131100 +0000" channel="insighttv.cy">
+    <title lang="el">Street Art Challenge Κ1 ΕΠ4</title>
   </programme>
-  <programme start="20261028040000 +0000" stop="20261028050000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ10 ΕΠ8</title>
+  <programme start="20261027131100 +0000" stop="20261027134200 +0000" channel="insighttv.cy">
+    <title lang="el">MTB Heroes: Trailblazers Κ3 ΕΠ3</title>
   </programme>
-  <programme start="20261028050000 +0000" stop="20261028055500 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ10 ΕΠ9</title>
+  <programme start="20261027134200 +0000" stop="20261027141200 +0000" channel="insighttv.cy">
+    <title lang="el">MTB Heroes: Trailblazers Κ3 ΕΠ4</title>
   </programme>
-  <programme start="20261028055500 +0000" stop="20261028065000 +0000" channel="insighttv.cy">
-    <title lang="el">#Τα πλουσιόπαιδα του Μπέβερλι Χιλς Κ4 ΕΠ6</title>
+  <programme start="20261027141200 +0000" stop="20261027144200 +0000" channel="insighttv.cy">
+    <title lang="el">Roads End Κ1 ΕΠ10</title>
   </programme>
-  <programme start="20261028065000 +0000" stop="20261028074500 +0000" channel="insighttv.cy">
-    <title lang="el">#Τα πλουσιόπαιδα του Μπέβερλι Χιλς Κ4 ΕΠ7</title>
+  <programme start="20261027144200 +0000" stop="20261027151400 +0000" channel="insighttv.cy">
+    <title lang="el">Roads End Κ1 ΕΠ11</title>
   </programme>
-  <programme start="20261028074500 +0000" stop="20261028084500 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ10 ΕΠ5</title>
+  <programme start="20261027151400 +0000" stop="20261027161400 +0000" channel="insighttv.cy">
+    <title lang="el">Cooks on Fire Κ2 ΕΠ4</title>
   </programme>
-  <programme start="20261028084500 +0000" stop="20261028094000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ10 ΕΠ6</title>
+  <programme start="20261027161400 +0000" stop="20261027171500 +0000" channel="insighttv.cy">
+    <title lang="el">Cooks on Fire Κ2 ΕΠ5</title>
   </programme>
-  <programme start="20261028094000 +0000" stop="20261028103500 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ17 ΕΠ12</title>
+  <programme start="20261027171500 +0000" stop="20261027174500 +0000" channel="insighttv.cy">
+    <title lang="el">Epic Exploring: Going Local Κ2 ΕΠ14</title>
   </programme>
-  <programme start="20261028103500 +0000" stop="20261028113000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ18 ΕΠ1</title>
+  <programme start="20261027174500 +0000" stop="20261027181500 +0000" channel="insighttv.cy">
+    <title lang="el">Epic Exploring: Going Local Κ2 ΕΠ15</title>
   </programme>
-  <programme start="20261028113000 +0000" stop="20261028122500 +0000" channel="insighttv.cy">
-    <title lang="el">#Τα πλουσιόπαιδα του Μπέβερλι Χιλς Κ4 ΕΠ8</title>
+  <programme start="20261027181500 +0000" stop="20261027190000 +0000" channel="insighttv.cy">
+    <title lang="el">My Van Life Κ1 ΕΠ1</title>
   </programme>
-  <programme start="20261028122500 +0000" stop="20261028132000 +0000" channel="insighttv.cy">
-    <title lang="el">Cavallari από την αρχή ως το τέλος Κ1 ΕΠ1</title>
+  <programme start="20261027190000 +0000" stop="20261027193400 +0000" channel="insighttv.cy">
+    <title lang="el">Streetfood Nomad: Kolkata Κ1 ΕΠ1</title>
   </programme>
-  <programme start="20261028132000 +0000" stop="20261028141500 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ10 ΕΠ7</title>
+  <programme start="20261027193400 +0000" stop="20261027201900 +0000" channel="insighttv.cy">
+    <title lang="el">Streetfood Nomad: Kolkata Κ1 ΕΠ2</title>
   </programme>
-  <programme start="20261028141500 +0000" stop="20261028151000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ10 ΕΠ8</title>
+  <programme start="20261027201900 +0000" stop="20261027211900 +0000" channel="insighttv.cy">
+    <title lang="el">Access All Areas Κ1 ΕΠ9</title>
   </programme>
-  <programme start="20261028151000 +0000" stop="20261028160500 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ18 ΕΠ2</title>
+  <programme start="20261027211900 +0000" stop="20261027221900 +0000" channel="insighttv.cy">
+    <title lang="el">Access All Areas Κ1 ΕΠ10</title>
   </programme>
-  <programme start="20261028160500 +0000" stop="20261028170000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ18 ΕΠ3</title>
+  <programme start="20261027221900 +0000" stop="20261027230000 +0000" channel="insighttv.cy">
+    <title lang="el">Running the World Κ1 ΕΠ1</title>
   </programme>
-  <programme start="20261028170000 +0000" stop="20261028173000 +0000" channel="insighttv.cy">
-    <title lang="el">Δείτε Ζωντανά Ό,τι Συμβαίνει Κ23 ΕΠ171</title>
+  <programme start="20261027230000 +0000" stop="20261027235900 +0000" channel="insighttv.cy">
+    <title lang="el">Close Proximity Κ1 ΕΠ7</title>
   </programme>
-  <programme start="20261028173000 +0000" stop="20261028183000 +0000" channel="insighttv.cy">
-    <title lang="el">Cavallari από την αρχή ως το τέλος Κ1 ΕΠ6</title>
+  <programme start="20261027235900 +0000" stop="20261028005800 +0000" channel="insighttv.cy">
+    <title lang="el">Close Proximity Κ1 ΕΠ8</title>
   </programme>
-  <programme start="20261028183000 +0000" stop="20261028193000 +0000" channel="insighttv.cy">
-    <title lang="el">Cavallari από την αρχή ως το τέλος Κ1 ΕΠ7</title>
+  <programme start="20261028005800 +0000" stop="20261028015800 +0000" channel="insighttv.cy">
+    <title lang="el">Close Proximity Κ1 ΕΠ9</title>
   </programme>
-  <programme start="20261028193000 +0000" stop="20261028203000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ10 ΕΠ9</title>
+  <programme start="20261028015800 +0000" stop="20261028025800 +0000" channel="insighttv.cy">
+    <title lang="el">Modern Day Gladiators Κ1 ΕΠ1</title>
   </programme>
-  <programme start="20261028203000 +0000" stop="20261028213000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ10 ΕΠ10</title>
+  <programme start="20261028025800 +0000" stop="20261028035900 +0000" channel="insighttv.cy">
+    <title lang="el">Modern Day Gladiators Κ1 ΕΠ2</title>
   </programme>
-  <programme start="20261028213000 +0000" stop="20261028223000 +0000" channel="insighttv.cy">
-    <title lang="el">Στον κόσμο των Kardashians Κ18 ΕΠ4</title>
+  <programme start="20261028035900 +0000" stop="20261028042900 +0000" channel="insighttv.cy">
+    <title lang="el">The Demolition Man Κ1 ΕΠ9</title>
+  </programme>
+  <programme start="20261028042900 +0000" stop="20261028050000 +0000" channel="insighttv.cy">
+    <title lang="el">The Demolition Man Κ1 ΕΠ10</title>
+  </programme>
+  <programme start="20261028050000 +0000" stop="20261028060000 +0000" channel="insighttv.cy">
+    <title lang="el">Travel with a Goat Κ1 ΕΠ3</title>
+  </programme>
+  <programme start="20261028060000 +0000" stop="20261028070000 +0000" channel="insighttv.cy">
+    <title lang="el">Travel with a Goat Κ1 ΕΠ4</title>
+  </programme>
+  <programme start="20261028070000 +0000" stop="20261028072900 +0000" channel="insighttv.cy">
+    <title lang="el">Blue World Κ8 ΕΠ7</title>
+  </programme>
+  <programme start="20261028072900 +0000" stop="20261028075900 +0000" channel="insighttv.cy">
+    <title lang="el">Blue World Κ8 ΕΠ8</title>
+  </programme>
+  <programme start="20261028075900 +0000" stop="20261028082900 +0000" channel="insighttv.cy">
+    <title lang="el">The Garms Dealer Κ1 ΕΠ3</title>
+  </programme>
+  <programme start="20261028082900 +0000" stop="20261028090000 +0000" channel="insighttv.cy">
+    <title lang="el">The Garms Dealer Κ1 ΕΠ4</title>
+  </programme>
+  <programme start="20261028090000 +0000" stop="20261028093000 +0000" channel="insighttv.cy">
+    <title lang="el">Extraordinary Humans Κ2 ΕΠ5</title>
+  </programme>
+  <programme start="20261028093000 +0000" stop="20261028100100 +0000" channel="insighttv.cy">
+    <title lang="el">Extraordinary Humans Κ2 ΕΠ6</title>
+  </programme>
+  <programme start="20261028100100 +0000" stop="20261028110000 +0000" channel="insighttv.cy">
+    <title lang="el">Breakthrough: Women Changing the Game Κ1 ΕΠ4</title>
+  </programme>
+  <programme start="20261028110000 +0000" stop="20261028115900 +0000" channel="insighttv.cy">
+    <title lang="el">Breakthrough: Women Changing the Game Κ1 ΕΠ5</title>
+  </programme>
+  <programme start="20261028115900 +0000" stop="20261028130000 +0000" channel="insighttv.cy">
+    <title lang="el">Travel with a Goat Κ1 ΕΠ5</title>
+  </programme>
+  <programme start="20261028130000 +0000" stop="20261028133000 +0000" channel="insighttv.cy">
+    <title lang="el">The Armchair Adventurer Κ1 ΕΠ17</title>
+  </programme>
+  <programme start="20261028133000 +0000" stop="20261028135900 +0000" channel="insighttv.cy">
+    <title lang="el">The Armchair Adventurer Κ1 ΕΠ18</title>
+  </programme>
+  <programme start="20261028135900 +0000" stop="20261028145900 +0000" channel="insighttv.cy">
+    <title lang="el">My Greek Odyssey Κ3 ΕΠ3</title>
+  </programme>
+  <programme start="20261028145900 +0000" stop="20261028155900 +0000" channel="insighttv.cy">
+    <title lang="el">My Greek Odyssey Κ3 ΕΠ4</title>
+  </programme>
+  <programme start="20261028155900 +0000" stop="20261028164400 +0000" channel="insighttv.cy">
+    <title lang="el">The Great Wall with Ash Dykes Κ1 ΕΠ8</title>
+  </programme>
+  <programme start="20261028164400 +0000" stop="20261028172900 +0000" channel="insighttv.cy">
+    <title lang="el">Roads Unknown India Κ1 ΕΠ8</title>
+  </programme>
+  <programme start="20261028172900 +0000" stop="20261028181400 +0000" channel="insighttv.cy">
+    <title lang="el">Foodwise Κ3 ΕΠ2</title>
+  </programme>
+  <programme start="20261028181400 +0000" stop="20261028191400 +0000" channel="insighttv.cy">
+    <title lang="el">Wild and Alive Κ1 ΕΠ2</title>
+  </programme>
+  <programme start="20261028191400 +0000" stop="20261028201400 +0000" channel="insighttv.cy">
+    <title lang="el">Wild and Alive Κ1 ΕΠ3</title>
+  </programme>
+  <programme start="20261028201400 +0000" stop="20261028211500 +0000" channel="insighttv.cy">
+    <title lang="el">Wild Germany: Exploring No Man's Land Κ1 ΕΠ1</title>
+  </programme>
+  <programme start="20261028211500 +0000" stop="20261028221500 +0000" channel="insighttv.cy">
+    <title lang="el">F2: Tackling Europe Κ1 ΕΠ2</title>
   </programme>
   <programme start="20261021210000 +0000" stop="20261021220000 +0000" channel="investigationdiscovery.cy">
     <title lang="el">Signs Of A Psychopath Κ6 ΕΠ9</title>
@@ -111950,174 +112019,140 @@
     <desc lang="el">Καλοκαίρι, Κύκλος 1 | Επεισόδιο 2 Το καλοκαίρι προσφέρει αφθονία, αλλά στον αγώνα για την αξιοποίηση του σύντομου διαστήματος ζεστασιάς, φέρνει επίσης ανταγωνισμό, επιθετικότητα και κινδύνους. Ψηλά στα αλπικά λιβάδια, οι μαρμότες μάχονται για τα καλύτερα κρησφύγετα όπου θα μεγαλώσουν τα μικρά τους, αλλά μπορούν άραγε να ξεφύγουν από τις πεινασμένες αρκούδες; Τα αρκουδάκια των Καρπαθίων μεγαλώνουν γρήγορα, αλλά κινδυνεύουν να δεχτούν επίθεση από ανταγωνιστικά ενήλικα αρσενικά. Μπορούν οι έξυπνες στρατηγικές των μαμάδων τους να τα προστατεύσουν; Κοπάδια από βίσωνες διασχίζουν ορμητικά τα αρχέγονα δάση αναζητώντας τροφή και νερό. Αποτελούν καταλύτη για την άγρια φύση, καθώς το πάτημά τους ενισχύει τη ζωή σε ολόκληρο το δάσος, ευνοώντας για παράδειγμα τα έντομα που πολλαπλασιάζονται κατά δισεκατομμύρια. Αυτά τα έντομα πρέπει στη συνέχεια να βρουν τροφή και στρέφονται στα κοπάδια των ελαφιών. Τα ελάφια, ταλαιπωρημένα από τα τσιμπήματα των εντόμων, τρέχουν προς τα βουνά για να γλιτώσουν, αλλά εκεί πέφτουν θύματα σπάνιων αγριόγατων.</desc>
   </programme>
   <programme start="20261027221000 +0000" stop="20261027225500 +0000" channel="natgeowild.gr">
-    <title lang="el">Θαύματα του Ωκεανού Κ1 Ε1</title>
-    <desc lang="el">Επεισόδιο: Νησιά Ζωής. Τα νησιά του Ειρηνικού χαρακτηρίζονται από κοραλλιογενείς υφάλους και ενεργά ηφαίστεια μέχρι κομμάτια μιας χαμένης ηπείρου. Ανακαλύψτε τις πιο άγριες ιστορίες προσαρμογής και επιβίωσης σε αυτά τα Νησιά της Ζωής.</desc>
-    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <title lang="el">Θαύματα του Ωκεανού</title>
+    <desc lang="el">Νησιά Ζωής, Κύκλος 1 | Επεισόδιο 1 Τα νησιά του Ειρηνικού χαρακτηρίζονται από κοραλλιογενείς υφάλους και ενεργά ηφαίστεια μέχρι κομμάτια μιας χαμένης ηπείρου. Ανακαλύψτε τις πιο άγριες ιστορίες προσαρμογής και επιβίωσης σε αυτά τα Νησιά της Ζωής.</desc>
   </programme>
   <programme start="20261027225500 +0000" stop="20261027233500 +0000" channel="natgeowild.gr">
-    <title lang="el">Στην Ύπαιθρο των Καρπαθίων Κ1 Ε1</title>
-    <desc lang="el">Επεισόδιο: Άνοιξη. Την άνοιξη, οι σπανιότερες μορφές ζωής των Καρπαθίων απελευθερώνονται από τη σκληρότητα του χειμώνα, ξεκινώντας με μια ξεχωριστή στιγμή: την έξοδο μιας μητέρας-αρκούδας από τη χειμερία νάρκη.</desc>
-    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <title lang="el">Στην Ύπαιθρο των Καρπαθίων</title>
+    <desc lang="el">Άνοιξη, Κύκλος 1 | Επεισόδιο 1 Την άνοιξη, η ζωή στα Καρπάθια ξαναγεννιέται ύστερα από τον σκληρό χειμώνα. Μια μητέρα αρκούδα βγαίνει από τη χειμερία νάρκη μαζί με τα τρία μικροσκοπικά αρκουδάκια της, τα οποία αντικρίζουν τον κόσμο για πρώτη φορά και την ακολουθούν σε απόκρημνες πλαγιές αναζητώντας τροφή. Στα Όρη Τάτρα της Σλοβακίας, ένας σπάνιος αρσενικός αγριόκουρκος εκτελεί το περίτεχνο τελετουργικό ζευγαρώματός του, ενώ στην Ουκρανία οι ουραλοπούνες κυνηγούν ασταμάτητα για να θρέψουν τους νεοσσούς τους. Την ίδια ώρα, τα νεογέννητα αγριόγιδα αψηφούν τον κίνδυνο, πηδώντας σε απότομες χιονισμένες πλαγιές για να ξεφύγουν από τους αετούς που καραδοκούν στον ουρανό. Στη βάση όλων αυτών βρίσκεται ο αληθινός πρωταγωνιστής του οικοσυστήματος: το αρχέγονο δάσος. Τα πανάρχαια δέντρα του δεν προσφέρουν μόνο καταφύγιο, αλλά τροφοδοτούν ολόκληρο τον κύκλο της ζωής, μετατρέποντας την ενέργεια του ήλιου σε δύναμη που διαχέεται σε κάθε επίπεδο αυτού του μοναδικού, αλληλένδετου κόσμου.</desc>
   </programme>
   <programme start="20261027233500 +0000" stop="20261028001500 +0000" channel="natgeowild.gr">
-    <title lang="el">Λιοντάρι Κ1 Ε2</title>
-    <desc lang="el">Επεισόδιο: Κεφάλαιο 2: Αδελφότητα. Έχοντας γλιτώσει στο τσακ, ο 12 εβδομάδων Κίο πρέπει να κερδίσει τον σεβασμό των μεγαλύτερων αδελφών του για να επιβιώσει και μια μέρα να γίνει βασιλιάς. Πάνω που βρίσκει τη θέση του ανάμεσά τους, μια καταστροφή διαλύει την οικογένεια.</desc>
-    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <title lang="el">Λιοντάρι</title>
+    <desc lang="el">Κεφάλαιο 2: Τα Αδέλφια, Κύκλος 1 | Επεισόδιο 2 Έχοντας γλιτώσει στο τσακ, ο 12 εβδομάδων Κίο πρέπει να κερδίσει τον σεβασμό των μεγαλύτερων αδελφών του για να επιβιώσει και μια μέρα να γίνει βασιλιάς. Πάνω που βρίσκει τη θέση του ανάμεσά τους, μια καταστροφή διαλύει την οικογένεια, αναγκάζοντας τη Σάμερ να κάνει μια τεράστια θυσία για να προστατεύσει το μέλλον του Κίο.</desc>
   </programme>
   <programme start="20261028001500 +0000" stop="20261028005500 +0000" channel="natgeowild.gr">
-    <title lang="el">Λιοντάρι Κ1 Ε3</title>
-    <desc lang="el">Επεισόδιο: Κεφάλαιο 3: Η Μεγαλύτερη Θυσία. Η Σάμερ και ο Κίο ξανασμίγουν επιτέλους με τα αδέρφια, αλλά τους περιμένει μια σκληρή, νέα πραγματικότητα. Η μητέρα του Κίο πρέπει να διδάξει στην άπειρη αγέλη τα μυστικά της επιβίωσης και να κυνηγά για όλους - μόνη.</desc>
-    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <title lang="el">Λιοντάρι</title>
+    <desc lang="el">Κεφάλαιο 3: Η Μεγαλύτερη Θυσία, Κύκλος 1 | Επεισόδιο 3 Η Σάμερ και ο Κίο ξανασμίγουν επιτέλους με τα αδέρφια, αλλά τους περιμένει μια σκληρή, νέα πραγματικότητα. Η μητέρα του Κίο πρέπει να διδάξει στην άπειρη αγέλη τα μυστικά της επιβίωσης και να κυνηγά για όλους — μόνη. Η απελπισία της, όμως, την οδηγεί σε μια επικίνδυνη απόφαση που αλλάζει για πάντα τη ζωή του Κίο.</desc>
   </programme>
   <programme start="20261028005500 +0000" stop="20261028013500 +0000" channel="natgeowild.gr">
-    <title lang="el">Λιοντάρι Κ1 Ε4</title>
-    <desc lang="el">Επεισόδιο: Κεφάλαιο 4: Η Βασιλεία. Ο Κίο και τα αδέρφια του πρέπει να επιβιώσουν σε περιοχές αντίπαλων αρσενικών. Ένας εύφορος βάλτος και μια αγέλη λεαινών υπόσχονται μια νέα αρχή, μέχρι που οι βασιλιάδες επιστρέφουν. Ο Κίο πρέπει να αποδείξει πως έχει το κουράγιο ηγέτη.</desc>
-    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <title lang="el">Λιοντάρι</title>
+    <desc lang="el">Κεφάλαιο 4: Να Γίνεις Βασιλιάς, Κύκλος 1 | Επεισόδιο 4 Μόνος και εξόριστος, ο Κίο και τα αδέρφια του πρέπει να επιβιώσουν σε περιοχές αντίπαλων αρσενικών. Ένας εύφορος βάλτος και μια αγέλη λεαινών υπόσχονται μια νέα αρχή, μέχρι που οι κυρίαρχοι βασιλιάδες επιστρέφουν για να επιτεθούν. Για να διεκδικήσει το δικό του βασίλειο, ο Κίο πρέπει να αποδείξει πως έχει το κουράγιο ενός ηγέτη.</desc>
   </programme>
   <programme start="20261028013500 +0000" stop="20261028022000 +0000" channel="natgeowild.gr">
-    <title lang="el">Γκρέδος - Βασιλιάς των Βουνών Ε1</title>
-    <desc lang="el">Εθνικό Πάρκο Σιέρα ντε Γκρέδος, ένα από τα πιο εντυπωσιακά φυσικά τοπία της Ευρώπης. Από τις αρχαίες παγετωνικές λεκάνες και τις βαθιές ορεινές χαράδρες μέχρι την κορυφή Αλμανζόρ, ανακαλύψτε ένα μοναδικό και εύθραυστο οικοσύστημα.</desc>
-    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <title lang="el">Γκρέδος - Βασιλιάς των Βουνών</title>
+    <desc lang="el">Μέσα από τον κύκλο των εποχών, αποκαλύπτουμε το Εθνικό Πάρκο Σιέρα ντε Γκρέδος της Ισπανίας, ένα από τα πιο εντυπωσιακά φυσικά τοπία της Ευρώπης. Από τις αρχαίες παγετωνικές λεκάνες και τις βαθιές ορεινές χαράδρες μέχρι την κορυφή Αλμανζόρ —την υψηλότερη κορυφή της κεντρικής Ισπανίας— ανακαλύψτε ένα μοναδικό και εύθραυστο οικοσύστημα. Εδώ κυριαρχεί ο ισπανικός αίγαγρος, ένα εμβληματικό είδος που καθορίζει το πνεύμα αυτών των βουνών. Παράλληλα, χρυσαετοί, αλπικά πτηνά και βίδρες κατοικούν σε μια περιοχή που διαμορφώθηκε από την απομόνωση και την ανθεκτικότητα. Πρόκειται για μια απεικόνιση άγριας φύσης και ισορροπίας, ένα παράθυρο σε έναν από τους τελευταίους εμβληματικούς άγριους τόπους της Ευρώπης.</desc>
   </programme>
   <programme start="20261028022000 +0000" stop="20261028025500 +0000" channel="natgeowild.gr">
-    <title lang="el">Λιοντάρι Κ1 Ε2</title>
-    <desc lang="el">Επεισόδιο: Κεφάλαιο 2: Αδελφότητα. Έχοντας γλιτώσει στο τσακ, ο 12 εβδομάδων Κίο πρέπει να κερδίσει τον σεβασμό των μεγαλύτερων αδελφών του για να επιβιώσει και μια μέρα να γίνει βασιλιάς. Πάνω που βρίσκει τη θέση του ανάμεσά τους, μια καταστροφή διαλύει την οικογένεια.</desc>
-    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <title lang="el">Λιοντάρι</title>
+    <desc lang="el">Κεφάλαιο 2: Τα Αδέλφια, Κύκλος 1 | Επεισόδιο 2 Έχοντας γλιτώσει στο τσακ, ο 12 εβδομάδων Κίο πρέπει να κερδίσει τον σεβασμό των μεγαλύτερων αδελφών του για να επιβιώσει και μια μέρα να γίνει βασιλιάς. Πάνω που βρίσκει τη θέση του ανάμεσά τους, μια καταστροφή διαλύει την οικογένεια, αναγκάζοντας τη Σάμερ να κάνει μια τεράστια θυσία για να προστατεύσει το μέλλον του Κίο.</desc>
   </programme>
   <programme start="20261028025500 +0000" stop="20261028033500 +0000" channel="natgeowild.gr">
-    <title lang="el">Λιοντάρι Κ1 Ε3</title>
-    <desc lang="el">Επεισόδιο: Κεφάλαιο 3: Η Μεγαλύτερη Θυσία. Η Σάμερ και ο Κίο ξανασμίγουν επιτέλους με τα αδέρφια, αλλά τους περιμένει μια σκληρή, νέα πραγματικότητα. Η μητέρα του Κίο πρέπει να διδάξει στην άπειρη αγέλη τα μυστικά της επιβίωσης και να κυνηγά για όλους - μόνη.</desc>
-    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <title lang="el">Λιοντάρι</title>
+    <desc lang="el">Κεφάλαιο 3: Η Μεγαλύτερη Θυσία, Κύκλος 1 | Επεισόδιο 3 Η Σάμερ και ο Κίο ξανασμίγουν επιτέλους με τα αδέρφια, αλλά τους περιμένει μια σκληρή, νέα πραγματικότητα. Η μητέρα του Κίο πρέπει να διδάξει στην άπειρη αγέλη τα μυστικά της επιβίωσης και να κυνηγά για όλους — μόνη. Η απελπισία της, όμως, την οδηγεί σε μια επικίνδυνη απόφαση που αλλάζει για πάντα τη ζωή του Κίο.</desc>
   </programme>
   <programme start="20261028033500 +0000" stop="20261028042000 +0000" channel="natgeowild.gr">
-    <title lang="el">Γκρέδος - Βασιλιάς των Βουνών Ε1</title>
-    <desc lang="el">Εθνικό Πάρκο Σιέρα ντε Γκρέδος, ένα από τα πιο εντυπωσιακά φυσικά τοπία της Ευρώπης. Από τις αρχαίες παγετωνικές λεκάνες και τις βαθιές ορεινές χαράδρες μέχρι την κορυφή Αλμανζόρ, ανακαλύψτε ένα μοναδικό και εύθραυστο οικοσύστημα.</desc>
-    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <title lang="el">Γκρέδος - Βασιλιάς των Βουνών</title>
+    <desc lang="el">Μέσα από τον κύκλο των εποχών, αποκαλύπτουμε το Εθνικό Πάρκο Σιέρα ντε Γκρέδος της Ισπανίας, ένα από τα πιο εντυπωσιακά φυσικά τοπία της Ευρώπης. Από τις αρχαίες παγετωνικές λεκάνες και τις βαθιές ορεινές χαράδρες μέχρι την κορυφή Αλμανζόρ —την υψηλότερη κορυφή της κεντρικής Ισπανίας— ανακαλύψτε ένα μοναδικό και εύθραυστο οικοσύστημα. Εδώ κυριαρχεί ο ισπανικός αίγαγρος, ένα εμβληματικό είδος που καθορίζει το πνεύμα αυτών των βουνών. Παράλληλα, χρυσαετοί, αλπικά πτηνά και βίδρες κατοικούν σε μια περιοχή που διαμορφώθηκε από την απομόνωση και την ανθεκτικότητα. Πρόκειται για μια απεικόνιση άγριας φύσης και ισορροπίας, ένα παράθυρο σε έναν από τους τελευταίους εμβληματικούς άγριους τόπους της Ευρώπης.</desc>
   </programme>
   <programme start="20261028042000 +0000" stop="20261028050000 +0000" channel="natgeowild.gr">
-    <title lang="el">Λιοντάρι Κ1 Ε4</title>
-    <desc lang="el">Επεισόδιο: Κεφάλαιο 4: Η Βασιλεία. Ο Κίο και τα αδέρφια του πρέπει να επιβιώσουν σε περιοχές αντίπαλων αρσενικών. Ένας εύφορος βάλτος και μια αγέλη λεαινών υπόσχονται μια νέα αρχή, μέχρι που οι βασιλιάδες επιστρέφουν. Ο Κίο πρέπει να αποδείξει πως έχει το κουράγιο ηγέτη.</desc>
-    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <title lang="el">Λιοντάρι</title>
+    <desc lang="el">Κεφάλαιο 4: Να Γίνεις Βασιλιάς, Κύκλος 1 | Επεισόδιο 4 Μόνος και εξόριστος, ο Κίο και τα αδέρφια του πρέπει να επιβιώσουν σε περιοχές αντίπαλων αρσενικών. Ένας εύφορος βάλτος και μια αγέλη λεαινών υπόσχονται μια νέα αρχή, μέχρι που οι κυρίαρχοι βασιλιάδες επιστρέφουν για να επιτεθούν. Για να διεκδικήσει το δικό του βασίλειο, ο Κίο πρέπει να αποδείξει πως έχει το κουράγιο ενός ηγέτη.</desc>
   </programme>
   <programme start="20261028050000 +0000" stop="20261028054500 +0000" channel="natgeowild.gr">
-    <title lang="el">Νηπιαγωγεία της Φύσης - Η Νέα Άγρια Γενιά Ε1</title>
-    <desc lang="el">Σε όλο τον κόσμο, κάθε είδος ζώου αντιμετωπίζει την ίδια πρόκληση: να δώσει στην επόμενη γενιά το καλύτερο δυνατό ξεκίνημα. Από κήπους και αγροκτήματα μέχρι ανοιχτά χωράφια και απομακρυσμένες ακτές, τα ζώα μεγαλώνουν τα μικρά τους σε περιβάλλοντα που διαμορφώνονται από ευκαιρίες και κινδύνους.</desc>
-    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <title lang="el">Νηπιαγωγεία της Φύσης - Η Νέα Άγρια Γενιά</title>
+    <desc lang="el">From backyard gardens to windswept coasts, animals raise their young in many ways. Birds build nests beside humans and adapt to busy surroundings. Butterflies flourish where food and plants grow. Across fields and wild landscapes, species rely on instinct, timing and places to protect their young and guide them through early life.</desc>
   </programme>
   <programme start="20261028054500 +0000" stop="20261028060500 +0000" channel="natgeowild.gr">
-    <title lang="el">Άγρια Αμερικανική Ύπαιθρος Κ2 Ε1</title>
-    <desc lang="el">Επεισόδιο: Βαθιά στο Grand Canyon. Η τηλεόραση του National Geographic ακολουθεί μια σπάνια επιστημονική αποστολή για να εξερευνήσει το συνολικό μήκος των 450 χιλιομέτρων του Grand Canyon και να εξετάσει τα μυστήριά του.</desc>
-    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <title lang="el">Άγρια Αμερικανική Ύπαιθρος</title>
+    <desc lang="el">Βαθιά στο Grand Canyon, Κύκλος 2 | Επεισόδιο 1 Η τηλεόραση του National Geographic ακολουθεί μια σπάνια επιστημονική αποστολή για να εξερευνήσει το συνολικό μήκος των 450 χιλιομέτρων του Grand Canyon και να εξετάσει τα μυστήριά του.</desc>
   </programme>
   <programme start="20261028060500 +0000" stop="20261028063000 +0000" channel="natgeowild.gr">
-    <title lang="el">Άγρια Αμερικανική Ύπαιθρος Κ2 Ε4</title>
-    <desc lang="el">Επεισόδιο: Άγνωστη Χαβάη. Το Ναυτικό Εθνικό Μνημείο Papahanaumokuakea περιλαμβάνει τα βορειοδυτικά νησιά της Χαβάης. Μια επιστημονική αποστολή θα ταξιδέψει για έναν ολόκληρο μήνα σε αυτά τα απόμερα νερά για να χαρτογραφήσει άγνωστα εδάφη.</desc>
-    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <title lang="el">Άγρια Αμερικανική Ύπαιθρος</title>
+    <desc lang="el">Άγνωστη Χαβάη, Κύκλος 2 | Επεισόδιο 4 Το Ναυτικό Εθνικό Μνημείο Papahanaumokuakea περιλαμβάνει τα βορειοδυτικά νησιά της Χαβάης. Μια επιστημονική αποστολή θα ταξιδέψει για έναν ολόκληρο μήνα σε αυτά τα απόμερα νερά για να χαρτογραφήσει άγνωστα εδάφη.</desc>
   </programme>
   <programme start="20261028063000 +0000" stop="20261028071500 +0000" channel="natgeowild.gr">
-    <title lang="el">Ιαγουάρος: Ο Σταρ της Ζούγκλας στη Γουιάνα Ε1</title>
-    <desc lang="el">Στο τροπικό δάσος της Γουιάνας, έναν από τους τελευταίους παραδείσους στη Γη, ένας νεαρός ιαγουάρος πρέπει να αποδείξει την αξία του για να διεκδικήσει τον θρόνο του.</desc>
-    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <title lang="el">Ιαγουάρος: Ο Σταρ της Ζούγκλας στην Γουιάνα</title>
+    <desc lang="el">Στο τροπικό δάσος της Γουιάνας, έναν από τους τελευταίους παραδείσους στη Γη, ένας νεαρός τζάγκουαρ πρέπει να αποδείξει την αξία του για να διεκδικήσει το θρόνο του.</desc>
   </programme>
   <programme start="20261028071500 +0000" stop="20261028080000 +0000" channel="natgeowild.gr">
-    <title lang="el">Καρχαρίες Κανίβαλοι Ε1</title>
+    <title lang="el">Καρχαρίες Κανίβαλοι</title>
     <desc lang="el">Δύο από τους κορυφαίους ειδικούς στους καρχαρίες παρουσιάζουν και αναλύουν τα όλο και περισσότερα στοιχεία που αποδεικνύουν ότι οι επιθέσεις καρχαριών σε καρχαρίες είναι πολύ πιο συχνές απ' όσο πιστεύαμε.</desc>
-    <category lang="el">Φύση - Ανθρωπολογία</category>
   </programme>
   <programme start="20261028080000 +0000" stop="20261028085000 +0000" channel="natgeowild.gr">
-    <title lang="el">Νηπιαγωγεία της Φύσης - Η Νέα Άγρια Γενιά Ε1</title>
-    <desc lang="el">Σε όλο τον κόσμο, κάθε είδος ζώου αντιμετωπίζει την ίδια πρόκληση: να δώσει στην επόμενη γενιά το καλύτερο δυνατό ξεκίνημα. Από κήπους και αγροκτήματα μέχρι ανοιχτά χωράφια και απομακρυσμένες ακτές, τα ζώα μεγαλώνουν τα μικρά τους σε περιβάλλοντα που διαμορφώνονται από ευκαιρίες και κινδύνους.</desc>
-    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <title lang="el">Νηπιαγωγεία της Φύσης - Η Νέα Άγρια Γενιά</title>
+    <desc lang="el">From backyard gardens to windswept coasts, animals raise their young in many ways. Birds build nests beside humans and adapt to busy surroundings. Butterflies flourish where food and plants grow. Across fields and wild landscapes, species rely on instinct, timing and places to protect their young and guide them through early life.</desc>
   </programme>
   <programme start="20261028085000 +0000" stop="20261028093500 +0000" channel="natgeowild.gr">
-    <title lang="el">Ιαγουάρος: Ο Σταρ της Ζούγκλας στη Γουιάνα Ε1</title>
-    <desc lang="el">Στο τροπικό δάσος της Γουιάνας, έναν από τους τελευταίους παραδείσους στη Γη, ένας νεαρός ιαγουάρος πρέπει να αποδείξει την αξία του για να διεκδικήσει τον θρόνο του.</desc>
-    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <title lang="el">Ιαγουάρος: Ο Σταρ της Ζούγκλας στην Γουιάνα</title>
+    <desc lang="el">Στο τροπικό δάσος της Γουιάνας, έναν από τους τελευταίους παραδείσους στη Γη, ένας νεαρός τζάγκουαρ πρέπει να αποδείξει την αξία του για να διεκδικήσει το θρόνο του.</desc>
   </programme>
   <programme start="20261028093500 +0000" stop="20261028102000 +0000" channel="natgeowild.gr">
-    <title lang="el">Καρχαρίες Κανίβαλοι Ε1</title>
+    <title lang="el">Καρχαρίες Κανίβαλοι</title>
     <desc lang="el">Δύο από τους κορυφαίους ειδικούς στους καρχαρίες παρουσιάζουν και αναλύουν τα όλο και περισσότερα στοιχεία που αποδεικνύουν ότι οι επιθέσεις καρχαριών σε καρχαρίες είναι πολύ πιο συχνές απ' όσο πιστεύαμε.</desc>
-    <category lang="el">Φύση - Ανθρωπολογία</category>
   </programme>
   <programme start="20261028102000 +0000" stop="20261028110500 +0000" channel="natgeowild.gr">
-    <title lang="el">Τέλειος Θηρευτής Ε1</title>
-    <desc lang="el">Από το τεράστιο μέγεθος, τη δύναμη και την αντοχή τους μέχρι τις άριστα συντονισμένες κυνηγετικές τους ικανότητες και την αδιάκοπη θέλησή τους για επιβίωση, οι καρχαρίες έχουν εξελιχθεί σε τέλειο θηρευτή. Αλλά πώς τα καταφέρνουν;</desc>
-    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <title lang="el">Τέλειος Θηρευτής</title>
+    <desc lang="el">Ακολουθήστε επιστήμονες από όλο τον κόσμο καθώς εξετάζουν πρωτοφανείς προσαρμογές που αποκαλύπτουν την ανωτερότητα των καρχαριών.</desc>
   </programme>
   <programme start="20261028110500 +0000" stop="20261028115000 +0000" channel="natgeowild.gr">
-    <title lang="el">Τιτάνες στα Ποτάμια της Αφρικής Ε1</title>
-    <desc lang="el">Η Αφρική αποτελεί γη γιγάντων. Οι πανίσχυροι ποταμοί της διαμορφώνουν το ανάγλυφο της γης και δημιουργούν εντυπωσιακές κοιλάδες και υδάτινες οδούς, οι οποίες φιλοξενούν πληθώρα επιβλητικών και ισχυρών κατοίκων.</desc>
-    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <title lang="el">Τιτάνες στα Ποτάμια της Αφρικής</title>
+    <desc lang="el">Τα πανίσχυρα ποτάμια της Αφρικής δημιουργούν καταφύγιο για μερικούς από τους πιο επιβλητικούς κατοίκους.</desc>
   </programme>
   <programme start="20261028115000 +0000" stop="20261028123500 +0000" channel="natgeowild.gr">
-    <title lang="el">Νηπιαγωγεία της Φύσης - Η Νέα Άγρια Γενιά Ε1</title>
-    <desc lang="el">Σε όλο τον κόσμο, κάθε είδος ζώου αντιμετωπίζει την ίδια πρόκληση: να δώσει στην επόμενη γενιά το καλύτερο δυνατό ξεκίνημα. Από κήπους και αγροκτήματα μέχρι ανοιχτά χωράφια και απομακρυσμένες ακτές, τα ζώα μεγαλώνουν τα μικρά τους σε περιβάλλοντα που διαμορφώνονται από ευκαιρίες και κινδύνους.</desc>
-    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <title lang="el">Νηπιαγωγεία της Φύσης - Η Νέα Άγρια Γενιά</title>
+    <desc lang="el">From backyard gardens to windswept coasts, animals raise their young in many ways. Birds build nests beside humans and adapt to busy surroundings. Butterflies flourish where food and plants grow. Across fields and wild landscapes, species rely on instinct, timing and places to protect their young and guide them through early life.</desc>
   </programme>
   <programme start="20261028123500 +0000" stop="20261028131500 +0000" channel="natgeowild.gr">
-    <title lang="el">Λιλιπούτειοι Γίγαντες Ε1</title>
-    <desc lang="el">Με φόντο την απέραντη και αδάμαστη άγρια φύση της Μποτσουάνα, δείτε τα νεότερα ζώα της Αφρικής καθώς κάνουν τα πρώτα τους βήματα σε έναν απαιτητικό κόσμο που διαμορφώνεται από ξηρασία, αρπακτικά ζώα και αρχαίες μεταναστευτικές οδούς.</desc>
-    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <title lang="el">Λιλιπούτειοι Γίγαντες</title>
+    <desc lang="el">Με φόντο την απέραντη και αδάμαστη άγρια φύση της Μποτσουάνα, το «Λιλιπούτειοι Γίγαντες» ακολουθεί τα νεότερα ζώα της Αφρικής καθώς κάνουν τα πρώτα τους βήματα σε έναν απαιτητικό κόσμο που διαμορφώνεται από την ξηρασία, τα αρπακτικά ζώα και τις αρχαίες μεταναστευτικές οδούς. Από έναν νεογέννητο ελέφαντα που μαθαίνει να συμβαδίζει με το κοπάδι του μέχρι μικρά τσακάλια που δοκιμάζουν τα ένστικτά τους και μικρά τσίτα που προετοιμάζονται για τη ζωή με εκπληκτική ταχύτητα, κάθε ιστορία ξεδιπλώνεται μέσα από προσωπικές στιγμές μάθησης και απώλειας. Με την καθοδήγηση γονέων, αδελφών και ενστίκτου, αυτά τα νεαρά ζώα πρέπει να προσαρμοστούν γρήγορα ή να μείνουν πίσω. Μέσα από εκπληκτικά τοπία και κοντινά πλάνα, ανακαλύψτε πώς το θάρρος, οι οικογενειακοί δεσμοί και η ανθεκτικότητα διαμορφώνουν την επιβίωση κατά τη διάρκεια της πιο εύθραυστης φάσης της ζωής στην άγρια φύση.</desc>
   </programme>
   <programme start="20261028131500 +0000" stop="20261028140000 +0000" channel="natgeowild.gr">
-    <title lang="el">Η Μέρα του Δράκου Ε1</title>
+    <title lang="el">Η Μέρα του Δράκου</title>
     <desc lang="el">Είναι δύσκολη δουλειά να είσαι ο μεγαλύτερος δράκος του κόσμου στο νησί Ρίνκα. Ο ανταγωνισμός είναι πολύ έντονος και η θερμοκρασία παγκοσμίως σταδιακά αυξάνεται.</desc>
-    <category lang="el">Φύση - Ανθρωπολογία</category>
   </programme>
   <programme start="20261028140000 +0000" stop="20261028144500 +0000" channel="natgeowild.gr">
-    <title lang="el">Η Τίγρη του Αμούρ Ε1</title>
-    <desc lang="el">Χρησιμοποιώντας απομακρυσμένες κάμερες, μεγάλους φακούς και drone, η δεύτερη πρεμιέρα του αφιερώματος 'Η Τίγρη του Αμούρ' μας μεταφέρει στο απομακρυσμένο βασίλειο για να αποκαλύψει τα μυστικά αυτών των ντροπαλών και ασύλληπτων κυνηγών.</desc>
-    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <title lang="el">Η Τίγρη του Αμούρ</title>
+    <desc lang="el">Χρησιμοποιώντας έναν συνδυασμό απομακρυσμένων καμερών, μεγάλου φακού και κινηματογράφησης με drone, η δεύτερη πρεμιέρα του αφιερώματος «Η Τίγρη του Αμούρ» μας μεταφέρει στο απομακρυσμένο βασίλειο για να αποκαλύψει τα μυστικά αυτών των ντροπαλών και ασύλληπτων κυνηγών: Πώς περιηγούνται και συνυπάρχουν σε μυστικά μονοπάτια, πώς χρησιμοποιούν μυστικά μηνύματα για να επικοινωνούν μεταξύ τους, πώς κυνηγούν τη λεία τους και πώς εκμεταλλεύονται τις εποχές, με απώτερη φιλοδοξία να βρουν έναν σύντροφο και να φέρουν νέα ζωή σε αυτόν τον κόσμο.</desc>
   </programme>
   <programme start="20261028144500 +0000" stop="20261028153000 +0000" channel="natgeowild.gr">
-    <title lang="el">Ιαγουάρος: Ο Σταρ της Ζούγκλας στη Γουιάνα Ε1</title>
-    <desc lang="el">Στο τροπικό δάσος της Γουιάνας, έναν από τους τελευταίους παραδείσους στη Γη, ένας νεαρός ιαγουάρος πρέπει να αποδείξει την αξία του για να διεκδικήσει τον θρόνο του.</desc>
-    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <title lang="el">Ιαγουάρος: Ο Σταρ της Ζούγκλας στην Γουιάνα</title>
+    <desc lang="el">Στο τροπικό δάσος της Γουιάνας, έναν από τους τελευταίους παραδείσους στη Γη, ένας νεαρός τζάγκουαρ πρέπει να αποδείξει την αξία του για να διεκδικήσει το θρόνο του.</desc>
   </programme>
   <programme start="20261028153000 +0000" stop="20261028161500 +0000" channel="natgeowild.gr">
-    <title lang="el">O Απίθανος Δρ. Πολ Κ21 Ε2</title>
-    <desc lang="el">Επεισόδιο: Περι-Πολ-ία. Κτηνίατροι σε δράση! Με μια άτακτη αγελάδα, τη διπλή κοίλη ενός πουλαριού και την πρώτη επίσκεψη ενός ρυτιδιασμένου κουταβιού, η εβδομάδα προμηνύεται πολυάσχολη.</desc>
-    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <title lang="el">O Απίθανος Δρ. Πολ</title>
+    <desc lang="el">Περι-Πολ-ία. Κτηνίατροι σε δράση!, Κύκλος 21 | Επεισόδιο 2 Με μια άτακτη αγελάδα, τη διπλή κοίλη ενός πουλαριού και την πρώτη επίσκεψη ενός ρυτιδιασμένου κουταβιού, η εβδομάδα προμηνύεται πολυάσχολη.</desc>
   </programme>
   <programme start="20261028161500 +0000" stop="20261028170000 +0000" channel="natgeowild.gr">
-    <title lang="el">O Απίθανος Δρ. Πολ Κ21 Ε3</title>
-    <desc lang="el">Επεισόδιο: Δύσκολη Μέρα. Οι κτηνίατροι αντιμετωπίζουν διάφορα περιστατικά, από ένα ιγκουάνα χωρίς όρεξη για φαΐ μέχρι έναν γερμανικό ποιμενικό με πονεμένο πόδι. Τα έμπειρα χέρια της δρος Λίζα φροντίζουν ένα άλογο που πνίγεται και μετά μια γουρουνίτσα που γεννάει.</desc>
-    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <title lang="el">O Απίθανος Δρ. Πολ</title>
+    <desc lang="el">Δύσκολη Μέρα, Κύκλος 21 | Επεισόδιο 3 Οι κτηνίατροι αντιμετωπίζουν διάφορα περιστατικά, από ένα ιγκουάνα χωρίς όρεξη για φαΐ μέχρι έναν γερμανικό ποιμενικό με πονεμένο πόδι. Τα έμπειρα χέρια της δρος Λίζα φροντίζουν ένα άλογο που πνίγεται και μετά μια γουρουνίτσα που γεννάει.</desc>
   </programme>
   <programme start="20261028170000 +0000" stop="20261028174500 +0000" channel="natgeowild.gr">
-    <title lang="el">Κυνηγοί του Ύφαλου Ε1</title>
-    <desc lang="el">Οι τροπικοί κοραλλιογενείς ύφαλοι αποπνέουν μια εικόνα πολύχρωμης ηρεμίας, αλλά αυτή είναι η οπτική ενός δύτη. Για τους κατοίκους τους, πρόκειται για ένα περιβάλλον όπου περιπολούν κοπάδια δελφινιών, ενώ οι υπόλοιπο τρέχουν να κρυφτούν.</desc>
-    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <title lang="el">Κυνηγοί του Ύφαλου</title>
+    <desc lang="el">Οι τροπικοί ύφαλοι μπορεί να δείχνουν γαλήνιοι, αλλά πρόκειται για έναν αδυσώπητο κόσμο όπου τα δελφίνια κυριαρχούν και όλοι οι υπόλοιποι τρέχουν να κρυφτούν.</desc>
   </programme>
   <programme start="20261028174500 +0000" stop="20261028183000 +0000" channel="natgeowild.gr">
-    <title lang="el">Άγρια Μυστικά της Ασίας - Ειδική Έκδοση Κ1 Ε1</title>
-    <desc lang="el">Επεισόδιο: Νεαρά και Αγριεμένα. Σε όλη την Ασία, νεαρά ζώα ωθούνται σε αδιάκοπες μάχες, παλεύοντας με νύχια και δόντια για την επιβίωσή τους. Κάθε μέρα φέρνει μια νέα σειρά από προκλήσεις και κινδύνους.</desc>
-    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <title lang="el">Άγρια Μυστικά της Ασίας</title>
+    <desc lang="el">Νεαρά και Αγριεμένα, Κύκλος 1 | Επεισόδιο 1 Σε όλη την Ασία, νεαρά ζώα ωθούνται σε αδιάκοπες μάχες, παλεύοντας με νύχια και δόντια για την επιβίωσή τους. Κάθε μέρα φέρνει μια νέα σειρά από προκλήσεις και κινδύνους.</desc>
   </programme>
   <programme start="20261028183000 +0000" stop="20261028191500 +0000" channel="natgeowild.gr">
-    <title lang="el">Ιαγουάρος: Ο Σταρ της Ζούγκλας στη Γουιάνα Ε1</title>
-    <desc lang="el">Στο τροπικό δάσος της Γουιάνας, έναν από τους τελευταίους παραδείσους στη Γη, ένας νεαρός ιαγουάρος πρέπει να αποδείξει την αξία του για να διεκδικήσει τον θρόνο του.</desc>
-    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <title lang="el">Ιαγουάρος: Ο Σταρ της Ζούγκλας στην Γουιάνα</title>
+    <desc lang="el">Στο τροπικό δάσος της Γουιάνας, έναν από τους τελευταίους παραδείσους στη Γη, ένας νεαρός τζάγκουαρ πρέπει να αποδείξει την αξία του για να διεκδικήσει το θρόνο του.</desc>
   </programme>
   <programme start="20261028191500 +0000" stop="20261028200000 +0000" channel="natgeowild.gr">
-    <title lang="el">Κυνηγοί του Ύφαλου Ε1</title>
-    <desc lang="el">Οι τροπικοί κοραλλιογενείς ύφαλοι αποπνέουν μια εικόνα πολύχρωμης ηρεμίας, αλλά αυτή είναι η οπτική ενός δύτη. Για τους κατοίκους τους, πρόκειται για ένα περιβάλλον όπου περιπολούν κοπάδια δελφινιών, ενώ οι υπόλοιπο τρέχουν να κρυφτούν.</desc>
-    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <title lang="el">Κυνηγοί του Ύφαλου</title>
+    <desc lang="el">Οι τροπικοί ύφαλοι μπορεί να δείχνουν γαλήνιοι, αλλά πρόκειται για έναν αδυσώπητο κόσμο όπου τα δελφίνια κυριαρχούν και όλοι οι υπόλοιποι τρέχουν να κρυφτούν.</desc>
   </programme>
   <programme start="20261028200000 +0000" stop="20261028204000 +0000" channel="natgeowild.gr">
-    <title lang="el">O Απίθανος Δρ. Πολ Κ21 Ε2</title>
-    <desc lang="el">Επεισόδιο: Περι-Πολ-ία. Κτηνίατροι σε δράση! Με μια άτακτη αγελάδα, τη διπλή κοίλη ενός πουλαριού και την πρώτη επίσκεψη ενός ρυτιδιασμένου κουταβιού, η εβδομάδα προμηνύεται πολυάσχολη.</desc>
-    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <title lang="el">O Απίθανος Δρ. Πολ</title>
+    <desc lang="el">Περι-Πολ-ία. Κτηνίατροι σε δράση!, Κύκλος 21 | Επεισόδιο 2 Με μια άτακτη αγελάδα, τη διπλή κοίλη ενός πουλαριού και την πρώτη επίσκεψη ενός ρυτιδιασμένου κουταβιού, η εβδομάδα προμηνύεται πολυάσχολη.</desc>
   </programme>
   <programme start="20261028204000 +0000" stop="20261028212500 +0000" channel="natgeowild.gr">
-    <title lang="el">O Απίθανος Δρ. Πολ Κ21 Ε3</title>
-    <desc lang="el">Επεισόδιο: Δύσκολη Μέρα. Οι κτηνίατροι αντιμετωπίζουν διάφορα περιστατικά, από ένα ιγκουάνα χωρίς όρεξη για φαΐ μέχρι έναν γερμανικό ποιμενικό με πονεμένο πόδι. Τα έμπειρα χέρια της δρος Λίζα φροντίζουν ένα άλογο που πνίγεται και μετά μια γουρουνίτσα που γεννάει.</desc>
-    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <title lang="el">O Απίθανος Δρ. Πολ</title>
+    <desc lang="el">Δύσκολη Μέρα, Κύκλος 21 | Επεισόδιο 3 Οι κτηνίατροι αντιμετωπίζουν διάφορα περιστατικά, από ένα ιγκουάνα χωρίς όρεξη για φαΐ μέχρι έναν γερμανικό ποιμενικό με πονεμένο πόδι. Τα έμπειρα χέρια της δρος Λίζα φροντίζουν ένα άλογο που πνίγεται και μετά μια γουρουνίτσα που γεννάει.</desc>
   </programme>
   <programme start="20261028212500 +0000" stop="20261028221000 +0000" channel="natgeowild.gr">
-    <title lang="el">Λιλιπούτειοι Γίγαντες Ε1</title>
-    <desc lang="el">Με φόντο την απέραντη και αδάμαστη άγρια φύση της Μποτσουάνα, δείτε τα νεότερα ζώα της Αφρικής καθώς κάνουν τα πρώτα τους βήματα σε έναν απαιτητικό κόσμο που διαμορφώνεται από ξηρασία, αρπακτικά ζώα και αρχαίες μεταναστευτικές οδούς.</desc>
-    <category lang="el">Φύση - Ανθρωπολογία</category>
+    <title lang="el">Λιλιπούτειοι Γίγαντες</title>
+    <desc lang="el">Με φόντο την απέραντη και αδάμαστη άγρια φύση της Μποτσουάνα, το «Λιλιπούτειοι Γίγαντες» ακολουθεί τα νεότερα ζώα της Αφρικής καθώς κάνουν τα πρώτα τους βήματα σε έναν απαιτητικό κόσμο που διαμορφώνεται από την ξηρασία, τα αρπακτικά ζώα και τις αρχαίες μεταναστευτικές οδούς. Από έναν νεογέννητο ελέφαντα που μαθαίνει να συμβαδίζει με το κοπάδι του μέχρι μικρά τσακάλια που δοκιμάζουν τα ένστικτά τους και μικρά τσίτα που προετοιμάζονται για τη ζωή με εκπληκτική ταχύτητα, κάθε ιστορία ξεδιπλώνεται μέσα από προσωπικές στιγμές μάθησης και απώλειας. Με την καθοδήγηση γονέων, αδελφών και ενστίκτου, αυτά τα νεαρά ζώα πρέπει να προσαρμοστούν γρήγορα ή να μείνουν πίσω. Μέσα από εκπληκτικά τοπία και κοντινά πλάνα, ανακαλύψτε πώς το θάρρος, οι οικογενειακοί δεσμοί και η ανθεκτικότητα διαμορφώνουν την επιβίωση κατά τη διάρκεια της πιο εύθραυστης φάσης της ζωής στην άγρια φύση.</desc>
   </programme>
   <programme start="20261021202500 +0000" stop="20261021211500 +0000" channel="nationalgeographic.gr">
     <title lang="el">Υπερκατασκευές των Ναζί</title>
@@ -139312,7 +139347,7 @@
   </programme>
   <programme start="20261028135000 +0200" stop="20261028150000 +0200" channel="skai.gr">
     <title lang="el">Ειδήσεις I Μεσημβρινό Δελτίο</title>
-    <desc lang="el">Το πρώτο ολοκληρωμένο δελτίο της ημέρας. Μαχητικό ρεπορτάζ, άμεση ενημέρωση. Οι όψεις της επικαιρότητας, οι εξελίξεις από την Ελλάδα και τον κόσμο, με τη δύναμη και τη σφραγίδα της δημοσιογραφικής ομάδας του ΣΚΑΪ. Με τον Απόστολο Μαγγηριάδη.</desc>
+    <desc lang="el">Το πρώτο ολοκληρωμένο δελτίο της ημέρας. Μαχητικό ρεπορτάζ, άμεση ενημέρωση. Οι όψεις της επικαιρότητας, οι εξελίξεις από την Ελλάδα και τον κόσμο, με τη δύναμη και τη σφραγίδα της δημοσιογραφικής ομάδας του ΣΚΑΪ.</desc>
   </programme>
   <programme start="20261028150000 +0200" stop="20261028171000 +0200" channel="skai.gr">
     <title lang="el">Studio στις 3</title>
@@ -139328,7 +139363,7 @@
   </programme>
   <programme start="20261028193000 +0200" stop="20261028203000 +0200" channel="skai.gr">
     <title lang="el">Ειδήσεις I Βραδινό Δελτίο</title>
-    <desc lang="el">Το κεντρικό δελτίο ειδήσεων του ΣΚΑΪ βγαίνει μπροστά στην ενημέρωση. Μπροστά στο ρεπορτάζ, με εγκυρότητα, μαχητικότητα και αστραπιαία αντανακλαστικά. Μπροστά στην ανάλυση, με αξιοπιστία, ουσία και θάρρος. Μπροστά στην τεχνολογία, με τις πιο σύγχρονες και καινοτόμες εφαρμογές. Με τη Λένα Φλυτζάνη.</desc>
+    <desc lang="el">Το κεντρικό δελτίο ειδήσεων του ΣΚΑΪ βγαίνει μπροστά στην ενημέρωση. Μπροστά στο ρεπορτάζ, με εγκυρότητα, μαχητικότητα και αστραπιαία αντανακλαστικά. Μπροστά στην ανάλυση, με αξιοπιστία, ουσία και θάρρος. Μπροστά στην τεχνολογία, με τις πιο σύγχρονες και καινοτόμες εφαρμογές.</desc>
   </programme>
   <programme start="20261028203000 +0200" stop="20261028223000 +0200" channel="skai.gr">
     <title lang="el">SUPERBET ΚΥΠΕΛΛΟ ΕΛΛΑΔΑΣ</title>
@@ -143252,8 +143287,56 @@
     <title lang="el">Παναθηναϊκός – Αστέρας Τρίπολης</title>
     <desc lang="el">Super League MD7</desc>
   </programme>
-  <programme start="20261026030000 +0000" stop="20261026040000 +0000" channel="sportfmtv1.gr">
-    <title lang="el">Μύκονος Betsson BC – Άρης</title>
+  <programme start="20261026030000 +0000" stop="20261026050000 +0000" channel="sportfmtv1.gr">
+    <title lang="el">Δόξα Λευκάδας Elabet- Ηρακλής</title>
+    <desc lang="el">GBL MD4</desc>
+  </programme>
+  <programme start="20261026050000 +0000" stop="20261026070000 +0000" channel="sportfmtv1.gr">
+    <title lang="el">Παναθηναϊκός - Παναθλητικός</title>
+    <desc lang="el">WBL MD4</desc>
+  </programme>
+  <programme start="20261026070000 +0000" stop="20261026090000 +0000" channel="sportfmtv1.gr">
+    <title lang="el">Περιστέρι Betsson - Μαρούσι</title>
+    <desc lang="el">GBL MD4</desc>
+  </programme>
+  <programme start="20261026090000 +0000" stop="20261026110000 +0000" channel="sportfmtv1.gr">
+    <title lang="el">Μύκονος Betsson– Άρης</title>
+    <desc lang="el">GBL MD4</desc>
+  </programme>
+  <programme start="20261026110000 +0000" stop="20261026130000 +0000" channel="sportfmtv1.gr">
+    <title lang="el">Ηρακλής - Κηφισιά</title>
+    <desc lang="el">GSL MD8</desc>
+  </programme>
+  <programme start="20261026130000 +0000" stop="20261026150000 +0000" channel="sportfmtv1.gr">
+    <title lang="el">Κολοσσός H Hotels Collection - Vikos Φalcons</title>
+    <desc lang="el">GBL MD4</desc>
+  </programme>
+  <programme start="20261026150000 +0000" stop="20261026170000 +0000" channel="sportfmtv1.gr">
+    <title lang="el">Παναθηναϊκός AKTOR - Καρδίτσα Ιαπωνική</title>
+    <desc lang="el">GBL MD4</desc>
+  </programme>
+  <programme start="20261026170000 +0000" stop="20261026190000 +0000" channel="sportfmtv1.gr">
+    <title lang="el">Προμηθέας Πάτρας Βίκος Cola- Ολυμπιακός</title>
+    <desc lang="el">GBL MD4</desc>
+  </programme>
+  <programme start="20261026190000 +0000" stop="20261026210000 +0000" channel="sportfmtv1.gr">
+    <title lang="el">Ηρακλής - Κηφισιά</title>
+    <desc lang="el">GSL MD8</desc>
+  </programme>
+  <programme start="20261026210000 +0000" stop="20261026230000 +0000" channel="sportfmtv1.gr">
+    <title lang="el">ΠΑΟΚ - ΑΕΚ</title>
+    <desc lang="el">GBL MD4</desc>
+  </programme>
+  <programme start="20261026230000 +0000" stop="20261027010000 +0000" channel="sportfmtv1.gr">
+    <title lang="el">Παναθηναϊκός - Παναθλητικός</title>
+    <desc lang="el">WBL MD4</desc>
+  </programme>
+  <programme start="20261027010000 +0000" stop="20261027030000 +0000" channel="sportfmtv1.gr">
+    <title lang="el">Περιστέρι Betsson - Μαρούσι</title>
+    <desc lang="el">GBL MD4</desc>
+  </programme>
+  <programme start="20261027030000 +0000" stop="20261027050000 +0000" channel="sportfmtv1.gr">
+    <title lang="el">Μύκονος Betsson– Άρης</title>
     <desc lang="el">GBL MD4</desc>
   </programme>
   <programme start="20261027153000 +0000" stop="20261027173000 +0000" channel="sportfmtv1.gr">
@@ -144374,11 +144457,11 @@
   </programme>
   <programme start="20261025150000 +0200" stop="20261025153000 +0200" channel="star.gr">
     <title lang="el">ΜΕΣΗΜΕΡΙΑΝΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ</title>
-    <desc lang="el">Με την Κατερίνα Τσαμούρη</desc>
+    <desc lang="el">25.10.2026 - Μεσημεριανό Δελτίο Ειδήσεων</desc>
   </programme>
   <programme start="20261025153000 +0200" stop="20261025154500 +0200" channel="star.gr">
     <title lang="el">ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ ΣΤΗ ΝΟΗΜΑΤΙΚΗ</title>
-    <desc lang="el">Με την Βαλεντίνα Καραγεωργίου</desc>
+    <desc lang="el">25.10.2026 - Δελτίο Ειδήσεων στη Νοηματική</desc>
   </programme>
   <programme start="20261025154500 +0200" stop="20261025161500 +0200" channel="star.gr">
     <title lang="el">ΤΑ ΦΙΛΑΡΑΚΙΑ (FRIENDS)</title>
@@ -144388,7 +144471,7 @@
   </programme>
   <programme start="20261025182500 +0200" stop="20261025194500 +0200" channel="star.gr">
     <title lang="el">LINGO</title>
-    <desc lang="el">Επεισόδιο 8 - πρώτη μετάδοση: 25.10.2026</desc>
+    <desc lang="el">25.10.2026 - Lingo</desc>
   </programme>
   <programme start="20261025194500 +0200" stop="20261025204000 +0200" channel="star.gr">
     <title lang="el">ΚΕΝΤΡΙΚΟ ΔΕΛΤΙΟ ΕΙΔΗΣΕΩΝ ΣΑΒΒΑΤΟΚΥΡΙΑΚΟΥ</title>
