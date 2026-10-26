@@ -5027,23 +5027,23 @@
     <category lang="el">Δραματική</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/331/140/040054926412000800_1792583422001_L.jpg" />
   </programme>
-  <programme start="20261026210000 +0000" stop="20261026220000 +0000" channel="alpha.gr">
+  <programme start="20261026210000 +0000" stop="20261026215500 +0000" channel="alpha.gr">
     <title lang="el">Οι Κόρες της Αρετής Ε14</title>
     <desc lang="el">H μέρα που στο σπίτι γίνεται μια συγκέντρωση προς τιμήν της Έφης μετατρέπεται σε πεδίο μάχης, όπου μυστικά και συγκρούσεις απειλούν να τινάξουν τα πάντα στον αέρα. Η Αρετή παίζει το πιο επικίνδυνο παιχνίδι της: προσπαθεί να κρατήσει τη θέση της στη βίλα και να προωθήσει την Άννα.</desc>
     <category lang="el">Δραματική</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/331/140/040054926412000800_1792583422001_L.jpg" />
   </programme>
-  <programme start="20261026220000 +0000" stop="20261026233000 +0000" channel="alpha.gr">
+  <programme start="20261026215500 +0000" stop="20261026234500 +0000" channel="alpha.gr">
+    <title lang="el">Tracker Κ2</title>
+    <desc lang="el">Ο μοναχικός επιβιωτιστής Colter Shaw περιπλανιέται σε όλη τη χώρα επιζητώντας τη δικαίωση. Χρησιμοποιώντας τις ιδιαίτερες ικανότητές του στον εντοπισμό, βοηθά απλούς ανθρώπους αλλά και την αστυνομία στην επίλυση όλων των ειδών μυστηρίων.</desc>
+    <category lang="el">Δραματική</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/751/256/040041165912000800_1793045549809_L.jpg" />
+  </programme>
+  <programme start="20261026234500 +0000" stop="20261027010000 +0000" channel="alpha.gr">
     <title lang="el">Μια Γυναίκα Ε6 (Ε)</title>
     <desc lang="el">Η Μαρίνα αισιοδοξεί με την part time δουλειά που της βρήκε ο Γιάννης και συγκρούεται με τον Μάρκο για την επίθεση εναντίον του. Η Μαρίνα παίρνει άδεια απ' το σιδερωτήριο και περνάει με τα παιδιά σε παιδότοπο, αφού η σχολική εκδρομή είναι ακριβή γι' αυτούς.</desc>
     <category lang="el">Δραματική</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/331/640/040053990512000800_1792583498150_L.jpg" />
-  </programme>
-  <programme start="20261026233000 +0000" stop="20261027010000 +0000" channel="alpha.gr">
-    <title lang="el">Tracker Κ2</title>
-    <desc lang="el">Ο μοναχικός επιβιωτιστής Colter Shaw περιπλανιέται σε όλη τη χώρα επιζητώντας τη δικαίωση. Χρησιμοποιώντας τις ιδιαίτερες ικανότητές του στον εντοπισμό, βοηθά απλούς ανθρώπους αλλά και την αστυνομία στην επίλυση όλων των ειδών μυστηρίων.</desc>
-    <category lang="el">Δραματική</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/330/664/040041165912000800_1792583513315_L.jpg" />
   </programme>
   <programme start="20261027010000 +0000" stop="20261027014500 +0000" channel="alpha.gr">
     <title lang="el">Αληθινοί Έρωτες Κ1 Ε11 (Ε)</title>
@@ -5058,16 +5058,16 @@
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/328/712/040035978612000800_1792583511190_L.jpg" />
   </programme>
   <programme start="20261027023000 +0000" stop="20261027031500 +0000" channel="alpha.gr">
-    <title lang="el">Μην Αρχίζεις τη Μουρμούρα Κ10 Ε26 (Ε)</title>
-    <desc lang="el">Ο Κανάτης μαθαίνει ότι η Μένη τον χώρισε για κάποιον άλλο και αποφασίζει με τη βοήθεια του Άγγελου και της Βέλης να γνωρίσει καινούριες κοπέλες.</desc>
-    <category lang="el">Κωμωδία</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/331/140/040037872712000800_1792583474580_L.jpg" />
-  </programme>
-  <programme start="20261027031500 +0000" stop="20261027041000 +0000" channel="alpha.gr">
     <title lang="el">Μην Αρχίζεις τη Μουρμούρα Κ10 Ε27 (Ε)</title>
     <desc lang="el">Η Ξένια είναι σίγουρη πως θα την καλέσει για συνέντευξη μια γνωστή δημοσιογράφος στην ΕΡΤ3. Η πραγματικότητα όμως είναι άλλη...</desc>
     <category lang="el">Κωμωδία</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/331/140/040037872712000800_1792583474580_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/749/804/040037872712000800_1793045553299_L.jpg" />
+  </programme>
+  <programme start="20261027031500 +0000" stop="20261027041000 +0000" channel="alpha.gr">
+    <title lang="el">Μην Αρχίζεις τη Μουρμούρα Κ10 Ε28 (Ε)</title>
+    <desc lang="el">Ο Άγγελος και η Βέλη ανακαλύπτουν ένα ταλέντο του Κανάτη και θέλουν και ο δύο να συνεργαστούν μαζί του. Κάποιοι ήχοι στο δωμάτιο της Σοφίας οδηγούν τον Μπάμπη στο να πιστέψει ότι υπάρχει φάντασμα.</desc>
+    <category lang="el">Κωμωδία</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/749/804/040037872712000800_1793045553299_L.jpg" />
   </programme>
   <programme start="20261027041000 +0000" stop="20261027044500 +0000" channel="alpha.gr">
     <title lang="el">Θυρίδα Τηλεπώλησης</title>
@@ -5118,10 +5118,10 @@
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/331/640/040013723812000800_1792583446936_L.jpg" />
   </programme>
   <programme start="20261027134500 +0000" stop="20261027144500 +0000" channel="alpha.gr">
-    <title lang="el">Μην Αρχίζεις τη Μουρμούρα Κ8 Ε60 (Ε)</title>
-    <desc lang="el">Το πέρασμα του χρόνου κάνει όλους τους ανθρώπους να χάνουν ύψος κι απ αυτό δεν γλιτώνει ούτε η Βούλα. Πώς γίνεται όμως ο Μηνάς, αντί να κοντύνει, να ψήλωσε;</desc>
+    <title lang="el">Μην Αρχίζεις τη Μουρμούρα Κ8 Ε63 (Ε)</title>
+    <desc lang="el">Η μαμά της Βέλης έρχεται να μείνει μαζί τους για δυο μέρες και αποφασίζει να κάνει την κόρη της την τέλεια νοικοκυρά.</desc>
     <category lang="el">Κωμωδία</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/327/236/040034897912000800_1792583512617_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/353/808/040034897912000800_1792998950218_L.jpg" />
   </programme>
   <programme start="20261027144500 +0000" stop="20261027154500 +0000" channel="alpha.gr">
     <title lang="el">Οικογενειακές Ιστορίες (Ε)</title>
@@ -5190,16 +5190,16 @@
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/328/712/040035978612000800_1792583511190_L.jpg" />
   </programme>
   <programme start="20261028023000 +0000" stop="20261028031500 +0000" channel="alpha.gr">
-    <title lang="el">Μην Αρχίζεις τη Μουρμούρα Κ10 Ε28 (Ε)</title>
-    <desc lang="el">Ο Άγγελος και η Βέλη ανακαλύπτουν ένα ταλέντο του Κανάτη και θέλουν και ο δύο να συνεργαστούν μαζί του. Κάποιοι ήχοι στο δωμάτιο της Σοφίας οδηγούν τον Μπάμπη στο να πιστέψει ότι υπάρχει φάντασμα.</desc>
-    <category lang="el">Κωμωδία</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/331/140/040037872712000800_1792583474580_L.jpg" />
-  </programme>
-  <programme start="20261028031500 +0000" stop="20261028041000 +0000" channel="alpha.gr">
     <title lang="el">Μην Αρχίζεις τη Μουρμούρα Κ10 Ε29 (Ε)</title>
     <desc lang="el">Ο Χάρης είναι άρρωστος με ίωση και η Σοφία φέρνει το μωρό σπίτι, να το κρατήσουν ο Μπάμπης και η Ξένια, για να μην κολλήσει. Το μωρό όμως κολλάει, αλλά όχι από τον Χάρη.</desc>
     <category lang="el">Κωμωδία</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/331/140/040037872712000800_1792583474580_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/749/804/040037872712000800_1793045553299_L.jpg" />
+  </programme>
+  <programme start="20261028031500 +0000" stop="20261028041000 +0000" channel="alpha.gr">
+    <title lang="el">Μην Αρχίζεις τη Μουρμούρα Κ10 Ε30 (Ε)</title>
+    <desc lang="el">Τι σχέση έχουν ένα κινέζικο κουλουράκι της τύχης και το γερμανικό προξενείο στη ζωή του Μπάμπη και της Ξένιας;</desc>
+    <category lang="el">Κωμωδία</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/749/804/040037872712000800_1793045553299_L.jpg" />
   </programme>
   <programme start="20261028041000 +0000" stop="20261028044500 +0000" channel="alpha.gr">
     <title lang="el">Θυρίδα Τηλεπώλησης</title>
@@ -5250,10 +5250,10 @@
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/221/204/040013723812000800_1792674113037_L.jpg" />
   </programme>
   <programme start="20261028134500 +0000" stop="20261028144500 +0000" channel="alpha.gr">
-    <title lang="el">Μην Αρχίζεις τη Μουρμούρα Κ8 Ε61 (Ε)</title>
-    <desc lang="el">O Μηνάς πρέπει να απαντήσει αν θα δεχτεί τη δουλειά στο γραφείο ερευνών του Θανάση Ντανάκουλα, αλλά δεν δείχνει πρόθυμος να πει το ναι. Έτσι η Βούλα, βάζει σ ενέργεια τα... μεγάλα μέσα.</desc>
+    <title lang="el">Μην Αρχίζεις τη Μουρμούρα Κ8 Ε64 (Ε)</title>
+    <desc lang="el">Η Βέλη τσακώνεται με τον Λαέρτη και πάνω στα νεύρα της του στέλνει κατά λάθος ένα υβριστικό mail. Θα καταφέρει το ζευγάρι να κρατήσει τη δουλειά του στον ξενώνα μετά από αυτό;</desc>
     <category lang="el">Κωμωδία</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/209/492/040034897912000800_1792673846440_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/353/808/040034897912000800_1792998950218_L.jpg" />
   </programme>
   <programme start="20261028144500 +0000" stop="20261028154500 +0000" channel="alpha.gr">
     <title lang="el">Οικογενειακές Ιστορίες (Ε)</title>
@@ -5316,16 +5316,16 @@
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/213/896/040035978612000800_1792673920560_L.jpg" />
   </programme>
   <programme start="20261029023000 +0000" stop="20261029031500 +0000" channel="alpha.gr">
-    <title lang="el">Μην Αρχίζεις τη Μουρμούρα Κ10 Ε30 (Ε)</title>
-    <desc lang="el">Τι σχέση έχουν ένα κινέζικο κουλουράκι της τύχης και το γερμανικό προξενείο στη ζωή του Μπάμπη και της Ξένιας;</desc>
-    <category lang="el">Κωμωδία</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/208/16/040037872712000800_1792673800967_L.jpg" />
-  </programme>
-  <programme start="20261029031500 +0000" stop="20261029041000 +0000" channel="alpha.gr">
     <title lang="el">Μην Αρχίζεις τη Μουρμούρα Κ10 Ε31 (Ε)</title>
     <desc lang="el">Η Ξένια κάνει μαθήματα Ελληνικών στον Φρίτς, μόνο που ο Μπάμπης έχει στοιχεία πως κάτι συμβαίνει μεταξύ τους. Και τα στοιχεία είναι αδιάσειστα.</desc>
     <category lang="el">Κωμωδία</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/208/16/040037872712000800_1792673800967_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/749/804/040037872712000800_1793045553299_L.jpg" />
+  </programme>
+  <programme start="20261029031500 +0000" stop="20261029041000 +0000" channel="alpha.gr">
+    <title lang="el">Μην Αρχίζεις τη Μουρμούρα Κ10 Ε32 (Ε)</title>
+    <desc lang="el">Μια αδιαθεσία της Καίτης ίσως είναι πιθανή εγκυμοσύνη, ενώ ο Ηλίας περιμένει με αγωνία ανώτερα κλιμάκια για έλεγχο.</desc>
+    <category lang="el">Κωμωδία</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/749/804/040037872712000800_1793045553299_L.jpg" />
   </programme>
   <programme start="20261029041000 +0000" stop="20261029044500 +0000" channel="alpha.gr">
     <title lang="el">Θυρίδα Τηλεπώλησης</title>
@@ -5376,10 +5376,10 @@
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/221/204/040013723812000800_1792674113037_L.jpg" />
   </programme>
   <programme start="20261029134500 +0000" stop="20261029144500 +0000" channel="alpha.gr">
-    <title lang="el">Μην Αρχίζεις τη Μουρμούρα Κ8 Ε62 (Ε)</title>
-    <desc lang="el">H Βέλη ετοιμάζεται να δώσει το βραβείο 'Υπάλληλος του μήνα' σε έναν από τους εργαζόμενους του ξενώνα και ο Άγγελος είναι αποφασισμένος να κερδίσει.</desc>
+    <title lang="el">Μην Αρχίζεις τη Μουρμούρα Κ8 Ε65 (Ε)</title>
+    <desc lang="el">Η Βούλα διατείνεται πως είναι καλύτερη ερευνήτρια από τον Μηνά κι εκείνος της στήνει ένα κόλπο για να της αποδείξει το αντίθετο.</desc>
     <category lang="el">Κωμωδία</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/209/492/040034897912000800_1792673846440_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/353/808/040034897912000800_1792998950218_L.jpg" />
   </programme>
   <programme start="20261029144500 +0000" stop="20261029154500 +0000" channel="alpha.gr">
     <title lang="el">Οικογενειακές Ιστορίες (Ε)</title>
@@ -63891,61 +63891,70 @@
     <desc lang="el">Τελικός - Γκουιγιάνγκ. Το World Climbing Series είναι μια σειρά αγώνων αναρρίχησης που διεξάγονται κατά τη διάρκεια του έτους σε διάφορες τοποθεσίες ανά τον κόσμο, υπό την οργάνωση της World Climbing.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/04/28/00d7d61e_2e88_470a_af88_001a6c025f00_stb_xl.jpg" />
   </programme>
-  <programme start="20261029033000 +0000" stop="20261029053000 +0000" channel="eurosport1.gr">
+  <programme start="20261029033000 +0000" stop="20261029043000 +0000" channel="eurosport1.gr">
     <title lang="el">Αναρρίχηση: Διεθνής Σειρά Αγώνων: Κίνα</title>
     <desc lang="el">Τελικός - Γκουιγιάνγκ. Το World Climbing Series είναι μια σειρά αγώνων αναρρίχησης που διεξάγονται κατά τη διάρκεια του έτους σε διάφορες τοποθεσίες ανά τον κόσμο, υπό την οργάνωση της World Climbing.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/04/28/00d7d61e_2e88_470a_af88_001a6c025f00_stb_xl.jpg" />
   </programme>
-  <programme start="20261029053000 +0000" stop="20261029060000 +0000" channel="eurosport1.gr">
-    <title lang="el">No information</title>
+  <programme start="20261029043000 +0000" stop="20261029060000 +0000" channel="eurosport1.gr">
+    <title lang="el">Σνούκερ: English Open</title>
+    <desc lang="el">Τελικός. Το σπουδαίο τουρνουά κατάταξης English Open αποτελεί μέρος του κουαρτέτου Home Nations, το οποίο περιλαμβάνει επίσης τα Irish Open, Scottish Open και Welsh Open.</desc>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2021/10/04/18502305-5417-41cc-9b53-cd3e6c1dd9b4_xl.jpg" />
   </programme>
-  <programme start="20261029060000 +0000" stop="20261029070000 +0000" channel="eurosport1.gr">
-    <title lang="el">No information</title>
+  <programme start="20261029060000 +0000" stop="20261029073000 +0000" channel="eurosport1.gr">
+    <title lang="el">Ποδηλασία: Λιέγη-Μπαστόν-Λιέγη, Βέλγιο</title>
+    <desc lang="el">Αθλητική εκπομπή. Η παλαιότερη κούρσα των spring classics είναι γνωστή για τις ακραίες καιρικές συνθήκες που επικρατούν στις διαδρομές της και για τον ιδιαίτερα ορεινό χαρακτήρα της.</desc>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2024/04/17/7ebd86a4-6067-4d70-b6fa-62df2f34e6b4_stb_xl.jpg" />
   </programme>
-  <programme start="20261029070000 +0000" stop="20261029080000 +0000" channel="eurosport1.gr">
-    <title lang="el">No information</title>
+  <programme start="20261029073000 +0000" stop="20261029093000 +0000" channel="eurosport1.gr">
+    <title lang="el">Σνούκερ: Σενζέν Οπεν</title>
+    <desc lang="el">Αθλητική εκπομπή. Το Shenzhen Open είναι επαγγελματικό τουρνουά σνούκερ κατάταξης που διεξάγεται στη Σενζέν της Κίνας.</desc>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2025/11/14/2c40d045-3dd5-4e54-bda0-2351c702d219_xl.jpg" />
   </programme>
-  <programme start="20261029080000 +0000" stop="20261029090000 +0000" channel="eurosport1.gr">
-    <title lang="el">No information</title>
+  <programme start="20261029093000 +0000" stop="20261029113000 +0000" channel="eurosport1.gr">
+    <title lang="el">Ποδηλασία: Λιέγη-Μπαστόν-Λιέγη, Βέλγιο</title>
+    <desc lang="el">Αθλητική εκπομπή. Η παλαιότερη κούρσα των spring classics είναι γνωστή για τις ακραίες καιρικές συνθήκες που επικρατούν στις διαδρομές της και για τον ιδιαίτερα ορεινό χαρακτήρα της.</desc>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2024/04/17/7ebd86a4-6067-4d70-b6fa-62df2f34e6b4_stb_xl.jpg" />
   </programme>
-  <programme start="20261029090000 +0000" stop="20261029100000 +0000" channel="eurosport1.gr">
-    <title lang="el">No information</title>
+  <programme start="20261029113000 +0000" stop="20261029130000 +0000" channel="eurosport1.gr">
+    <title lang="el">Σνούκερ: Σενζέν Οπεν</title>
+    <desc lang="el">Αθλητική εκπομπή. Το Shenzhen Open είναι επαγγελματικό τουρνουά σνούκερ κατάταξης που διεξάγεται στη Σενζέν της Κίνας.</desc>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2025/11/14/2c40d045-3dd5-4e54-bda0-2351c702d219_xl.jpg" />
   </programme>
-  <programme start="20261029100000 +0000" stop="20261029110000 +0000" channel="eurosport1.gr">
-    <title lang="el">No information</title>
+  <programme start="20261029130000 +0000" stop="20261029150000 +0000" channel="eurosport1.gr">
+    <title lang="el">Curling: Ευρωπαϊκό Πρωτάθλημα: Τσεχία</title>
+    <desc lang="el">Ανδρες, Φάση Ομίλων, Οστράβα (Z). Παρακολουθήστε τους αγώνες του Ευρωπαϊκού Πρωταθλήματος Κέρλινγκ.</desc>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2021/11/18/2de97437-9b7a-4154-97b8-7fbd0890d091_stb_xl.jpg" />
   </programme>
-  <programme start="20261029110000 +0000" stop="20261029120000 +0000" channel="eurosport1.gr">
-    <title lang="el">No information</title>
-  </programme>
-  <programme start="20261029120000 +0000" stop="20261029130000 +0000" channel="eurosport1.gr">
-    <title lang="el">No information</title>
-  </programme>
-  <programme start="20261029130000 +0000" stop="20261029140000 +0000" channel="eurosport1.gr">
-    <title lang="el">No information</title>
-  </programme>
-  <programme start="20261029140000 +0000" stop="20261029150000 +0000" channel="eurosport1.gr">
-    <title lang="el">No information</title>
-  </programme>
-  <programme start="20261029150000 +0000" stop="20261029160000 +0000" channel="eurosport1.gr">
-    <title lang="el">No information</title>
-  </programme>
-  <programme start="20261029160000 +0000" stop="20261029170000 +0000" channel="eurosport1.gr">
-    <title lang="el">No information</title>
+  <programme start="20261029150000 +0000" stop="20261029170000 +0000" channel="eurosport1.gr">
+    <title lang="el">Curling: Ευρωπαϊκό Πρωτάθλημα: Τσεχία</title>
+    <desc lang="el">Ανδρες, Φάση Ομίλων, Οστράβα. Παρακολουθήστε τους αγώνες του Ευρωπαϊκού Πρωταθλήματος Κέρλινγκ.</desc>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2021/11/18/2de97437-9b7a-4154-97b8-7fbd0890d091_stb_xl.jpg" />
   </programme>
   <programme start="20261029170000 +0000" stop="20261029180000 +0000" channel="eurosport1.gr">
-    <title lang="el">No information</title>
+    <title lang="el">Αναρρίχηση: Διεθνής Σειρά Αγώνων: Κίνα</title>
+    <desc lang="el">Τελικός - Γκουιγιάνγκ. Το World Climbing Series είναι μια σειρά αγώνων αναρρίχησης που διεξάγονται κατά τη διάρκεια του έτους σε διάφορες τοποθεσίες ανά τον κόσμο, υπό την οργάνωση της World Climbing.</desc>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/04/28/00d7d61e_2e88_470a_af88_001a6c025f00_stb_xl.jpg" />
   </programme>
   <programme start="20261029180000 +0000" stop="20261029190000 +0000" channel="eurosport1.gr">
-    <title lang="el">No information</title>
+    <title lang="el">Αναρρίχηση: Διεθνής Σειρά Αγώνων: Κίνα</title>
+    <desc lang="el">Τελικός - Γκουιγιάνγκ. Το World Climbing Series είναι μια σειρά αγώνων αναρρίχησης που διεξάγονται κατά τη διάρκεια του έτους σε διάφορες τοποθεσίες ανά τον κόσμο, υπό την οργάνωση της World Climbing.</desc>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/04/28/00d7d61e_2e88_470a_af88_001a6c025f00_stb_xl.jpg" />
   </programme>
   <programme start="20261029190000 +0000" stop="20261029200000 +0000" channel="eurosport1.gr">
-    <title lang="el">No information</title>
+    <title lang="el">Σνούκερ: Σενζέν Οπεν</title>
+    <desc lang="el">Αθλητική εκπομπή. Το Shenzhen Open είναι επαγγελματικό τουρνουά σνούκερ κατάταξης που διεξάγεται στη Σενζέν της Κίνας.</desc>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2025/11/14/2c40d045-3dd5-4e54-bda0-2351c702d219_xl.jpg" />
   </programme>
   <programme start="20261029200000 +0000" stop="20261029210000 +0000" channel="eurosport1.gr">
-    <title lang="el">No information</title>
+    <title lang="el">Ιππασία: FEI Παγκόσμιο Κύπελλο: ΗΠΑ</title>
+    <desc lang="el">Ουάσινγκτον. Η διοργάνωση περιλαμβάνει μια σειρά προκριματικών τουρνουά που κορυφώνονται στους τελικούς κατηγοριών.</desc>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2021/10/06/1ac8ded4-2dcd-4afd-8ef8-42152985d601_stb_xl.jpg" />
   </programme>
-  <programme start="20261029210000 +0000" stop="20261029220000 +0000" channel="eurosport1.gr">
-    <title lang="el">No information</title>
+  <programme start="20261029210000 +0000" stop="20261029230000 +0000" channel="eurosport1.gr">
+    <title lang="el">Curling: Ευρωπαϊκό Πρωτάθλημα: Τσεχία</title>
+    <desc lang="el">Ανδρες, Φάση Ομίλων, Οστράβα. Παρακολουθήστε τους αγώνες του Ευρωπαϊκού Πρωταθλήματος Κέρλινγκ.</desc>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2021/11/18/2de97437-9b7a-4154-97b8-7fbd0890d091_stb_xl.jpg" />
   </programme>
   <programme start="20261022200000 +0000" stop="20261022220000 +0000" channel="eurosport2.gr">
     <title lang="el">Ποδηλασία: Ο Γύρος της Γαλλίας</title>
@@ -64497,59 +64506,65 @@
     <desc lang="el">6 ώρες του Σάο Πάουλο. Σπορ αυτοκίνητα μεγάλης κλάσης - Audi, Ferrari &amp; Porsche μεταξύ άλλων - και αστέρες της οδήγησης πρωταγωνιστούν σε αυτή την άκρως απαιτητική διοργάνωση.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2021/07/19/18cafa7d-ad9f-4af4-88fe-7cfa0b6fba70_stb_xl.jpg" />
   </programme>
-  <programme start="20261029043000 +0000" stop="20261029050000 +0000" channel="eurosport2.gr">
-    <title lang="el">No information</title>
-  </programme>
-  <programme start="20261029050000 +0000" stop="20261029060000 +0000" channel="eurosport2.gr">
-    <title lang="el">No information</title>
+  <programme start="20261029043000 +0000" stop="20261029060000 +0000" channel="eurosport2.gr">
+    <title lang="el">Ποδηλασία: Παρίσι-Ρουμπέ, Γαλλία</title>
+    <desc lang="el">Ανδρες. Το Παρίσι-Ρουμπέ, είναι ένας από τους παλαιότερους ποδηλατικούς αγώνες. Ξεκίνησε το 1896 και σταμάτησε μόνο στους δύο παγκόσμιους πολέμους.</desc>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2024/04/02/c3dc0235-5775-4dac-a47f-491766ed9c9b_stb_xl.jpg" />
   </programme>
   <programme start="20261029060000 +0000" stop="20261029070000 +0000" channel="eurosport2.gr">
-    <title lang="el">No information</title>
+    <title lang="el">Αναρρίχηση: Διεθνής Σειρά Αγώνων: Κίνα</title>
+    <desc lang="el">Τελικός - Γκουιγιάνγκ. Το World Climbing Series είναι μια σειρά αγώνων αναρρίχησης που διεξάγονται κατά τη διάρκεια του έτους σε διάφορες τοποθεσίες ανά τον κόσμο, υπό την οργάνωση της World Climbing.</desc>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/04/28/00d7d61e_2e88_470a_af88_001a6c025f00_stb_xl.jpg" />
   </programme>
   <programme start="20261029070000 +0000" stop="20261029080000 +0000" channel="eurosport2.gr">
-    <title lang="el">No information</title>
+    <title lang="el">Αναρρίχηση: Διεθνής Σειρά Αγώνων: Κίνα</title>
+    <desc lang="el">Τελικός - Γκουιγιάνγκ. Το World Climbing Series είναι μια σειρά αγώνων αναρρίχησης που διεξάγονται κατά τη διάρκεια του έτους σε διάφορες τοποθεσίες ανά τον κόσμο, υπό την οργάνωση της World Climbing.</desc>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/04/28/00d7d61e_2e88_470a_af88_001a6c025f00_stb_xl.jpg" />
   </programme>
   <programme start="20261029080000 +0000" stop="20261029090000 +0000" channel="eurosport2.gr">
-    <title lang="el">No information</title>
+    <title lang="el">Ποδηλασία: Παρίσι-Ρουμπέ, Γαλλία</title>
+    <desc lang="el">Ανδρες. Το Παρίσι-Ρουμπέ, είναι ένας από τους παλαιότερους ποδηλατικούς αγώνες. Ξεκίνησε το 1896 και σταμάτησε μόνο στους δύο παγκόσμιους πολέμους.</desc>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2024/04/02/c3dc0235-5775-4dac-a47f-491766ed9c9b_stb_xl.jpg" />
   </programme>
-  <programme start="20261029090000 +0000" stop="20261029100000 +0000" channel="eurosport2.gr">
-    <title lang="el">No information</title>
+  <programme start="20261029090000 +0000" stop="20261029093000 +0000" channel="eurosport2.gr">
+    <title lang="el">Τρέιλ: GT World Series: Νότια Κορέα</title>
+    <desc lang="el">Μούγιου, Ανασκόπηση. Το Golden Trail World Series είναι μια διεθνής σειρά αγώνων ορεινού τρεξίματος βασισμένη σε σύστημα βαθμολογίας, η οποία περιλαμβάνει κάθε χρόνο διαφορετικούς κορυφαίους αγώνες.</desc>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/05/11/06815298_2a67_4190_a49b_afffc82c10e7_xl.jpg" />
   </programme>
-  <programme start="20261029100000 +0000" stop="20261029110000 +0000" channel="eurosport2.gr">
-    <title lang="el">No information</title>
+  <programme start="20261029093000 +0000" stop="20261029113000 +0000" channel="eurosport2.gr">
+    <title lang="el">Αγώνες Αυτοκινήτων: Βραζιλία</title>
+    <desc lang="el">6 ώρες του Σάο Πάουλο. Σπορ αυτοκίνητα μεγάλης κλάσης - Audi, Ferrari &amp; Porsche μεταξύ άλλων - και αστέρες της οδήγησης πρωταγωνιστούν σε αυτή την άκρως απαιτητική διοργάνωση.</desc>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2021/07/19/18cafa7d-ad9f-4af4-88fe-7cfa0b6fba70_stb_xl.jpg" />
   </programme>
-  <programme start="20261029110000 +0000" stop="20261029120000 +0000" channel="eurosport2.gr">
-    <title lang="el">No information</title>
+  <programme start="20261029113000 +0000" stop="20261029133000 +0000" channel="eurosport2.gr">
+    <title lang="el">Ποδηλασία: Παρίσι-Ρουμπέ, Γαλλία</title>
+    <desc lang="el">Ανδρες. Το Παρίσι-Ρουμπέ, είναι ένας από τους παλαιότερους ποδηλατικούς αγώνες. Ξεκίνησε το 1896 και σταμάτησε μόνο στους δύο παγκόσμιους πολέμους.</desc>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2024/04/02/c3dc0235-5775-4dac-a47f-491766ed9c9b_stb_xl.jpg" />
   </programme>
-  <programme start="20261029120000 +0000" stop="20261029130000 +0000" channel="eurosport2.gr">
-    <title lang="el">No information</title>
+  <programme start="20261029133000 +0000" stop="20261029153000 +0000" channel="eurosport2.gr">
+    <title lang="el">Αγώνες Αυτοκινήτων: ΗΠΑ</title>
+    <desc lang="el">Lone Star Le Mans. Σπορ αυτοκίνητα μεγάλης κλάσης - Audi, Ferrari &amp; Porsche μεταξύ άλλων - και αστέρες της οδήγησης πρωταγωνιστούν σε αυτή την άκρως απαιτητική διοργάνωση.</desc>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2021/07/19/18cafa7d-ad9f-4af4-88fe-7cfa0b6fba70_stb_xl.jpg" />
   </programme>
-  <programme start="20261029130000 +0000" stop="20261029140000 +0000" channel="eurosport2.gr">
-    <title lang="el">No information</title>
+  <programme start="20261029153000 +0000" stop="20261029170000 +0000" channel="eurosport2.gr">
+    <title lang="el">Ποδηλασία: Παρίσι-Ρουμπέ, Γαλλία</title>
+    <desc lang="el">Ανδρες. Το Παρίσι-Ρουμπέ, είναι ένας από τους παλαιότερους ποδηλατικούς αγώνες. Ξεκίνησε το 1896 και σταμάτησε μόνο στους δύο παγκόσμιους πολέμους.</desc>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2024/04/02/c3dc0235-5775-4dac-a47f-491766ed9c9b_stb_xl.jpg" />
   </programme>
-  <programme start="20261029140000 +0000" stop="20261029150000 +0000" channel="eurosport2.gr">
-    <title lang="el">No information</title>
-  </programme>
-  <programme start="20261029150000 +0000" stop="20261029160000 +0000" channel="eurosport2.gr">
-    <title lang="el">No information</title>
-  </programme>
-  <programme start="20261029160000 +0000" stop="20261029170000 +0000" channel="eurosport2.gr">
-    <title lang="el">No information</title>
-  </programme>
-  <programme start="20261029170000 +0000" stop="20261029180000 +0000" channel="eurosport2.gr">
-    <title lang="el">No information</title>
-  </programme>
-  <programme start="20261029180000 +0000" stop="20261029190000 +0000" channel="eurosport2.gr">
-    <title lang="el">No information</title>
+  <programme start="20261029170000 +0000" stop="20261029190000 +0000" channel="eurosport2.gr">
+    <title lang="el">Σνούκερ: Σενζέν Οπεν</title>
+    <desc lang="el">Αθλητική εκπομπή. Το Shenzhen Open είναι επαγγελματικό τουρνουά σνούκερ κατάταξης που διεξάγεται στη Σενζέν της Κίνας.</desc>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2025/11/14/2c40d045-3dd5-4e54-bda0-2351c702d219_xl.jpg" />
   </programme>
   <programme start="20261029190000 +0000" stop="20261029200000 +0000" channel="eurosport2.gr">
-    <title lang="el">No information</title>
+    <title lang="el">Αναρρίχηση: Διεθνής Σειρά Αγώνων: Κίνα</title>
+    <desc lang="el">Τελικός, Τσονγκίνγκ. Το World Climbing Series είναι μια σειρά αγώνων αναρρίχησης που διεξάγονται κατά τη διάρκεια του έτους σε διάφορες τοποθεσίες ανά τον κόσμο, υπό την οργάνωση της World Climbing.</desc>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/04/28/00d7d61e_2e88_470a_af88_001a6c025f00_stb_xl.jpg" />
   </programme>
-  <programme start="20261029200000 +0000" stop="20261029210000 +0000" channel="eurosport2.gr">
-    <title lang="el">No information</title>
-  </programme>
-  <programme start="20261029210000 +0000" stop="20261029220000 +0000" channel="eurosport2.gr">
-    <title lang="el">No information</title>
+  <programme start="20261029200000 +0000" stop="20261029230000 +0000" channel="eurosport2.gr">
+    <title lang="el">PGA Tour: Μεξικό</title>
+    <desc lang="el">Μεξικανικό Οπεν, 1η Ημέρα (Z). Παρακολουθήστε την αγωνιστική δράση στο PGA Tour.</desc>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2021/08/09/c2b17886-b409-409c-b7c5-5eb56845cf3c_stb_xl.jpg" />
   </programme>
   <programme start="20261023000000 +0300" stop="20261023060000 +0300" channel="eurotv.gr">
     <title lang="el">EURO TV</title>
@@ -130235,7 +130250,7 @@
   </programme>
   <programme start="20261028193000 +0000" stop="20261028213000 +0000" channel="novasports3.gr">
     <title lang="el">Βίρτους Μπολόνια-Ζάλγκιρις Κάουνας (Ζ) : EuroLeague 2026/27</title>
-    <desc lang="el">EuroLeague 2026/27. Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας!</desc>
+    <desc lang="el">EuroLeague 2026/27. Η Βίρτους (4-3), που προέρχεται από εκτός έδρας ήττα με 90-81 κόντρα στην Χάποελ, και η Ζάλγκιρις (3-4), που επικράτησε εύκολα στο Κάουνας με 105-85 της Βιλερμπαν, έρχονται.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/23/8bacea47_1026_4080_95ec_ce6e463de1cd_xl.jpg" />
   </programme>
   <programme start="20261028213000 +0000" stop="20261028220000 +0000" channel="novasports3.gr">
@@ -130550,7 +130565,7 @@
   </programme>
   <programme start="20261028193000 +0000" stop="20261028200000 +0000" channel="novasports4.gr">
     <title lang="el">Post Game Show (Z) : Άρης - Τσεντεβίτα Ολίμπια</title>
-    <desc lang="el">Άρης - Τσεντεβίτα Ολίμπια. Οι δημοσιογράφοι του Novasports βρίσκονται στο γήπεδο, με αποκλειστικές συνεντεύξεις, την ανάλυση και τις πρώτες αντιδράσεις αμέσως μετά το τελικό σφύριγμα.</desc>
+    <desc lang="el">Άρης - Τσεντεβίτα Ολίμπια. Οι δημοσιογράφοι του Novasports βρίσκονται στο γήπεδο, με αποκλειστικές συνεντεύξεις, την ανάλυση και τις πρώτες αντιδράσεις αμέσως μετά το τελικό σφύριγμα. Περιγραφή: Γ.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2022/01/04/b9028948-4640-43f8-ae49-ac0d943bf40f_stb_xl.jpg" />
   </programme>
   <programme start="20261028200000 +0000" stop="20261028220000 +0000" channel="novasports4.gr">
@@ -130768,17 +130783,22 @@
     <desc lang="el">EuroCup 2026/27. Παρακολουθήστε τους αγώνες του EuroCup 2026/27, μίας ακόμη ανταγωνιστικής διοργάνωσης στην ιστορία του θεσμού.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/19/c9e7b624_5059_4afd_8ecc_9cd901e78c88_xl.jpg" />
   </programme>
-  <programme start="20261026180000 +0000" stop="20261026200000 +0000" channel="novasports5.gr">
+  <programme start="20261026180000 +0000" stop="20261026183000 +0000" channel="novasports5.gr">
     <title lang="el">Μανρέσα - Ρόμα : EuroCup 2026/27</title>
     <desc lang="el">EuroCup 2026/27. Παρακολουθήστε τους αγώνες του EuroCup 2026/27, μίας ακόμη ανταγωνιστικής διοργάνωσης στην ιστορία του θεσμού.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/15/460079f4_e84e_47ad_8dc1_e03b70ccb6fc_stb_xl.jpg" />
   </programme>
-  <programme start="20261026200000 +0000" stop="20261026220000 +0000" channel="novasports5.gr">
+  <programme start="20261026183000 +0000" stop="20261026203000 +0000" channel="novasports5.gr">
+    <title lang="el">Μανρέσα - Ρόμα : EuroCup 2026/27</title>
+    <desc lang="el">EuroCup 2026/27. Παρακολουθήστε τους αγώνες του EuroCup 2026/27, μίας ακόμη ανταγωνιστικής διοργάνωσης στην ιστορία του θεσμού.</desc>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/15/460079f4_e84e_47ad_8dc1_e03b70ccb6fc_stb_xl.jpg" />
+  </programme>
+  <programme start="20261026203000 +0000" stop="20261026223000 +0000" channel="novasports5.gr">
     <title lang="el">Νάπολι - Τόφας : EuroCup 2026/27</title>
     <desc lang="el">EuroCup 2026/27. Παρακολουθήστε τους αγώνες του EuroCup 2026/27, μίας ακόμη ανταγωνιστικής διοργάνωσης στην ιστορία του θεσμού.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/15/1da8cb08_5834_4c83_a5bc_1a3da65b463e_stb_xl.jpg" />
   </programme>
-  <programme start="20261026220000 +0000" stop="20261027040000 +0000" channel="novasports5.gr">
+  <programme start="20261026223000 +0000" stop="20261027040000 +0000" channel="novasports5.gr">
     <title lang="el">Novasports5 : Ξανά κοντά σας στις 11:45</title>
     <desc lang="el">Ξανά κοντά σας στις 11:45. Ένα κανάλι αφιερωμένο στο μπάσκετ! Όλοι οι αγώνες της κορυφαίας ευρωπαϊκής διοργάνωσης, της EuroLeague, και επιλεγμένοι αγώνες του EuroCup.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2021/10/04/925f59f3-227d-476f-8605-18befcaa551d_stb_xl.jpg" />
@@ -130805,7 +130825,7 @@
   </programme>
   <programme start="20261027160000 +0000" stop="20261027180000 +0000" channel="novasports5.gr">
     <title lang="el">Ντουμπάι - Παρί (Ζ) : EuroLeague 2026/27</title>
-    <desc lang="el">EuroLeague 2026/27. Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας!</desc>
+    <desc lang="el">EuroLeague 2026/27. Η Ντουμπάι (5-2), που νίκησε άνετα εκτός έδρας την Μπάγερν, και η Παρί (1-6), που προέρχεται από τέσσερις συνεχόμενες ήττες, έρχονται αντιμέτωπες στο πλαίσιο της 8ης αγωνιστικής.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/22/5a358993_b34a_419e_9f53_683a35680669_stb_xl.jpg" />
   </programme>
   <programme start="20261027180000 +0000" stop="20261027190000 +0000" channel="novasports5.gr">
@@ -131103,17 +131123,17 @@
     <desc lang="el">Γουχάν, Προημιτελικός. Παρακολουθείτε τους αγώνες του τουρνουά τένις γυναικών Dongfeng Voyah-Wuhan Open της σειράς WTA 1000, που διεξάγεται το διάστημα 12-18 Οκτωβρίου στη Γουχάν της Κίνας.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2025/07/23/beb9c8c1-2d98-4e0e-bd6f-fd61c98262f0_stb_xl.jpg" />
   </programme>
-  <programme start="20261026214500 +0000" stop="20261026220000 +0000" channel="novasports6.gr">
-    <title lang="el">Novasports6 : Ξανά κοντά σας αύριο στις 11:15</title>
-    <desc lang="el">Ξανά κοντά σας αύριο στις 11:15. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν.</desc>
+  <programme start="20261026214500 +0000" stop="20261027030000 +0000" channel="novasports6.gr">
+    <title lang="el">Novasports6 : Ξανά κοντά σας στις 05:00</title>
+    <desc lang="el">Ξανά κοντά σας στις 05:00. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2021/10/05/4b0701e5-5843-4a6b-9b18-dbd3c84b807b_stb_xl.jpg" />
   </programme>
-  <programme start="20261026220000 +0000" stop="20261027040000 +0000" channel="novasports6.gr">
-    <title lang="el">Novasports6 : Ξανά κοντά σας στις 11:15</title>
-    <desc lang="el">Ξανά κοντά σας στις 11:15. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές.</desc>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2021/10/05/4b0701e5-5843-4a6b-9b18-dbd3c84b807b_stb_xl.jpg" />
+  <programme start="20261027030000 +0000" stop="20261027050000 +0000" channel="novasports6.gr">
+    <title lang="el">Τένις: WTA 500 2026 (Ζ) : 2η Μέρα: Πουτίντσεβα - Σάκκαρη</title>
+    <desc lang="el">2η Μέρα: Πουτίντσεβα - Σάκκαρη.</desc>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2025/07/03/9873a134-e6f8-4b32-a830-805f8b70bee3_stb_xl.jpg" />
   </programme>
-  <programme start="20261027040000 +0000" stop="20261027091500 +0000" channel="novasports6.gr">
+  <programme start="20261027050000 +0000" stop="20261027091500 +0000" channel="novasports6.gr">
     <title lang="el">Novasports6 : Ξανά κοντά σας στις 11:15</title>
     <desc lang="el">Ξανά κοντά σας στις 11:15. Το κανάλι που καλύπτει κορυφαίες διοργανώσεις από ολόκληρο το φάσμα του αθλητισμού με έμφαση στα τουρνουά τένις WTA, το Davis Cup και το Wimbledon, που χαρίζουν μοναδικές.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2021/10/05/4b0701e5-5843-4a6b-9b18-dbd3c84b807b_stb_xl.jpg" />
@@ -131190,7 +131210,7 @@
   </programme>
   <programme start="20261028190000 +0000" stop="20261028210000 +0000" channel="novasports6.gr">
     <title lang="el">Βιλερμπάν - Παρτίζαν (Ζ) : EuroLeague 2026/27</title>
-    <desc lang="el">EuroLeague 2026/27. Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας!</desc>
+    <desc lang="el">EuroLeague 2026/27. Η Βιλερμπάν (2-5), που έχασε εκτός έδρας με 105-85 από την Ζάλγκιρις, και η Παρτιζάν (4-3), που επικράτησε με 85-82 του Ερυθρού Αστέρα στο μεγάλο εντός έδρας ντέρμπι, έρχονται.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/23/2d6349ae_6518_4896_8a92_711c84d6d639_stb_xl.jpg" />
   </programme>
   <programme start="20261028210000 +0000" stop="20261028220000 +0000" channel="novasports6.gr">
@@ -132340,12 +132360,7 @@
     <desc lang="el">Αγγλικό Πρωτάθλημα Ποδοσφαίρου. Το δημοφιλέστερο πρωτάθλημα ποδοσφαίρου στον κόσμο αποκλειστικά στο Novasports!</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2023/12/01/925b9126-e84d-4c37-8564-1644fb35efe2_stb_xl.jpg" />
   </programme>
-  <programme start="20261029160000 +0000" stop="20261029163000 +0000" channel="novasportspremierleague.gr">
-    <title lang="el">Classic Match : Τσέλσι - Άστον Βίλα (2012/13)</title>
-    <desc lang="el">Τσέλσι - Άστον Βίλα (2012/13). Δείτε έναν κλασικό αγώνα από προηγούμενη σεζόν της Premier League επιλεγμένο από το πλούσιο αρχείο της κορυφαίας αγγλικής κατηγορίας.</desc>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2022/08/01/e3840777-59fe-4b6a-8cbb-db39268ebc39_stb_xl.jpg" />
-  </programme>
-  <programme start="20261029163000 +0000" stop="20261029170000 +0000" channel="novasportspremierleague.gr">
+  <programme start="20261029160000 +0000" stop="20261029170000 +0000" channel="novasportspremierleague.gr">
     <title lang="el">Ιστορίες της Premier League : Μάρκους Στιούαρτ</title>
     <desc lang="el">Μάρκους Στιούαρτ. Αυτό το πρόγραμμα παρουσιάζει τις προσωπικότητες που διαμόρφωσαν την εποχή της Premier League, με ιδιαίτερη έμφαση στις ιστορίες που έχουν απήχηση στο διεθνές κοινό.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2022/08/01/31af0e1b-4b0e-4a04-99e1-d38b257a66ed_stb_xl.jpg" />

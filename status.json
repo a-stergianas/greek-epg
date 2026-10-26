@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-26T19:24:27.311825+00:00",
+  "generated_at": "2026-10-26T20:28:33.186374+00:00",
   "demo": false,
   "channels": 245,
-  "programmes": 36567,
-  "programmes_with_images": 20686,
+  "programmes": 36556,
+  "programmes_with_images": 20710,
   "window": {
     "start": "2026-10-23T00:00:00+03:00",
     "stop": "2026-10-30T00:00:00+02:00"
@@ -548,11 +548,11 @@
           }
         },
         "2026-10-26": {
-          "programmes": 21,
+          "programmes": 22,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "magentatv": 21
+            "magentatv": 22
           }
         },
         "2026-10-27": {
@@ -4483,10 +4483,10 @@
       "coverage_status": "complete"
     },
     "eurosport1.gr": {
-      "programmes": 119,
-      "programmes_with_images": 102,
+      "programmes": 114,
+      "programmes_with_images": 114,
       "used_sources": {
-        "nova": 119
+        "nova": 114
       },
       "overlapping_or_duplicate_dropped": {
         "cyta": 114,
@@ -4547,21 +4547,21 @@
           }
         },
         "2026-10-29": {
-          "programmes": 22,
+          "programmes": 17,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "nova": 22
+            "nova": 17
           }
         }
       },
       "coverage_status": "complete"
     },
     "eurosport2.gr": {
-      "programmes": 128,
-      "programmes_with_images": 110,
+      "programmes": 122,
+      "programmes_with_images": 122,
       "used_sources": {
-        "nova": 128
+        "nova": 122
       },
       "overlapping_or_duplicate_dropped": {
         "cyta": 122,
@@ -4622,11 +4622,11 @@
           }
         },
         "2026-10-29": {
-          "programmes": 23,
+          "programmes": 17,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "nova": 23
+            "nova": 17
           }
         }
       },
@@ -10916,10 +10916,10 @@
       "coverage_status": "complete"
     },
     "novasports5.gr": {
-      "programmes": 60,
-      "programmes_with_images": 60,
+      "programmes": 61,
+      "programmes_with_images": 61,
       "used_sources": {
-        "nova": 60
+        "nova": 61
       },
       "overlapping_or_duplicate_dropped": {
         "magentatv": 75,
@@ -10955,19 +10955,19 @@
           }
         },
         "2026-10-26": {
-          "programmes": 9,
+          "programmes": 10,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "nova": 9
+            "nova": 10
           }
         },
         "2026-10-27": {
-          "programmes": 9,
+          "programmes": 10,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "nova": 9
+            "nova": 10
           }
         },
         "2026-10-28": {
@@ -11037,11 +11037,11 @@
           }
         },
         "2026-10-27": {
-          "programmes": 9,
+          "programmes": 10,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "nova": 9
+            "nova": 10
           }
         },
         "2026-10-28": {
@@ -11433,10 +11433,10 @@
       "coverage_status": "complete"
     },
     "novasportspremierleague.gr": {
-      "programmes": 91,
-      "programmes_with_images": 91,
+      "programmes": 90,
+      "programmes_with_images": 90,
       "used_sources": {
-        "nova": 91
+        "nova": 90
       },
       "overlapping_or_duplicate_dropped": {
         "magentatv": 93
@@ -11494,11 +11494,11 @@
           }
         },
         "2026-10-29": {
-          "programmes": 12,
+          "programmes": 11,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "nova": 12
+            "nova": 11
           }
         }
       },
