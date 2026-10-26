@@ -1,8 +1,9 @@
 {
-  "generated_at": "2026-10-26T08:50:52.436386+00:00",
+  "generated_at": "2026-10-26T17:30:56.928901+00:00",
   "demo": false,
   "channels": 245,
-  "programmes": 38797,
+  "programmes": 39094,
+  "programmes_with_images": 17645,
   "window": {
     "start": "2026-10-23T00:00:00+03:00",
     "stop": "2026-10-30T00:00:00+02:00"
@@ -15,7 +16,6 @@
   ],
   "insufficient_coverage_channels": [
     "ertflixlive.gr",
-    "realmadridtv.cy",
     "worldfashion.cy"
   ],
   "insufficient_days": [
@@ -48,18 +48,6 @@
       "date": "2026-10-29"
     },
     {
-      "channel_id": "realmadridtv.cy",
-      "date": "2026-10-27"
-    },
-    {
-      "channel_id": "realmadridtv.cy",
-      "date": "2026-10-28"
-    },
-    {
-      "channel_id": "realmadridtv.cy",
-      "date": "2026-10-29"
-    },
-    {
       "channel_id": "worldfashion.cy",
       "date": "2026-10-23"
     },
@@ -78,12 +66,12 @@
   ],
   "nonblocking_channels": [
     "ertflixlive.gr",
-    "realmadridtv.cy",
     "worldfashion.cy"
   ],
   "channel_coverage": {
     "4e.gr": {
       "programmes": 218,
+      "programmes_with_images": 173,
       "used_sources": {
         "digea": 218
       },
@@ -159,6 +147,7 @@
     },
     "action24.gr": {
       "programmes": 114,
+      "programmes_with_images": 63,
       "used_sources": {
         "digea": 114
       },
@@ -233,6 +222,7 @@
     },
     "aechannelthessaloniki.gr": {
       "programmes": 28,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 28
       },
@@ -304,6 +294,7 @@
     },
     "aeolos.gr": {
       "programmes": 101,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 101
       },
@@ -375,6 +366,7 @@
     },
     "alert.gr": {
       "programmes": 175,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 175
       },
@@ -446,6 +438,7 @@
     },
     "alfa.gr": {
       "programmes": 151,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 151
       },
@@ -517,6 +510,7 @@
     },
     "alpha.gr": {
       "programmes": 131,
+      "programmes_with_images": 126,
       "used_sources": {
         "alpha": 129,
         "digea": 2
@@ -592,6 +586,7 @@
     },
     "alpha.cy": {
       "programmes": 148,
+      "programmes_with_images": 0,
       "used_sources": {
         "cyta": 148
       },
@@ -666,6 +661,7 @@
     },
     "animalplanet.gr": {
       "programmes": 194,
+      "programmes_with_images": 194,
       "used_sources": {
         "nova": 194
       },
@@ -740,6 +736,7 @@
     },
     "ant1.gr": {
       "programmes": 137,
+      "programmes_with_images": 36,
       "used_sources": {
         "antenna": 137
       },
@@ -813,6 +810,7 @@
     },
     "ant1.cy": {
       "programmes": 147,
+      "programmes_with_images": 0,
       "used_sources": {
         "cyta": 147
       },
@@ -887,6 +885,7 @@
     },
     "antennacomedy.gr": {
       "programmes": 232,
+      "programmes_with_images": 0,
       "used_sources": {
         "antenna": 232
       },
@@ -958,6 +957,7 @@
     },
     "antennadrama.gr": {
       "programmes": 222,
+      "programmes_with_images": 0,
       "used_sources": {
         "antenna": 222
       },
@@ -1029,6 +1029,7 @@
     },
     "arttv.gr": {
       "programmes": 147,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 147
       },
@@ -1100,6 +1101,7 @@
     },
     "astratv.gr": {
       "programmes": 63,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 63
       },
@@ -1171,6 +1173,7 @@
     },
     "attica.gr": {
       "programmes": 161,
+      "programmes_with_images": 1,
       "used_sources": {
         "digea": 161
       },
@@ -1244,19 +1247,19 @@
       "coverage_status": "complete"
     },
     "babytv.gr": {
-      "programmes": 2101,
+      "programmes": 2288,
+      "programmes_with_images": 0,
       "used_sources": {
-        "baby_tv": 2066,
-        "magentatv": 35
+        "baby_tv": 2288
       },
       "overlapping_or_duplicate_dropped": {
-        "magentatv": 219,
+        "magentatv": 254,
         "nova": 254,
         "cyta": 2288,
         "cablenet": 2278
       },
-      "coverage_ratio": 0.9999,
-      "max_gap_hours": 0.0217,
+      "coverage_ratio": 1.0,
+      "max_gap_hours": 0.0,
       "coverage_required": false,
       "collection_started_on": "2026-10-13",
       "history_collection_started_on": "2026-10-21",
@@ -1310,12 +1313,11 @@
           }
         },
         "2026-10-29": {
-          "programmes": 134,
-          "coverage_ratio": 0.9991,
-          "max_gap_hours": 0.0217,
+          "programmes": 321,
+          "coverage_ratio": 1.0,
+          "max_gap_hours": 0.0,
           "sources": {
-            "baby_tv": 99,
-            "magentatv": 35
+            "baby_tv": 321
           }
         }
       },
@@ -1323,6 +1325,7 @@
     },
     "bbcearth.gr": {
       "programmes": 157,
+      "programmes_with_images": 157,
       "used_sources": {
         "magentatv": 157
       },
@@ -1396,6 +1399,7 @@
     },
     "best.gr": {
       "programmes": 143,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 143
       },
@@ -1467,6 +1471,7 @@
     },
     "bluesky.gr": {
       "programmes": 143,
+      "programmes_with_images": 40,
       "used_sources": {
         "digea": 143
       },
@@ -1540,6 +1545,7 @@
     },
     "cablenetcinema.cy": {
       "programmes": 92,
+      "programmes_with_images": 0,
       "used_sources": {
         "mesimvria_showtime1": 78,
         "cablenet": 14
@@ -1614,6 +1620,7 @@
     },
     "cablenetsports1.cy": {
       "programmes": 133,
+      "programmes_with_images": 0,
       "used_sources": {
         "cablenet": 123,
         "cyta": 10
@@ -1693,6 +1700,7 @@
     },
     "cablenetsports2.cy": {
       "programmes": 124,
+      "programmes_with_images": 0,
       "used_sources": {
         "cablenet": 113,
         "cyta": 11
@@ -1772,6 +1780,7 @@
     },
     "cablenetsports3.cy": {
       "programmes": 114,
+      "programmes_with_images": 0,
       "used_sources": {
         "cablenet": 107,
         "cyta": 7
@@ -1851,6 +1860,7 @@
     },
     "capital.cy": {
       "programmes": 135,
+      "programmes_with_images": 0,
       "used_sources": {
         "cyta": 135
       },
@@ -1924,6 +1934,7 @@
     },
     "cartoonito.gr": {
       "programmes": 865,
+      "programmes_with_images": 865,
       "used_sources": {
         "nova": 865
       },
@@ -1998,6 +2009,7 @@
     },
     "cartoonnetwork.cy": {
       "programmes": 200,
+      "programmes_with_images": 0,
       "used_sources": {
         "cablenet": 193,
         "cyta": 7
@@ -2079,6 +2091,7 @@
     },
     "centertv.gr": {
       "programmes": 127,
+      "programmes_with_images": 68,
       "used_sources": {
         "digea": 127
       },
@@ -2152,6 +2165,7 @@
     },
     "classica.cy": {
       "programmes": 178,
+      "programmes_with_images": 0,
       "used_sources": {
         "cablenet": 178
       },
@@ -2223,6 +2237,7 @@
     },
     "corfutv.gr": {
       "programmes": 150,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 150
       },
@@ -2294,6 +2309,7 @@
     },
     "crimeinvestigation.gr": {
       "programmes": 238,
+      "programmes_with_images": 238,
       "used_sources": {
         "magentatv": 238
       },
@@ -2367,6 +2383,7 @@
     },
     "currenttime.cy": {
       "programmes": 251,
+      "programmes_with_images": 0,
       "used_sources": {
         "cyta": 251
       },
@@ -2438,6 +2455,7 @@
     },
     "cvsports4k1.cy": {
       "programmes": 51,
+      "programmes_with_images": 0,
       "used_sources": {
         "cyta": 51
       },
@@ -2509,6 +2527,7 @@
     },
     "cvsports4k2.cy": {
       "programmes": 48,
+      "programmes_with_images": 0,
       "used_sources": {
         "cyta": 48
       },
@@ -2580,6 +2599,7 @@
     },
     "cvsportsmultiview.cy": {
       "programmes": 31,
+      "programmes_with_images": 0,
       "used_sources": {
         "cyta": 31
       },
@@ -2651,6 +2671,7 @@
     },
     "cytavisionsports1.cy": {
       "programmes": 107,
+      "programmes_with_images": 0,
       "used_sources": {
         "cyta": 107
       },
@@ -2722,6 +2743,7 @@
     },
     "cytavisionsports2.cy": {
       "programmes": 78,
+      "programmes_with_images": 0,
       "used_sources": {
         "cyta": 78
       },
@@ -2793,6 +2815,7 @@
     },
     "cytavisionsports3.cy": {
       "programmes": 114,
+      "programmes_with_images": 0,
       "used_sources": {
         "cyta": 114
       },
@@ -2864,6 +2887,7 @@
     },
     "cytavisionsports4.cy": {
       "programmes": 56,
+      "programmes_with_images": 0,
       "used_sources": {
         "cyta": 56
       },
@@ -2935,6 +2959,7 @@
     },
     "cytavisionsports5.cy": {
       "programmes": 50,
+      "programmes_with_images": 0,
       "used_sources": {
         "cyta": 50
       },
@@ -3006,6 +3031,7 @@
     },
     "cytavisionsports6.cy": {
       "programmes": 63,
+      "programmes_with_images": 0,
       "used_sources": {
         "cyta": 63
       },
@@ -3077,6 +3103,7 @@
     },
     "cytavisionsports7.cy": {
       "programmes": 46,
+      "programmes_with_images": 0,
       "used_sources": {
         "cyta": 46
       },
@@ -3148,11 +3175,12 @@
     },
     "cytavisionsports8.cy": {
       "programmes": 51,
+      "programmes_with_images": 0,
       "used_sources": {
         "cyta": 51
       },
       "overlapping_or_duplicate_dropped": {
-        "cablenet": 66
+        "cablenet": 67
       },
       "coverage_ratio": 1.0,
       "max_gap_hours": 0.0,
@@ -3219,6 +3247,7 @@
     },
     "davinci.gr": {
       "programmes": 746,
+      "programmes_with_images": 746,
       "used_sources": {
         "nova": 746
       },
@@ -3290,6 +3319,7 @@
     },
     "diktyo1.gr": {
       "programmes": 28,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 28
       },
@@ -3361,6 +3391,7 @@
     },
     "dion.gr": {
       "programmes": 151,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 151
       },
@@ -3432,6 +3463,7 @@
     },
     "discovery.gr": {
       "programmes": 199,
+      "programmes_with_images": 199,
       "used_sources": {
         "nova": 199
       },
@@ -3506,6 +3538,7 @@
     },
     "disneychannel.gr": {
       "programmes": 454,
+      "programmes_with_images": 18,
       "used_sources": {
         "disney_channel": 454
       },
@@ -3582,6 +3615,7 @@
     },
     "disneyjunior.gr": {
       "programmes": 699,
+      "programmes_with_images": 0,
       "used_sources": {
         "disney_junior": 699
       },
@@ -3658,6 +3692,7 @@
     },
     "ducktv.gr": {
       "programmes": 151,
+      "programmes_with_images": 151,
       "used_sources": {
         "magentatv": 151
       },
@@ -3732,6 +3767,7 @@
     },
     "e_entertainment.gr": {
       "programmes": 184,
+      "programmes_with_images": 184,
       "used_sources": {
         "magentatv": 184
       },
@@ -3807,6 +3843,7 @@
     },
     "enachannel.gr": {
       "programmes": 144,
+      "programmes_with_images": 44,
       "used_sources": {
         "digea": 144
       },
@@ -3881,6 +3918,7 @@
     },
     "enatv.gr": {
       "programmes": 79,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 79
       },
@@ -3952,6 +3990,7 @@
     },
     "ert1.gr": {
       "programmes": 116,
+      "programmes_with_images": 116,
       "used_sources": {
         "magentatv": 116
       },
@@ -4023,6 +4062,7 @@
     },
     "ert2sport.gr": {
       "programmes": 129,
+      "programmes_with_images": 129,
       "used_sources": {
         "magentatv": 129
       },
@@ -4094,6 +4134,7 @@
     },
     "ert3.gr": {
       "programmes": 159,
+      "programmes_with_images": 159,
       "used_sources": {
         "magentatv": 159
       },
@@ -4165,6 +4206,7 @@
     },
     "ertcosmos.gr": {
       "programmes": 135,
+      "programmes_with_images": 135,
       "used_sources": {
         "magentatv": 135
       },
@@ -4240,6 +4282,7 @@
     },
     "ertflixlive.gr": {
       "programmes": 0,
+      "programmes_with_images": 0,
       "used_sources": {},
       "overlapping_or_duplicate_dropped": {},
       "coverage_ratio": 0.0,
@@ -4295,6 +4338,7 @@
     },
     "ertnews.gr": {
       "programmes": 137,
+      "programmes_with_images": 137,
       "used_sources": {
         "magentatv": 137
       },
@@ -4366,6 +4410,7 @@
     },
     "euronews.gr": {
       "programmes": 602,
+      "programmes_with_images": 602,
       "used_sources": {
         "magentatv": 602
       },
@@ -4441,6 +4486,7 @@
     },
     "eurosport1.gr": {
       "programmes": 119,
+      "programmes_with_images": 102,
       "used_sources": {
         "nova": 119
       },
@@ -4515,6 +4561,7 @@
     },
     "eurosport2.gr": {
       "programmes": 128,
+      "programmes_with_images": 110,
       "used_sources": {
         "nova": 128
       },
@@ -4589,6 +4636,7 @@
     },
     "eurotv.gr": {
       "programmes": 28,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 28
       },
@@ -4660,6 +4708,7 @@
     },
     "extra.gr": {
       "programmes": 168,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 168
       },
@@ -4731,6 +4780,7 @@
     },
     "extra.cy": {
       "programmes": 74,
+      "programmes_with_images": 0,
       "used_sources": {
         "cyta": 74
       },
@@ -4802,6 +4852,7 @@
     },
     "e.gr": {
       "programmes": 117,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 117
       },
@@ -4873,6 +4924,7 @@
     },
     "fashiontv.gr": {
       "programmes": 478,
+      "programmes_with_images": 478,
       "used_sources": {
         "magentatv": 478
       },
@@ -4947,6 +4999,7 @@
     },
     "fight.gr": {
       "programmes": 157,
+      "programmes_with_images": 0,
       "used_sources": {
         "antenna": 157
       },
@@ -5020,6 +5073,7 @@
     },
     "flashtv.gr": {
       "programmes": 200,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 200
       },
@@ -5091,6 +5145,7 @@
     },
     "foodnetwork.gr": {
       "programmes": 226,
+      "programmes_with_images": 226,
       "used_sources": {
         "nova": 226
       },
@@ -5165,6 +5220,7 @@
     },
     "formedia.gr": {
       "programmes": 116,
+      "programmes_with_images": 36,
       "used_sources": {
         "digea": 116
       },
@@ -5238,6 +5294,7 @@
     },
     "ftv.cy": {
       "programmes": 476,
+      "programmes_with_images": 0,
       "used_sources": {
         "cyta": 476
       },
@@ -5309,6 +5366,7 @@
     },
     "fx.gr": {
       "programmes": 312,
+      "programmes_with_images": 312,
       "used_sources": {
         "magentatv": 312
       },
@@ -5382,6 +5440,7 @@
     },
     "fxlife.gr": {
       "programmes": 269,
+      "programmes_with_images": 269,
       "used_sources": {
         "magentatv": 269
       },
@@ -5455,6 +5514,7 @@
     },
     "ginx.gr": {
       "programmes": 185,
+      "programmes_with_images": 185,
       "used_sources": {
         "magentatv": 185
       },
@@ -5528,6 +5588,7 @@
     },
     "gnomitv.gr": {
       "programmes": 28,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 28
       },
@@ -5599,12 +5660,13 @@
     },
     "greekcinema.cy": {
       "programmes": 107,
+      "programmes_with_images": 0,
       "used_sources": {
-        "mesimvria_greek_cinema": 90,
-        "cyta": 17
+        "mesimvria_greek_cinema": 91,
+        "cyta": 16
       },
       "overlapping_or_duplicate_dropped": {
-        "cyta": 90
+        "cyta": 91
       },
       "coverage_ratio": 1.0,
       "max_gap_hours": 0.0,
@@ -5632,7 +5694,8 @@
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "cyta": 17
+            "cyta": 16,
+            "mesimvria_greek_cinema": 1
           }
         },
         "2026-10-26": {
@@ -5640,8 +5703,7 @@
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "cyta": 1,
-            "mesimvria_greek_cinema": 15
+            "mesimvria_greek_cinema": 16
           }
         },
         "2026-10-27": {
@@ -5673,6 +5735,7 @@
     },
     "hgtv.cy": {
       "programmes": 258,
+      "programmes_with_images": 0,
       "used_sources": {
         "cyta": 258
       },
@@ -5746,6 +5809,7 @@
     },
     "hightv.gr": {
       "programmes": 143,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 143
       },
@@ -5817,6 +5881,7 @@
     },
     "history.gr": {
       "programmes": 228,
+      "programmes_with_images": 228,
       "used_sources": {
         "nova": 228
       },
@@ -5891,6 +5956,7 @@
     },
     "idjkids.gr": {
       "programmes": 169,
+      "programmes_with_images": 169,
       "used_sources": {
         "nova": 169
       },
@@ -5962,6 +6028,7 @@
     },
     "inplus.gr": {
       "programmes": 234,
+      "programmes_with_images": 233,
       "used_sources": {
         "nova": 234
       },
@@ -6032,13 +6099,14 @@
       "coverage_status": "complete"
     },
     "insighttv.cy": {
-      "programmes": 212,
+      "programmes": 234,
+      "programmes_with_images": 0,
       "used_sources": {
-        "cyta": 212
+        "cyta": 234
       },
       "overlapping_or_duplicate_dropped": {},
-      "coverage_ratio": 0.9962,
-      "max_gap_hours": 0.65,
+      "coverage_ratio": 0.9932,
+      "max_gap_hours": 1.15,
       "coverage_required": false,
       "collection_started_on": "2026-10-13",
       "history_collection_started_on": "2026-10-21",
@@ -6069,34 +6137,34 @@
         },
         "2026-10-26": {
           "programmes": 26,
-          "coverage_ratio": 0.9792,
-          "max_gap_hours": 0.5,
+          "coverage_ratio": 0.9583,
+          "max_gap_hours": 1.0,
           "sources": {
             "cyta": 26
           }
         },
         "2026-10-27": {
-          "programmes": 27,
+          "programmes": 39,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "cyta": 27
+            "cyta": 39
           }
         },
         "2026-10-28": {
-          "programmes": 27,
+          "programmes": 31,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "cyta": 27
+            "cyta": 31
           }
         },
         "2026-10-29": {
-          "programmes": 27,
+          "programmes": 32,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "cyta": 27
+            "cyta": 32
           }
         }
       },
@@ -6104,6 +6172,7 @@
     },
     "investigationdiscovery.cy": {
       "programmes": 174,
+      "programmes_with_images": 0,
       "used_sources": {
         "cyta": 174
       },
@@ -6177,6 +6246,7 @@
     },
     "ionian.gr": {
       "programmes": 159,
+      "programmes_with_images": 74,
       "used_sources": {
         "digea": 159
       },
@@ -6250,6 +6320,7 @@
     },
     "irida.gr": {
       "programmes": 28,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 28
       },
@@ -6321,6 +6392,7 @@
     },
     "keedoo.gr": {
       "programmes": 333,
+      "programmes_with_images": 235,
       "used_sources": {
         "digea": 333
       },
@@ -6395,6 +6467,7 @@
     },
     "kontra.gr": {
       "programmes": 61,
+      "programmes_with_images": 25,
       "used_sources": {
         "digea": 61
       },
@@ -6469,6 +6542,7 @@
     },
     "kostv.gr": {
       "programmes": 28,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 28
       },
@@ -6540,6 +6614,7 @@
     },
     "krititv.gr": {
       "programmes": 176,
+      "programmes_with_images": 69,
       "used_sources": {
         "digea": 176
       },
@@ -6614,6 +6689,7 @@
     },
     "kriti1.gr": {
       "programmes": 28,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 28
       },
@@ -6685,6 +6761,7 @@
     },
     "lepanto.gr": {
       "programmes": 127,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 127
       },
@@ -6755,9 +6832,10 @@
       "coverage_status": "complete"
     },
     "lfctv.cy": {
-      "programmes": 227,
+      "programmes": 226,
+      "programmes_with_images": 0,
       "used_sources": {
-        "cyta": 227
+        "cyta": 226
       },
       "overlapping_or_duplicate_dropped": {},
       "coverage_ratio": 1.0,
@@ -6799,11 +6877,11 @@
           }
         },
         "2026-10-27": {
-          "programmes": 39,
+          "programmes": 38,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "cyta": 39
+            "cyta": 38
           }
         },
         "2026-10-28": {
@@ -6827,6 +6905,7 @@
     },
     "luxetv.gr": {
       "programmes": 345,
+      "programmes_with_images": 345,
       "used_sources": {
         "magentatv": 345
       },
@@ -6898,6 +6977,7 @@
     },
     "mad.gr": {
       "programmes": 133,
+      "programmes_with_images": 131,
       "used_sources": {
         "digea": 133
       },
@@ -6972,6 +7052,7 @@
     },
     "mad.cy": {
       "programmes": 338,
+      "programmes_with_images": 0,
       "used_sources": {
         "cyta": 338
       },
@@ -7045,6 +7126,7 @@
     },
     "madgreekz.gr": {
       "programmes": 126,
+      "programmes_with_images": 126,
       "used_sources": {
         "nova": 126
       },
@@ -7119,6 +7201,7 @@
     },
     "madrewind.gr": {
       "programmes": 154,
+      "programmes_with_images": 154,
       "used_sources": {
         "magentatv": 154
       },
@@ -7190,6 +7273,7 @@
     },
     "madvibes.gr": {
       "programmes": 140,
+      "programmes_with_images": 140,
       "used_sources": {
         "magentatv": 140
       },
@@ -7261,6 +7345,7 @@
     },
     "madviral.gr": {
       "programmes": 161,
+      "programmes_with_images": 161,
       "used_sources": {
         "magentatv": 161
       },
@@ -7335,6 +7420,7 @@
     },
     "magenta_sport_highlights.gr": {
       "programmes": 43,
+      "programmes_with_images": 43,
       "used_sources": {
         "magentatv": 43
       },
@@ -7406,6 +7492,7 @@
     },
     "magenta_sport_league1.gr": {
       "programmes": 87,
+      "programmes_with_images": 87,
       "used_sources": {
         "magentatv": 87
       },
@@ -7441,6 +7528,14 @@
           }
         },
         "2026-10-26": {
+          "programmes": 14,
+          "coverage_ratio": 1.0,
+          "max_gap_hours": 0.0,
+          "sources": {
+            "magentatv": 14
+          }
+        },
+        "2026-10-27": {
           "programmes": 13,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
@@ -7448,20 +7543,12 @@
             "magentatv": 13
           }
         },
-        "2026-10-27": {
-          "programmes": 12,
-          "coverage_ratio": 1.0,
-          "max_gap_hours": 0.0,
-          "sources": {
-            "magentatv": 12
-          }
-        },
         "2026-10-28": {
-          "programmes": 12,
+          "programmes": 13,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "magentatv": 12
+            "magentatv": 13
           }
         },
         "2026-10-29": {
@@ -7477,6 +7564,7 @@
     },
     "magenta_sport_league2.gr": {
       "programmes": 65,
+      "programmes_with_images": 65,
       "used_sources": {
         "magentatv": 65
       },
@@ -7548,6 +7636,7 @@
     },
     "magenta_sport_league3.gr": {
       "programmes": 93,
+      "programmes_with_images": 93,
       "used_sources": {
         "magentatv": 93
       },
@@ -7599,11 +7688,11 @@
           }
         },
         "2026-10-28": {
-          "programmes": 14,
+          "programmes": 13,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "magentatv": 14
+            "magentatv": 13
           }
         },
         "2026-10-29": {
@@ -7619,6 +7708,7 @@
     },
     "magenta_sport_league4.gr": {
       "programmes": 66,
+      "programmes_with_images": 66,
       "used_sources": {
         "magentatv": 66
       },
@@ -7690,6 +7780,7 @@
     },
     "magentacinema007.gr": {
       "programmes": 73,
+      "programmes_with_images": 73,
       "used_sources": {
         "magentatv": 73
       },
@@ -7761,6 +7852,7 @@
     },
     "magentacinema1.gr": {
       "programmes": 103,
+      "programmes_with_images": 103,
       "used_sources": {
         "magentatv": 103
       },
@@ -7832,6 +7924,7 @@
     },
     "magentacinema2.gr": {
       "programmes": 101,
+      "programmes_with_images": 101,
       "used_sources": {
         "magentatv": 101
       },
@@ -7903,6 +7996,7 @@
     },
     "magentacinema3.gr": {
       "programmes": 107,
+      "programmes_with_images": 107,
       "used_sources": {
         "magentatv": 107
       },
@@ -7974,6 +8068,7 @@
     },
     "magentahistory.gr": {
       "programmes": 187,
+      "programmes_with_images": 187,
       "used_sources": {
         "magentatv": 187
       },
@@ -8045,6 +8140,7 @@
     },
     "magentaseries1.gr": {
       "programmes": 163,
+      "programmes_with_images": 163,
       "used_sources": {
         "magentatv": 163
       },
@@ -8116,6 +8212,7 @@
     },
     "magentaseries2.gr": {
       "programmes": 89,
+      "programmes_with_images": 89,
       "used_sources": {
         "magentatv": 89
       },
@@ -8187,6 +8284,7 @@
     },
     "magentasport1.gr": {
       "programmes": 110,
+      "programmes_with_images": 110,
       "used_sources": {
         "magentatv": 110
       },
@@ -8258,6 +8356,7 @@
     },
     "magentasport2.gr": {
       "programmes": 102,
+      "programmes_with_images": 102,
       "used_sources": {
         "magentatv": 102
       },
@@ -8329,6 +8428,7 @@
     },
     "magentasport3.gr": {
       "programmes": 105,
+      "programmes_with_images": 105,
       "used_sources": {
         "magentatv": 105
       },
@@ -8400,6 +8500,7 @@
     },
     "magentasport4.gr": {
       "programmes": 104,
+      "programmes_with_images": 104,
       "used_sources": {
         "magentatv": 104
       },
@@ -8471,6 +8572,7 @@
     },
     "magentasport4k.gr": {
       "programmes": 90,
+      "programmes_with_images": 90,
       "used_sources": {
         "magentatv": 90
       },
@@ -8542,11 +8644,12 @@
     },
     "magentasport5.gr": {
       "programmes": 173,
+      "programmes_with_images": 173,
       "used_sources": {
         "magentatv": 173
       },
       "overlapping_or_duplicate_dropped": {
-        "nova": 169
+        "nova": 171
       },
       "coverage_ratio": 1.0,
       "max_gap_hours": 0.0,
@@ -8613,6 +8716,7 @@
     },
     "magentasport6.gr": {
       "programmes": 88,
+      "programmes_with_images": 88,
       "used_sources": {
         "magentatv": 88
       },
@@ -8684,6 +8788,7 @@
     },
     "magentasport7.gr": {
       "programmes": 94,
+      "programmes_with_images": 94,
       "used_sources": {
         "magentatv": 94
       },
@@ -8755,6 +8860,7 @@
     },
     "magentasport8.gr": {
       "programmes": 89,
+      "programmes_with_images": 89,
       "used_sources": {
         "magentatv": 89
       },
@@ -8826,6 +8932,7 @@
     },
     "magentasport9.gr": {
       "programmes": 88,
+      "programmes_with_images": 88,
       "used_sources": {
         "magentatv": 88
       },
@@ -8896,9 +9003,10 @@
       "coverage_status": "complete"
     },
     "magentasportstart.gr": {
-      "programmes": 123,
+      "programmes": 119,
+      "programmes_with_images": 119,
       "used_sources": {
-        "magentatv": 123
+        "magentatv": 119
       },
       "overlapping_or_duplicate_dropped": {},
       "coverage_ratio": 1.0,
@@ -8932,19 +9040,19 @@
           }
         },
         "2026-10-26": {
-          "programmes": 14,
+          "programmes": 13,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "magentatv": 14
+            "magentatv": 13
           }
         },
         "2026-10-27": {
-          "programmes": 23,
+          "programmes": 22,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "magentatv": 23
+            "magentatv": 22
           }
         },
         "2026-10-28": {
@@ -8956,11 +9064,11 @@
           }
         },
         "2026-10-29": {
-          "programmes": 21,
+          "programmes": 19,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "magentatv": 21
+            "magentatv": 19
           }
         }
       },
@@ -8968,6 +9076,7 @@
     },
     "makedonia.gr": {
       "programmes": 188,
+      "programmes_with_images": 29,
       "used_sources": {
         "antenna": 188
       },
@@ -9041,6 +9150,7 @@
     },
     "mutv.cy": {
       "programmes": 29,
+      "programmes_with_images": 0,
       "used_sources": {
         "cyta": 29
       },
@@ -9112,6 +9222,7 @@
     },
     "marqueetv.gr": {
       "programmes": 129,
+      "programmes_with_images": 129,
       "used_sources": {
         "nova": 129
       },
@@ -9183,6 +9294,7 @@
     },
     "mega.gr": {
       "programmes": 139,
+      "programmes_with_images": 135,
       "used_sources": {
         "mega": 137,
         "digea": 2
@@ -9258,6 +9370,7 @@
     },
     "meganews.gr": {
       "programmes": 155,
+      "programmes_with_images": 155,
       "used_sources": {
         "magentatv": 155
       },
@@ -9331,6 +9444,7 @@
     },
     "mezzolive.gr": {
       "programmes": 122,
+      "programmes_with_images": 122,
       "used_sources": {
         "magentatv": 122
       },
@@ -9404,6 +9518,7 @@
     },
     "motorvisionplus.gr": {
       "programmes": 298,
+      "programmes_with_images": 298,
       "used_sources": {
         "magentatv": 298
       },
@@ -9478,6 +9593,7 @@
     },
     "moviesbest.cy": {
       "programmes": 92,
+      "programmes_with_images": 0,
       "used_sources": {
         "mesimvria_movies": 77,
         "cyta": 15
@@ -9553,6 +9669,7 @@
     },
     "museumtv.gr": {
       "programmes": 233,
+      "programmes_with_images": 233,
       "used_sources": {
         "magentatv": 233
       },
@@ -9624,6 +9741,7 @@
     },
     "myzentv.gr": {
       "programmes": 227,
+      "programmes_with_images": 227,
       "used_sources": {
         "magentatv": 227
       },
@@ -9697,6 +9815,7 @@
     },
     "naftemporiki.gr": {
       "programmes": 142,
+      "programmes_with_images": 84,
       "used_sources": {
         "digea": 142
       },
@@ -9771,6 +9890,7 @@
     },
     "natgeowild.gr": {
       "programmes": 239,
+      "programmes_with_images": 212,
       "used_sources": {
         "natgeowild": 239
       },
@@ -9847,6 +9967,7 @@
     },
     "nationalgeographic.gr": {
       "programmes": 228,
+      "programmes_with_images": 190,
       "used_sources": {
         "natgeo": 220,
         "magentatv": 8
@@ -9927,6 +10048,7 @@
     },
     "nauticalchannel.gr": {
       "programmes": 318,
+      "programmes_with_images": 318,
       "used_sources": {
         "magentatv": 318
       },
@@ -9997,12 +10119,13 @@
       "coverage_status": "complete"
     },
     "neatileorasikritis.gr": {
-      "programmes": 166,
+      "programmes": 179,
+      "programmes_with_images": 37,
       "used_sources": {
-        "digea": 166
+        "digea": 179
       },
       "overlapping_or_duplicate_dropped": {
-        "magentatv": 97
+        "magentatv": 128
       },
       "coverage_ratio": 1.0,
       "max_gap_hours": 0.0,
@@ -10035,35 +10158,35 @@
           }
         },
         "2026-10-26": {
-          "programmes": 23,
+          "programmes": 26,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "digea": 23
+            "digea": 26
           }
         },
         "2026-10-27": {
-          "programmes": 24,
+          "programmes": 25,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "digea": 24
+            "digea": 25
           }
         },
         "2026-10-28": {
-          "programmes": 23,
+          "programmes": 28,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "digea": 23
+            "digea": 28
           }
         },
         "2026-10-29": {
-          "programmes": 24,
+          "programmes": 28,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "digea": 24
+            "digea": 28
           }
         }
       },
@@ -10071,6 +10194,7 @@
     },
     "notostv.gr": {
       "programmes": 146,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 146
       },
@@ -10142,6 +10266,7 @@
     },
     "novacinema1.gr": {
       "programmes": 103,
+      "programmes_with_images": 103,
       "used_sources": {
         "nova": 103
       },
@@ -10214,6 +10339,7 @@
     },
     "novacinema2.gr": {
       "programmes": 92,
+      "programmes_with_images": 92,
       "used_sources": {
         "nova": 92
       },
@@ -10286,6 +10412,7 @@
     },
     "novacinema3.gr": {
       "programmes": 73,
+      "programmes_with_images": 73,
       "used_sources": {
         "nova": 73
       },
@@ -10358,6 +10485,7 @@
     },
     "novacinema4.gr": {
       "programmes": 119,
+      "programmes_with_images": 119,
       "used_sources": {
         "nova": 119
       },
@@ -10430,6 +10558,7 @@
     },
     "novalife.gr": {
       "programmes": 114,
+      "programmes_with_images": 114,
       "used_sources": {
         "nova": 114
       },
@@ -10503,6 +10632,7 @@
     },
     "novasports1.gr": {
       "programmes": 63,
+      "programmes_with_images": 63,
       "used_sources": {
         "nova": 63
       },
@@ -10574,6 +10704,7 @@
     },
     "novasports2.gr": {
       "programmes": 76,
+      "programmes_with_images": 76,
       "used_sources": {
         "nova": 76
       },
@@ -10647,6 +10778,7 @@
     },
     "novasports3.gr": {
       "programmes": 63,
+      "programmes_with_images": 63,
       "used_sources": {
         "nova": 63
       },
@@ -10720,6 +10852,7 @@
     },
     "novasports4.gr": {
       "programmes": 64,
+      "programmes_with_images": 64,
       "used_sources": {
         "nova": 64
       },
@@ -10793,6 +10926,7 @@
     },
     "novasports5.gr": {
       "programmes": 60,
+      "programmes_with_images": 60,
       "used_sources": {
         "nova": 60
       },
@@ -10866,12 +11000,13 @@
     },
     "novasports6.gr": {
       "programmes": 67,
+      "programmes_with_images": 67,
       "used_sources": {
         "nova": 67
       },
       "overlapping_or_duplicate_dropped": {
         "magentatv": 81,
-        "cyta": 67,
+        "cyta": 68,
         "cablenet": 58
       },
       "coverage_ratio": 1.0,
@@ -10939,13 +11074,14 @@
     },
     "novasportsextra1.gr": {
       "programmes": 28,
+      "programmes_with_images": 28,
       "used_sources": {
         "nova": 28
       },
       "overlapping_or_duplicate_dropped": {
         "magentatv": 58,
         "cyta": 28,
-        "cablenet": 16
+        "cablenet": 17
       },
       "coverage_ratio": 1.0,
       "max_gap_hours": 0.0,
@@ -11012,13 +11148,14 @@
     },
     "novasportsextra2.gr": {
       "programmes": 28,
+      "programmes_with_images": 28,
       "used_sources": {
         "nova": 28
       },
       "overlapping_or_duplicate_dropped": {
         "magentatv": 58,
         "cyta": 28,
-        "cablenet": 16
+        "cablenet": 17
       },
       "coverage_ratio": 1.0,
       "max_gap_hours": 0.0,
@@ -11085,13 +11222,14 @@
     },
     "novasportsextra3.gr": {
       "programmes": 28,
+      "programmes_with_images": 28,
       "used_sources": {
         "nova": 28
       },
       "overlapping_or_duplicate_dropped": {
         "magentatv": 58,
         "cyta": 28,
-        "cablenet": 16
+        "cablenet": 17
       },
       "coverage_ratio": 1.0,
       "max_gap_hours": 0.0,
@@ -11158,6 +11296,7 @@
     },
     "novasportsextra4.gr": {
       "programmes": 43,
+      "programmes_with_images": 0,
       "used_sources": {
         "nova": 39,
         "cyta": 4
@@ -11165,7 +11304,7 @@
       "overlapping_or_duplicate_dropped": {
         "magentatv": 45,
         "cyta": 24,
-        "cablenet": 16
+        "cablenet": 17
       },
       "coverage_ratio": 1.0,
       "max_gap_hours": 0.0,
@@ -11232,6 +11371,7 @@
     },
     "novasportsnews.gr": {
       "programmes": 22,
+      "programmes_with_images": 22,
       "used_sources": {
         "nova": 22
       },
@@ -11303,6 +11443,7 @@
     },
     "novasportspremierleague.gr": {
       "programmes": 92,
+      "programmes_with_images": 92,
       "used_sources": {
         "nova": 92
       },
@@ -11374,6 +11515,7 @@
     },
     "novasportsprime.gr": {
       "programmes": 83,
+      "programmes_with_images": 83,
       "used_sources": {
         "nova": 83
       },
@@ -11447,6 +11589,7 @@
     },
     "novasportsstart.gr": {
       "programmes": 88,
+      "programmes_with_images": 88,
       "used_sources": {
         "nova": 88
       },
@@ -11520,6 +11663,7 @@
     },
     "nr1.gr": {
       "programmes": 64,
+      "programmes_with_images": 64,
       "used_sources": {
         "nova": 64
       },
@@ -11591,6 +11735,7 @@
     },
     "osiosnikanor.gr": {
       "programmes": 218,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 218
       },
@@ -11662,6 +11807,7 @@
     },
     "ohjazz.gr": {
       "programmes": 108,
+      "programmes_with_images": 100,
       "used_sources": {
         "nova": 108
       },
@@ -11733,6 +11879,7 @@
     },
     "omega.cy": {
       "programmes": 127,
+      "programmes_with_images": 0,
       "used_sources": {
         "cablenet": 114,
         "cyta": 13
@@ -11813,12 +11960,13 @@
       "coverage_status": "complete"
     },
     "omonoiatv.cy": {
-      "programmes": 137,
+      "programmes": 135,
+      "programmes_with_images": 0,
       "used_sources": {
-        "cyta": 137
+        "cyta": 135
       },
       "overlapping_or_duplicate_dropped": {
-        "cablenet": 61
+        "cablenet": 62
       },
       "coverage_ratio": 1.0,
       "max_gap_hours": 0.0,
@@ -11867,11 +12015,11 @@
           }
         },
         "2026-10-28": {
-          "programmes": 21,
+          "programmes": 19,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "cyta": 21
+            "cyta": 19
           }
         },
         "2026-10-29": {
@@ -11887,6 +12035,7 @@
     },
     "onechannel.gr": {
       "programmes": 136,
+      "programmes_with_images": 77,
       "used_sources": {
         "digea": 136
       },
@@ -11961,6 +12110,7 @@
     },
     "onechannel.cy": {
       "programmes": 64,
+      "programmes_with_images": 0,
       "used_sources": {
         "cablenet": 64
       },
@@ -12032,6 +12182,7 @@
     },
     "openbeyond.gr": {
       "programmes": 116,
+      "programmes_with_images": 90,
       "used_sources": {
         "open": 114,
         "digea": 2
@@ -12039,7 +12190,7 @@
       "overlapping_or_duplicate_dropped": {
         "digea": 114,
         "magentatv": 115,
-        "nova": 115
+        "nova": 116
       },
       "coverage_ratio": 1.0,
       "max_gap_hours": 0.0,
@@ -12107,6 +12258,7 @@
     },
     "padeltime.gr": {
       "programmes": 1494,
+      "programmes_with_images": 0,
       "used_sources": {
         "antenna": 1494
       },
@@ -12178,6 +12330,7 @@
     },
     "paniktv.gr": {
       "programmes": 63,
+      "programmes_with_images": 63,
       "used_sources": {
         "magentatv": 63
       },
@@ -12249,6 +12402,7 @@
     },
     "plus.cy": {
       "programmes": 174,
+      "programmes_with_images": 0,
       "used_sources": {
         "cyta": 174
       },
@@ -12322,6 +12476,7 @@
     },
     "pontostv.gr": {
       "programmes": 199,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 199
       },
@@ -12393,6 +12548,7 @@
     },
     "cytavisionsportspl.cy": {
       "programmes": 215,
+      "programmes_with_images": 0,
       "used_sources": {
         "cyta": 215
       },
@@ -12464,6 +12620,7 @@
     },
     "protvint.cy": {
       "programmes": 148,
+      "programmes_with_images": 0,
       "used_sources": {
         "cablenet": 148
       },
@@ -12534,13 +12691,14 @@
       "coverage_status": "complete"
     },
     "realmadridtv.cy": {
-      "programmes": 68,
+      "programmes": 122,
+      "programmes_with_images": 0,
       "used_sources": {
-        "cyta": 68
+        "cyta": 122
       },
       "overlapping_or_duplicate_dropped": {},
-      "coverage_ratio": 0.5985,
-      "max_gap_hours": 66.0,
+      "coverage_ratio": 0.9891,
+      "max_gap_hours": 1.85,
       "coverage_required": false,
       "collection_started_on": "2026-10-13",
       "history_collection_started_on": "2026-10-21",
@@ -12570,38 +12728,43 @@
           }
         },
         "2026-10-26": {
-          "programmes": 8,
+          "programmes": 20,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "cyta": 8
+            "cyta": 20
           }
         },
         "2026-10-27": {
-          "programmes": 1,
-          "coverage_ratio": 0.25,
-          "max_gap_hours": 18.0,
+          "programmes": 19,
+          "coverage_ratio": 1.0,
+          "max_gap_hours": 0.0,
           "sources": {
-            "cyta": 1
+            "cyta": 19
           }
         },
         "2026-10-28": {
-          "programmes": 0,
-          "coverage_ratio": 0.0,
-          "max_gap_hours": 24.0,
-          "sources": {}
+          "programmes": 18,
+          "coverage_ratio": 1.0,
+          "max_gap_hours": 0.0,
+          "sources": {
+            "cyta": 18
+          }
         },
         "2026-10-29": {
-          "programmes": 0,
-          "coverage_ratio": 0.0,
-          "max_gap_hours": 24.0,
-          "sources": {}
+          "programmes": 7,
+          "coverage_ratio": 1.0,
+          "max_gap_hours": 0.0,
+          "sources": {
+            "cyta": 7
+          }
         }
       },
-      "coverage_status": "incomplete"
+      "coverage_status": "complete"
     },
     "rikhd.cy": {
       "programmes": 161,
+      "programmes_with_images": 0,
       "used_sources": {
         "cyta": 161
       },
@@ -12675,6 +12838,7 @@
     },
     "rik1.cy": {
       "programmes": 160,
+      "programmes_with_images": 69,
       "used_sources": {
         "cyta": 7,
         "rik": 153
@@ -12756,6 +12920,7 @@
     },
     "rik2.cy": {
       "programmes": 145,
+      "programmes_with_images": 5,
       "used_sources": {
         "rik": 136,
         "cyta": 9
@@ -12836,6 +13001,7 @@
     },
     "riksat.gr": {
       "programmes": 157,
+      "programmes_with_images": 73,
       "used_sources": {
         "rik": 157
       },
@@ -12909,6 +13075,7 @@
     },
     "risetv.gr": {
       "programmes": 307,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 307
       },
@@ -12980,6 +13147,7 @@
     },
     "sigma.cy": {
       "programmes": 127,
+      "programmes_with_images": 0,
       "used_sources": {
         "cyta": 127
       },
@@ -13054,6 +13222,7 @@
     },
     "sitiatv.gr": {
       "programmes": 174,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 174
       },
@@ -13124,9 +13293,10 @@
       "coverage_status": "complete"
     },
     "skai.gr": {
-      "programmes": 109,
+      "programmes": 110,
+      "programmes_with_images": 108,
       "used_sources": {
-        "skai": 109
+        "skai": 110
       },
       "overlapping_or_duplicate_dropped": {
         "digea": 107,
@@ -13170,11 +13340,11 @@
           }
         },
         "2026-10-27": {
-          "programmes": 17,
+          "programmes": 18,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "skai": 17
+            "skai": 18
           }
         },
         "2026-10-28": {
@@ -13198,6 +13368,7 @@
     },
     "smileplus.gr": {
       "programmes": 336,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 336
       },
@@ -13269,6 +13440,7 @@
     },
     "smiletv.gr": {
       "programmes": 336,
+      "programmes_with_images": 336,
       "used_sources": {
         "magentatv": 336
       },
@@ -13342,6 +13514,7 @@
     },
     "smiletv.cy": {
       "programmes": 129,
+      "programmes_with_images": 0,
       "used_sources": {
         "cablenet": 114,
         "cyta": 15
@@ -13423,6 +13596,7 @@
     },
     "smile_thrakis.gr": {
       "programmes": 336,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 336
       },
@@ -13493,13 +13667,14 @@
       "coverage_status": "complete"
     },
     "sportfmtv1.gr": {
-      "programmes": 60,
+      "programmes": 89,
+      "programmes_with_images": 0,
       "used_sources": {
-        "sportfmtv": 60
+        "sportfmtv": 89
       },
       "overlapping_or_duplicate_dropped": {},
-      "coverage_ratio": 0.6805,
-      "max_gap_hours": 19.5,
+      "coverage_ratio": 1.0,
+      "max_gap_hours": 0.0,
       "coverage_required": false,
       "schedule_mode": "events",
       "off_air": false,
@@ -13543,29 +13718,29 @@
           "off_air": false
         },
         "2026-10-27": {
-          "programmes": 5,
-          "coverage_ratio": 0.375,
-          "max_gap_hours": 10.5,
+          "programmes": 13,
+          "coverage_ratio": 1.0,
+          "max_gap_hours": 0.0,
           "sources": {
-            "sportfmtv": 5
+            "sportfmtv": 13
           },
           "off_air": false
         },
         "2026-10-28": {
-          "programmes": 4,
-          "coverage_ratio": 0.2917,
-          "max_gap_hours": 15.0,
+          "programmes": 15,
+          "coverage_ratio": 1.0,
+          "max_gap_hours": 0.0,
           "sources": {
-            "sportfmtv": 4
+            "sportfmtv": 15
           },
           "off_air": false
         },
         "2026-10-29": {
-          "programmes": 1,
-          "coverage_ratio": 0.0833,
-          "max_gap_hours": 18.0,
+          "programmes": 13,
+          "coverage_ratio": 1.0,
+          "max_gap_hours": 0.0,
           "sources": {
-            "sportfmtv": 1
+            "sportfmtv": 13
           },
           "off_air": false
         }
@@ -13574,6 +13749,7 @@
     },
     "sportfmtv2.gr": {
       "programmes": 6,
+      "programmes_with_images": 0,
       "used_sources": {
         "sportfmtv": 6
       },
@@ -13648,6 +13824,7 @@
     },
     "sportfmtv3.gr": {
       "programmes": 4,
+      "programmes_with_images": 0,
       "used_sources": {
         "sportfmtv": 4
       },
@@ -13720,6 +13897,7 @@
     },
     "sportfmtv4.gr": {
       "programmes": 2,
+      "programmes_with_images": 0,
       "used_sources": {
         "sportfmtv": 2
       },
@@ -13790,6 +13968,7 @@
     },
     "sportfmtv5.gr": {
       "programmes": 2,
+      "programmes_with_images": 0,
       "used_sources": {
         "sportfmtv": 2
       },
@@ -13860,6 +14039,7 @@
     },
     "ant1sports1.gr": {
       "programmes": 101,
+      "programmes_with_images": 0,
       "used_sources": {
         "antenna": 101
       },
@@ -13931,6 +14111,7 @@
     },
     "ant1sports2.gr": {
       "programmes": 78,
+      "programmes_with_images": 0,
       "used_sources": {
         "antenna": 78
       },
@@ -14002,6 +14183,7 @@
     },
     "ant1sports3.gr": {
       "programmes": 15,
+      "programmes_with_images": 0,
       "used_sources": {
         "antenna": 15
       },
@@ -14073,11 +14255,12 @@
     },
     "star.gr": {
       "programmes": 139,
+      "programmes_with_images": 131,
       "used_sources": {
         "star": 139
       },
       "overlapping_or_duplicate_dropped": {
-        "digea": 130,
+        "digea": 132,
         "magentatv": 133,
         "nova": 133
       },
@@ -14146,12 +14329,13 @@
     },
     "star_kentrikis_elladas.gr": {
       "programmes": 187,
+      "programmes_with_images": 128,
       "used_sources": {
         "digea": 187
       },
       "overlapping_or_duplicate_dropped": {
         "magentatv": 188,
-        "nova": 183
+        "nova": 188
       },
       "coverage_ratio": 1.0,
       "max_gap_hours": 0.0,
@@ -14220,6 +14404,7 @@
     },
     "star_voreiou_ellados.gr": {
       "programmes": 117,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 117
       },
@@ -14291,6 +14476,7 @@
     },
     "stingraycmusic.gr": {
       "programmes": 112,
+      "programmes_with_images": 112,
       "used_sources": {
         "magentatv": 112
       },
@@ -14362,6 +14548,7 @@
     },
     "stingrayiconcerts.gr": {
       "programmes": 154,
+      "programmes_with_images": 154,
       "used_sources": {
         "magentatv": 154
       },
@@ -14433,6 +14620,7 @@
     },
     "super.gr": {
       "programmes": 28,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 28
       },
@@ -14504,6 +14692,7 @@
     },
     "syrostv1.gr": {
       "programmes": 113,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 113
       },
@@ -14575,11 +14764,12 @@
     },
     "tcm.gr": {
       "programmes": 85,
+      "programmes_with_images": 85,
       "used_sources": {
         "magentatv": 85
       },
       "overlapping_or_duplicate_dropped": {
-        "cyta": 85
+        "cyta": 84
       },
       "coverage_ratio": 1.0,
       "max_gap_hours": 0.0,
@@ -14648,6 +14838,7 @@
     },
     "tlc.gr": {
       "programmes": 226,
+      "programmes_with_images": 226,
       "used_sources": {
         "nova": 226
       },
@@ -14722,6 +14913,7 @@
     },
     "topchannel.gr": {
       "programmes": 97,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 97
       },
@@ -14793,6 +14985,7 @@
     },
     "travelchannel.gr": {
       "programmes": 166,
+      "programmes_with_images": 166,
       "used_sources": {
         "nova": 166
       },
@@ -14864,6 +15057,7 @@
     },
     "trt.gr": {
       "programmes": 148,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 148
       },
@@ -14935,6 +15129,7 @@
     },
     "tv100.gr": {
       "programmes": 207,
+      "programmes_with_images": 70,
       "used_sources": {
         "digea": 207
       },
@@ -15009,6 +15204,7 @@
     },
     "tvcreta.gr": {
       "programmes": 176,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 176
       },
@@ -15080,6 +15276,7 @@
     },
     "tvkosmos.gr": {
       "programmes": 91,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 91
       },
@@ -15151,6 +15348,7 @@
     },
     "tvp.cy": {
       "programmes": 275,
+      "programmes_with_images": 0,
       "used_sources": {
         "cablenet": 275
       },
@@ -15222,6 +15420,7 @@
     },
     "verginatv.gr": {
       "programmes": 331,
+      "programmes_with_images": 20,
       "used_sources": {
         "digea": 331
       },
@@ -15295,6 +15494,7 @@
     },
     "verginatv.cy": {
       "programmes": 151,
+      "programmes_with_images": 0,
       "used_sources": {
         "cyta": 151
       },
@@ -15368,6 +15568,7 @@
     },
     "viasatepicdrama.gr": {
       "programmes": 184,
+      "programmes_with_images": 184,
       "used_sources": {
         "nova": 184
       },
@@ -15439,6 +15640,7 @@
     },
     "viasatexplore.gr": {
       "programmes": 175,
+      "programmes_with_images": 175,
       "used_sources": {
         "magentatv": 175
       },
@@ -15512,6 +15714,7 @@
     },
     "viasathistory.gr": {
       "programmes": 157,
+      "programmes_with_images": 157,
       "used_sources": {
         "magentatv": 157
       },
@@ -15585,6 +15788,7 @@
     },
     "viasatnature.gr": {
       "programmes": 167,
+      "programmes_with_images": 167,
       "used_sources": {
         "magentatv": 167
       },
@@ -15658,6 +15862,7 @@
     },
     "viasattruecrime.gr": {
       "programmes": 172,
+      "programmes_with_images": 172,
       "used_sources": {
         "nova": 172
       },
@@ -15729,6 +15934,7 @@
     },
     "villagecinema.gr": {
       "programmes": 79,
+      "programmes_with_images": 79,
       "used_sources": {
         "magentatv": 79
       },
@@ -15800,6 +16006,7 @@
     },
     "volcano.gr": {
       "programmes": 28,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 28
       },
@@ -15871,6 +16078,7 @@
     },
     "vouli.gr": {
       "programmes": 106,
+      "programmes_with_images": 106,
       "used_sources": {
         "magentatv": 106
       },
@@ -15943,6 +16151,7 @@
     },
     "west.gr": {
       "programmes": 130,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 130
       },
@@ -16014,6 +16223,7 @@
     },
     "worldfashion.cy": {
       "programmes": 365,
+      "programmes_with_images": 0,
       "used_sources": {
         "cablenet": 365
       },
@@ -16081,6 +16291,7 @@
     },
     "yachtingtv.gr": {
       "programmes": 368,
+      "programmes_with_images": 368,
       "used_sources": {
         "nova": 368
       },
@@ -16152,6 +16363,7 @@
     },
     "art_peloponnisou.gr": {
       "programmes": 28,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 28
       },
@@ -16223,6 +16435,7 @@
     },
     "aigaio.gr": {
       "programmes": 149,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 149
       },
@@ -16294,6 +16507,7 @@
     },
     "alitheiatv.gr": {
       "programmes": 28,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 28
       },
@@ -16365,6 +16579,7 @@
     },
     "art_attikis.gr": {
       "programmes": 111,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 111
       },
@@ -16436,6 +16651,7 @@
     },
     "axeloos.gr": {
       "programmes": 28,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 28
       },
@@ -16507,6 +16723,7 @@
     },
     "vergina1.gr": {
       "programmes": 324,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 324
       },
@@ -16578,6 +16795,7 @@
     },
     "vima.gr": {
       "programmes": 28,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 28
       },
@@ -16649,6 +16867,7 @@
     },
     "delta.gr": {
       "programmes": 135,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 135
       },
@@ -16720,6 +16939,7 @@
     },
     "diktyotv.gr": {
       "programmes": 28,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 28
       },
@@ -16791,6 +17011,7 @@
     },
     "epiloges.gr": {
       "programmes": 28,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 28
       },
@@ -16862,6 +17083,7 @@
     },
     "ilektra.gr": {
       "programmes": 28,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 28
       },
@@ -16933,6 +17155,7 @@
     },
     "ipirostv1.gr": {
       "programmes": 118,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 118
       },
@@ -17004,6 +17227,7 @@
     },
     "tharri.gr": {
       "programmes": 28,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 28
       },
@@ -17074,9 +17298,10 @@
       "coverage_status": "complete"
     },
     "thessalia.gr": {
-      "programmes": 161,
+      "programmes": 159,
+      "programmes_with_images": 0,
       "used_sources": {
-        "digea": 161
+        "digea": 159
       },
       "overlapping_or_duplicate_dropped": {},
       "coverage_ratio": 1.0,
@@ -17126,11 +17351,11 @@
           }
         },
         "2026-10-28": {
-          "programmes": 24,
+          "programmes": 22,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "digea": 24
+            "digea": 22
           }
         },
         "2026-10-29": {
@@ -17146,6 +17371,7 @@
     },
     "thrakinet.gr": {
       "programmes": 110,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 110
       },
@@ -17217,6 +17443,7 @@
     },
     "itv.gr": {
       "programmes": 28,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 28
       },
@@ -17288,6 +17515,7 @@
     },
     "lydia.gr": {
       "programmes": 218,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 218
       },
@@ -17359,6 +17587,7 @@
     },
     "lychnos.gr": {
       "programmes": 28,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 28
       },
@@ -17430,6 +17659,7 @@
     },
     "mesogeios.gr": {
       "programmes": 106,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 106
       },
@@ -17501,6 +17731,7 @@
     },
     "orestiada.gr": {
       "programmes": 193,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 193
       },
@@ -17572,6 +17803,7 @@
     },
     "ort.gr": {
       "programmes": 28,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 28
       },
@@ -17643,6 +17875,7 @@
     },
     "patridatv.gr": {
       "programmes": 28,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 28
       },
@@ -17714,6 +17947,7 @@
     },
     "sat.gr": {
       "programmes": 28,
+      "programmes_with_images": 0,
       "used_sources": {
         "digea": 28
       },
