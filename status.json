@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-26T23:17:53.457427+00:00",
+  "generated_at": "2026-10-26T23:38:26.348190+00:00",
   "demo": false,
   "channels": 169,
-  "programmes": 23047,
-  "programmes_with_images": 16054,
+  "programmes": 23165,
+  "programmes_with_images": 16011,
   "window": {
     "start": "2026-10-24T00:00:00+03:00",
     "stop": "2026-10-31T00:00:00+02:00"
@@ -988,14 +988,14 @@
       "coverage_status": "complete"
     },
     "attica.gr": {
-      "programmes": 43,
-      "programmes_with_images": 43,
+      "programmes": 161,
+      "programmes_with_images": 0,
       "used_sources": {
-        "magentatv": 43
+        "digea": 161
       },
       "overlapping_or_duplicate_dropped": {
-        "nova": 37,
-        "digea": 161
+        "magentatv": 43,
+        "nova": 37
       },
       "coverage_ratio": 1.0,
       "max_gap_hours": 0.0,
@@ -1004,59 +1004,59 @@
       "history_collection_started_on": "2026-10-21",
       "coverage_by_date": {
         "2026-10-24": {
-          "programmes": 6,
+          "programmes": 27,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "magentatv": 6
+            "digea": 27
           }
         },
         "2026-10-25": {
-          "programmes": 7,
+          "programmes": 24,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "magentatv": 7
+            "digea": 24
           }
         },
         "2026-10-26": {
-          "programmes": 6,
+          "programmes": 22,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "magentatv": 6
+            "digea": 22
           }
         },
         "2026-10-27": {
-          "programmes": 6,
+          "programmes": 24,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "magentatv": 6
+            "digea": 24
           }
         },
         "2026-10-28": {
-          "programmes": 6,
+          "programmes": 25,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "magentatv": 6
+            "digea": 25
           }
         },
         "2026-10-29": {
-          "programmes": 6,
+          "programmes": 23,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "magentatv": 6
+            "digea": 23
           }
         },
         "2026-10-30": {
-          "programmes": 6,
+          "programmes": 22,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "magentatv": 6
+            "digea": 22
           }
         }
       },
