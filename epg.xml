@@ -84,6 +84,9 @@
   <channel id="cartoonnetwork.cy">
     <display-name lang="el">Cartoon Network</display-name>
   </channel>
+  <channel id="centertv.gr">
+    <display-name lang="el">CENTER TV</display-name>
+  </channel>
   <channel id="corfutv.gr">
     <display-name lang="el">CORFU TV</display-name>
   </channel>
@@ -747,47 +750,89 @@
     <category lang="el">Special</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/682/868/040007354712000800_1792432069462_L.jpg" />
   </programme>
-  <programme start="20261027123000 +0000" stop="20261027134500 +0000" channel="4e.gr">
+  <programme start="20261027123000 +0000" stop="20261027140000 +0000" channel="4e.gr">
     <title lang="el">Τηλεφημερίδα</title>
     <desc lang="el">Καθημερινή ενημέρωση για τα σημαντικότερα θέματα της επικαιρότητας. Με τον δημοσιογράφο Θανάση Κληματσίδα.</desc>
     <category lang="el">Εκπομπή</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/682/868/040035219112000800_1792432063841_L.jpg" />
   </programme>
-  <programme start="20261027134500 +0000" stop="20261027140000 +0000" channel="4e.gr">
+  <programme start="20261027140000 +0000" stop="20261027144000 +0000" channel="4e.gr">
+    <title lang="el">Παρακλητικός Κανόνας</title>
+    <desc lang="el">Ακολουθία της Εκκλησίας μας με ικετήριους και ευχαριστιακούς ύμνους στην Παναγία και τους Αγίους.</desc>
+    <category lang="el">Θρησκευτικό</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/680/916/040044357312000800_1792432031045_L.jpg" />
+  </programme>
+  <programme start="20261027144000 +0000" stop="20261027150000 +0000" channel="4e.gr">
     <title lang="el">Ο Πόλεμος του 1940 Μέσα από τον Φακό του Φωτορεπόρτερ Λάζαρου Ακερμανίδη</title>
     <desc lang="el">Ντοκιμαντέρ.</desc>
     <category lang="el">Ιστορικό - Πολεμικό</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/683/844/0400000042120008000000_1792432015828_L.jpg" />
   </programme>
-  <programme start="20261027140000 +0000" stop="20261027143000 +0000" channel="4e.gr">
+  <programme start="20261027150000 +0000" stop="20261027160000 +0000" channel="4e.gr">
+    <title lang="el">Προσανατολισμοί</title>
+    <desc lang="el">Επεισόδιο: Λόγος πανηγυρικός για την 28η Οκτωβρίου. Λόγος πανηγυρικός για την 28η Οκτωβρίου αφιερωμένος στους υπερασπιστές του υψώματος 731. Ομιλητής: Λάζαρος Κυρίζογλου, Δήμαρχος Αμπελοκήπων Μενεμένης.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/681/392/040006821512000800_1792431981801_L.jpg" />
+  </programme>
+  <programme start="20261027160000 +0000" stop="20261027163000 +0000" channel="4e.gr">
+    <title lang="el">Ακολουθία του Εσπερινού</title>
+    <desc lang="el">Ιερός Ναός Αγίας Λυδίας - Ασπροβάλτα Θεσσαλονίκης.</desc>
+    <category lang="el">Special</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/683/844/040007353912000800_1792431971221_L.jpg" />
+  </programme>
+  <programme start="20261027163000 +0000" stop="20261027170000 +0000" channel="4e.gr">
     <title lang="el">Σελίδες από το Μέτωπο</title>
     <desc lang="el">Διοργάνωση: Συνάξεις Νέων Ιερού Ναού Αγίου Μηνά Θεσσαλονίκης.</desc>
     <category lang="el">Θεματικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/547/576/040036249312000800_1793123181754_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/681/892/040036249312000800_1792432101065_L.jpg" />
   </programme>
-  <programme start="20261027143000 +0000" stop="20261027150000 +0000" channel="4e.gr">
+  <programme start="20261027170000 +0000" stop="20261027175500 +0000" channel="4e.gr">
+    <title lang="el">Αναμνήσεις</title>
+    <desc lang="el">(Στεργιάδης - Κωτόπουλος - Τσαρτσαρής).</desc>
+    <category lang="el">Θεματικό</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/683/844/040037930412000800_1792431976822_L.jpg" />
+  </programme>
+  <programme start="20261027175500 +0000" stop="20261027183000 +0000" channel="4e.gr">
+    <title lang="el">Ξεναγήσεις</title>
+    <desc lang="el">Επεισόδιο: Πολεμικό Μουσείο Αθήνας (Β' Μέρος). Η εκπομπή ξεναγεί τον τηλεθεατή στα μουσεία και στους αρχαιολογικούς χώρους της πατρίδας μας. Μουσεία αρχαιολογικά, λαογραφικά, φυσικής ιστορίας, μουσικών οργάνων κλπ αποτελούν αντικείμενο λεπτομερούς παρουσίασής τους από έμπειρους ξεναγούς.</desc>
+    <category lang="el">Τέχνες - Πολιτισμός</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/681/392/040007354812000800_1792432000716_L.jpg" />
+  </programme>
+  <programme start="20261027183000 +0000" stop="20261027190000 +0000" channel="4e.gr">
     <title lang="el">Θύμησες του 1940</title>
     <desc lang="el">Κωνσταντίνος Παγωνόπουλος.</desc>
     <category lang="el">Ιστορικό - Πολεμικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/549/28/040036261412000800_1793123182559_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/681/392/040036261412000800_1792432070169_L.jpg" />
   </programme>
-  <programme start="20261027150000 +0000" stop="20261027170000 +0000" channel="4e.gr">
+  <programme start="20261027190000 +0000" stop="20261027204500 +0000" channel="4e.gr">
     <title lang="el">Η Κυρά της Ρω</title>
     <desc lang="el">Α' Μέρος. Τηλεταινία.</desc>
     <category lang="el">Αληθινές Ιστορίες</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/682/868/040036268812000800_1792432072754_L.jpg" />
   </programme>
-  <programme start="20261027170000 +0000" stop="20261027230000 +0000" channel="4e.gr">
-    <title lang="el">Ιερά Αγρυπνία</title>
-    <desc lang="el">Επεισόδιο: Αγίας Άννας. Απευθείας μετάδοση από την Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου.</desc>
+  <programme start="20261027204500 +0000" stop="20261027210000 +0000" channel="4e.gr">
+    <title lang="el">Προσευχόμαστε Μαζί</title>
+    <desc lang="el">Κοινή προσευχή.</desc>
     <category lang="el">Θρησκευτικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/549/528/040039091712000800_1793123151998_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/681/892/040035219512000800_1792432032632_L.jpg" />
   </programme>
-  <programme start="20261027230000 +0000" stop="20261028000000 +0000" channel="4e.gr">
+  <programme start="20261027210000 +0000" stop="20261027214500 +0000" channel="4e.gr">
+    <title lang="el">Μικρό Απόδειπνο</title>
+    <desc lang="el">Ιερά Μονή Αγίας Τριάδος Σπαρμού Ολύμπου. Η βραδινή προσευχή της Εκκλησίας μας.</desc>
+    <category lang="el">Special</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/681/892/040007354512000800_1792432056444_L.jpg" />
+  </programme>
+  <programme start="20261027214500 +0000" stop="20261027230000 +0000" channel="4e.gr">
     <title lang="el">Τηλεφημερίδα</title>
     <desc lang="el">Καθημερινή ενημέρωση για τα σημαντικότερα θέματα της επικαιρότητας. Με τον δημοσιογράφο Θανάση Κληματσίδα.</desc>
     <category lang="el">Εκπομπή</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/547/76/040035219112000800_1793123090281_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/682/868/040035219112000800_1792432063841_L.jpg" />
+  </programme>
+  <programme start="20261027230000 +0000" stop="20261028000000 +0000" channel="4e.gr">
+    <title lang="el">Ξεναγήσεις</title>
+    <desc lang="el">Επεισόδιο: Έτσι πολεμήσαμε το 1940-41 (α' μέρος). Η εκπομπή ξεναγεί τον τηλεθεατή στα μουσεία και στους αρχαιολογικούς χώρους της πατρίδας μας. Μουσεία αρχαιολογικά, λαογραφικά, φυσικής ιστορίας, μουσικών οργάνων κλπ αποτελούν αντικείμενο λεπτομερούς παρουσίασής τους από έμπειρους ξεναγούς.</desc>
+    <category lang="el">Τέχνες - Πολιτισμός</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/681/392/040007354812000800_1792432000716_L.jpg" />
   </programme>
   <programme start="20261028000000 +0000" stop="20261028010000 +0000" channel="4e.gr">
     <title lang="el">Προσανατολισμοί</title>
@@ -814,10 +859,10 @@
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/682/868/040036268812000800_1792432072754_L.jpg" />
   </programme>
   <programme start="20261028043000 +0000" stop="20261028052000 +0000" channel="4e.gr">
-    <title lang="el">Ακολουθία της Λιτής</title>
+    <title lang="el">Ακολουθία του Μεσονυκτικού</title>
     <desc lang="el">Ιερά Μονή Αγίας Τριάδος - Σπαρμού Ολύμπου.</desc>
-    <category lang="el">Θρησκευτικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/547/576/040054155212000800_1793123199397_L.jpg" />
+    <category lang="el">Θεματικό</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/683/844/040035218312000800_1792431976172_L.jpg" />
   </programme>
   <programme start="20261028052000 +0000" stop="20261028053000 +0000" channel="4e.gr">
     <title lang="el">Εθνικός Ύμνος</title>
@@ -826,10 +871,10 @@
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/678/964/040035218912000800_1792432041160_L.jpg" />
   </programme>
   <programme start="20261028053000 +0000" stop="20261028083500 +0000" channel="4e.gr">
-    <title lang="el">Ευχαριστία Μετά τη Θεία Μετάληψη</title>
-    <desc lang="el">Ιερά Μονή Αγίας Τριάδος Σπαρμού, Ολύμπου.</desc>
-    <category lang="el">Θεματικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/547/76/040035219912000800_1793123031119_L.jpg" />
+    <title lang="el">Ακολουθία των Μεγάλων Ωρών - Θεία Λειτουργία Μ. Βασιλείου</title>
+    <desc lang="el">Ιερός Ναός Αγίου Παντελεήμονος - Αμπελόκηποι Θεσσαλονίκης.</desc>
+    <category lang="el">Θρησκευτικό</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/681/892/040038206212000800_1792432020894_L.jpg" />
   </programme>
   <programme start="20261028083500 +0000" stop="20261028085000 +0000" channel="4e.gr">
     <title lang="el">Ευχαριστία Μετά τη Θεία Μετάληψη</title>
@@ -928,10 +973,10 @@
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/681/892/040007354512000800_1792432056444_L.jpg" />
   </programme>
   <programme start="20261028214500 +0000" stop="20261029004500 +0000" channel="4e.gr">
-    <title lang="el">Ευχαριστία Μετά τη Θεία Μετάληψη</title>
-    <desc lang="el">Ιερά Μονή Αγίας Τριάδος Σπαρμού, Ολύμπου.</desc>
-    <category lang="el">Θεματικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/547/76/040035219912000800_1793123031119_L.jpg" />
+    <title lang="el">Ακολουθία των Μεγάλων Ωρών - Θεία Λειτουργία Μ. Βασιλείου</title>
+    <desc lang="el">Ιερός Ναός Αγίου Παντελεήμονος - Αμπελόκηποι Θεσσαλονίκης.</desc>
+    <category lang="el">Θρησκευτικό</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/681/892/040038206212000800_1792432020894_L.jpg" />
   </programme>
   <programme start="20261029004500 +0000" stop="20261029031500 +0000" channel="4e.gr">
     <title lang="el">Στρατιωτική Παρέλαση - Αεροπορική Επίδειξη</title>
@@ -1001,7 +1046,7 @@
   </programme>
   <programme start="20261029110000 +0000" stop="20261029120000 +0000" channel="4e.gr">
     <title lang="el">Ιατρική Ενημέρωση</title>
-    <desc lang="el">Νέα δεδομένα στην Ορθοπαιδική Χειρουργική - Καλεσμένος: Ηλίας Μπισμπίνας, Ορθοπαιδικός Χειρουργός, Διευθυντής Α' Ορθοπαιδικής Κλινικής 424 ΓΣΝΕ.</desc>
+    <desc lang="el">Εκπομπή.</desc>
     <category lang="el">Εκπομπή</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/194/4/040035224512000800_1792476570763_L.jpg" />
   </programme>
@@ -1067,9 +1112,9 @@
   </programme>
   <programme start="20261029173000 +0000" stop="20261029180000 +0000" channel="4e.gr">
     <title lang="el">Κοιτώντας Γύρω μας</title>
-    <desc lang="el">Επεισόδιο: Θεματικό πάρκο για τον Μ. Αλεξάνδρο. Με τον δημοσιογράφο Θανάση Κληματσίδα.</desc>
+    <desc lang="el">Ο πρώτος παγκοσμίως ζωολογικός κήπος χωρίς αιχμαλωσία. Με τον δημοσιογράφο Θανάση Κληματσίδα.</desc>
     <category lang="el">Συνέντευξη</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/550/4/040035226312000800_1793123187518_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/160/820/040035226312000800_1792476070955_L.jpg" />
   </programme>
   <programme start="20261029180000 +0000" stop="20261029190000 +0000" channel="4e.gr">
     <title lang="el">Πνευματική Οδοιπορία</title>
@@ -1079,7 +1124,7 @@
   </programme>
   <programme start="20261029190000 +0000" stop="20261029200000 +0000" channel="4e.gr">
     <title lang="el">Ξεναγήσεις</title>
-    <desc lang="el">Στο Σαλονίκη, στα χωριά. Η εκπομπή ξεναγεί τον τηλεθεατή στα μουσεία και στους αρχαιολογικούς χώρους της πατρίδας μας. Μουσεία αρχαιολογικά, λαογραφικά, φυσικής ιστορίας, μουσικών οργάνων κλπ αποτελούν αντικείμενο λεπτομερούς παρουσίασής τους από έμπειρους ξεναγούς.</desc>
+    <desc lang="el">Επεισόδιο: Έτσι πολεμήσαμε το 1940-41 (γ' μέρος). Η εκπομπή ξεναγεί τον τηλεθεατή στα μουσεία και στους αρχαιολογικούς χώρους της πατρίδας μας. Μουσεία αρχαιολογικά, λαογραφικά, φυσικής ιστορίας, μουσικών οργάνων κλπ αποτελούν αντικείμενο λεπτομερούς παρουσίασής τους από έμπειρους ξεναγούς.</desc>
     <category lang="el">Τέχνες - Πολιτισμός</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/180/840/040007354812000800_1792476490108_L.jpg" />
   </programme>
@@ -1133,7 +1178,7 @@
   </programme>
   <programme start="20261030021000 +0000" stop="20261030032000 +0000" channel="4e.gr">
     <title lang="el">Ιατρική Ενημέρωση</title>
-    <desc lang="el">Νέα δεδομένα στην Ορθοπαιδική Χειρουργική - Καλεσμένος: Ηλίας Μπισμπίνας, Ορθοπαιδικός Χειρουργός, Διευθυντής Α' Ορθοπαιδικής Κλινικής 424 ΓΣΝΕ.</desc>
+    <desc lang="el">Εκπομπή.</desc>
     <category lang="el">Εκπομπή</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/88/972/040035224512000800_1792563499342_L.jpg" />
   </programme>
@@ -1181,9 +1226,9 @@
   </programme>
   <programme start="20261030070000 +0000" stop="20261030073000 +0000" channel="4e.gr">
     <title lang="el">Κοιτώντας Γύρω μας</title>
-    <desc lang="el">Επεισόδιο: Θεματικό πάρκο για τον Μ. Αλεξάνδρο. Με τον δημοσιογράφο Θανάση Κληματσίδα.</desc>
+    <desc lang="el">Ο πρώτος παγκοσμίως ζωολογικός κήπος χωρίς αιχμαλωσία. Με τον δημοσιογράφο Θανάση Κληματσίδα.</desc>
     <category lang="el">Συνέντευξη</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/550/4/040035226312000800_1793123187518_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/105/564/040035226312000800_1792563741654_L.jpg" />
   </programme>
   <programme start="20261030073000 +0000" stop="20261030083000 +0000" channel="4e.gr">
     <title lang="el">Πνευματική Οδοιπορία</title>
@@ -1193,7 +1238,7 @@
   </programme>
   <programme start="20261030083000 +0000" stop="20261030093000 +0000" channel="4e.gr">
     <title lang="el">Ξεναγήσεις</title>
-    <desc lang="el">Στο Σαλονίκη, στα χωριά. Η εκπομπή ξεναγεί τον τηλεθεατή στα μουσεία και στους αρχαιολογικούς χώρους της πατρίδας μας. Μουσεία αρχαιολογικά, λαογραφικά, φυσικής ιστορίας, μουσικών οργάνων κλπ αποτελούν αντικείμενο λεπτομερούς παρουσίασής τους από έμπειρους ξεναγούς.</desc>
+    <desc lang="el">Επεισόδιο: Έτσι πολεμήσαμε το 1940-41 (γ' μέρος). Η εκπομπή ξεναγεί τον τηλεθεατή στα μουσεία και στους αρχαιολογικούς χώρους της πατρίδας μας. Μουσεία αρχαιολογικά, λαογραφικά, φυσικής ιστορίας, μουσικών οργάνων κλπ αποτελούν αντικείμενο λεπτομερούς παρουσίασής τους από έμπειρους ξεναγούς.</desc>
     <category lang="el">Τέχνες - Πολιτισμός</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/84/68/040007354812000800_1792563121523_L.jpg" />
   </programme>
@@ -1205,9 +1250,9 @@
   </programme>
   <programme start="20261030100000 +0000" stop="20261030103000 +0000" channel="4e.gr">
     <title lang="el">Όψεις του Αποκρυφισμού στο Φως της Ορθοδοξίας</title>
-    <desc lang="el">Επεισόδιο: Η ίδρυση της Θεοσοφικής Εταιρίας. Με τον π. Ανδρέα Γκατζέλη.</desc>
+    <desc lang="el">Επεισόδιο: Η Προέλευση της Καμπαλά. Με τον π. Ανδρέα Γκατζέλη.</desc>
     <category lang="el">Θρησκευτικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/545/124/040038205812000800_1793123064388_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/99/708/040038205812000800_1792563670374_L.jpg" />
   </programme>
   <programme start="20261030103000 +0000" stop="20261030112500 +0000" channel="4e.gr">
     <title lang="el">Σκέψεις, Κρίσεις, Σχόλια</title>
@@ -1283,9 +1328,9 @@
   </programme>
   <programme start="20261030171500 +0000" stop="20261030180000 +0000" channel="4e.gr">
     <title lang="el">Μνήμες</title>
-    <desc lang="el">Επεισόδιο: Η Τούμπα της Θεσσαλονίκης. Με τον κ. Κωνσταντίνο Νίγδελη, ιστορικό.</desc>
+    <desc lang="el">Επεισόδιο: Νοσοκομείο Άγιος Δημήτριος - Κήποι του πασά. Με τον κ. Κωνσταντίνο Νίγδελη, ιστορικό.</desc>
     <category lang="el">Ιστορικό - Πολεμικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/547/576/040035224812000800_1793123126421_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/86/1020/040035224812000800_1792563461771_L.jpg" />
   </programme>
   <programme start="20261030180000 +0000" stop="20261030183000 +0000" channel="4e.gr">
     <title lang="el">Όμορφη Ζωή</title>
@@ -1295,7 +1340,7 @@
   </programme>
   <programme start="20261030183000 +0000" stop="20261030190000 +0000" channel="4e.gr">
     <title lang="el">Θέματα Θεολογίας</title>
-    <desc lang="el">Ο έγκριτος Καθηγητής Θεολογίας κ. Νίκος Νικολαΐδης παραδίδει από τηλεοράσεως μαθήματα Θεολογίας. Γνωρίζουμε τα βαθιά νοήματα της πίστεώς μας, σε μια διδασκαλία που... καθηλώνει!</desc>
+    <desc lang="el">Επεισόδιο: Θέλων εγέννησεν ο Πατήρ τον Υιόν ή μη θέλων; Ο έγκριτος Καθηγητής Θεολογίας κ. Νίκος Νικολαΐδης παραδίδει από τηλεοράσεως μαθήματα Θεολογίας. Γνωρίζουμε τα βαθιά νοήματα της πίστεώς μας, σε μια διδασκαλία που... καθηλώνει!</desc>
     <category lang="el">Θρησκευτικό</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/91/900/040035220612000800_1792563518748_L.jpg" />
   </programme>
@@ -1945,7 +1990,7 @@
     <title lang="el">Πίσω Από Τις Γραμμές</title>
     <desc lang="el">Ο Γιώργος Πιέρρος και οι Ελένη Kαλογεροπούλου και Δημήτρης Τάκης, αποκαλύπτουν, αναλύουν και... συγκρούονται πάντα 'πίσω από τις γραμμές'. Οι έμπειροι δημοσιογράφοι καταθέτουν κάθε βράδυ τις πληροφορίες και το ρεπορτάζ.</desc>
     <category lang="el">Εκπομπή</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/548/552/040054160312000800_1793123121670_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/126/408/040054160312000800_1792760540156_L.jpg" />
   </programme>
   <programme start="20261027220000 +0000" stop="20261027230000 +0000" channel="action24.gr">
     <title lang="el">Καλύτερα Αργά</title>
@@ -2045,9 +2090,9 @@
   </programme>
   <programme start="20261028200000 +0000" stop="20261028220000 +0000" channel="action24.gr">
     <title lang="el">Ποδόσφαιρο: Λίβερπουλ - Τσέλσι (Ζ)</title>
-    <desc lang="el">Λιγκ Καπ Αγγλίας 2026-27. 4ος γύρος. Ο Τσάμπι Αλόνσο επιστρέφει στο Άνφιλντ για 3η φορά ως προπονητής και για 1η φορά ως τεχνικός της Τσέλσι, η οποία προκρίθηκε αποκλείοντας τις Λούτον Τάουν και Λιντς Γιουνάιτεντ, ενώ η Λίβερπουλ επικράτησε της Τότεναμ με 3-1.</desc>
+    <desc lang="el">Λιγκ Καπ Αγγλίας 2026-27. Η 67η σεζόν του EFL Cup είναι ανοιχτή σε όλους τους 92 συλλόγους που συμμετέχουν στην Premier League και τη Football League.</desc>
     <category lang="el">Ποδόσφαιρο</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/545/124/0400000000004050460026385412000800_1793123026358_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/129/336/0400000000004050460026385412000800_1792760820716_L.jpg" />
   </programme>
   <programme start="20261028220000 +0000" stop="20261029000000 +0000" channel="action24.gr">
     <title lang="el">Post Game</title>
@@ -3413,17 +3458,17 @@
     <category lang="el">Δραματική</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/331/140/040054926412000800_1792583422001_L.jpg" />
   </programme>
-  <programme start="20261027225000 +0000" stop="20261027234500 +0000" channel="alpha.gr">
-    <title lang="el">Tracker Κ2 Ε16</title>
-    <desc lang="el">Επεισόδιο: The Mercy Seat. Ο Κόλτερ βοηθά έναν παλιό φίλο με την αποστολή έρευνας και διάσωσης δύο αγνοούμενων αδερφών.</desc>
-    <category lang="el">Δραματική</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/962/616/040041165912000800_1793167333998_L.jpg" />
-  </programme>
-  <programme start="20261027234500 +0000" stop="20261028010000 +0000" channel="alpha.gr">
+  <programme start="20261027220000 +0000" stop="20261027233000 +0000" channel="alpha.gr">
     <title lang="el">Μια Γυναίκα Ε7 (Ε)</title>
     <desc lang="el">Η Μαρίνα σε απόλυτο πανικό, ξυπνάει τον Μάρκο και του ζητά βοήθεια. Μαζί αρχίζουν να ψάχνουν τα παιδιά, σ' όλες τις Τζιτζιφιές. Η Ελένη κάνει το ίδιο απ' την πλευρά της. Τα παιδιά άφαντα. Εκείνα προσανατολίζονται με τις γραμμές του τρένου και φτάνουν στο σταθμό.</desc>
     <category lang="el">Δραματική</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/331/640/040053990512000800_1792583498150_L.jpg" />
+  </programme>
+  <programme start="20261027233000 +0000" stop="20261028010000 +0000" channel="alpha.gr">
+    <title lang="el">Tracker Κ2</title>
+    <desc lang="el">Ο μοναχικός επιβιωτιστής Colter Shaw περιπλανιέται σε όλη τη χώρα επιζητώντας τη δικαίωση. Χρησιμοποιώντας τις ιδιαίτερες ικανότητές του στον εντοπισμό, βοηθά απλούς ανθρώπους αλλά και την αστυνομία στην επίλυση όλων των ειδών μυστηρίων.</desc>
+    <category lang="el">Δραματική</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/330/664/040041165912000800_1792583513315_L.jpg" />
   </programme>
   <programme start="20261028010000 +0000" stop="20261028014500 +0000" channel="alpha.gr">
     <title lang="el">Αληθινοί Έρωτες Κ1 Ε12 (Ε)</title>
@@ -3527,35 +3572,29 @@
     <category lang="el">Κωμωδία</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/214/872/040046820912000800_1792673904968_L.jpg" />
   </programme>
-  <programme start="20261028190000 +0000" stop="20261028201500 +0000" channel="alpha.gr">
+  <programme start="20261028190000 +0000" stop="20261028200000 +0000" channel="alpha.gr">
     <title lang="el">Μπαμπά, Σ' Αγαπώ Κ2 Ε1</title>
     <desc lang="el">Επεισόδιο: Όταν Μαλώνουν οι Μεγάλοι. Η μέρα του δικαστηρίου έχει φτάσει κι ενώ τα παιδιά στο νηπιαγωγείο δίνουν αγάπη στο Στέλιο και προσεύχονται για να γυρίσει επιτέλους στον Μπαμπα-Χάχα, η σύγκρουση του Ευριπίδη με τον Ηρακλή κλιμακώνεται στον μέγιστο βαθμό.</desc>
     <category lang="el">Οικογενειακή</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/217/800/040048796812000800_1792673976327_L.jpg" />
   </programme>
-  <programme start="20261028201500 +0000" stop="20261028214000 +0000" channel="alpha.gr">
+  <programme start="20261028200000 +0000" stop="20261028213000 +0000" channel="alpha.gr">
     <title lang="el">Μια Γυναίκα Ε8</title>
     <desc lang="el">Μετά τα αποκαλυπτήρια του Αργύρη, η Μπέττυ τον διώχνει με τις κλωτσιές απ' το σπίτι. Ο Αργύρης κουρέλι και ρεζίλι, δέχεται και τις βολές του Μάρκου. Αναβρασμός στο σπίτι της Ελισσάβετ περιμένοντας την τηλεόραση.</desc>
     <category lang="el">Δραματική</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/207/40/040053990512000800_1792673804896_L.jpg" />
   </programme>
-  <programme start="20261028214000 +0000" stop="20261028231500 +0000" channel="alpha.gr">
+  <programme start="20261028213000 +0000" stop="20261028230000 +0000" channel="alpha.gr">
     <title lang="el">Αυτοψία</title>
     <desc lang="el">Η κάμερα της Αυτοψίας μπαίνει στα άδυτα της 332 Μοίρας της Πολεμικής Αεροπορίας, στην Τανάγρα, και καταγράφει τους πιλότους και τους μηχανικούς των γαλλικών μαχητικών Rafale, εν δράση, από τις πρώτες πρωινές ώρες μέχρι τα μεσάνυχτα.</desc>
     <category lang="el">Ειδήσεις</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/96/280/040055293112000800_1792563590941_L.jpg" />
   </programme>
-  <programme start="20261028231500 +0000" stop="20261029000000 +0000" channel="alpha.gr">
-    <title lang="el">Tracker Κ2 Ε17</title>
-    <desc lang="el">Επεισόδιο: Memories. Ο Ράντι ζητά τη βοήθεια του Κόλτερ, όταν η κολλητή φίλη της πρώην κοπέλας του εξαφανίζεται.</desc>
+  <programme start="20261028230000 +0000" stop="20261029004500 +0000" channel="alpha.gr">
+    <title lang="el">Tracker Κ2</title>
+    <desc lang="el">Ο μοναχικός επιβιωτιστής Colter Shaw περιπλανιέται σε όλη τη χώρα επιζητώντας τη δικαίωση. Χρησιμοποιώντας τις ιδιαίτερες ικανότητές του στον εντοπισμό, βοηθά απλούς ανθρώπους αλλά και την αστυνομία στην επίλυση όλων των ειδών μυστηρίων.</desc>
     <category lang="el">Δραματική</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/962/616/040041165912000800_1793167333998_L.jpg" />
-  </programme>
-  <programme start="20261029000000 +0000" stop="20261029004500 +0000" channel="alpha.gr">
-    <title lang="el">Tracker Κ2 Ε18</title>
-    <desc lang="el">Επεισόδιο: Collision. Ο Κόλτερ πηγαίνει στο Μίσιγκαν όταν μια ανήσυχη μητέρα τον προσλαμβάνει για να βρει την κόρη της.</desc>
-    <category lang="el">Δραματική</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/962/616/040041165912000800_1793167333998_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/210/468/040041165912000800_1792673885295_L.jpg" />
   </programme>
   <programme start="20261029004500 +0000" stop="20261029014500 +0000" channel="alpha.gr">
     <title lang="el">Αληθινοί Έρωτες Κ1 Ε13 (Ε)</title>
@@ -9430,7 +9469,6 @@
   <programme start="20261027200000 +0200" stop="20261027220000 +0200" channel="attica.gr">
     <title lang="el">Αντιθέσεις</title>
     <desc lang="el">[K8] Πολιτικό talk show με τους δημοσιογράφους Βαγγέλη Γιακουμή και Άννα Καραβοκύρη.</desc>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/546/100/040054478512000800_1793123069357_L.jpg" />
   </programme>
   <programme start="20261027220000 +0200" stop="20261027230000 +0200" channel="attica.gr">
     <title lang="el">Πες μια Ιστορία (Tell me a Story)</title>
@@ -9463,7 +9501,6 @@
   <programme start="20261028080000 +0200" stop="20261028090000 +0200" channel="attica.gr">
     <title lang="el">Ντοκιμαντέρ</title>
     <desc lang="el">[K8] Ντοκιμαντέρ.</desc>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/547/76/040045154912000800_1793123060648_L.jpg" />
   </programme>
   <programme start="20261028090000 +0200" stop="20261028110000 +0200" channel="attica.gr">
     <title lang="el">Παιδικό Πρόγραμμα</title>
@@ -9476,12 +9513,12 @@
   <programme start="20261028120000 +0200" stop="20261028130000 +0200" channel="attica.gr">
     <title lang="el">Ο Κόσμος του Τσίρκου</title>
     <desc lang="el">[K8] Θεαματικές παραστάσεις τσίρκου.</desc>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/547/76/040047779612000800_1793123083362_L.jpg" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2025/12/12/1b9102aa_65c7_43f9_abdf_3e73ab36eb77_stb_xl.jpg" />
   </programme>
   <programme start="20261028130000 +0200" stop="20261028131500 +0200" channel="attica.gr">
     <title lang="el">Η Συνταγή της Καρδιάς μας</title>
     <desc lang="el">[K] Υπέροχες συνταγές μαγειρικής.</desc>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/550/4/040048554912000800_1793123122454_L.jpg" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/01/13/3e569f17_8d6f_44f0_8bc7_8ab2c527f3cb_stb_xl.jpg" />
   </programme>
   <programme start="20261028131500 +0200" stop="20261028133000 +0200" channel="attica.gr">
     <title lang="el">Ιατρικές Ιστορίες (Medical Stories)</title>
@@ -9490,22 +9527,22 @@
   <programme start="20261028133000 +0200" stop="20261028140000 +0200" channel="attica.gr">
     <title lang="el">Ντοκιμαντέρ</title>
     <desc lang="el">[K8] Ντοκιμαντέρ.</desc>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/547/76/040045154912000800_1793123060648_L.jpg" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2025/08/05/3e82482b-8930-47c9-a462-63d44036be72_stb_xl.jpg" />
   </programme>
   <programme start="20261028140000 +0200" stop="20261028153000 +0200" channel="attica.gr">
     <title lang="el">Ξένη Ταινία</title>
     <desc lang="el">[K8] Ξένη ταινία, κωμωδία.</desc>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/547/576/040027532312000800_1793123200305_L.jpg" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2021/07/21/d3ea6257-19ab-4b17-9561-4a3436fd82fb_stb_xl.jpg" />
   </programme>
   <programme start="20261028153000 +0200" stop="20261028154500 +0200" channel="attica.gr">
     <title lang="el">Art Cafe</title>
     <desc lang="el">[K] Φίλερ μουσικής και πολιτισμού.</desc>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/548/52/040048656312000800_1793123086223_L.jpg" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/01/16/907a1f2a_52c9_4981_a120_95c63fb2aab8_xl.jpg" />
   </programme>
   <programme start="20261028154500 +0200" stop="20261028160000 +0200" channel="attica.gr">
     <title lang="el">Η Συνταγή της Καρδιάς μας</title>
     <desc lang="el">[K] Υπέροχες συνταγές μαγειρικής.</desc>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/550/4/040048554912000800_1793123122454_L.jpg" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/01/13/3e569f17_8d6f_44f0_8bc7_8ab2c527f3cb_stb_xl.jpg" />
   </programme>
   <programme start="20261028160000 +0200" stop="20261028164500 +0200" channel="attica.gr">
     <title lang="el">Παιδικό Πρόγραμμα</title>
@@ -9514,7 +9551,7 @@
   <programme start="20261028164500 +0200" stop="20261028170000 +0200" channel="attica.gr">
     <title lang="el">In Style</title>
     <desc lang="el">[K8] Επιδείξεις μόδας από τα διεθνή σαλόνια.</desc>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/148/652/040038894012000800_1793081847834_L.jpg" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2023/11/17/ddea940b-d45b-4686-95f8-9c6c726c60b0_stb_xl.jpg" />
   </programme>
   <programme start="20261028170000 +0200" stop="20261028180000 +0200" channel="attica.gr">
     <title lang="el">Πυροσβεστική για Κλάματα (Tacoma FD)</title>
@@ -9535,7 +9572,7 @@
   <programme start="20261028200000 +0200" stop="20261028220000 +0200" channel="attica.gr">
     <title lang="el">Αντιθέσεις</title>
     <desc lang="el">[K8] Πολιτικό talk show με τους δημοσιογράφους Βαγγέλη Γιακουμή και Άννα Καραβοκύρη.</desc>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/546/100/040054478512000800_1793123069357_L.jpg" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/09/08/a66d58e5_528b_457f_8d65_c0ea90229aeb_xl.jpg" />
   </programme>
   <programme start="20261028220000 +0200" stop="20261028230000 +0200" channel="attica.gr">
     <title lang="el">Πες μια Ιστορία (Tell me a Story)</title>
@@ -9544,7 +9581,7 @@
   <programme start="20261028230000 +0200" stop="20261029003500 +0200" channel="attica.gr">
     <title lang="el">Ξένη Ταινία</title>
     <desc lang="el">[K16] Ξένη ταινία.</desc>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/547/576/040027532312000800_1793123200305_L.jpg" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2021/07/21/d3ea6257-19ab-4b17-9561-4a3436fd82fb_stb_xl.jpg" />
   </programme>
   <programme start="20261029003500 +0200" stop="20261029012500 +0200" channel="attica.gr">
     <title lang="el">Πυροσβεστική για Κλάματα (Tacoma FD) (Ε)</title>
@@ -9557,7 +9594,7 @@
   <programme start="20261029060000 +0200" stop="20261029070000 +0200" channel="attica.gr">
     <title lang="el">Μουσικό Πρωινό</title>
     <desc lang="el">[K8] Ελληνική και ξένη μουσική.</desc>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/545/124/040047779412000800_1793123046653_L.jpg" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2025/12/12/4b9fe2f7_6b30_4075_af3f_9cea757dbe87_xl.jpg" />
   </programme>
   <programme start="20261029070000 +0200" stop="20261029080000 +0200" channel="attica.gr">
     <title lang="el">Παιδικό Πρόγραμμα</title>
@@ -9566,7 +9603,7 @@
   <programme start="20261029080000 +0200" stop="20261029090000 +0200" channel="attica.gr">
     <title lang="el">Ντοκιμαντέρ</title>
     <desc lang="el">[K8] Ντοκιμαντέρ.</desc>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/547/76/040045154912000800_1793123060648_L.jpg" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2025/08/05/3e82482b-8930-47c9-a462-63d44036be72_stb_xl.jpg" />
   </programme>
   <programme start="20261029090000 +0200" stop="20261029091500 +0200" channel="attica.gr">
     <title lang="el">Παιδικό Πρόγραμμα</title>
@@ -9583,17 +9620,17 @@
   <programme start="20261029110000 +0200" stop="20261029120000 +0200" channel="attica.gr">
     <title lang="el">Ο Κόσμος του Τσίρκου</title>
     <desc lang="el">[K8] Θεαματικές παραστάσεις τσίρκου.</desc>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/547/76/040047779612000800_1793123083362_L.jpg" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2025/12/12/1b9102aa_65c7_43f9_abdf_3e73ab36eb77_stb_xl.jpg" />
   </programme>
   <programme start="20261029120000 +0200" stop="20261029121500 +0200" channel="attica.gr">
     <title lang="el">Η Συνταγή της Καρδιάς μας</title>
     <desc lang="el">[K] Υπέροχες συνταγές μαγειρικής.</desc>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/550/4/040048554912000800_1793123122454_L.jpg" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/01/13/3e569f17_8d6f_44f0_8bc7_8ab2c527f3cb_stb_xl.jpg" />
   </programme>
   <programme start="20261029121500 +0200" stop="20261029123000 +0200" channel="attica.gr">
     <title lang="el">Art Cafe</title>
     <desc lang="el">[K] Φίλερ μουσικής και πολιτισμού.</desc>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/548/52/040048656312000800_1793123086223_L.jpg" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/01/16/907a1f2a_52c9_4981_a120_95c63fb2aab8_xl.jpg" />
   </programme>
   <programme start="20261029123000 +0200" stop="20261029140000 +0200" channel="attica.gr">
     <title lang="el">Παιδικό Πρόγραμμα</title>
@@ -9602,12 +9639,12 @@
   <programme start="20261029140000 +0200" stop="20261029153000 +0200" channel="attica.gr">
     <title lang="el">Ξένη Ταινία</title>
     <desc lang="el">[K8] Ξένη ταινία, περιπέτεια, πολεμική.</desc>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/547/576/040027532312000800_1793123200305_L.jpg" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2021/07/21/d3ea6257-19ab-4b17-9561-4a3436fd82fb_stb_xl.jpg" />
   </programme>
   <programme start="20261029153000 +0200" stop="20261029160000 +0200" channel="attica.gr">
     <title lang="el">Extreme Sports</title>
     <desc lang="el">[K8] Φίλερ με αθλήματα εκτός ορίων.</desc>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/547/76/040048656512000800_1793123112137_L.jpg" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/01/16/d8754cc1_085a_4372_9bdd_24d48467a8ab_stb_xl.jpg" />
   </programme>
   <programme start="20261029160000 +0200" stop="20261029164500 +0200" channel="attica.gr">
     <title lang="el">Παιδικό Πρόγραμμα</title>
@@ -9616,7 +9653,7 @@
   <programme start="20261029164500 +0200" stop="20261029170000 +0200" channel="attica.gr">
     <title lang="el">Cabare</title>
     <desc lang="el">[K] Αναδρομή στις μουσικές και τα show του παρελθόντος.</desc>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/546/100/040050982212000800_1793123049999_L.jpg" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/04/16/0853aaf6_fdc8_42cb_aacd_24ee709a887a_xl.jpg" />
   </programme>
   <programme start="20261029170000 +0200" stop="20261029180000 +0200" channel="attica.gr">
     <title lang="el">Πυροσβεστική για Κλάματα (Tacoma FD)</title>
@@ -9633,7 +9670,7 @@
   <programme start="20261029200000 +0200" stop="20261029220000 +0200" channel="attica.gr">
     <title lang="el">Αντιθέσεις</title>
     <desc lang="el">[K8] Πολιτικό talk show με τους δημοσιογράφους Βαγγέλη Γιακουμή και Άννα Καραβοκύρη.</desc>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/546/100/040054478512000800_1793123069357_L.jpg" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/09/08/a66d58e5_528b_457f_8d65_c0ea90229aeb_xl.jpg" />
   </programme>
   <programme start="20261029220000 +0200" stop="20261029230000 +0200" channel="attica.gr">
     <title lang="el">Πες μια Ιστορία (Tell me a Story)</title>
@@ -9642,7 +9679,7 @@
   <programme start="20261029230000 +0200" stop="20261030003500 +0200" channel="attica.gr">
     <title lang="el">Ξένη Ταινία</title>
     <desc lang="el">[K16] Ξένη ταινία, πολεμική.</desc>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/547/576/040027532312000800_1793123200305_L.jpg" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2021/07/21/d3ea6257-19ab-4b17-9561-4a3436fd82fb_stb_xl.jpg" />
   </programme>
   <programme start="20261030003500 +0200" stop="20261030013500 +0200" channel="attica.gr">
     <title lang="el">Πυροσβεστική για Κλάματα (Tacoma FD) (Ε)</title>
@@ -9655,7 +9692,7 @@
   <programme start="20261030060000 +0200" stop="20261030070000 +0200" channel="attica.gr">
     <title lang="el">Μουσικό Πρωινό</title>
     <desc lang="el">[K8] Ελληνική και ξένη μουσική.</desc>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/545/124/040047779412000800_1793123046653_L.jpg" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2025/12/12/4b9fe2f7_6b30_4075_af3f_9cea757dbe87_xl.jpg" />
   </programme>
   <programme start="20261030070000 +0200" stop="20261030080000 +0200" channel="attica.gr">
     <title lang="el">Παιδικό Πρόγραμμα</title>
@@ -9664,7 +9701,7 @@
   <programme start="20261030080000 +0200" stop="20261030090000 +0200" channel="attica.gr">
     <title lang="el">Ντοκιμαντέρ</title>
     <desc lang="el">[K8] Ντοκιμαντέρ.</desc>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/547/76/040045154912000800_1793123060648_L.jpg" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2025/08/05/3e82482b-8930-47c9-a462-63d44036be72_stb_xl.jpg" />
   </programme>
   <programme start="20261030090000 +0200" stop="20261030110000 +0200" channel="attica.gr">
     <title lang="el">Παιδικό Πρόγραμμα</title>
@@ -9673,17 +9710,17 @@
   <programme start="20261030110000 +0200" stop="20261030120000 +0200" channel="attica.gr">
     <title lang="el">Ο Κόσμος του Τσίρκου</title>
     <desc lang="el">[K8] Θεαματικές παραστάσεις τσίρκου.</desc>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/547/76/040047779612000800_1793123083362_L.jpg" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2025/12/12/1b9102aa_65c7_43f9_abdf_3e73ab36eb77_stb_xl.jpg" />
   </programme>
   <programme start="20261030120000 +0200" stop="20261030121500 +0200" channel="attica.gr">
     <title lang="el">Η Συνταγή της Καρδιάς μας</title>
     <desc lang="el">[K] Υπέροχες συνταγές μαγειρικής.</desc>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/550/4/040048554912000800_1793123122454_L.jpg" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/01/13/3e569f17_8d6f_44f0_8bc7_8ab2c527f3cb_stb_xl.jpg" />
   </programme>
   <programme start="20261030121500 +0200" stop="20261030123000 +0200" channel="attica.gr">
     <title lang="el">Art Cafe</title>
     <desc lang="el">[K8] Φίλερ μουσικής και πολιτισμού.</desc>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/548/52/040048656312000800_1793123086223_L.jpg" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/01/16/907a1f2a_52c9_4981_a120_95c63fb2aab8_xl.jpg" />
   </programme>
   <programme start="20261030123000 +0200" stop="20261030140000 +0200" channel="attica.gr">
     <title lang="el">Παιδικό Πρόγραμμα</title>
@@ -9692,7 +9729,7 @@
   <programme start="20261030140000 +0200" stop="20261030143500 +0200" channel="attica.gr">
     <title lang="el">Ξένη Ταινία</title>
     <desc lang="el">[K8] Ξένη ταινία, δραματική, οικογενειακή.</desc>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/547/576/040027532312000800_1793123200305_L.jpg" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2021/07/21/d3ea6257-19ab-4b17-9561-4a3436fd82fb_stb_xl.jpg" />
   </programme>
   <programme start="20261030143500 +0200" stop="20261030160000 +0200" channel="attica.gr">
     <title lang="el">Παιδικό Πρόγραμμα</title>
@@ -9701,7 +9738,7 @@
   <programme start="20261030160000 +0200" stop="20261030164500 +0200" channel="attica.gr">
     <title lang="el">Ντοκιμαντέρ</title>
     <desc lang="el">[K8] Ντοκιμαντέρ.</desc>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/547/76/040045154912000800_1793123060648_L.jpg" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2025/08/05/3e82482b-8930-47c9-a462-63d44036be72_stb_xl.jpg" />
   </programme>
   <programme start="20261030164500 +0200" stop="20261030170000 +0200" channel="attica.gr">
     <title lang="el">Εικόνες της Γης (Earth Views)</title>
@@ -9718,7 +9755,7 @@
   <programme start="20261030190000 +0200" stop="20261030200000 +0200" channel="attica.gr">
     <title lang="el">Ντοκιμαντέρ</title>
     <desc lang="el">[K8] Ντοκιμαντέρ.</desc>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/547/76/040045154912000800_1793123060648_L.jpg" />
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2025/08/05/3e82482b-8930-47c9-a462-63d44036be72_stb_xl.jpg" />
   </programme>
   <programme start="20261030200000 +0200" stop="20261030210000 +0200" channel="attica.gr">
     <title lang="el">Ο Άγγλος Λοχαγός (Sharp)</title>
@@ -20650,6 +20687,762 @@
   <programme start="20261101213000 +0000" stop="20261102020000 +0000" channel="cartoonnetwork.cy">
     <title lang="el">The Amazing World of Gumball</title>
     <desc lang="el">Elmore has been plunged into black and white and Gumball and Darwin have to figure out what's going on. / Gumball and Anais go head to head in a leadership election voted for by their classmates. / Clayton realises he can imitate his classmates, and begins stealing the lives of the people of Elmore. / Anais has been facepalming every time her family does something stupid which has led to a serious medical condition.</desc>
+  </programme>
+  <programme start="20261025213000 +0000" stop="20261025223000 +0000" channel="centertv.gr">
+    <title lang="el">Νυχτερινό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Με τέσσερα δελτία ειδήσεων την ημέρα, ενημερωθείτε για όλα τα τελευταία νέα σε πανελλήνιο αλλά και σε τοπικό επίπεδο. Ζωντανές συνδέσεις και τηλεφωνικές επικοινωνίες.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/447/736/040050708412000800_1792131334120_L.jpg" />
+  </programme>
+  <programme start="20261025223000 +0000" stop="20261026010000 +0000" channel="centertv.gr">
+    <title lang="el">Αγροτικό Ημερολόγιο</title>
+    <desc lang="el">Ο Γρηγόρης Τιμοσίδης και ο Νίκος Σπιτσέρης παρουσιάζουν, αναλύουν και αποτυπώνουν τον παλμό του πρωτογενούς τομέα σε όλη την Βορειοανατολική Ελλάδα. (ΤΠ)</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/89/176/040050657312000800_1792282397817_L.jpg" />
+  </programme>
+  <programme start="20261026010000 +0000" stop="20261026020000 +0000" channel="centertv.gr">
+    <title lang="el">Face to Face</title>
+    <desc lang="el">Μαγκαζίνο ποικίλης ύλης, τετ-α-τετ κάθε φορά με έναν εκλεκτό καλεσμένο.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/101/388/040050709212000800_1792282712444_L.jpg" />
+  </programme>
+  <programme start="20261026020000 +0000" stop="20261026030000 +0000" channel="centertv.gr">
+    <title lang="el">Travel Guide</title>
+    <desc lang="el">Ταξιδεύουμε όλοι μαζί σε διάφορα μέρη σε όλον τον κόσμο, γνωρίζοντας νέους τόπους, νέους ανθρώπους και νέους πολιτισμούς. (ΤΠ)</desc>
+    <category lang="el">Τουριστικά - Ταξίδια</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/107/744/040035192112000800_1792282965186_L.jpg" />
+  </programme>
+  <programme start="20261026030000 +0000" stop="20261026040000 +0000" channel="centertv.gr">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από το Center TV.</desc>
+    <category lang="el">Άλλο</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/109/196/040050710212000800_1792282861076_L.jpg" />
+  </programme>
+  <programme start="20261026040000 +0000" stop="20261026050000 +0000" channel="centertv.gr">
+    <title lang="el">Έξυπνες Αγορές</title>
+    <desc lang="el">Βρείτε έξυπνα προϊόντα για κάθε ανάγκη. Οικονομικές και πρακτικές λύσεις για κάθε σπίτι. (ΤΠ)</desc>
+    <category lang="el">Τηλεαγορές</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/97/484/040050709012000800_1792282661310_L.jpg" />
+  </programme>
+  <programme start="20261026050000 +0000" stop="20261026063000 +0000" channel="centertv.gr">
+    <title lang="el">Πρωινό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Με 4 Δελτία Ειδήσεων την ημέρα, ενημερωθείτε για όλα τα τελευταία νέα σε πανελλήνιο αλλά και σε τοπικό επίπεδο. Ζωντανές συνδέσεις και τηλεφωνικές επικοινωνίες.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/107/244/040050708212000800_1792282830018_L.jpg" />
+  </programme>
+  <programme start="20261026063000 +0000" stop="20261026070000 +0000" channel="centertv.gr">
+    <title lang="el">Έξυπνες Αγορές</title>
+    <desc lang="el">Βρείτε έξυπνα προϊόντα για κάθε ανάγκη. Οικονομικές και πρακτικές λύσεις για κάθε σπίτι. (ΤΠ)</desc>
+    <category lang="el">Τηλεαγορές</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/97/484/040050709012000800_1792282661310_L.jpg" />
+  </programme>
+  <programme start="20261026070000 +0000" stop="20261026080000 +0000" channel="centertv.gr">
+    <title lang="el">Παιδική Σειρά</title>
+    <desc lang="el">Δείτε επιλεγμένες παιδικές σειρές από το Center TV.</desc>
+    <category lang="el">Παιδική</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/99/936/040050710312000800_1792282717057_L.jpg" />
+  </programme>
+  <programme start="20261026080000 +0000" stop="20261026090000 +0000" channel="centertv.gr">
+    <title lang="el">Check Up</title>
+    <desc lang="el">Ό,τι συμβαίνει στο χώρο της υγείας. Καταξιωμένοι επιστήμονες εγνωσμένου κύρους και υψηλής κατάρτισης μιλούν για θέματα που απασχολούν καθημερινά όλους μας. Το κοινό συμμετέχει στην εκπομπή με ερωτήσεις.</desc>
+    <category lang="el">Υγεία - Wellbeing</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/101/388/040050708812000800_1792282671609_L.jpg" />
+  </programme>
+  <programme start="20261026090000 +0000" stop="20261026123000 +0000" channel="centertv.gr">
+    <title lang="el">Έξυπνες Αγορές</title>
+    <desc lang="el">Βρείτε έξυπνα προϊόντα για κάθε ανάγκη. Οικονομικές και πρακτικές λύσεις για κάθε σπίτι. (ΤΠ)</desc>
+    <category lang="el">Τηλεαγορές</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/97/484/040050709012000800_1792282661310_L.jpg" />
+  </programme>
+  <programme start="20261026123000 +0000" stop="20261026150000 +0000" channel="centertv.gr">
+    <title lang="el">Όλα on Camera</title>
+    <desc lang="el">Κανείς δεν ξεφεύγει από το φακό του Γιάννη Κομνηνού. Όλα στην κάμερα... καυτηριάζονται, σχολιάζονται και ... απομυθοποιούνται. Για μια ακόμη χρονιά η επιτυχημένη εκπομπή μας κρατάει στον παλμό των γεγονότων. Live συμμετοχή τηλεθεατών. (ΤΠ)</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/88/700/040050710012000800_1792282507397_L.jpg" />
+  </programme>
+  <programme start="20261026150000 +0000" stop="20261026160000 +0000" channel="centertv.gr">
+    <title lang="el">Να 'Μαστε</title>
+    <desc lang="el">Συνεντεύξεις με ηθοποιούς, τραγουδιστές, μουσικούς, ανθρώπους της τέχνης και του πολιτισμού, σε μια εκπομπή που σκοπό έχει να ψυχαγωγήσει, να ενημερώσει για δρώμενα και να διασκεδάσει!</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/96/1008/040050709312000800_1792282595103_L.jpg" />
+  </programme>
+  <programme start="20261026160000 +0000" stop="20261026170000 +0000" channel="centertv.gr">
+    <title lang="el">Έξυπνες Αγορές</title>
+    <desc lang="el">Βρείτε έξυπνα προϊόντα για κάθε ανάγκη. Οικονομικές και πρακτικές λύσεις για κάθε σπίτι. (ΤΠ)</desc>
+    <category lang="el">Τηλεαγορές</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/97/484/040050709012000800_1792282661310_L.jpg" />
+  </programme>
+  <programme start="20261026170000 +0000" stop="20261026180000 +0000" channel="centertv.gr">
+    <title lang="el">Cosmoγεύσεις</title>
+    <desc lang="el">Απο την τηλεόραση... στο πιάτο σας! Μια εκπομπή που φέρνει τη φαντασία στην κουζίνα και τις καθημερινές γεύσεις στο προσκήνιο. Συνταγές που ξυπνούν μνήμες, πειραματισμοί που προκαλούν χαμόγελα και γεύσεις που αγαπάτε... όλα σε ένα μαγικό ταξίδι από τα φώτα της τηλεόρασης απευθείας στο πιάτο σας.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/107/744/040050667312000800_1792282978586_L.jpg" />
+  </programme>
+  <programme start="20261026180000 +0000" stop="20261026190000 +0000" channel="centertv.gr">
+    <title lang="el">Pre News</title>
+    <desc lang="el">Ενημερωτική εκπομπή με τον Νίκο Σπιτσέρη, που αναλύει διεξοδικά με ζωντανές ανταποκρίσεις, ρεπορτάζ και καλεσμένους τα σημαντικότερα θέματα της ειδησιογραφίας της ημέρας σε ολόκληρη την Βορειονατολική Ελλάδα.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/87/724/040050709612000800_1792282390684_L.jpg" />
+  </programme>
+  <programme start="20261026190000 +0000" stop="20261026200000 +0000" channel="centertv.gr">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Με τέσσερα δελτία ειδήσεων την ημέρα, ενημερωθείτε για όλα τα τελευταία νέα σε πανελλήνιο αλλά και σε τοπικό επίπεδο. Ζωντανές συνδέσεις και τηλεφωνικές επικοινωνίες.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/103/340/040050708012000800_1792282803362_L.jpg" />
+  </programme>
+  <programme start="20261026200000 +0000" stop="20261026213000 +0000" channel="centertv.gr">
+    <title lang="el">Persona Grata</title>
+    <desc lang="el">Προσωπικότητες που με το έργο τους έχουν επηρεάσει και διαμορφώσει τη σύγχρονη ιστορία του τόπου. Η εκπομπή καταγράφει την πορεία και το έργο δημιουργών από όλο το φάσμα των επιχειρήσεων, των τεχνών, των γραμμάτων και των επιστημών.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/117/1004/040050667012000800_1792283020071_L.jpg" />
+  </programme>
+  <programme start="20261026213000 +0000" stop="20261026223000 +0000" channel="centertv.gr">
+    <title lang="el">Νυχτερινό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Με τέσσερα δελτία ειδήσεων την ημέρα, ενημερωθείτε για όλα τα τελευταία νέα σε πανελλήνιο αλλά και σε τοπικό επίπεδο. Ζωντανές συνδέσεις και τηλεφωνικές επικοινωνίες.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/88/700/040050708412000800_1792282517878_L.jpg" />
+  </programme>
+  <programme start="20261026223000 +0000" stop="20261027010000 +0000" channel="centertv.gr">
+    <title lang="el">Όλα on Camera</title>
+    <desc lang="el">Κανείς δεν ξεφεύγει από το φακό του Γιάννη Κομνηνού. Όλα στην κάμερα... καυτηριάζονται, σχολιάζονται και ... απομυθοποιούνται. Για μια ακόμη χρονιά η επιτυχημένη εκπομπή μας κρατάει στον παλμό των γεγονότων. Live συμμετοχή τηλεθεατών. (ΤΠ)</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/88/700/040050710012000800_1792282507397_L.jpg" />
+  </programme>
+  <programme start="20261027010000 +0000" stop="20261027020000 +0000" channel="centertv.gr">
+    <title lang="el">Pre News</title>
+    <desc lang="el">Ενημερωτική εκπομπή με τον Νίκο Σπιτσέρη, που αναλύει διεξοδικά με ζωντανές ανταποκρίσεις, ρεπορτάζ και καλεσμένους τα σημαντικότερα θέματα της ειδησιογραφίας της ημέρας σε ολόκληρη την Βορειονατολική Ελλάδα.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/87/724/040050709612000800_1792282390684_L.jpg" />
+  </programme>
+  <programme start="20261027020000 +0000" stop="20261027030000 +0000" channel="centertv.gr">
+    <title lang="el">Travel Guide</title>
+    <desc lang="el">Ταξιδεύουμε όλοι μαζί σε διάφορα μέρη σε όλον τον κόσμο, γνωρίζοντας νέους τόπους, νέους ανθρώπους και νέους πολιτισμούς. (ΤΠ)</desc>
+    <category lang="el">Τουριστικά - Ταξίδια</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/107/744/040035192112000800_1792282965186_L.jpg" />
+  </programme>
+  <programme start="20261027030000 +0000" stop="20261027040000 +0000" channel="centertv.gr">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από το Center TV.</desc>
+    <category lang="el">Άλλο</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/109/196/040050710212000800_1792282861076_L.jpg" />
+  </programme>
+  <programme start="20261027040000 +0000" stop="20261027050000 +0000" channel="centertv.gr">
+    <title lang="el">Έξυπνες Αγορές</title>
+    <desc lang="el">Βρείτε έξυπνα προϊόντα για κάθε ανάγκη. Οικονομικές και πρακτικές λύσεις για κάθε σπίτι. (ΤΠ)</desc>
+    <category lang="el">Τηλεαγορές</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/97/484/040050709012000800_1792282661310_L.jpg" />
+  </programme>
+  <programme start="20261027050000 +0000" stop="20261027063000 +0000" channel="centertv.gr">
+    <title lang="el">Πρωινό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Με 4 Δελτία Ειδήσεων την ημέρα, ενημερωθείτε για όλα τα τελευταία νέα σε πανελλήνιο αλλά και σε τοπικό επίπεδο. Ζωντανές συνδέσεις και τηλεφωνικές επικοινωνίες.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/107/244/040050708212000800_1792282830018_L.jpg" />
+  </programme>
+  <programme start="20261027063000 +0000" stop="20261027070000 +0000" channel="centertv.gr">
+    <title lang="el">Έξυπνες Αγορές</title>
+    <desc lang="el">Βρείτε έξυπνα προϊόντα για κάθε ανάγκη. Οικονομικές και πρακτικές λύσεις για κάθε σπίτι. (ΤΠ)</desc>
+    <category lang="el">Τηλεαγορές</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/97/484/040050709012000800_1792282661310_L.jpg" />
+  </programme>
+  <programme start="20261027070000 +0000" stop="20261027080000 +0000" channel="centertv.gr">
+    <title lang="el">Παιδική Σειρά</title>
+    <desc lang="el">Δείτε επιλεγμένες παιδικές σειρές από το Center TV.</desc>
+    <category lang="el">Παιδική</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/99/936/040050710312000800_1792282717057_L.jpg" />
+  </programme>
+  <programme start="20261027080000 +0000" stop="20261027090000 +0000" channel="centertv.gr">
+    <title lang="el">Check Up</title>
+    <desc lang="el">Ό,τι συμβαίνει στο χώρο της υγείας. Καταξιωμένοι επιστήμονες εγνωσμένου κύρους και υψηλής κατάρτισης μιλούν για θέματα που απασχολούν καθημερινά όλους μας. Το κοινό συμμετέχει στην εκπομπή με ερωτήσεις.</desc>
+    <category lang="el">Υγεία - Wellbeing</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/101/388/040050708812000800_1792282671609_L.jpg" />
+  </programme>
+  <programme start="20261027090000 +0000" stop="20261027123000 +0000" channel="centertv.gr">
+    <title lang="el">Έξυπνες Αγορές</title>
+    <desc lang="el">Βρείτε έξυπνα προϊόντα για κάθε ανάγκη. Οικονομικές και πρακτικές λύσεις για κάθε σπίτι. (ΤΠ)</desc>
+    <category lang="el">Τηλεαγορές</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/97/484/040050709012000800_1792282661310_L.jpg" />
+  </programme>
+  <programme start="20261027123000 +0000" stop="20261027150000 +0000" channel="centertv.gr">
+    <title lang="el">Όλα on Camera</title>
+    <desc lang="el">Κανείς δεν ξεφεύγει από το φακό του Γιάννη Κομνηνού. Όλα στην κάμερα... καυτηριάζονται, σχολιάζονται και ... απομυθοποιούνται. Για μια ακόμη χρονιά η επιτυχημένη εκπομπή μας κρατάει στον παλμό των γεγονότων. Live συμμετοχή τηλεθεατών. (ΤΠ)</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/88/700/040050710012000800_1792282507397_L.jpg" />
+  </programme>
+  <programme start="20261027150000 +0000" stop="20261027160000 +0000" channel="centertv.gr">
+    <title lang="el">Να 'Μαστε</title>
+    <desc lang="el">Συνεντεύξεις με ηθοποιούς, τραγουδιστές, μουσικούς, ανθρώπους της τέχνης και του πολιτισμού, σε μια εκπομπή που σκοπό έχει να ψυχαγωγήσει, να ενημερώσει για δρώμενα και να διασκεδάσει!</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/96/1008/040050709312000800_1792282595103_L.jpg" />
+  </programme>
+  <programme start="20261027160000 +0000" stop="20261027170000 +0000" channel="centertv.gr">
+    <title lang="el">Έξυπνες Αγορές</title>
+    <desc lang="el">Βρείτε έξυπνα προϊόντα για κάθε ανάγκη. Οικονομικές και πρακτικές λύσεις για κάθε σπίτι. (ΤΠ)</desc>
+    <category lang="el">Τηλεαγορές</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/97/484/040050709012000800_1792282661310_L.jpg" />
+  </programme>
+  <programme start="20261027170000 +0000" stop="20261027180000 +0000" channel="centertv.gr">
+    <title lang="el">Cosmoγεύσεις</title>
+    <desc lang="el">Απο την τηλεόραση... στο πιάτο σας! Μια εκπομπή που φέρνει τη φαντασία στην κουζίνα και τις καθημερινές γεύσεις στο προσκήνιο. Συνταγές που ξυπνούν μνήμες, πειραματισμοί που προκαλούν χαμόγελα και γεύσεις που αγαπάτε... όλα σε ένα μαγικό ταξίδι από τα φώτα της τηλεόρασης απευθείας στο πιάτο σας.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/107/744/040050667312000800_1792282978586_L.jpg" />
+  </programme>
+  <programme start="20261027180000 +0000" stop="20261027190000 +0000" channel="centertv.gr">
+    <title lang="el">Pre News</title>
+    <desc lang="el">Ενημερωτική εκπομπή με τον Νίκο Σπιτσέρη, που αναλύει διεξοδικά με ζωντανές ανταποκρίσεις, ρεπορτάζ και καλεσμένους τα σημαντικότερα θέματα της ειδησιογραφίας της ημέρας σε ολόκληρη την Βορειονατολική Ελλάδα.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/87/724/040050709612000800_1792282390684_L.jpg" />
+  </programme>
+  <programme start="20261027190000 +0000" stop="20261027200000 +0000" channel="centertv.gr">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Με τέσσερα δελτία ειδήσεων την ημέρα, ενημερωθείτε για όλα τα τελευταία νέα σε πανελλήνιο αλλά και σε τοπικό επίπεδο. Ζωντανές συνδέσεις και τηλεφωνικές επικοινωνίες.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/103/340/040050708012000800_1792282803362_L.jpg" />
+  </programme>
+  <programme start="20261027200000 +0000" stop="20261027213000 +0000" channel="centertv.gr">
+    <title lang="el">Αγροτικό Ημερολόγιο</title>
+    <desc lang="el">Ο Γρηγόρης Τιμοσίδης και ο Νίκος Σπιτσέρης παρουσιάζουν, αναλύουν και αποτυπώνουν τον παλμό του πρωτογενούς τομέα σε όλη την Βορειοανατολική Ελλάδα. (ΤΠ)</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/89/176/040050657312000800_1792282397817_L.jpg" />
+  </programme>
+  <programme start="20261027213000 +0000" stop="20261027223000 +0000" channel="centertv.gr">
+    <title lang="el">Νυχτερινό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Με τέσσερα δελτία ειδήσεων την ημέρα, ενημερωθείτε για όλα τα τελευταία νέα σε πανελλήνιο αλλά και σε τοπικό επίπεδο. Ζωντανές συνδέσεις και τηλεφωνικές επικοινωνίες.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/88/700/040050708412000800_1792282517878_L.jpg" />
+  </programme>
+  <programme start="20261027223000 +0000" stop="20261028010000 +0000" channel="centertv.gr">
+    <title lang="el">Όλα on Camera</title>
+    <desc lang="el">Κανείς δεν ξεφεύγει από το φακό του Γιάννη Κομνηνού. Όλα στην κάμερα... καυτηριάζονται, σχολιάζονται και ... απομυθοποιούνται. Για μια ακόμη χρονιά η επιτυχημένη εκπομπή μας κρατάει στον παλμό των γεγονότων. Live συμμετοχή τηλεθεατών. (ΤΠ)</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/328/364/040050710012000800_1792392082952_L.jpg" />
+  </programme>
+  <programme start="20261028010000 +0000" stop="20261028020000 +0000" channel="centertv.gr">
+    <title lang="el">Pre News</title>
+    <desc lang="el">Ενημερωτική εκπομπή με τον Νίκο Σπιτσέρη, που αναλύει διεξοδικά με ζωντανές ανταποκρίσεις, ρεπορτάζ και καλεσμένους τα σημαντικότερα θέματα της ειδησιογραφίας της ημέρας σε ολόκληρη την Βορειονατολική Ελλάδα.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/318/604/040050709612000800_1792391954549_L.jpg" />
+  </programme>
+  <programme start="20261028020000 +0000" stop="20261028030000 +0000" channel="centertv.gr">
+    <title lang="el">Travel Guide</title>
+    <desc lang="el">Ταξιδεύουμε όλοι μαζί σε διάφορα μέρη σε όλον τον κόσμο, γνωρίζοντας νέους τόπους, νέους ανθρώπους και νέους πολιτισμούς. (ΤΠ)</desc>
+    <category lang="el">Τουριστικά - Ταξίδια</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/314/200/040035192112000800_1792391767429_L.jpg" />
+  </programme>
+  <programme start="20261028030000 +0000" stop="20261028040000 +0000" channel="centertv.gr">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από το Center TV.</desc>
+    <category lang="el">Άλλο</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/301/12/040050710212000800_1792391448419_L.jpg" />
+  </programme>
+  <programme start="20261028040000 +0000" stop="20261028050000 +0000" channel="centertv.gr">
+    <title lang="el">Έξυπνες Αγορές</title>
+    <desc lang="el">Βρείτε έξυπνα προϊόντα για κάθε ανάγκη. Οικονομικές και πρακτικές λύσεις για κάθε σπίτι. (ΤΠ)</desc>
+    <category lang="el">Τηλεαγορές</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/328/864/040050709012000800_1792392145994_L.jpg" />
+  </programme>
+  <programme start="20261028050000 +0000" stop="20261028063000 +0000" channel="centertv.gr">
+    <title lang="el">Πρωινό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Με 4 Δελτία Ειδήσεων την ημέρα, ενημερωθείτε για όλα τα τελευταία νέα σε πανελλήνιο αλλά και σε τοπικό επίπεδο. Ζωντανές συνδέσεις και τηλεφωνικές επικοινωνίες.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/312/748/040050708212000800_1792391738195_L.jpg" />
+  </programme>
+  <programme start="20261028063000 +0000" stop="20261028070000 +0000" channel="centertv.gr">
+    <title lang="el">Έξυπνες Αγορές</title>
+    <desc lang="el">Βρείτε έξυπνα προϊόντα για κάθε ανάγκη. Οικονομικές και πρακτικές λύσεις για κάθε σπίτι. (ΤΠ)</desc>
+    <category lang="el">Τηλεαγορές</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/328/864/040050709012000800_1792392145994_L.jpg" />
+  </programme>
+  <programme start="20261028070000 +0000" stop="20261028080000 +0000" channel="centertv.gr">
+    <title lang="el">Παιδική Σειρά</title>
+    <desc lang="el">Δείτε επιλεγμένες παιδικές σειρές από το Center TV.</desc>
+    <category lang="el">Παιδική</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/308/344/040050710312000800_1792391585942_L.jpg" />
+  </programme>
+  <programme start="20261028080000 +0000" stop="20261028090000 +0000" channel="centertv.gr">
+    <title lang="el">Check Up</title>
+    <desc lang="el">Ό,τι συμβαίνει στο χώρο της υγείας. Καταξιωμένοι επιστήμονες εγνωσμένου κύρους και υψηλής κατάρτισης μιλούν για θέματα που απασχολούν καθημερινά όλους μας. Το κοινό συμμετέχει στην εκπομπή με ερωτήσεις.</desc>
+    <category lang="el">Υγεία - Wellbeing</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/327/388/040050708812000800_1792392054934_L.jpg" />
+  </programme>
+  <programme start="20261028090000 +0000" stop="20261028123000 +0000" channel="centertv.gr">
+    <title lang="el">Έξυπνες Αγορές</title>
+    <desc lang="el">Βρείτε έξυπνα προϊόντα για κάθε ανάγκη. Οικονομικές και πρακτικές λύσεις για κάθε σπίτι. (ΤΠ)</desc>
+    <category lang="el">Τηλεαγορές</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/328/864/040050709012000800_1792392145994_L.jpg" />
+  </programme>
+  <programme start="20261028123000 +0000" stop="20261028150000 +0000" channel="centertv.gr">
+    <title lang="el">Όλα on Camera</title>
+    <desc lang="el">Κανείς δεν ξεφεύγει από το φακό του Γιάννη Κομνηνού. Όλα στην κάμερα... καυτηριάζονται, σχολιάζονται και ... απομυθοποιούνται. Για μια ακόμη χρονιά η επιτυχημένη εκπομπή μας κρατάει στον παλμό των γεγονότων. Live συμμετοχή τηλεθεατών. (ΤΠ)</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/328/364/040050710012000800_1792392082952_L.jpg" />
+  </programme>
+  <programme start="20261028150000 +0000" stop="20261028160000 +0000" channel="centertv.gr">
+    <title lang="el">Να 'Μαστε</title>
+    <desc lang="el">Συνεντεύξεις με ηθοποιούς, τραγουδιστές, μουσικούς, ανθρώπους της τέχνης και του πολιτισμού, σε μια εκπομπή που σκοπό έχει να ψυχαγωγήσει, να ενημερώσει για δρώμενα και να διασκεδάσει!</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/330/816/040050709312000800_1792392164611_L.jpg" />
+  </programme>
+  <programme start="20261028160000 +0000" stop="20261028170000 +0000" channel="centertv.gr">
+    <title lang="el">Έξυπνες Αγορές</title>
+    <desc lang="el">Βρείτε έξυπνα προϊόντα για κάθε ανάγκη. Οικονομικές και πρακτικές λύσεις για κάθε σπίτι. (ΤΠ)</desc>
+    <category lang="el">Τηλεαγορές</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/328/864/040050709012000800_1792392145994_L.jpg" />
+  </programme>
+  <programme start="20261028170000 +0000" stop="20261028180000 +0000" channel="centertv.gr">
+    <title lang="el">Cosmoγεύσεις</title>
+    <desc lang="el">Απο την τηλεόραση... στο πιάτο σας! Μια εκπομπή που φέρνει τη φαντασία στην κουζίνα και τις καθημερινές γεύσεις στο προσκήνιο. Συνταγές που ξυπνούν μνήμες, πειραματισμοί που προκαλούν χαμόγελα και γεύσεις που αγαπάτε... όλα σε ένα μαγικό ταξίδι από τα φώτα της τηλεόρασης απευθείας στο πιάτο σας.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/305/916/040050667312000800_1792391689190_L.jpg" />
+  </programme>
+  <programme start="20261028180000 +0000" stop="20261028190000 +0000" channel="centertv.gr">
+    <title lang="el">Pre News</title>
+    <desc lang="el">Ενημερωτική εκπομπή με τον Νίκο Σπιτσέρη, που αναλύει διεξοδικά με ζωντανές ανταποκρίσεις, ρεπορτάζ και καλεσμένους τα σημαντικότερα θέματα της ειδησιογραφίας της ημέρας σε ολόκληρη την Βορειονατολική Ελλάδα.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/318/604/040050709612000800_1792391954549_L.jpg" />
+  </programme>
+  <programme start="20261028190000 +0000" stop="20261028200000 +0000" channel="centertv.gr">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Με τέσσερα δελτία ειδήσεων την ημέρα, ενημερωθείτε για όλα τα τελευταία νέα σε πανελλήνιο αλλά και σε τοπικό επίπεδο. Ζωντανές συνδέσεις και τηλεφωνικές επικοινωνίες.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/302/988/040050708012000800_1792391454260_L.jpg" />
+  </programme>
+  <programme start="20261028200000 +0000" stop="20261028213000 +0000" channel="centertv.gr">
+    <title lang="el">White Box</title>
+    <desc lang="el">H Ευγενία Παπαϊωάννου μάς ξεναγεί σε μονοπάτια μόδας και styling, λιγότερο ή περισσότερο γνωστά, μάς μιλά για ιστορία μόδας, ενόσω μάς δίνει χρηστικές συμβουλές όχι μόνο για την καλύτερη ανάδειξη της γκαρνταρόμπας, αλλά και για 'μαζέματα και συμμαζέματα' του προσωπικού μας χώρου. (ΤΠ)</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/328/364/040050709812000800_1792392045077_L.jpg" />
+  </programme>
+  <programme start="20261028213000 +0000" stop="20261028223000 +0000" channel="centertv.gr">
+    <title lang="el">Νυχτερινό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Με τέσσερα δελτία ειδήσεων την ημέρα, ενημερωθείτε για όλα τα τελευταία νέα σε πανελλήνιο αλλά και σε τοπικό επίπεδο. Ζωντανές συνδέσεις και τηλεφωνικές επικοινωνίες.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/325/936/040050708412000800_1792392046958_L.jpg" />
+  </programme>
+  <programme start="20261028223000 +0000" stop="20261029010000 +0000" channel="centertv.gr">
+    <title lang="el">Όλα on Camera</title>
+    <desc lang="el">Κανείς δεν ξεφεύγει από το φακό του Γιάννη Κομνηνού. Όλα στην κάμερα... καυτηριάζονται, σχολιάζονται και ... απομυθοποιούνται. Για μια ακόμη χρονιά η επιτυχημένη εκπομπή μας κρατάει στον παλμό των γεγονότων. Live συμμετοχή τηλεθεατών. (ΤΠ)</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/177/912/040050710012000800_1792476499936_L.jpg" />
+  </programme>
+  <programme start="20261029010000 +0000" stop="20261029020000 +0000" channel="centertv.gr">
+    <title lang="el">Pre News</title>
+    <desc lang="el">Ενημερωτική εκπομπή με τον Νίκο Σπιτσέρη, που αναλύει διεξοδικά με ζωντανές ανταποκρίσεις, ρεπορτάζ και καλεσμένους τα σημαντικότερα θέματα της ειδησιογραφίας της ημέρας σε ολόκληρη την Βορειονατολική Ελλάδα.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/163/748/040050709612000800_1792476098242_L.jpg" />
+  </programme>
+  <programme start="20261029020000 +0000" stop="20261029030000 +0000" channel="centertv.gr">
+    <title lang="el">Travel Guide</title>
+    <desc lang="el">Ταξιδεύουμε όλοι μαζί σε διάφορα μέρη σε όλον τον κόσμο, γνωρίζοντας νέους τόπους, νέους ανθρώπους και νέους πολιτισμούς. (ΤΠ)</desc>
+    <category lang="el">Τουριστικά - Ταξίδια</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/175/460/040035192112000800_1792476344167_L.jpg" />
+  </programme>
+  <programme start="20261029030000 +0000" stop="20261029040000 +0000" channel="centertv.gr">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από το Center TV.</desc>
+    <category lang="el">Άλλο</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/176/936/040050710212000800_1792476442517_L.jpg" />
+  </programme>
+  <programme start="20261029040000 +0000" stop="20261029050000 +0000" channel="centertv.gr">
+    <title lang="el">Έξυπνες Αγορές</title>
+    <desc lang="el">Βρείτε έξυπνα προϊόντα για κάθε ανάγκη. Οικονομικές και πρακτικές λύσεις για κάθε σπίτι. (ΤΠ)</desc>
+    <category lang="el">Τηλεαγορές</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/172/532/040050709012000800_1792476332705_L.jpg" />
+  </programme>
+  <programme start="20261029050000 +0000" stop="20261029063000 +0000" channel="centertv.gr">
+    <title lang="el">Πρωινό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Με 4 Δελτία Ειδήσεων την ημέρα, ενημερωθείτε για όλα τα τελευταία νέα σε πανελλήνιο αλλά και σε τοπικό επίπεδο. Ζωντανές συνδέσεις και τηλεφωνικές επικοινωνίες.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/160/320/040050708212000800_1792476081565_L.jpg" />
+  </programme>
+  <programme start="20261029063000 +0000" stop="20261029070000 +0000" channel="centertv.gr">
+    <title lang="el">Έξυπνες Αγορές</title>
+    <desc lang="el">Βρείτε έξυπνα προϊόντα για κάθε ανάγκη. Οικονομικές και πρακτικές λύσεις για κάθε σπίτι. (ΤΠ)</desc>
+    <category lang="el">Τηλεαγορές</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/172/532/040050709012000800_1792476332705_L.jpg" />
+  </programme>
+  <programme start="20261029070000 +0000" stop="20261029080000 +0000" channel="centertv.gr">
+    <title lang="el">Παιδική Σειρά</title>
+    <desc lang="el">Δείτε επιλεγμένες παιδικές σειρές από το Center TV.</desc>
+    <category lang="el">Παιδική</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/169/104/040050710312000800_1792476199517_L.jpg" />
+  </programme>
+  <programme start="20261029080000 +0000" stop="20261029090000 +0000" channel="centertv.gr">
+    <title lang="el">Check Up</title>
+    <desc lang="el">Ό,τι συμβαίνει στο χώρο της υγείας. Καταξιωμένοι επιστήμονες εγνωσμένου κύρους και υψηλής κατάρτισης μιλούν για θέματα που απασχολούν καθημερινά όλους μας. Το κοινό συμμετέχει στην εκπομπή με ερωτήσεις.</desc>
+    <category lang="el">Υγεία - Wellbeing</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/194/4/040050708812000800_1792476676090_L.jpg" />
+  </programme>
+  <programme start="20261029090000 +0000" stop="20261029123000 +0000" channel="centertv.gr">
+    <title lang="el">Έξυπνες Αγορές</title>
+    <desc lang="el">Βρείτε έξυπνα προϊόντα για κάθε ανάγκη. Οικονομικές και πρακτικές λύσεις για κάθε σπίτι. (ΤΠ)</desc>
+    <category lang="el">Τηλεαγορές</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/172/532/040050709012000800_1792476332705_L.jpg" />
+  </programme>
+  <programme start="20261029123000 +0000" stop="20261029150000 +0000" channel="centertv.gr">
+    <title lang="el">Όλα on Camera</title>
+    <desc lang="el">Κανείς δεν ξεφεύγει από το φακό του Γιάννη Κομνηνού. Όλα στην κάμερα... καυτηριάζονται, σχολιάζονται και ... απομυθοποιούνται. Για μια ακόμη χρονιά η επιτυχημένη εκπομπή μας κρατάει στον παλμό των γεγονότων. Live συμμετοχή τηλεθεατών. (ΤΠ)</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/177/912/040050710012000800_1792476499936_L.jpg" />
+  </programme>
+  <programme start="20261029150000 +0000" stop="20261029160000 +0000" channel="centertv.gr">
+    <title lang="el">Να 'Μαστε</title>
+    <desc lang="el">Συνεντεύξεις με ηθοποιούς, τραγουδιστές, μουσικούς, ανθρώπους της τέχνης και του πολιτισμού, σε μια εκπομπή που σκοπό έχει να ψυχαγωγήσει, να ενημερώσει για δρώμενα και να διασκεδάσει!</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/193/28/040050709312000800_1792476572772_L.jpg" />
+  </programme>
+  <programme start="20261029160000 +0000" stop="20261029170000 +0000" channel="centertv.gr">
+    <title lang="el">Έξυπνες Αγορές</title>
+    <desc lang="el">Βρείτε έξυπνα προϊόντα για κάθε ανάγκη. Οικονομικές και πρακτικές λύσεις για κάθε σπίτι. (ΤΠ)</desc>
+    <category lang="el">Τηλεαγορές</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/172/532/040050709012000800_1792476332705_L.jpg" />
+  </programme>
+  <programme start="20261029170000 +0000" stop="20261029180000 +0000" channel="centertv.gr">
+    <title lang="el">Cosmoγεύσεις</title>
+    <desc lang="el">Απο την τηλεόραση... στο πιάτο σας! Μια εκπομπή που φέρνει τη φαντασία στην κουζίνα και τις καθημερινές γεύσεις στο προσκήνιο. Συνταγές που ξυπνούν μνήμες, πειραματισμοί που προκαλούν χαμόγελα και γεύσεις που αγαπάτε... όλα σε ένα μαγικό ταξίδι από τα φώτα της τηλεόρασης απευθείας στο πιάτο σας.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/167/152/040050667312000800_1792476230407_L.jpg" />
+  </programme>
+  <programme start="20261029180000 +0000" stop="20261029190000 +0000" channel="centertv.gr">
+    <title lang="el">Pre News</title>
+    <desc lang="el">Ενημερωτική εκπομπή με τον Νίκο Σπιτσέρη, που αναλύει διεξοδικά με ζωντανές ανταποκρίσεις, ρεπορτάζ και καλεσμένους τα σημαντικότερα θέματα της ειδησιογραφίας της ημέρας σε ολόκληρη την Βορειονατολική Ελλάδα.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/163/748/040050709612000800_1792476098242_L.jpg" />
+  </programme>
+  <programme start="20261029190000 +0000" stop="20261029200000 +0000" channel="centertv.gr">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Με τέσσερα δελτία ειδήσεων την ημέρα, ενημερωθείτε για όλα τα τελευταία νέα σε πανελλήνιο αλλά και σε τοπικό επίπεδο. Ζωντανές συνδέσεις και τηλεφωνικές επικοινωνίες.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/178/888/040050708012000800_1792476448178_L.jpg" />
+  </programme>
+  <programme start="20261029200000 +0000" stop="20261029213000 +0000" channel="centertv.gr">
+    <title lang="el">Επί της Ουσίας</title>
+    <desc lang="el">Η ενημέρωση και η πολιτική ανάλυση με διαδραστικό χαρακτήρα, μέσω της συμμετοχής καλεσμένων από την πολιτική σκηνή και όχι μόνο...</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/194/1004/040050709112000800_1792476614870_L.jpg" />
+  </programme>
+  <programme start="20261029213000 +0000" stop="20261029230000 +0000" channel="centertv.gr">
+    <title lang="el">Νυχτερινό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Με τέσσερα δελτία ειδήσεων την ημέρα, ενημερωθείτε για όλα τα τελευταία νέα σε πανελλήνιο αλλά και σε τοπικό επίπεδο. Ζωντανές συνδέσεις και τηλεφωνικές επικοινωνίες.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/156/416/040050708412000800_1792475976740_L.jpg" />
+  </programme>
+  <programme start="20261029230000 +0000" stop="20261030010000 +0000" channel="centertv.gr">
+    <title lang="el">Όλα on Camera</title>
+    <desc lang="el">Κανείς δεν ξεφεύγει από το φακό του Γιάννη Κομνηνού. Όλα στην κάμερα... καυτηριάζονται, σχολιάζονται και ... απομυθοποιούνται. Για μια ακόμη χρονιά η επιτυχημένη εκπομπή μας κρατάει στον παλμό των γεγονότων. Live συμμετοχή τηλεθεατών. (ΤΠ)</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/85/44/040050710012000800_1792563362709_L.jpg" />
+  </programme>
+  <programme start="20261030010000 +0000" stop="20261030020000 +0000" channel="centertv.gr">
+    <title lang="el">Pre News</title>
+    <desc lang="el">Ενημερωτική εκπομπή με τον Νίκο Σπιτσέρη, που αναλύει διεξοδικά με ζωντανές ανταποκρίσεις, ρεπορτάζ και καλεσμένους τα σημαντικότερα θέματα της ειδησιογραφίας της ημέρας σε ολόκληρη την Βορειονατολική Ελλάδα.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/102/636/040050709612000800_1792563753397_L.jpg" />
+  </programme>
+  <programme start="20261030020000 +0000" stop="20261030030000 +0000" channel="centertv.gr">
+    <title lang="el">Travel Guide</title>
+    <desc lang="el">Ταξιδεύουμε όλοι μαζί σε διάφορα μέρη σε όλον τον κόσμο, γνωρίζοντας νέους τόπους, νέους ανθρώπους και νέους πολιτισμούς. (ΤΠ)</desc>
+    <category lang="el">Τουριστικά - Ταξίδια</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/85/44/040035192112000800_1792563409936_L.jpg" />
+  </programme>
+  <programme start="20261030030000 +0000" stop="20261030040000 +0000" channel="centertv.gr">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από το Center TV.</desc>
+    <category lang="el">Άλλο</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/90/424/040050710212000800_1792563463701_L.jpg" />
+  </programme>
+  <programme start="20261030040000 +0000" stop="20261030050000 +0000" channel="centertv.gr">
+    <title lang="el">Έξυπνες Αγορές</title>
+    <desc lang="el">Βρείτε έξυπνα προϊόντα για κάθε ανάγκη. Οικονομικές και πρακτικές λύσεις για κάθε σπίτι. (ΤΠ)</desc>
+    <category lang="el">Τηλεαγορές</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/96/780/040050709012000800_1792563594828_L.jpg" />
+  </programme>
+  <programme start="20261030050000 +0000" stop="20261030063000 +0000" channel="centertv.gr">
+    <title lang="el">Πρωινό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Με 4 Δελτία Ειδήσεων την ημέρα, ενημερωθείτε για όλα τα τελευταία νέα σε πανελλήνιο αλλά και σε τοπικό επίπεδο. Ζωντανές συνδέσεις και τηλεφωνικές επικοινωνίες.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/102/136/040050708212000800_1792563726834_L.jpg" />
+  </programme>
+  <programme start="20261030063000 +0000" stop="20261030070000 +0000" channel="centertv.gr">
+    <title lang="el">Έξυπνες Αγορές</title>
+    <desc lang="el">Βρείτε έξυπνα προϊόντα για κάθε ανάγκη. Οικονομικές και πρακτικές λύσεις για κάθε σπίτι. (ΤΠ)</desc>
+    <category lang="el">Τηλεαγορές</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/96/780/040050709012000800_1792563594828_L.jpg" />
+  </programme>
+  <programme start="20261030070000 +0000" stop="20261030080000 +0000" channel="centertv.gr">
+    <title lang="el">Παιδική Σειρά</title>
+    <desc lang="el">Δείτε επιλεγμένες παιδικές σειρές από το Center TV.</desc>
+    <category lang="el">Παιδική</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/107/1016/040050710312000800_1792563873406_L.jpg" />
+  </programme>
+  <programme start="20261030080000 +0000" stop="20261030090000 +0000" channel="centertv.gr">
+    <title lang="el">Check Up</title>
+    <desc lang="el">Ό,τι συμβαίνει στο χώρο της υγείας. Καταξιωμένοι επιστήμονες εγνωσμένου κύρους και υψηλής κατάρτισης μιλούν για θέματα που απασχολούν καθημερινά όλους μας. Το κοινό συμμετέχει στην εκπομπή με ερωτήσεις.</desc>
+    <category lang="el">Υγεία - Wellbeing</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/96/780/040050708812000800_1792563596622_L.jpg" />
+  </programme>
+  <programme start="20261030090000 +0000" stop="20261030123000 +0000" channel="centertv.gr">
+    <title lang="el">Έξυπνες Αγορές</title>
+    <desc lang="el">Βρείτε έξυπνα προϊόντα για κάθε ανάγκη. Οικονομικές και πρακτικές λύσεις για κάθε σπίτι. (ΤΠ)</desc>
+    <category lang="el">Τηλεαγορές</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/96/780/040050709012000800_1792563594828_L.jpg" />
+  </programme>
+  <programme start="20261030123000 +0000" stop="20261030150000 +0000" channel="centertv.gr">
+    <title lang="el">Όλα on Camera</title>
+    <desc lang="el">Κανείς δεν ξεφεύγει από το φακό του Γιάννη Κομνηνού. Όλα στην κάμερα... καυτηριάζονται, σχολιάζονται και ... απομυθοποιούνται. Για μια ακόμη χρονιά η επιτυχημένη εκπομπή μας κρατάει στον παλμό των γεγονότων. Live συμμετοχή τηλεθεατών. (ΤΠ)</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/85/44/040050710012000800_1792563362709_L.jpg" />
+  </programme>
+  <programme start="20261030150000 +0000" stop="20261030160000 +0000" channel="centertv.gr">
+    <title lang="el">Να 'Μαστε</title>
+    <desc lang="el">Συνεντεύξεις με ηθοποιούς, τραγουδιστές, μουσικούς, ανθρώπους της τέχνης και του πολιτισμού, σε μια εκπομπή που σκοπό έχει να ψυχαγωγήσει, να ενημερώσει για δρώμενα και να διασκεδάσει!</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/94/828/040050709312000800_1792563551935_L.jpg" />
+  </programme>
+  <programme start="20261030160000 +0000" stop="20261030170000 +0000" channel="centertv.gr">
+    <title lang="el">Έξυπνες Αγορές</title>
+    <desc lang="el">Βρείτε έξυπνα προϊόντα για κάθε ανάγκη. Οικονομικές και πρακτικές λύσεις για κάθε σπίτι. (ΤΠ)</desc>
+    <category lang="el">Τηλεαγορές</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/96/780/040050709012000800_1792563594828_L.jpg" />
+  </programme>
+  <programme start="20261030170000 +0000" stop="20261030180000 +0000" channel="centertv.gr">
+    <title lang="el">Cosmoγεύσεις</title>
+    <desc lang="el">Απο την τηλεόραση... στο πιάτο σας! Μια εκπομπή που φέρνει τη φαντασία στην κουζίνα και τις καθημερινές γεύσεις στο προσκήνιο. Συνταγές που ξυπνούν μνήμες, πειραματισμοί που προκαλούν χαμόγελα και γεύσεις που αγαπάτε... όλα σε ένα μαγικό ταξίδι από τα φώτα της τηλεόρασης απευθείας στο πιάτο σας.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/87/496/040050667312000800_1792563384646_L.jpg" />
+  </programme>
+  <programme start="20261030180000 +0000" stop="20261030190000 +0000" channel="centertv.gr">
+    <title lang="el">Pre News</title>
+    <desc lang="el">Ενημερωτική εκπομπή με τον Νίκο Σπιτσέρη, που αναλύει διεξοδικά με ζωντανές ανταποκρίσεις, ρεπορτάζ και καλεσμένους τα σημαντικότερα θέματα της ειδησιογραφίας της ημέρας σε ολόκληρη την Βορειονατολική Ελλάδα.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/102/636/040050709612000800_1792563753397_L.jpg" />
+  </programme>
+  <programme start="20261030190000 +0000" stop="20261030200000 +0000" channel="centertv.gr">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Με τέσσερα δελτία ειδήσεων την ημέρα, ενημερωθείτε για όλα τα τελευταία νέα σε πανελλήνιο αλλά και σε τοπικό επίπεδο. Ζωντανές συνδέσεις και τηλεφωνικές επικοινωνίες.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/108/492/040050708012000800_1792563886622_L.jpg" />
+  </programme>
+  <programme start="20261030200000 +0000" stop="20261030213000 +0000" channel="centertv.gr">
+    <title lang="el">Champions Time</title>
+    <desc lang="el">Όλος ο αθλητισμός σε μια οθόνη. Κορυφαίες στιγμές από μπάσκετ, ποδόσφαιρο και όλα τα αγαπημένα σας αθλήματα. Απολαύστε γκολ, τρίποντα, ανατροπές και συγκινήσεις που μόνο ο αθλητισμός προσφέρει. Εδω κάθε φάση μετράει, κάθε στιγμή παίρνει ζωή. Με τον Ηλία Κουτσοδόντη και τον Νίκο Κατσαρό.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/91/400/040050708712000800_1792563573748_L.jpg" />
+  </programme>
+  <programme start="20261030213000 +0000" stop="20261030223000 +0000" channel="centertv.gr">
+    <title lang="el">Νυχτερινό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Με τέσσερα δελτία ειδήσεων την ημέρα, ενημερωθείτε για όλα τα τελευταία νέα σε πανελλήνιο αλλά και σε τοπικό επίπεδο. Ζωντανές συνδέσεις και τηλεφωνικές επικοινωνίες.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/105/564/040050708412000800_1792563777848_L.jpg" />
+  </programme>
+  <programme start="20261030223000 +0000" stop="20261031010000 +0000" channel="centertv.gr">
+    <title lang="el">Όλα on Camera</title>
+    <desc lang="el">Κανείς δεν ξεφεύγει από το φακό του Γιάννη Κομνηνού. Όλα στην κάμερα... καυτηριάζονται, σχολιάζονται και ... απομυθοποιούνται. Για μια ακόμη χρονιά η επιτυχημένη εκπομπή μας κρατάει στον παλμό των γεγονότων. Live συμμετοχή τηλεθεατών. (ΤΠ)</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/119/152/040050710012000800_1792667280321_L.jpg" />
+  </programme>
+  <programme start="20261031010000 +0000" stop="20261031030000 +0000" channel="centertv.gr">
+    <title lang="el">Pre News</title>
+    <desc lang="el">Ενημερωτική εκπομπή με τον Νίκο Σπιτσέρη, που αναλύει διεξοδικά με ζωντανές ανταποκρίσεις, ρεπορτάζ και καλεσμένους τα σημαντικότερα θέματα της ειδησιογραφίας της ημέρας σε ολόκληρη την Βορειονατολική Ελλάδα.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/126/484/040050709612000800_1792667447479_L.jpg" />
+  </programme>
+  <programme start="20261031030000 +0000" stop="20261031040000 +0000" channel="centertv.gr">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από το Center TV.</desc>
+    <category lang="el">Άλλο</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/104/1012/040050710212000800_1792666883917_L.jpg" />
+  </programme>
+  <programme start="20261031040000 +0000" stop="20261031050000 +0000" channel="centertv.gr">
+    <title lang="el">Έξυπνες Αγορές</title>
+    <desc lang="el">Βρείτε έξυπνα προϊόντα για κάθε ανάγκη. Οικονομικές και πρακτικές λύσεις για κάθε σπίτι. (ΤΠ)</desc>
+    <category lang="el">Τηλεαγορές</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/132/340/040050709012000800_1792667492223_L.jpg" />
+  </programme>
+  <programme start="20261031050000 +0000" stop="20261031063000 +0000" channel="centertv.gr">
+    <title lang="el">Πρωινό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Με 4 Δελτία Ειδήσεων την ημέρα, ενημερωθείτε για όλα τα τελευταία νέα σε πανελλήνιο αλλά και σε τοπικό επίπεδο. Ζωντανές συνδέσεις και τηλεφωνικές επικοινωνίες.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/102/60/040050708212000800_1792666756560_L.jpg" />
+  </programme>
+  <programme start="20261031063000 +0000" stop="20261031070000 +0000" channel="centertv.gr">
+    <title lang="el">Έξυπνες Αγορές</title>
+    <desc lang="el">Βρείτε έξυπνα προϊόντα για κάθε ανάγκη. Οικονομικές και πρακτικές λύσεις για κάθε σπίτι. (ΤΠ)</desc>
+    <category lang="el">Τηλεαγορές</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/132/340/040050709012000800_1792667492223_L.jpg" />
+  </programme>
+  <programme start="20261031070000 +0000" stop="20261031080000 +0000" channel="centertv.gr">
+    <title lang="el">Παιδική Σειρά</title>
+    <desc lang="el">Δείτε επιλεγμένες παιδικές σειρές από το Center TV.</desc>
+    <category lang="el">Παιδική</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/100/608/040050710312000800_1792666812278_L.jpg" />
+  </programme>
+  <programme start="20261031080000 +0000" stop="20261031100000 +0000" channel="centertv.gr">
+    <title lang="el">Έξυπνες Αγορές</title>
+    <desc lang="el">Βρείτε έξυπνα προϊόντα για κάθε ανάγκη. Οικονομικές και πρακτικές λύσεις για κάθε σπίτι. (ΤΠ)</desc>
+    <category lang="el">Τηλεαγορές</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/132/340/040050709012000800_1792667492223_L.jpg" />
+  </programme>
+  <programme start="20261031100000 +0000" stop="20261031123000 +0000" channel="centertv.gr">
+    <title lang="el">Έξυπνες Αγορές</title>
+    <desc lang="el">Βρείτε έξυπνα προϊόντα για κάθε ανάγκη. Οικονομικές και πρακτικές λύσεις για κάθε σπίτι. (ΤΠ)</desc>
+    <category lang="el">Τηλεαγορές</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/132/340/040050709012000800_1792667492223_L.jpg" />
+  </programme>
+  <programme start="20261031123000 +0000" stop="20261031140000 +0000" channel="centertv.gr">
+    <title lang="el">Cosmoγεύσεις</title>
+    <desc lang="el">Απο την τηλεόραση... στο πιάτο σας! Μια εκπομπή που φέρνει τη φαντασία στην κουζίνα και τις καθημερινές γεύσεις στο προσκήνιο. Συνταγές που ξυπνούν μνήμες, πειραματισμοί που προκαλούν χαμόγελα και γεύσεις που αγαπάτε... όλα σε ένα μαγικό ταξίδι από τα φώτα της τηλεόρασης απευθείας στο πιάτο σας.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/114/272/040050667312000800_1792667132576_L.jpg" />
+  </programme>
+  <programme start="20261031140000 +0000" stop="20261031153000 +0000" channel="centertv.gr">
+    <title lang="el">Αγροτικό Ημερολόγιο</title>
+    <desc lang="el">Ο Γρηγόρης Τιμοσίδης και ο Νίκος Σπιτσέρης παρουσιάζουν, αναλύουν και αποτυπώνουν τον παλμό του πρωτογενούς τομέα σε όλη την Βορειοανατολική Ελλάδα. (ΤΠ)</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/115/748/040050657312000800_1792667176548_L.jpg" />
+  </programme>
+  <programme start="20261031153000 +0000" stop="20261031163000 +0000" channel="centertv.gr">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+    <desc lang="el">Με 4 Δελτία Ειδήσεων την ημέρα, ενημερωθείτε για όλα τα τελευταία νέα σε πανελλήνιο αλλά και σε τοπικό επίπεδο. Ζωντανές συνδέσεις και τηλεφωνικές επικοινωνίες.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/98/656/040050708312000800_1792666733178_L.jpg" />
+  </programme>
+  <programme start="20261031163000 +0000" stop="20261031173000 +0000" channel="centertv.gr">
+    <title lang="el">White Box</title>
+    <desc lang="el">H Ευγενία Παπαϊωάννου μάς ξεναγεί σε μονοπάτια μόδας και styling, λιγότερο ή περισσότερο γνωστά, μάς μιλά για ιστορία μόδας, ενόσω μάς δίνει χρηστικές συμβουλές όχι μόνο για την καλύτερη ανάδειξη της γκαρνταρόμπας, αλλά και για 'μαζέματα και συμμαζέματα' του προσωπικού μας χώρου. (ΤΠ)</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/122/80/040050709812000800_1792667423402_L.jpg" />
+  </programme>
+  <programme start="20261031173000 +0000" stop="20261031183000 +0000" channel="centertv.gr">
+    <title lang="el">+δεσμοι</title>
+    <desc lang="el">Η Λιάνα Δουτσίνη παρουσιάζει θέματα που προβληματίζουν και απασχολούν την κοινωνία μας. Ειδικευμένοι επιστήμονες και άνθρωποι που έχουν καταξιωθεί στο χώρο τους, συζητούν και μοιράζονται μαζί μας γνώσεις, προτάσεις, σκέψεις και ιδέες.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/108/916/040050667112000800_1792667031584_L.jpg" />
+  </programme>
+  <programme start="20261031183000 +0000" stop="20261031200000 +0000" channel="centertv.gr">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Με τέσσερα δελτία ειδήσεων την ημέρα, ενημερωθείτε για όλα τα τελευταία νέα σε πανελλήνιο αλλά και σε τοπικό επίπεδο. Ζωντανές συνδέσεις και τηλεφωνικές επικοινωνίες.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/107/940/040050708012000800_1792666938631_L.jpg" />
+  </programme>
+  <programme start="20261031200000 +0000" stop="20261031213000 +0000" channel="centertv.gr">
+    <title lang="el">Παλμοί Παράδοσης</title>
+    <desc lang="el">Η εκπομπή έχει ως βασικό στόχο την ανάδειξη της ελληνικής παράδοσης, της πολιτιστικής μας κληρονομιάς, των εθίμων, της μουσικής και του χορού, μέσα από τη δράση και το έργο των Πολιτιστικών Συλλόγων.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/545/124/0400000026120008000000_1793123049170_L.jpg" />
+  </programme>
+  <programme start="20261031213000 +0000" stop="20261031223000 +0000" channel="centertv.gr">
+    <title lang="el">Νυχτερινό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Με τέσσερα δελτία ειδήσεων την ημέρα, ενημερωθείτε για όλα τα τελευταία νέα σε πανελλήνιο αλλά και σε τοπικό επίπεδο. Ζωντανές συνδέσεις και τηλεφωνικές επικοινωνίες.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/102/60/040050708412000800_1792666798103_L.jpg" />
+  </programme>
+  <programme start="20261031223000 +0000" stop="20261101010000 +0000" channel="centertv.gr">
+    <title lang="el">Επί της Ουσίας</title>
+    <desc lang="el">Η ενημέρωση και η πολιτική ανάλυση με διαδραστικό χαρακτήρα, μέσω της συμμετοχής καλεσμένων από την πολιτική σκηνή και όχι μόνο...</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/868/176/040050709112000800_1792736576319_L.jpg" />
+  </programme>
+  <programme start="20261101010000 +0000" stop="20261101020000 +0000" channel="centertv.gr">
+    <title lang="el">Face to Face</title>
+    <desc lang="el">Μαγκαζίνο ποικίλης ύλης, τετ-α-τετ κάθε φορά με έναν εκλεκτό καλεσμένο.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/874/32/040050709212000800_1792736663954_L.jpg" />
+  </programme>
+  <programme start="20261101020000 +0000" stop="20261101040000 +0000" channel="centertv.gr">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">Παρακολουθήστε επιλεγμένα ντοκιμαντέρ από το Center TV.</desc>
+    <category lang="el">Άλλο</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/885/768/040050710212000800_1792736877842_L.jpg" />
+  </programme>
+  <programme start="20261101040000 +0000" stop="20261101050000 +0000" channel="centertv.gr">
+    <title lang="el">Έξυπνες Αγορές</title>
+    <desc lang="el">Βρείτε έξυπνα προϊόντα για κάθε ανάγκη. Οικονομικές και πρακτικές λύσεις για κάθε σπίτι. (ΤΠ)</desc>
+    <category lang="el">Τηλεαγορές</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/868/176/040050709012000800_1792736519036_L.jpg" />
+  </programme>
+  <programme start="20261101050000 +0000" stop="20261101063000 +0000" channel="centertv.gr">
+    <title lang="el">Πρωινό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Με 4 Δελτία Ειδήσεων την ημέρα, ενημερωθείτε για όλα τα τελευταία νέα σε πανελλήνιο αλλά και σε τοπικό επίπεδο. Ζωντανές συνδέσεις και τηλεφωνικές επικοινωνίες.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/881/864/040050708212000800_1792736831874_L.jpg" />
+  </programme>
+  <programme start="20261101063000 +0000" stop="20261101070000 +0000" channel="centertv.gr">
+    <title lang="el">Έξυπνες Αγορές</title>
+    <desc lang="el">Βρείτε έξυπνα προϊόντα για κάθε ανάγκη. Οικονομικές και πρακτικές λύσεις για κάθε σπίτι. (ΤΠ)</desc>
+    <category lang="el">Τηλεαγορές</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/868/176/040050709012000800_1792736519036_L.jpg" />
+  </programme>
+  <programme start="20261101070000 +0000" stop="20261101080000 +0000" channel="centertv.gr">
+    <title lang="el">Παιδική Σειρά</title>
+    <desc lang="el">Δείτε επιλεγμένες παιδικές σειρές από το Center TV.</desc>
+    <category lang="el">Παιδική</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/887/220/040050710312000800_1792736905544_L.jpg" />
+  </programme>
+  <programme start="20261101080000 +0000" stop="20261101090000 +0000" channel="centertv.gr">
+    <title lang="el">Check Up</title>
+    <desc lang="el">Ό,τι συμβαίνει στο χώρο της υγείας. Καταξιωμένοι επιστήμονες εγνωσμένου κύρους και υψηλής κατάρτισης μιλούν για θέματα που απασχολούν καθημερινά όλους μας. Το κοινό συμμετέχει στην εκπομπή με ερωτήσεις.</desc>
+    <category lang="el">Υγεία - Wellbeing</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/865/248/040050708812000800_1792736398926_L.jpg" />
+  </programme>
+  <programme start="20261101090000 +0000" stop="20261101123000 +0000" channel="centertv.gr">
+    <title lang="el">Έξυπνες Αγορές</title>
+    <desc lang="el">Βρείτε έξυπνα προϊόντα για κάθε ανάγκη. Οικονομικές και πρακτικές λύσεις για κάθε σπίτι. (ΤΠ)</desc>
+    <category lang="el">Τηλεαγορές</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/868/176/040050709012000800_1792736519036_L.jpg" />
+  </programme>
+  <programme start="20261101123000 +0000" stop="20261101133000 +0000" channel="centertv.gr">
+    <title lang="el">Όλα για την Υγεία</title>
+    <desc lang="el">Εκπομπή σχετικά με θέματα υγείας.</desc>
+    <category lang="el">Υγεία - Wellbeing</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/872/580/040050709412000800_1792736628160_L.jpg" />
+  </programme>
+  <programme start="20261101133000 +0000" stop="20261101143000 +0000" channel="centertv.gr">
+    <title lang="el">Travel Guide</title>
+    <desc lang="el">Ταξιδεύουμε όλοι μαζί σε διάφορα μέρη σε όλον τον κόσμο, γνωρίζοντας νέους τόπους, νέους ανθρώπους και νέους πολιτισμούς. (ΤΠ)</desc>
+    <category lang="el">Τουριστικά - Ταξίδια</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/889/172/040035192112000800_1792737005243_L.jpg" />
+  </programme>
+  <programme start="20261101143000 +0000" stop="20261101153000 +0000" channel="centertv.gr">
+    <title lang="el">+δεσμοι</title>
+    <desc lang="el">Η Λιάνα Δουτσίνη παρουσιάζει θέματα που προβληματίζουν και απασχολούν την κοινωνία μας. Ειδικευμένοι επιστήμονες και άνθρωποι που έχουν καταξιωθεί στο χώρο τους, συζητούν και μοιράζονται μαζί μας γνώσεις, προτάσεις, σκέψεις και ιδέες.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/866/224/040050667112000800_1792736410060_L.jpg" />
+  </programme>
+  <programme start="20261101153000 +0000" stop="20261101163000 +0000" channel="centertv.gr">
+    <title lang="el">Δελτίο Ειδήσεων</title>
+    <desc lang="el">Με 4 Δελτία Ειδήσεων την ημέρα, ενημερωθείτε για όλα τα τελευταία νέα σε πανελλήνιο αλλά και σε τοπικό επίπεδο. Ζωντανές συνδέσεις και τηλεφωνικές επικοινωνίες.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/885/768/040050708312000800_1792736871884_L.jpg" />
+  </programme>
+  <programme start="20261101163000 +0000" stop="20261101173000 +0000" channel="centertv.gr">
+    <title lang="el">Center Πολιτισμός</title>
+    <desc lang="el">Εκπομπή.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/864/272/040050708612000800_1792736434019_L.jpg" />
+  </programme>
+  <programme start="20261101173000 +0000" stop="20261101183000 +0000" channel="centertv.gr">
+    <title lang="el">Persona Grata</title>
+    <desc lang="el">Προσωπικότητες που με το έργο τους έχουν επηρεάσει και διαμορφώσει τη σύγχρονη ιστορία του τόπου. Η εκπομπή καταγράφει την πορεία και το έργο δημιουργών από όλο το φάσμα των επιχειρήσεων, των τεχνών, των γραμμάτων και των επιστημών.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/893/76/040050667012000800_1792737037492_L.jpg" />
+  </programme>
+  <programme start="20261101183000 +0000" stop="20261101200000 +0000" channel="centertv.gr">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Με τέσσερα δελτία ειδήσεων την ημέρα, ενημερωθείτε για όλα τα τελευταία νέα σε πανελλήνιο αλλά και σε τοπικό επίπεδο. Ζωντανές συνδέσεις και τηλεφωνικές επικοινωνίες.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/900/408/040050708012000800_1792737140999_L.jpg" />
+  </programme>
+  <programme start="20261101200000 +0000" stop="20261101213000 +0000" channel="centertv.gr">
+    <title lang="el">Γιορτή Κάστανου</title>
+    <desc lang="el">Παραδοσιακές εορταστικές εκδηλώσεις αφιερωμένες στα κάστανα.</desc>
+    <category lang="el">Θεματικό</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/549/528/0400000053120008000000_1793123134473_L.jpg" />
+  </programme>
+  <programme start="20261101213000 +0000" stop="20261101223000 +0000" channel="centertv.gr">
+    <title lang="el">Νυχτερινό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Με τέσσερα δελτία ειδήσεων την ημέρα, ενημερωθείτε για όλα τα τελευταία νέα σε πανελλήνιο αλλά και σε τοπικό επίπεδο. Ζωντανές συνδέσεις και τηλεφωνικές επικοινωνίες.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/893/76/040050708412000800_1792736998033_L.jpg" />
   </programme>
   <programme start="20261026000000 +0200" stop="20261026060000 +0200" channel="axeloos.gr">
     <title lang="el">ACHELWOS</title>
@@ -41000,7 +41793,7 @@
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/302/488/040045104912000800_1792391537523_L.jpg" />
   </programme>
   <programme start="20261028050000 +0000" stop="20261028060000 +0000" channel="enachannel.gr">
-    <title lang="el">Δελτίο Ειδήσεων (Ε)</title>
+    <title lang="el">Δελτίο Ειδήσεων</title>
     <desc lang="el">Η δημοσιογραφική ομάδα του Ena Channel παρουσιάζει τις τοπικές και περιφερειακές ειδήσεις της Ανατολικής Μακεδονίας και Θράκης με αξιοπιστία και άποψη, με στόχο την πολύπλευρη ενημέρωση του κοινού.</desc>
     <category lang="el">Ειδήσεις</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/323/484/040047565012000800_1792391971941_L.jpg" />
@@ -41017,13 +41810,13 @@
     <category lang="el">Τηλεαγορές</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/308/344/040047564412000800_1792391584509_L.jpg" />
   </programme>
-  <programme start="20261028080000 +0000" stop="20261028110000 +0000" channel="enachannel.gr">
-    <title lang="el">Παρέλαση Καβάλας</title>
-    <desc lang="el">Παρέλαση 28ης Οκτωβρίου.</desc>
-    <category lang="el">Θεματικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/549/528/0400000053120008000000_1793123134473_L.jpg" />
+  <programme start="20261028080000 +0000" stop="20261028100000 +0000" channel="enachannel.gr">
+    <title lang="el">Πρώτο Θέμα</title>
+    <desc lang="el">Ο Άγγελος Τζέλιος, με όλο το επιτελείο του δημοσιογραφικού τμήματος του Ena Channel, ξεκινούν από νωρίς το πρωί να συλλέγουν και να μεταδίδουν κάθε φρέσκια είδηση και πληροφορία με έμφαση στην κοινωνία, την πολιτική και την οικονομία.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/302/488/040045104912000800_1792391537523_L.jpg" />
   </programme>
-  <programme start="20261028110000 +0000" stop="20261028120000 +0000" channel="enachannel.gr">
+  <programme start="20261028100000 +0000" stop="20261028120000 +0000" channel="enachannel.gr">
     <title lang="el">Smart Shop</title>
     <desc lang="el">Η καθημερινή ζώνη τηλεπωλήσεων, με προϊόντα που συνδυάζουν πρακτικότητα, καινοτομία και έξυπνες λύσεις για το σπίτι και την καθημερινότητα.</desc>
     <category lang="el">Τηλεαγορές</category>
@@ -41035,17 +41828,11 @@
     <category lang="el">Ειδήσεις</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/323/484/040047565012000800_1792391971941_L.jpg" />
   </programme>
-  <programme start="20261028123000 +0000" stop="20261028140000 +0000" channel="enachannel.gr">
-    <title lang="el">Παρέλαση Καβάλας</title>
-    <desc lang="el">Παρέλαση 28ης Οκτωβρίου.</desc>
-    <category lang="el">Θεματικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/549/528/0400000053120008000000_1793123134473_L.jpg" />
-  </programme>
-  <programme start="20261028140000 +0000" stop="20261028143000 +0000" channel="enachannel.gr">
-    <title lang="el">Παρέλαση Χρυσούπολης</title>
-    <desc lang="el">Παρέλαση 28ης Οκτωβρίου.</desc>
-    <category lang="el">Θεματικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/549/528/0400000053120008000000_1793123134473_L.jpg" />
+  <programme start="20261028123000 +0000" stop="20261028143000 +0000" channel="enachannel.gr">
+    <title lang="el">Αναλυτής</title>
+    <desc lang="el">Μαγκαζίνο με την επικαιρότητα σε πρώτο πλάνο. Aνοιχτές γραμμές επικοινωνίας με τους τηλεθεατές, συνεντεύξεις στο studio με πρόσωπα της επικαιρότητας που συζητούν, αναλύουν και σχολιάζουν τα επίκαιρα θέματα.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/329/340/040045105812000800_1792392061899_L.jpg" />
   </programme>
   <programme start="20261028143000 +0000" stop="20261028153000 +0000" channel="enachannel.gr">
     <title lang="el">Δελτίο Ειδήσεων</title>
@@ -41053,17 +41840,11 @@
     <category lang="el">Ειδήσεις</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/323/484/040047565012000800_1792391971941_L.jpg" />
   </programme>
-  <programme start="20261028153000 +0000" stop="20261028160000 +0000" channel="enachannel.gr">
-    <title lang="el">Παρέλαση Θάσου</title>
-    <desc lang="el">Παρέλαση 28ης Οκτωβρίου.</desc>
-    <category lang="el">Θεματικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/549/528/0400000053120008000000_1793123134473_L.jpg" />
-  </programme>
-  <programme start="20261028160000 +0000" stop="20261028163000 +0000" channel="enachannel.gr">
-    <title lang="el">Παρέλαση Ελευθερούπολης</title>
-    <desc lang="el">Παρέλαση 28ης Οκτωβρίου.</desc>
-    <category lang="el">Θεματικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/549/528/0400000053120008000000_1793123134473_L.jpg" />
+  <programme start="20261028153000 +0000" stop="20261028163000 +0000" channel="enachannel.gr">
+    <title lang="el">Παρέα με την Κυρία Στέλλα</title>
+    <desc lang="el">Η εκπομπή συνδυάζει τη μαγειρική, τη μόδα και τις συζητήσεις με τον κόσμο, δημιουργώντας ένα μοναδικό περιβάλλον που κάνει κάθε θεατή να αισθάνεται σαν να είναι μέρος της παρέας.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/306/892/040045104812000800_1792391587119_L.jpg" />
   </programme>
   <programme start="20261028163000 +0000" stop="20261028173000 +0000" channel="enachannel.gr">
     <title lang="el">Όλγα On Air</title>
@@ -41084,7 +41865,7 @@
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/323/484/040047565012000800_1792391971941_L.jpg" />
   </programme>
   <programme start="20261028193000 +0000" stop="20261028203000 +0000" channel="enachannel.gr">
-    <title lang="el">Κρυμμένοι Θησαυροί (Ε)</title>
+    <title lang="el">Κρυμμένοι Θησαυροί</title>
     <desc lang="el">Η Χριστίνα Νεφραίμ φιλοξενεί τους μάρτυρες της ιστορίας, της παράδοσης και του πολιτισμού μας. Γνωρίστε μοναδικά αξιοθέατα, εναλλακτικούς τρόπους τουρισμού, την μαγειρική, τα προϊόντα και τους κρυμμένους θησαυρούς του τόπου μας.</desc>
     <category lang="el">Ψυχαγωγική Εκπομπή</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/298/84/040045105012000800_1792391481720_L.jpg" />
@@ -41101,17 +41882,11 @@
     <category lang="el">Ειδήσεις</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/155/940/040047565012000800_1792475984077_L.jpg" />
   </programme>
-  <programme start="20261028233000 +0000" stop="20261029010000 +0000" channel="enachannel.gr">
-    <title lang="el">Παρέλαση Καβάλας (Ε)</title>
-    <desc lang="el">Παρέλαση 28ης Οκτωβρίου.</desc>
-    <category lang="el">Θεματικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/549/528/0400000053120008000000_1793123134473_L.jpg" />
-  </programme>
-  <programme start="20261029010000 +0000" stop="20261029013000 +0000" channel="enachannel.gr">
-    <title lang="el">Παρέλαση Χρυσούπολης (Ε)</title>
-    <desc lang="el">Παρέλαση 28ης Οκτωβρίου.</desc>
-    <category lang="el">Θεματικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/549/528/0400000053120008000000_1793123134473_L.jpg" />
+  <programme start="20261028233000 +0000" stop="20261029013000 +0000" channel="enachannel.gr">
+    <title lang="el">Αναλυτής</title>
+    <desc lang="el">Μαγκαζίνο με την επικαιρότητα σε πρώτο πλάνο. Aνοιχτές γραμμές επικοινωνίας με τους τηλεθεατές, συνεντεύξεις στο studio με πρόσωπα της επικαιρότητας που συζητούν, αναλύουν και σχολιάζουν τα επίκαιρα θέματα.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/176/936/040045105812000800_1792476434403_L.jpg" />
   </programme>
   <programme start="20261029013000 +0000" stop="20261029020000 +0000" channel="enachannel.gr">
     <title lang="el">Άνθρωποι</title>
@@ -41120,10 +41895,10 @@
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/194/1004/040045138712000800_1792476599493_L.jpg" />
   </programme>
   <programme start="20261029020000 +0000" stop="20261029050000 +0000" channel="enachannel.gr">
-    <title lang="el">Παρέλαση Καβάλας (Ε)</title>
-    <desc lang="el">Παρέλαση 28ης Οκτωβρίου.</desc>
-    <category lang="el">Θεματικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/549/528/0400000053120008000000_1793123134473_L.jpg" />
+    <title lang="el">Πρώτο Θέμα</title>
+    <desc lang="el">Ο Άγγελος Τζέλιος, με όλο το επιτελείο του δημοσιογραφικού τμήματος του Ena Channel, ξεκινούν από νωρίς το πρωί να συλλέγουν και να μεταδίδουν κάθε φρέσκια είδηση και πληροφορία με έμφαση στην κοινωνία, την πολιτική και την οικονομία.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/194/1004/040045104912000800_1792476636446_L.jpg" />
   </programme>
   <programme start="20261029050000 +0000" stop="20261029060000 +0000" channel="enachannel.gr">
     <title lang="el">Δελτίο Ειδήσεων</title>
@@ -77547,28 +78322,28 @@
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/153/988/040048814812000800_1792475999706_L.jpg" />
   </programme>
   <programme start="20261029130000 +0000" stop="20261029150000 +0000" channel="magentasport6.gr">
-    <title lang="el">Τένις: ATP 500 2026 (Ζ)</title>
-    <desc lang="el">Βασιλεία (Κυρίως Ταμπλό). Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Στέφανος Αβραμίδης.</desc>
+    <title lang="el">Τένις: Άλεξ Μίκελσεν - Αρτούρ Φις (Ζ)</title>
+    <desc lang="el">ATP 500 2026. Βασιλεία (Κυρίως Ταμπλό). Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Στέφανος Αβραμίδης.</desc>
     <category lang="el">Τένις</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/153/988/040048814812000800_1792475999706_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/253/480/040048814812000800_1793271137570_L.jpg" />
   </programme>
   <programme start="20261029150000 +0000" stop="20261029170000 +0000" channel="magentasport6.gr">
-    <title lang="el">Τένις: ATP 500 2026 (Ζ)</title>
-    <desc lang="el">Βασιλεία (Κυρίως Ταμπλό). Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Στέφανος Αβραμίδης.</desc>
+    <title lang="el">Τένις: Τέιλορ Φριτζ - Ντένις Σαποβάλοφ (Ζ)</title>
+    <desc lang="el">ATP 500 2026. Βασιλεία (Κυρίως Ταμπλό). Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Στέφανος Αβραμίδης.</desc>
     <category lang="el">Τένις</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/153/988/040048814812000800_1792475999706_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/253/480/040048814812000800_1793271137570_L.jpg" />
   </programme>
   <programme start="20261029170000 +0000" stop="20261029190000 +0000" channel="magentasport6.gr">
-    <title lang="el">Τένις: ATP 500 2026 (Ζ)</title>
-    <desc lang="el">Βασιλεία (Κυρίως Ταμπλό). Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Σωτήρης Κωσταβάρας.</desc>
+    <title lang="el">Τένις: Νόβακ Τζόκοβιτς - Γιαν Λέναρντ Στρουφ (Ζ)</title>
+    <desc lang="el">ATP 500 2026. Βασιλεία (Κυρίως Ταμπλό). Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Σωτήρης Κωσταβάρας.</desc>
     <category lang="el">Τένις</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/153/988/040048814812000800_1792475999706_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/253/480/040048814812000800_1793271137570_L.jpg" />
   </programme>
   <programme start="20261029190000 +0000" stop="20261029213000 +0000" channel="magentasport6.gr">
-    <title lang="el">Τένις: ATP 500 2026 (Ζ)</title>
-    <desc lang="el">Βασιλεία (Κυρίως Ταμπλό). Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Σωτήρης Κωσταβάρας.</desc>
+    <title lang="el">Τένις: Μπεν Σέλτον - Ζερόµ Κιμ (Ζ)</title>
+    <desc lang="el">ATP 500 2026. Βασιλεία (Κυρίως Ταμπλό). Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Σωτήρης Κωσταβάρας.</desc>
     <category lang="el">Τένις</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/153/988/040048814812000800_1792475999706_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/253/480/040048814812000800_1793271137570_L.jpg" />
   </programme>
   <programme start="20261029213000 +0000" stop="20261029220000 +0000" channel="magentasport6.gr">
     <title lang="el">Sports Classics: 2026 Outdoor Specials</title>
@@ -77674,13 +78449,13 @@
   </programme>
   <programme start="20261031140000 +0000" stop="20261031160000 +0000" channel="magentasport6.gr">
     <title lang="el">Τένις: ATP 500 2026 (Ζ)</title>
-    <desc lang="el">Βασιλεία (1ος Ημιτελικός). Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης.</desc>
+    <desc lang="el">Βασιλεία (1ος Ημιτελικός). Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Χρήστος Βασιλείου.</desc>
     <category lang="el">Τένις</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/105/988/040048814812000800_1792666900704_L.jpg" />
   </programme>
   <programme start="20261031160000 +0000" stop="20261031183000 +0000" channel="magentasport6.gr">
     <title lang="el">Τένις: ATP 500 2026 (Ζ)</title>
-    <desc lang="el">Βασιλεία (2ος Ημιτελικός). Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης.</desc>
+    <desc lang="el">Βασιλεία (2ος Ημιτελικός). Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Χρήστος Βασιλείου.</desc>
     <category lang="el">Τένις</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/105/988/040048814812000800_1792666900704_L.jpg" />
   </programme>
@@ -77740,7 +78515,7 @@
   </programme>
   <programme start="20261101143000 +0000" stop="20261101170000 +0000" channel="magentasport6.gr">
     <title lang="el">Τένις: ATP 500 2026 (Ζ)</title>
-    <desc lang="el">Βασιλεία (Τελικός). Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης.</desc>
+    <desc lang="el">Βασιλεία (Τελικός). Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Μαρίζα Γεωργίτση.</desc>
     <category lang="el">Τένις</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/870/128/040048814812000800_1792736466132_L.jpg" />
   </programme>
@@ -78063,16 +78838,16 @@
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/190/600/040054411112000800_1792476567077_L.jpg" />
   </programme>
   <programme start="20261029163000 +0000" stop="20261029190000 +0000" channel="magentasport7.gr">
-    <title lang="el">Τένις: ATP 500 2026 (Ζ)</title>
-    <desc lang="el">Βιέννη (Κυρίως Ταμπλό). Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Χρήστος Βασιλείου.</desc>
+    <title lang="el">Τένις: Αλεξάντερ Ζβέρεφ - Τάλον Γκρίκσπουρ (Ζ)</title>
+    <desc lang="el">ATP 500 2026. Βιέννη (Κυρίως Ταμπλό). Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Χρήστος Βασιλείου.</desc>
     <category lang="el">Τένις</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/153/988/040048814812000800_1792475999706_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/253/480/040048814812000800_1793271137570_L.jpg" />
   </programme>
   <programme start="20261029190000 +0000" stop="20261029213000 +0000" channel="magentasport7.gr">
-    <title lang="el">Τένις: ATP 500 2026 (Ζ)</title>
-    <desc lang="el">Βιέννη (Κυρίως Ταμπλό). Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Χρήστος Βασιλείου.</desc>
+    <title lang="el">Τένις: Φλάβιο Κομπόλι - Ματέο Μπερετίνι (Ζ)</title>
+    <desc lang="el">ATP 500 2026. Βιέννη (Κυρίως Ταμπλό). Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Χρήστος Βασιλείου.</desc>
     <category lang="el">Τένις</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/153/988/040048814812000800_1792475999706_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/253/480/040048814812000800_1793271137570_L.jpg" />
   </programme>
   <programme start="20261029213000 +0000" stop="20261029223000 +0000" channel="magentasport7.gr">
     <title lang="el">Magenta Sport 7</title>
@@ -78214,13 +78989,13 @@
   </programme>
   <programme start="20261031140000 +0000" stop="20261031160000 +0000" channel="magentasport7.gr">
     <title lang="el">Τένις: ATP 500 2026 (Ζ)</title>
-    <desc lang="el">Βιέννη (1ος Ημιτελικός). Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης.</desc>
+    <desc lang="el">Βιέννη (1ος Ημιτελικός). Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Πάνος Λούτας.</desc>
     <category lang="el">Τένις</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/105/988/040048814812000800_1792666900704_L.jpg" />
   </programme>
   <programme start="20261031160000 +0000" stop="20261031183000 +0000" channel="magentasport7.gr">
     <title lang="el">Τένις: ATP 500 2026 (Ζ)</title>
-    <desc lang="el">Βιέννη (2ος Ημιτελικός). Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης.</desc>
+    <desc lang="el">Βιέννη (2ος Ημιτελικός). Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Πάνος Λούτας.</desc>
     <category lang="el">Τένις</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/105/988/040048814812000800_1792666900704_L.jpg" />
   </programme>
@@ -78250,7 +79025,7 @@
   </programme>
   <programme start="20261101000000 +0000" stop="20261101023000 +0000" channel="magentasport7.gr">
     <title lang="el">Μπάσκετ: Γκόλντεν Στέιτ Βάλκιραϊς - Ατλάντα Ντριμ (Ζ)</title>
-    <desc lang="el">WNBA Finals 2026. 7ος Αγώνας.</desc>
+    <desc lang="el">WNBA Finals 2026. 7ος Αγώνας. Περιγραφή: Κυριάκος Κουρουτσαβούρης.</desc>
     <category lang="el">Μπάσκετ</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/900/408/0400460822004391180046474512000800_1792737146606_L.jpg" />
   </programme>
@@ -78304,7 +79079,7 @@
   </programme>
   <programme start="20261101130000 +0000" stop="20261101153000 +0000" channel="magentasport7.gr">
     <title lang="el">Τένις: ATP 500 2026 (Ζ)</title>
-    <desc lang="el">Βιέννη (Τελικός). Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης.</desc>
+    <desc lang="el">Βιέννη (Τελικός). Τα τουρνουά ATP 500 ανήκουν στην 4η βαθμίδα των ετήσιων διοργανώσεων τένις σε επίπεδο ανδρών. Η σειρά αυτή αποτελείται από 13 τουρνουά, με τον νικητή σε καθένα από αυτά να λαμβάνει 500 πόντους κατάταξης. Περιγραφή: Γιάννης Κυφωνίδης.</desc>
     <category lang="el">Τένις</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/870/128/040048814812000800_1792736466132_L.jpg" />
   </programme>
@@ -111661,7 +112436,7 @@
     <title lang="el">Το Μυστικό Όπλο</title>
     <desc lang="el">Κατά τη διάρκεια μιας απροσδόκητης και βιαστικής υποχώρησης των σοβιετικών στρατευμάτων, ο Κόκκινος Στρατός αναγκάζεται να αφήσει πίσω του το πιο πολύτιμο και απόρρητο όπλο του, τον θρυλικό εκτοξευτή ρουκετών 'Κατιούσα', ο οποίος κρατούνταν υπό άκρα μυστικότητα. (100')</desc>
     <category lang="el">Πολεμική</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/883/816/0400000083120008000000_1792736796043_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/547/76/040055690712000800_1793123107058_L.jpg" />
   </programme>
   <programme start="20261027025500 +0000" stop="20261027034500 +0000" channel="tv100.gr">
     <title lang="el">Αυτοκράτειρες στο Παλάτι Ε55</title>
@@ -111727,7 +112502,7 @@
     <title lang="el">Ο Β' Παγκόσμιος Πόλεμος σε Υψηλή Ανάλυση Ε4</title>
     <desc lang="el">Επεισόδιο: Σταθμοί Μάχης. Σειρά ντοκιμαντέρ ιστορικού περιεχομένου αμερικανικής παραγωγής 2001. Η παραγωγή συγκέντρωσε χιλιάδες ώρες σπάνιου, χαμένου έγχρωμου αρχειακού υλικού που βρέθηκε σε υπόγεια και ιδιωτικά αρχεία σε όλο τον κόσμο.</desc>
     <category lang="el">Ιστορικό - Πολεμικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/881/864/0400000042120008000000_1792736832746_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/550/4/040055690912000800_1793123114716_L.jpg" />
   </programme>
   <programme start="20261027120000 +0000" stop="20261027123000 +0000" channel="tv100.gr">
     <title lang="el">Γεγονότα στην TV100</title>
@@ -111811,7 +112586,7 @@
     <title lang="el">Ο Β' Παγκόσμιος Πόλεμος σε Υψηλή Ανάλυση</title>
     <desc lang="el">Επεισόδιο: 5. Σειρά ντοκιμαντέρ ιστορικού περιεχομένου αμερικανικής παραγωγής 2001. Η παραγωγή συγκέντρωσε χιλιάδες ώρες σπάνιου, χαμένου έγχρωμου αρχειακού υλικού που βρέθηκε σε υπόγεια και ιδιωτικά αρχεία σε όλο τον κόσμο.</desc>
     <category lang="el">Ιστορικό - Πολεμικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/881/864/0400000042120008000000_1792736832746_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/550/4/040055690912000800_1793123114716_L.jpg" />
   </programme>
   <programme start="20261027214500 +0000" stop="20261027220000 +0000" channel="tv100.gr">
     <title lang="el">Η Θεσσαλονίκη στους Αιώνες</title>
@@ -111877,7 +112652,7 @@
     <title lang="el">Σοφία Βέμπο: Παιδιά της Ελλάδος Παιδιά</title>
     <desc lang="el">Η Σοφία Βέμπο τραγουδά το εμβληματικό τραγούδι για την Ελληνική Αντίσταση κατά των Ιταλών 'Παιδιά της Ελλάδος Παιδιά'.</desc>
     <category lang="el">Θεματικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/871/604/0400000053120008000000_1792736530741_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/545/124/040055691112000800_1793123080930_L.jpg" />
   </programme>
   <programme start="20261028053000 +0000" stop="20261028055000 +0000" channel="tv100.gr">
     <title lang="el">Μπομπ ο Μάστορας Ε26</title>
@@ -111889,7 +112664,7 @@
     <title lang="el">Επίδοση Ιταλικού Τελεσιγράφου</title>
     <desc lang="el">Η επίδοση του Ιταλικού τελεσιγράφου στον Έλληνα Πρωθυπουργό Ιωάννη Μεταξά. Διαβάζει ο διακεκριμένος ηθοποιός Δημήτρης Ναζίρης.</desc>
     <category lang="el">Θεματικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/871/604/0400000053120008000000_1792736530741_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/547/576/040055691212000800_1793123108606_L.jpg" />
   </programme>
   <programme start="20261028060000 +0000" stop="20261028061500 +0000" channel="tv100.gr">
     <title lang="el">Εθνική Αντίσταση 1941-1944</title>
@@ -111901,25 +112676,25 @@
     <title lang="el">Ο Β' Παγκόσμιος Πόλεμος σε Υψηλή Ανάλυση Ε6</title>
     <desc lang="el">Επεισόδιο: Σημείο Χωρίς Επιστροφή. Σειρά ντοκιμαντέρ ιστορικού περιεχομένου αμερικανικής παραγωγής 2001. Η παραγωγή συγκέντρωσε χιλιάδες ώρες σπάνιου, χαμένου έγχρωμου αρχειακού υλικού που βρέθηκε σε υπόγεια και ιδιωτικά αρχεία σε όλο τον κόσμο.</desc>
     <category lang="el">Ιστορικό - Πολεμικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/881/864/0400000042120008000000_1792736832746_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/550/4/040055690912000800_1793123114716_L.jpg" />
   </programme>
   <programme start="20261028070500 +0000" stop="20261028071000 +0000" channel="tv100.gr">
     <title lang="el">Γιώργος Βαφόπουλος: Οι Πρώτες Ημέρες του Πολέμου του 1940</title>
     <desc lang="el">Ο κορυφαίος ποιητής, πεζογράφος, και ευεργέτης της Θεσσαλονίκης Γιώργος Βαφόπουλος μιλά στον Στέλιο Λουκά για το πώς έζησε ο ίδιος τις πρώτες ημέρες του πολέμου του 1940. Για τις ημέρες αυτές γράφει στο έργο του 'Σελίδες Αυτοβιογραφίας'.</desc>
     <category lang="el">Θεματικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/871/604/0400000053120008000000_1792736530741_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/547/576/040055691712000800_1793123163389_L.jpg" />
   </programme>
   <programme start="20261028071000 +0000" stop="20261028075500 +0000" channel="tv100.gr">
     <title lang="el">Ο Β' Παγκόσμιος Πόλεμος σε Υψηλή Ανάλυση Ε7</title>
     <desc lang="el">Επεισόδιο: Απόσταση Κρούσης. Σειρά ντοκιμαντέρ ιστορικού περιεχομένου αμερικανικής παραγωγής 2001. Η παραγωγή συγκέντρωσε χιλιάδες ώρες σπάνιου, χαμένου έγχρωμου αρχειακού υλικού που βρέθηκε σε υπόγεια και ιδιωτικά αρχεία σε όλο τον κόσμο.</desc>
     <category lang="el">Ιστορικό - Πολεμικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/881/864/0400000042120008000000_1792736832746_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/550/4/040055690912000800_1793123114716_L.jpg" />
   </programme>
   <programme start="20261028075500 +0000" stop="20261028080000 +0000" channel="tv100.gr">
     <title lang="el">Δημήτρης Ναζίρης: Έκκληση Διανοουμένων</title>
     <desc lang="el">Ο ηθοποιός Δημήτρης Ναζίρης διαβάζει την έκκληση των Ελλήνων διανοουμένων στις 10 Νοεμβρίου 1940. Η έκκληση αυτή απευθύνεται προς όλον τον κόσμο με στόχο να τον ευαισθητοποιήσει για τα Ελληνικά δίκαια.</desc>
     <category lang="el">Ιστορικό - Πολεμικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/881/864/0400000042120008000000_1792736832746_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/545/124/040055691312000800_1793123035993_L.jpg" />
   </programme>
   <programme start="20261028080000 +0000" stop="20261028100000 +0000" channel="tv100.gr">
     <title lang="el">Ντε Γκωλ</title>
@@ -111937,7 +112712,7 @@
     <title lang="el">Ο Β' Παγκόσμιος Πόλεμος σε Υψηλή Ανάλυση Ε6</title>
     <desc lang="el">Επεισόδιο: Σημείο Χωρίς Επιστροφή. Σειρά ντοκιμαντέρ ιστορικού περιεχομένου αμερικανικής παραγωγής 2001. Η παραγωγή συγκέντρωσε χιλιάδες ώρες σπάνιου, χαμένου έγχρωμου αρχειακού υλικού που βρέθηκε σε υπόγεια και ιδιωτικά αρχεία σε όλο τον κόσμο.</desc>
     <category lang="el">Ιστορικό - Πολεμικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/881/864/0400000042120008000000_1792736832746_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/550/4/040055690912000800_1793123114716_L.jpg" />
   </programme>
   <programme start="20261028110000 +0000" stop="20261028120500 +0000" channel="tv100.gr">
     <title lang="el">Thessaloniki Hub</title>
@@ -111949,13 +112724,13 @@
     <title lang="el">Ο Β' Παγκόσμιος Πόλεμος σε Υψηλή Ανάλυση Ε8</title>
     <desc lang="el">Επεισόδιο: Δόξα και Θάρρος. Σειρά ντοκιμαντέρ ιστορικού περιεχομένου αμερικανικής παραγωγής 2001. Η παραγωγή συγκέντρωσε χιλιάδες ώρες σπάνιου, χαμένου έγχρωμου αρχειακού υλικού που βρέθηκε σε υπόγεια και ιδιωτικά αρχεία σε όλο τον κόσμο.</desc>
     <category lang="el">Ιστορικό - Πολεμικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/881/864/0400000042120008000000_1792736832746_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/550/4/040055690912000800_1793123114716_L.jpg" />
   </programme>
   <programme start="20261028125000 +0000" stop="20261028130000 +0000" channel="tv100.gr">
     <title lang="el">Επίδοση Ιταλικού Τελεσιγράφου</title>
     <desc lang="el">Η επίδοση του Ιταλικού τελεσιγράφου στον Έλληνα Πρωθυπουργό Ιωάννη Μεταξά. Διαβάζει ο διακεκριμένος ηθοποιός Δημήτρης Ναζίρης.</desc>
     <category lang="el">Θεματικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/871/604/0400000053120008000000_1792736530741_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/547/576/040055691212000800_1793123108606_L.jpg" />
   </programme>
   <programme start="20261028130000 +0000" stop="20261028143000 +0000" channel="tv100.gr">
     <title lang="el">Ψωμί για Έναν Δραπέτη</title>
@@ -111979,7 +112754,7 @@
     <title lang="el">Απόδραση από τη Γερμανία</title>
     <desc lang="el">Το 1939, ο στρατός του Χίτλερ έκλεινε ξαφνικά τα σύνορα και εβδομήνα εννέα Αμερικανοί Μορμόνοι Ιεραπόστολοι που βρίσκονταν στη Γερμανία υπηρετώντας την εκκλησία τους, παγιδεύονται στην Γερμανία. (75')</desc>
     <category lang="el">Ιστορική</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/882/840/0400000115120008000000_1792736805455_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/546/100/040055691412000800_1793123026740_L.jpg" />
   </programme>
   <programme start="20261028180000 +0000" stop="20261028185000 +0000" channel="tv100.gr">
     <title lang="el">Γεγονότα στην TV100</title>
@@ -112009,7 +112784,7 @@
     <title lang="el">Ο Β' Παγκόσμιος Πόλεμος σε Υψηλή Ανάλυση Ε9</title>
     <desc lang="el">Επεισόδιο: Στο Χείλος της Αβύσσου. Σειρά ντοκιμαντέρ ιστορικού περιεχομένου αμερικανικής παραγωγής 2001. Η παραγωγή συγκέντρωσε χιλιάδες ώρες σπάνιου, χαμένου έγχρωμου αρχειακού υλικού που βρέθηκε σε υπόγεια και ιδιωτικά αρχεία σε όλο τον κόσμο.</desc>
     <category lang="el">Ιστορικό - Πολεμικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/881/864/0400000042120008000000_1792736832746_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/550/4/040055690912000800_1793123114716_L.jpg" />
   </programme>
   <programme start="20261028214500 +0000" stop="20261028220000 +0000" channel="tv100.gr">
     <title lang="el">Εθνική Αντίσταση 1941-1944</title>
@@ -112033,7 +112808,7 @@
     <title lang="el">Το Παιδί μιας Άλλης Μητέρας</title>
     <desc lang="el">Βασισμένο στην αληθινή ιστορία της Λουίζα Γκουλντ, το δράμα διαδραματίζεται κατά τη διάρκεια του Β' Παγκοσμίου Πολέμου, στο νησί Τζέρσεϊ που βρισκόταν υπό ναζιστική κατοχή. Η Λου πήρε κοντά της έναν Ρώσο αιχμάλωτο πολέμου που είχε δραπετεύσει και τον έκρυβε καθ' όλη τη διάρκεια του πολέμου. (120') (Μεταγλ.)</desc>
     <category lang="el">Πολεμική</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/883/816/0400000083120008000000_1792736796043_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/548/552/040055691812000800_1793123154187_L.jpg" />
   </programme>
   <programme start="20261029010000 +0000" stop="20261029025000 +0000" channel="tv100.gr">
     <title lang="el">Μεταξύ Εχθρών</title>
@@ -112105,7 +112880,7 @@
     <title lang="el">Ο Β' Παγκόσμιος Πόλεμος σε Υψηλή Ανάλυση Ε10</title>
     <desc lang="el">Επεισόδιο: Τέλος Παιχνιδιού. Σειρά ντοκιμαντέρ ιστορικού περιεχομένου αμερικανικής παραγωγής 2001. Η παραγωγή συγκέντρωσε χιλιάδες ώρες σπάνιου, χαμένου έγχρωμου αρχειακού υλικού που βρέθηκε σε υπόγεια και ιδιωτικά αρχεία σε όλο τον κόσμο.</desc>
     <category lang="el">Ιστορικό - Πολεμικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/881/864/0400000042120008000000_1792736832746_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/550/4/040055690912000800_1793123114716_L.jpg" />
   </programme>
   <programme start="20261029120000 +0000" stop="20261029123000 +0000" channel="tv100.gr">
     <title lang="el">Γεγονότα στην TV100</title>
