@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-29T12:03:08.033875+00:00",
+  "generated_at": "2026-10-29T16:39:26.566978+00:00",
   "demo": false,
   "channels": 164,
-  "programmes": 23510,
-  "programmes_with_images": 16782,
+  "programmes": 23508,
+  "programmes_with_images": 16781,
   "window": {
     "start": "2026-10-26T00:00:00+02:00",
     "stop": "2026-11-02T00:00:00+02:00"
@@ -36,10 +36,10 @@
   ],
   "channel_coverage": {
     "4e.gr": {
-      "programmes": 217,
-      "programmes_with_images": 217,
+      "programmes": 210,
+      "programmes_with_images": 210,
       "used_sources": {
-        "magentatv": 217
+        "magentatv": 210
       },
       "overlapping_or_duplicate_dropped": {
         "digea": 211,
@@ -61,11 +61,11 @@
           }
         },
         "2026-10-27": {
-          "programmes": 28,
+          "programmes": 21,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "magentatv": 28
+            "magentatv": 21
           }
         },
         "2026-10-28": {
@@ -331,17 +331,18 @@
       "coverage_status": "complete"
     },
     "alpha.gr": {
-      "programmes": 145,
-      "programmes_with_images": 145,
+      "programmes": 146,
+      "programmes_with_images": 146,
       "used_sources": {
-        "magentatv": 145
+        "magentatv": 146
       },
       "overlapping_or_duplicate_dropped": {
         "nova": 146,
-        "digea": 138
+        "digea": 138,
+        "alpha": 133
       },
-      "coverage_ratio": 1.0,
-      "max_gap_hours": 0.0,
+      "coverage_ratio": 0.995,
+      "max_gap_hours": 0.8333,
       "coverage_required": false,
       "coverage_by_date": {
         "2026-10-26": {
@@ -362,18 +363,18 @@
         },
         "2026-10-28": {
           "programmes": 22,
-          "coverage_ratio": 1.0,
-          "max_gap_hours": 0.0,
+          "coverage_ratio": 0.9653,
+          "max_gap_hours": 0.8333,
           "sources": {
             "magentatv": 22
           }
         },
         "2026-10-29": {
-          "programmes": 22,
+          "programmes": 23,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "magentatv": 22
+            "magentatv": 23
           }
         },
         "2026-10-30": {
@@ -560,7 +561,6 @@
         "magentatv": 129
       },
       "overlapping_or_duplicate_dropped": {
-        "magentatv": 1,
         "nova": 129,
         "digea": 129,
         "antenna": 139
@@ -921,12 +921,12 @@
     },
     "attica.gr": {
       "programmes": 161,
-      "programmes_with_images": 40,
+      "programmes_with_images": 42,
       "used_sources": {
         "digea": 161
       },
       "overlapping_or_duplicate_dropped": {
-        "magentatv": 62,
+        "magentatv": 117,
         "nova": 108
       },
       "coverage_ratio": 1.0,
@@ -1002,7 +1002,7 @@
       },
       "overlapping_or_duplicate_dropped": {
         "nova": 255,
-        "cyta": 1970,
+        "cyta": 2299,
         "cablenet": 2290
       },
       "coverage_ratio": 1.0,
@@ -1458,7 +1458,7 @@
         "cyta": 7
       },
       "overlapping_or_duplicate_dropped": {
-        "cyta": 102
+        "cyta": 101
       },
       "coverage_ratio": 1.0,
       "max_gap_hours": 0.0,
@@ -1982,10 +1982,10 @@
       "coverage_status": "complete"
     },
     "cytavisionsports1.cy": {
-      "programmes": 109,
+      "programmes": 111,
       "programmes_with_images": 0,
       "used_sources": {
-        "cyta": 109
+        "cyta": 111
       },
       "overlapping_or_duplicate_dropped": {
         "cablenet": 101
@@ -2043,11 +2043,11 @@
           }
         },
         "2026-11-01": {
-          "programmes": 15,
+          "programmes": 17,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "cyta": 15
+            "cyta": 17
           }
         }
       },
@@ -2126,10 +2126,10 @@
       "coverage_status": "complete"
     },
     "cytavisionsports3.cy": {
-      "programmes": 110,
+      "programmes": 111,
       "programmes_with_images": 0,
       "used_sources": {
-        "cyta": 110
+        "cyta": 111
       },
       "overlapping_or_duplicate_dropped": {
         "cablenet": 100
@@ -2187,11 +2187,11 @@
           }
         },
         "2026-11-01": {
-          "programmes": 16,
+          "programmes": 17,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "cyta": 16
+            "cyta": 17
           }
         }
       },
@@ -3080,10 +3080,10 @@
       "coverage_status": "complete"
     },
     "enachannel.gr": {
-      "programmes": 128,
-      "programmes_with_images": 128,
+      "programmes": 131,
+      "programmes_with_images": 131,
       "used_sources": {
-        "magentatv": 128
+        "magentatv": 131
       },
       "overlapping_or_duplicate_dropped": {
         "nova": 131,
@@ -3112,19 +3112,19 @@
           }
         },
         "2026-10-28": {
-          "programmes": 19,
+          "programmes": 21,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "magentatv": 19
+            "magentatv": 21
           }
         },
         "2026-10-29": {
-          "programmes": 20,
+          "programmes": 21,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "magentatv": 20
+            "magentatv": 21
           }
         },
         "2026-10-30": {
@@ -3379,7 +3379,7 @@
       "overlapping_or_duplicate_dropped": {
         "nova": 23,
         "cablenet": 87,
-        "cyta": 98
+        "cyta": 131
       },
       "coverage_ratio": 1.0,
       "max_gap_hours": 0.0,
@@ -3601,7 +3601,7 @@
         "nova": 117
       },
       "overlapping_or_duplicate_dropped": {
-        "cyta": 117,
+        "cyta": 116,
         "cablenet": 109
       },
       "coverage_ratio": 1.0,
@@ -3676,7 +3676,7 @@
         "nova": 116
       },
       "overlapping_or_duplicate_dropped": {
-        "cyta": 113,
+        "cyta": 112,
         "cablenet": 106
       },
       "coverage_ratio": 1.0,
@@ -5072,7 +5072,7 @@
         "magentatv": 161
       },
       "overlapping_or_duplicate_dropped": {
-        "cyta": 252,
+        "cyta": 287,
         "cablenet": 244
       },
       "coverage_ratio": 1.0,
@@ -9690,13 +9690,13 @@
       "coverage_status": "complete"
     },
     "sigma.cy": {
-      "programmes": 126,
+      "programmes": 124,
       "programmes_with_images": 0,
       "used_sources": {
-        "cyta": 126
+        "cyta": 124
       },
       "overlapping_or_duplicate_dropped": {
-        "cyta": 126,
+        "cyta": 124,
         "cablenet": 112
       },
       "coverage_ratio": 1.0,
@@ -9754,11 +9754,11 @@
           }
         },
         "2026-11-01": {
-          "programmes": 19,
+          "programmes": 17,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "cyta": 19
+            "cyta": 17
           }
         }
       },
