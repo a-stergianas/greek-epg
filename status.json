@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-29T16:39:26.566978+00:00",
+  "generated_at": "2026-10-29T16:43:52.594562+00:00",
   "demo": false,
-  "channels": 164,
-  "programmes": 23508,
-  "programmes_with_images": 16781,
+  "channels": 163,
+  "programmes": 22963,
+  "programmes_with_images": 16318,
   "window": {
     "start": "2026-10-26T00:00:00+02:00",
     "stop": "2026-11-02T00:00:00+02:00"
@@ -13,25 +13,15 @@
   "unavailable_event_channels": [],
   "missing_channels": [],
   "insufficient_coverage_channels": [
-    "onechannel.cy",
     "ant1sports2.gr"
   ],
   "insufficient_days": [
-    {
-      "channel_id": "onechannel.cy",
-      "date": "2026-10-27"
-    },
-    {
-      "channel_id": "onechannel.cy",
-      "date": "2026-11-01"
-    },
     {
       "channel_id": "ant1sports2.gr",
       "date": "2026-11-01"
     }
   ],
   "nonblocking_channels": [
-    "onechannel.cy",
     "ant1sports2.gr"
   ],
   "channel_coverage": {
@@ -3513,82 +3503,6 @@
           "max_gap_hours": 0.0,
           "sources": {
             "magentatv": 21
-          }
-        }
-      },
-      "coverage_status": "complete"
-    },
-    "euronews.gr": {
-      "programmes": 599,
-      "programmes_with_images": 599,
-      "used_sources": {
-        "magentatv": 599
-      },
-      "overlapping_or_duplicate_dropped": {
-        "nova": 329,
-        "cyta": 491,
-        "cablenet": 387
-      },
-      "coverage_ratio": 1.0,
-      "max_gap_hours": 0.0,
-      "coverage_required": false,
-      "collection_started_on": "2026-10-13",
-      "history_collection_started_on": "2026-10-21",
-      "coverage_by_date": {
-        "2026-10-26": {
-          "programmes": 83,
-          "coverage_ratio": 1.0,
-          "max_gap_hours": 0.0,
-          "sources": {
-            "magentatv": 83
-          }
-        },
-        "2026-10-27": {
-          "programmes": 77,
-          "coverage_ratio": 1.0,
-          "max_gap_hours": 0.0,
-          "sources": {
-            "magentatv": 77
-          }
-        },
-        "2026-10-28": {
-          "programmes": 76,
-          "coverage_ratio": 1.0,
-          "max_gap_hours": 0.0,
-          "sources": {
-            "magentatv": 76
-          }
-        },
-        "2026-10-29": {
-          "programmes": 77,
-          "coverage_ratio": 1.0,
-          "max_gap_hours": 0.0,
-          "sources": {
-            "magentatv": 77
-          }
-        },
-        "2026-10-30": {
-          "programmes": 78,
-          "coverage_ratio": 1.0,
-          "max_gap_hours": 0.0,
-          "sources": {
-            "magentatv": 78
-          }
-        },
-        "2026-10-31": {
-          "programmes": 100,
-          "coverage_ratio": 1.0,
-          "max_gap_hours": 0.0,
-          "sources": {
-            "magentatv": 100
-          }
-        },
-        "2026-11-01": {
-          "programmes": 108,
-          "coverage_ratio": 1.0,
-          "max_gap_hours": 0.0,
-          "sources": {
-            "magentatv": 108
           }
         }
       },
@@ -9018,77 +8932,80 @@
       },
       "coverage_status": "complete"
     },
-    "onechannel.cy": {
-      "programmes": 82,
-      "programmes_with_images": 0,
+    "onechannel.gr": {
+      "programmes": 136,
+      "programmes_with_images": 136,
       "used_sources": {
-        "cablenet": 82
+        "magentatv": 136
       },
-      "overlapping_or_duplicate_dropped": {},
-      "coverage_ratio": 0.7351,
-      "max_gap_hours": 21.0,
+      "overlapping_or_duplicate_dropped": {
+        "nova": 136,
+        "digea": 136
+      },
+      "coverage_ratio": 1.0,
+      "max_gap_hours": 0.0,
       "coverage_required": false,
       "collection_started_on": "2026-10-13",
       "history_collection_started_on": "2026-10-21",
       "coverage_by_date": {
         "2026-10-26": {
-          "programmes": 3,
-          "coverage_ratio": 0.75,
-          "max_gap_hours": 6.0,
+          "programmes": 19,
+          "coverage_ratio": 1.0,
+          "max_gap_hours": 0.0,
           "sources": {
-            "cablenet": 3
+            "magentatv": 19
           }
         },
         "2026-10-27": {
-          "programmes": 10,
-          "coverage_ratio": 0.6458,
-          "max_gap_hours": 6.0,
+          "programmes": 20,
+          "coverage_ratio": 1.0,
+          "max_gap_hours": 0.0,
           "sources": {
-            "cablenet": 10
+            "magentatv": 20
           }
         },
         "2026-10-28": {
-          "programmes": 18,
-          "coverage_ratio": 0.9167,
-          "max_gap_hours": 2.0,
+          "programmes": 19,
+          "coverage_ratio": 1.0,
+          "max_gap_hours": 0.0,
           "sources": {
-            "cablenet": 18
+            "magentatv": 19
           }
         },
         "2026-10-29": {
-          "programmes": 18,
-          "coverage_ratio": 0.9167,
-          "max_gap_hours": 2.0,
+          "programmes": 21,
+          "coverage_ratio": 1.0,
+          "max_gap_hours": 0.0,
           "sources": {
-            "cablenet": 18
+            "magentatv": 21
           }
         },
         "2026-10-30": {
-          "programmes": 18,
-          "coverage_ratio": 0.9167,
-          "max_gap_hours": 2.0,
+          "programmes": 19,
+          "coverage_ratio": 1.0,
+          "max_gap_hours": 0.0,
           "sources": {
-            "cablenet": 18
+            "magentatv": 19
           }
         },
         "2026-10-31": {
-          "programmes": 18,
-          "coverage_ratio": 0.875,
-          "max_gap_hours": 3.0,
+          "programmes": 22,
+          "coverage_ratio": 1.0,
+          "max_gap_hours": 0.0,
           "sources": {
-            "cablenet": 18
+            "magentatv": 22
           }
         },
         "2026-11-01": {
-          "programmes": 2,
-          "coverage_ratio": 0.125,
-          "max_gap_hours": 21.0,
+          "programmes": 21,
+          "coverage_ratio": 1.0,
+          "max_gap_hours": 0.0,
           "sources": {
-            "cablenet": 2
+            "magentatv": 21
           }
         }
       },
-      "coverage_status": "incomplete"
+      "coverage_status": "complete"
     },
     "openbeyond.gr": {
       "programmes": 114,
