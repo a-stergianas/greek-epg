@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-29T16:43:52.594562+00:00",
+  "generated_at": "2026-10-29T20:16:50.029383+00:00",
   "demo": false,
   "channels": 163,
-  "programmes": 22963,
-  "programmes_with_images": 16318,
+  "programmes": 22960,
+  "programmes_with_images": 16316,
   "window": {
     "start": "2026-10-26T00:00:00+02:00",
     "stop": "2026-11-02T00:00:00+02:00"
@@ -108,7 +108,7 @@
         "magentatv": 99
       },
       "overlapping_or_duplicate_dropped": {
-        "digea": 88,
+        "digea": 115,
         "nova": 99
       },
       "coverage_ratio": 1.0,
@@ -3584,10 +3584,10 @@
       "coverage_status": "complete"
     },
     "eurosport2.gr": {
-      "programmes": 116,
-      "programmes_with_images": 116,
+      "programmes": 114,
+      "programmes_with_images": 114,
       "used_sources": {
-        "nova": 116
+        "nova": 114
       },
       "overlapping_or_duplicate_dropped": {
         "cyta": 112,
@@ -3640,19 +3640,19 @@
           }
         },
         "2026-10-31": {
+          "programmes": 16,
+          "coverage_ratio": 1.0,
+          "max_gap_hours": 0.0,
+          "sources": {
+            "nova": 16
+          }
+        },
+        "2026-11-01": {
           "programmes": 17,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
             "nova": 17
-          }
-        },
-        "2026-11-01": {
-          "programmes": 18,
-          "coverage_ratio": 1.0,
-          "max_gap_hours": 0.0,
-          "sources": {
-            "nova": 18
           }
         }
       },
@@ -4029,7 +4029,7 @@
       },
       "overlapping_or_duplicate_dropped": {
         "nova": 310,
-        "cyta": 310,
+        "cyta": 312,
         "cablenet": 303
       },
       "coverage_ratio": 1.0,
@@ -9829,14 +9829,14 @@
       "coverage_status": "complete"
     },
     "sportfmtv1.gr": {
-      "programmes": 89,
+      "programmes": 88,
       "programmes_with_images": 0,
       "used_sources": {
-        "sportfmtv": 89
+        "sportfmtv": 88
       },
       "overlapping_or_duplicate_dropped": {},
-      "coverage_ratio": 1.0,
-      "max_gap_hours": 0.0,
+      "coverage_ratio": 0.9871,
+      "max_gap_hours": 1.6667,
       "coverage_required": false,
       "schedule_mode": "events",
       "off_air": false,
@@ -9871,20 +9871,20 @@
           "off_air": false
         },
         "2026-10-29": {
-          "programmes": 13,
-          "coverage_ratio": 1.0,
-          "max_gap_hours": 0.0,
+          "programmes": 12,
+          "coverage_ratio": 0.9514,
+          "max_gap_hours": 0.6667,
           "sources": {
-            "sportfmtv": 13
+            "sportfmtv": 12
           },
           "off_air": false
         },
         "2026-10-30": {
-          "programmes": 13,
-          "coverage_ratio": 1.0,
-          "max_gap_hours": 0.0,
+          "programmes": 12,
+          "coverage_ratio": 0.9583,
+          "max_gap_hours": 1.0,
           "sources": {
-            "sportfmtv": 13
+            "sportfmtv": 12
           },
           "off_air": false
         },
@@ -10418,7 +10418,7 @@
         "magentatv": 139
       },
       "overlapping_or_duplicate_dropped": {
-        "nova": 135,
+        "nova": 137,
         "digea": 133
       },
       "coverage_ratio": 1.0,

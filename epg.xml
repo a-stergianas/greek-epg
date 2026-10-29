@@ -46825,7 +46825,7 @@
   </programme>
   <programme start="20261031150000 +0000" stop="20261031153000 +0000" channel="eurosport1.gr">
     <title lang="el">Τρέιλ: GT World Series: Νότια Κορέα</title>
-    <desc lang="el">Μούγιου, 1η Ημέρα. Το Golden Trail World Series είναι μια διεθνής σειρά αγώνων ορεινού τρεξίματος βασισμένη σε σύστημα βαθμολογίας, η οποία περιλαμβάνει κάθε χρόνο διαφορετικούς κορυφαίους αγώνες.</desc>
+    <desc lang="el">Μούγιου, Ανασκόπηση. Το Golden Trail World Series είναι μια διεθνής σειρά αγώνων ορεινού τρεξίματος βασισμένη σε σύστημα βαθμολογίας, η οποία περιλαμβάνει κάθε χρόνο διαφορετικούς κορυφαίους αγώνες.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/05/11/06815298_2a67_4190_a49b_afffc82c10e7_xl.jpg" />
   </programme>
   <programme start="20261031153000 +0000" stop="20261031163000 +0000" channel="eurosport1.gr">
@@ -46843,12 +46843,12 @@
     <desc lang="el">Curling. Ημιτελικός Ανδρών, Οστράβα (Z). Παρακολουθήστε τους αγώνες του Ευρωπαϊκού Πρωταθλήματος Κέρλινγκ.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2021/11/18/2de97437-9b7a-4154-97b8-7fbd0890d091_stb_xl.jpg" />
   </programme>
-  <programme start="20261031193000 +0000" stop="20261031203000 +0000" channel="eurosport1.gr">
-    <title lang="el">Ευρωπαϊκό Πρωτάθλημα: Τσεχία</title>
-    <desc lang="el">Curling. Ημιτελικός Γυναικών, Οστράβα. Παρακολουθήστε τους αγώνες του Ευρωπαϊκού Πρωταθλήματος Κέρλινγκ.</desc>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2021/11/18/2de97437-9b7a-4154-97b8-7fbd0890d091_stb_xl.jpg" />
+  <programme start="20261031193000 +0000" stop="20261031210000 +0000" channel="eurosport1.gr">
+    <title lang="el">Γκραν Πρι</title>
+    <desc lang="el">Καλλιτεχνικό Πατινάζ. Αθλητική εκπομπή (Z).</desc>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2022/12/04/c7df022f-6342-47b6-b099-e9e116ba2c67_stb_xl.jpg" />
   </programme>
-  <programme start="20261031203000 +0000" stop="20261031211500 +0000" channel="eurosport1.gr">
+  <programme start="20261031210000 +0000" stop="20261031211500 +0000" channel="eurosport1.gr">
     <title lang="el">Γκραν Πρι</title>
     <desc lang="el">Καλλιτεχνικό Πατινάζ. Ανδρες, Ελεύθερο Πρόγραμμα.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2022/12/04/c7df022f-6342-47b6-b099-e9e116ba2c67_stb_xl.jpg" />
@@ -46910,7 +46910,7 @@
   </programme>
   <programme start="20261101161500 +0000" stop="20261101170000 +0000" channel="eurosport1.gr">
     <title lang="el">Ευρωπαϊκό Πρωτάθλημα: Τσεχία</title>
-    <desc lang="el">Curling. Ημιτελικός Ανδρών, Οστράβα. Παρακολουθήστε τους αγώνες του Ευρωπαϊκού Πρωταθλήματος Κέρλινγκ.</desc>
+    <desc lang="el">Curling. Τελικός Γυναικών, Οστράβα. Παρακολουθήστε τους αγώνες του Ευρωπαϊκού Πρωταθλήματος Κέρλινγκ.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2021/11/18/2de97437-9b7a-4154-97b8-7fbd0890d091_stb_xl.jpg" />
   </programme>
   <programme start="20261101170000 +0000" stop="20261101190000 +0000" channel="eurosport1.gr">
@@ -47388,12 +47388,7 @@
     <desc lang="el">Curling. Ανδρες, Φάση Ομίλων, Οστράβα (Z). Παρακολουθήστε τους αγώνες του Ευρωπαϊκού Πρωταθλήματος Κέρλινγκ.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2021/11/18/2de97437-9b7a-4154-97b8-7fbd0890d091_stb_xl.jpg" />
   </programme>
-  <programme start="20261031103000 +0000" stop="20261031113000 +0000" channel="eurosport2.gr">
-    <title lang="el">Home Nations Series</title>
-    <desc lang="el">Σνούκερ. Τελικός, Μπέλφαστ. Η διοργάνωση "Home Nations Series" περιλαμβάνει τα τουρνουά English Open, Northern Ireland Open, Scottish Open και Welsh Open.</desc>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2022/10/12/5e8829d2-27a2-4bd8-b250-40454dd58202_stb_xl.jpg" />
-  </programme>
-  <programme start="20261031113000 +0000" stop="20261031130000 +0000" channel="eurosport2.gr">
+  <programme start="20261031103000 +0000" stop="20261031130000 +0000" channel="eurosport2.gr">
     <title lang="el">Λιέγη-Μπαστόν-Λιέγη, Βέλγιο</title>
     <desc lang="el">Ποδηλασία. Ανδρες. Η παλαιότερη κούρσα των spring classics είναι γνωστή για τις ακραίες καιρικές συνθήκες που επικρατούν στις διαδρομές της και για τον ιδιαίτερα ορεινό χαρακτήρα της.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2024/04/17/7ebd86a4-6067-4d70-b6fa-62df2f34e6b4_stb_xl.jpg" />
@@ -47473,22 +47468,17 @@
     <desc lang="el">Curling. Τελικός Γυναικών, Οστράβα (Z). Παρακολουθήστε τους αγώνες του Ευρωπαϊκού Πρωταθλήματος Κέρλινγκ.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2021/11/18/2de97437-9b7a-4154-97b8-7fbd0890d091_stb_xl.jpg" />
   </programme>
-  <programme start="20261101110000 +0000" stop="20261101120000 +0000" channel="eurosport2.gr">
-    <title lang="el">Ευρωπαϊκό Πρωτάθλημα: Τσεχία</title>
-    <desc lang="el">Curling. Ημιτελικός Ανδρών, Οστράβα. Παρακολουθήστε τους αγώνες του Ευρωπαϊκού Πρωταθλήματος Κέρλινγκ.</desc>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2021/11/18/2de97437-9b7a-4154-97b8-7fbd0890d091_stb_xl.jpg" />
-  </programme>
-  <programme start="20261101120000 +0000" stop="20261101131500 +0000" channel="eurosport2.gr">
+  <programme start="20261101110000 +0000" stop="20261101123500 +0000" channel="eurosport2.gr">
     <title lang="el">Ο Γύρος της Λομβαρδίας</title>
     <desc lang="el">Ποδηλασία. Αθλητική εκπομπή. Παρακολουθήστε τον ιστορικό αυτό αγώνα που διεξάγεται στην Ιταλία από το 1905. Οι αγωνιζόμενοι ξεκινούν από την πόλη του Μιλάνο και ποδηλατούν έως το Κόμο.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/05/1b064d3a_d2c7_4b05_b57d_6332ca7a5e2f_stb_xl.jpg" />
   </programme>
-  <programme start="20261101131500 +0000" stop="20261101154500 +0000" channel="eurosport2.gr">
+  <programme start="20261101123500 +0000" stop="20261101151500 +0000" channel="eurosport2.gr">
     <title lang="el">Global Champions Tour: Μαρόκο</title>
     <desc lang="el">Ιππασία. Ραμπάτ (Z). 30 κορυφαίοι αθλητές υπερπήδησης εμποδίων διαγωνίζονται στο Global Champions Tour για ένα αξιοζήλευτο χρηματικό ποσό.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2021/08/09/5e4596f9-60cb-4258-98f5-1bec2095772e_stb_xl.jpg" />
   </programme>
-  <programme start="20261101154500 +0000" stop="20261101170000 +0000" channel="eurosport2.gr">
+  <programme start="20261101151500 +0000" stop="20261101170000 +0000" channel="eurosport2.gr">
     <title lang="el">Ο Γύρος της Λομβαρδίας</title>
     <desc lang="el">Ποδηλασία. Αθλητική εκπομπή. Παρακολουθήστε τον ιστορικό αυτό αγώνα που διεξάγεται στην Ιταλία από το 1905. Οι αγωνιζόμενοι ξεκινούν από την πόλη του Μιλάνο και ποδηλατούν έως το Κόμο.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/05/1b064d3a_d2c7_4b05_b57d_6332ca7a5e2f_stb_xl.jpg" />
@@ -89268,7 +89258,7 @@
   </programme>
   <programme start="20261031153000 +0000" stop="20261031173000 +0000" channel="novasports1.gr">
     <title lang="el">Φέγενορντ - Φορτούνα Σιτάρντ (Ζ) : Eredivisie 2026/27</title>
-    <desc lang="el">Eredivisie 2026/27. Απολαύστε τους αγώνες της ολλανδικής Eredivisie, μίας διοργάνωσης με δυναμικό κι επιθετικό στυλ παιχνιδιού που αναδεικνύει νέα ταλέντα και μελλοντικούς αστέρες του αθλήματος,.</desc>
+    <desc lang="el">Eredivisie 2026/27. Η Φέγενορντ (1η-24β), που προέρχεται από ισοπαλία 1-1 με την Άιντχoφεν εκτός, και η Φορτούνα Σιτάρντ (6η-18β), που επικράτησε με 1-0 της Εξέλσιορ εντός έδρας, συναντιούνται στην.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/28/332a8b8a_9c2e_4a6e_85f3_53b255fd1cbf_stb_xl.jpg" />
   </programme>
   <programme start="20261031173000 +0000" stop="20261031193000 +0000" channel="novasports1.gr">
@@ -89623,7 +89613,7 @@
   </programme>
   <programme start="20261031150000 +0000" stop="20261031170000 +0000" channel="novasports2.gr">
     <title lang="el">Χαλ - Ίπσουιτς (Z) : Premier League 2026/27</title>
-    <desc lang="el">Premier League 2026/27. Η Premier League, η κορυφαία κατηγορία του αγγλικού ποδοσφαίρου που καθηλώνει εκατομμύρια φιλάθλους, αποκλειστικά στο Novasports!</desc>
+    <desc lang="el">Premier League 2026/27. Η Χαλ (10η-10β) και η Ίπσουιτς (12η-10β) έρχονται αντιμέτωπες για την 9η αγωνιστική και προέρχονται από ισοπαλίες 1-1 στα εντός έδρας ματς με την Μπρέντφορντ και τη Νότιγχαμ.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/28/5e58ae67_4dac_401d_a492_6e81d070b5f2_xl.jpg" />
   </programme>
   <programme start="20261031170000 +0000" stop="20261031180000 +0000" channel="novasports2.gr">
@@ -89638,7 +89628,7 @@
   </programme>
   <programme start="20261031200000 +0000" stop="20261031220000 +0000" channel="novasports2.gr">
     <title lang="el">Άγιαξ - Άλκμααρ (Z) : Eredivisie 2026/27</title>
-    <desc lang="el">Eredivisie 2026/27. Απολαύστε τους αγώνες της ολλανδικής Eredivisie, μίας διοργάνωσης με δυναμικό κι επιθετικό στυλ παιχνιδιού που αναδεικνύει νέα ταλέντα και μελλοντικούς αστέρες του αθλήματος,.</desc>
+    <desc lang="el">Eredivisie 2026/27. Ο Άγιαξ (2ος-21β) πήρε δύσκολη νίκη με 2-1 στην έδρα της Σπάρτα Ρότερνταμ και φιλοξενεί στην 11η αγωνιστική της Eredivisie την Άλκμααρ (5η-20β), που έχει μία νίκη στα πέντε.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/28/fddd5a9c_9340_457c_800d_8779ae592223_xl.jpg" />
   </programme>
   <programme start="20261031220000 +0000" stop="20261101000000 +0000" channel="novasports2.gr">
@@ -89963,7 +89953,7 @@
   </programme>
   <programme start="20261031143000 +0000" stop="20261031163000 +0000" channel="novasports3.gr">
     <title lang="el">Λεβερκούζεν - Στουτγκάρδη (Ζ) : Bundesliga 2026/27</title>
-    <desc lang="el">Bundesliga 2026/27. Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες.</desc>
+    <desc lang="el">Bundesliga 2026/27. Η Λεβερκούζεν (4η-13β) υποδέχεται τη Στουτγκάρδη (15η-6β) στην 8η αγωνιστική, με τις δύο ομάδες να προέρχονται από ήττες κόντρα στη Χόφενχαϊμ εκτός με 3-0 και την Γκλάντμπαχ.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/28/f62c5b25_06ab_4c2c_a68e_2ee3db7798ec_xl.jpg" />
   </programme>
   <programme start="20261031163000 +0000" stop="20261031183000 +0000" channel="novasports3.gr">
@@ -90283,7 +90273,7 @@
   </programme>
   <programme start="20261031150000 +0000" stop="20261031170000 +0000" channel="novasports4.gr">
     <title lang="el">Μπόρνμουθ - Λιντς (Z) : Premier League 2026/27</title>
-    <desc lang="el">Premier League 2026/27. Η Premier League, η κορυφαία κατηγορία του αγγλικού ποδοσφαίρου που καθηλώνει εκατομμύρια φιλάθλους, αποκλειστικά στο Novasports!</desc>
+    <desc lang="el">Premier League 2026/27. Η Μπόρνμουθ (13η-9β), που πέτυχε εκτός έδρας νίκη με 3-0 επί της Μάντσεστερ Γιουνάιτεντ, και η Λιντς (7η-11β), που προέρχεται από δύο συνεχόμενες ισοπαλίες, έρχονται.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/28/d6971bb0_f0af_40b9_b6e3_773960de731d_stb_xl.jpg" />
   </programme>
   <programme start="20261031170000 +0000" stop="20261031190000 +0000" channel="novasports4.gr">
@@ -90298,7 +90288,7 @@
   </programme>
   <programme start="20261031193000 +0000" stop="20261031213000 +0000" channel="novasports4.gr">
     <title lang="el">Καρλσρούη - Χάιντενχαϊμ (Z) : 2.Bundesliga 2026/27</title>
-    <desc lang="el">2.Bundesliga 2026/27. Παρακολουθείτε αγώνες της Bundesliga 2, της δεύτερης κατηγορίας του γερμανικού πρωταθλήματος ποδοσφαίρου.</desc>
+    <desc lang="el">2.Bundesliga 2026/27. Η Καρλσρούη (17η-8β) φιλοξενεί τη Χάιντενχαϊμ (6η-15β) στη 10η αγωνιστική του πρωταθλήματος της δεύτερης κατηγορίας της Γερμανίας. Περιγραφή: Ακ. Κουζούλης</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/28/5a3e9072_90c5_41c1_9560_00e902afa8fa_xl.jpg" />
   </programme>
   <programme start="20261031213000 +0000" stop="20261031223000 +0000" channel="novasports4.gr">
@@ -90603,7 +90593,7 @@
   </programme>
   <programme start="20261031150000 +0000" stop="20261031170000 +0000" channel="novasports5.gr">
     <title lang="el">Κόβεντρι - Σάντερλαντ (Ζ) : Premier League 2026/27</title>
-    <desc lang="el">Premier League 2026/27. Η Premier League, η κορυφαία κατηγορία του αγγλικού ποδοσφαίρου που καθηλώνει εκατομμύρια φιλάθλους, αποκλειστικά στο Novasports!</desc>
+    <desc lang="el">Premier League 2026/27. Η Κόβεντρι (19η-6β), που είναι στην προτελευταία θέση μετά από δύο σερί ήττες, και η ουραγός Σάντερλαντ (20ή-5β), που ήρθε ισόπαλη 1-1 με τη Λιντς εντός, συναντιούνται στο.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/28/55cde923_d076_4411_b0d8_3a7ab4e5333c_stb_xl.jpg" />
   </programme>
   <programme start="20261031170000 +0000" stop="20261031190000 +0000" channel="novasports5.gr">
@@ -90933,7 +90923,7 @@
   </programme>
   <programme start="20261031143000 +0000" stop="20261031163000 +0000" channel="novasports6.gr">
     <title lang="el">Σάλκε - Λειψία (Ζ) : Bundesliga 2026/27</title>
-    <desc lang="el">Bundesliga 2026/27. Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες.</desc>
+    <desc lang="el">Bundesliga 2026/27. Η Σάλκε (16η-6β), που δεν έχει νίκη στα τέσσερα τελευταία παιχνίδια της, και η Λειψία (5η-12β), που πέτυχε άνετη νίκη με 4-0 επί της Έλβερσμπεργκ εντός έδρας, αναμετρώνται στην.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/28/0939e6a4_087f_4f44_b89a_d9c2c6238210_stb_xl.jpg" />
   </programme>
   <programme start="20261031163000 +0000" stop="20261031180000 +0000" channel="novasports6.gr">
@@ -91133,7 +91123,7 @@
   </programme>
   <programme start="20261031143000 +0000" stop="20261031163000 +0000" channel="novasportsextra1.gr">
     <title lang="el">Βέρντερ Βρέμης - Χόφενχαϊμ (Ζ) : Bundesliga 2026/27</title>
-    <desc lang="el">Bundesliga 2026/27. Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες.</desc>
+    <desc lang="el">Bundesliga 2026/27. Η Βέρντερ Βρέμης (6η-12β) και η Χόφενχαϊμ (10η-9β) αναμετρώνται στο πλαίσιο της 8ης αγωνιστικής και προέρχονται από νίκες απέναντι στη Μάιντς εκτός με 3-2 και τη Λεβερκούζεν.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/28/3e25c9a9_c21c_49f6_83c0_6e632b6e977e_stb_xl.jpg" />
   </programme>
   <programme start="20261031163000 +0000" stop="20261031220000 +0000" channel="novasportsextra1.gr">
@@ -91278,7 +91268,7 @@
   </programme>
   <programme start="20261031143000 +0000" stop="20261031163000 +0000" channel="novasportsextra2.gr">
     <title lang="el">Άουγκσμπουργκ - Φράιμπουργκ (Ζ) : Bundesliga 2026/27</title>
-    <desc lang="el">Bundesliga 2026/27. Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες.</desc>
+    <desc lang="el">Bundesliga 2026/27. Η Άουγκσμπουργκ (9η-9β), που έμεινε στο ισόπαλο 1-1 κόντρα στην Ουνιόν εντός, και η Φράιμπουργκ (3η-13β), που γνώρισε εντός έδρας ήττα με 3-1 από την Μπάγερν, έρχονται.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/28/76d0bd8d_0a1d_4bc6_b911_cc173f317687_xl.jpg" />
   </programme>
   <programme start="20261031163000 +0000" stop="20261031220000 +0000" channel="novasportsextra2.gr">
@@ -91423,7 +91413,7 @@
   </programme>
   <programme start="20261031143000 +0000" stop="20261031163000 +0000" channel="novasportsextra3.gr">
     <title lang="el">Γκλάντμπαχ - Πάντερμπορν (Ζ) : Bundesliga 2026/27</title>
-    <desc lang="el">Bundesliga 2026/27. Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες.</desc>
+    <desc lang="el">Bundesliga 2026/27. Η Γκλάντμπαχ (18η-3β) και η Πάντερμπορν (13η-8β) συναντιούνται για την 8η αγωνιστική και προέρχονται από νίκες στα ματς κόντρα στη Στουτγκάρδη εκτός με 3-2 και το Αμβούργο εντός.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/28/9d4b72be_82e0_459d_b061_224641a0633f_xl.jpg" />
   </programme>
   <programme start="20261031163000 +0000" stop="20261031220000 +0000" channel="novasportsextra3.gr">
@@ -92028,7 +92018,7 @@
   </programme>
   <programme start="20261031123000 +0000" stop="20261031143000 +0000" channel="novasportspremierleague.gr">
     <title lang="el">Τσέλσι - Μάντσεστερ Γ. (Ζ) : Premier League 2026/27</title>
-    <desc lang="el">Premier League 2026/27. Η Premier League, η κορυφαία κατηγορία του αγγλικού ποδοσφαίρου που καθηλώνει εκατομμύρια φιλάθλους, αποκλειστικά στο Novasports!</desc>
+    <desc lang="el">Premier League 2026/27. Η Τσέλσι (5η-13β) και η Μάντσεστερ Γ. (16η-7β) συναντιούνται στην 9η αγωνιστική και θέλουν τη νίκη μετά τις εντός έδρας ήττες απέναντι στην Τότεναμ με 2-0 και την Μπόρνμουθ.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/28/bf4c60cb_ad6e_4a98_b4ff_0d2533c7c451_xl.jpg" />
   </programme>
   <programme start="20261031143000 +0000" stop="20261031150000 +0000" channel="novasportspremierleague.gr">
@@ -92038,7 +92028,7 @@
   </programme>
   <programme start="20261031150000 +0000" stop="20261031170000 +0000" channel="novasportspremierleague.gr">
     <title lang="el">Μάντσεστερ Σίτι - Μπράιτον (Ζ) : Premier League 2026/27</title>
-    <desc lang="el">Premier League 2026/27. Η Premier League, η κορυφαία κατηγορία του αγγλικού ποδοσφαίρου που καθηλώνει εκατομμύρια φιλάθλους, αποκλειστικά στο Novasports!</desc>
+    <desc lang="el">Premier League 2026/27. Η Μάντσεστερ Σίτι (1η-21β) και η Μπράιτον (3η-16β) έρχονται αντιμέτωπες στην 9η αγωνιστική και θέλουν τη νίκη μετά τις ήττες στα εκτός έδρας ματς με την Άστον Βίλλα με 2-1.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/28/57525193_4798_4de9_897a_c0bf9024c03c_stb_xl.jpg" />
   </programme>
   <programme start="20261031170000 +0000" stop="20261031173000 +0000" channel="novasportspremierleague.gr">
@@ -92048,7 +92038,7 @@
   </programme>
   <programme start="20261031173000 +0000" stop="20261031193000 +0000" channel="novasportspremierleague.gr">
     <title lang="el">Τότεναμ - Κρίσταλ Πάλας (Ζ) : Premier League 2026/27</title>
-    <desc lang="el">Premier League 2026/27. Η Premier League, η κορυφαία κατηγορία του αγγλικού ποδοσφαίρου που καθηλώνει εκατομμύρια φιλάθλους, αποκλειστικά στο Novasports!</desc>
+    <desc lang="el">Premier League 2026/27. Η Τότεναμ (14η-9β), που πέτυχε την πρώτη της εκτός έδρας νίκη με 2-0 επί της Τσέλσι, και η Κρίσταλ Πάλας (17η-7β), που προέρχεται από δύο συνεχόμενες ήττες, συναντιούνται.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/28/ee3696a3_707d_4cb2_92c1_1ccdcb56d3d5_stb_xl.jpg" />
   </programme>
   <programme start="20261031193000 +0000" stop="20261031200000 +0000" channel="novasportspremierleague.gr">
@@ -92058,7 +92048,7 @@
   </programme>
   <programme start="20261031200000 +0000" stop="20261031220000 +0000" channel="novasportspremierleague.gr">
     <title lang="el">Άστον Βίλα - Φούλαμ (Ζ) : Premier League 2026/27</title>
-    <desc lang="el">Premier League 2026/27. Η Premier League, η κορυφαία κατηγορία του αγγλικού ποδοσφαίρου που καθηλώνει εκατομμύρια φιλάθλους, αποκλειστικά στο Novasports!</desc>
+    <desc lang="el">Premier League 2026/27. Η Άστον Βίλα (9η-11β) υποδέχεται τη Φούλαμ (15η-8β) για την 9η αγωνιστική, με τις δύο ομάδες να προέρχονται από νίκες απέναντι στη Μάντσεστερ Σίτι εντός έδρας και την.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/28/1023d122_1fae_4fc0_87ca_0d976f1e54f6_xl.jpg" />
   </programme>
   <programme start="20261031220000 +0000" stop="20261101000000 +0000" channel="novasportspremierleague.gr">
@@ -92493,7 +92483,7 @@
   </programme>
   <programme start="20261031173000 +0000" stop="20261031193000 +0000" channel="novasportsprime.gr">
     <title lang="el">Μπάγερν Μονάχου - Ντόρτμουντ (Ζ) : Bundesliga 2026/27</title>
-    <desc lang="el">Bundesliga 2026/27. Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες.</desc>
+    <desc lang="el">Bundesliga 2026/27. Η Μπάγερν (1η-17β) προέρχεται από νίκη με 3-1 στο Φράιμπουργκ και υποδέχεται στη μάχη κορυφής της 8ης αγωνιστικής την Ντόρτμουντ (2η-17β), που επικράτησε με σκορ 1-0 της Άιντραχτ.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/28/4c13fe89_796c_4178_a7f1_2f18637f1a49_stb_xl.jpg" />
   </programme>
   <programme start="20261031193000 +0000" stop="20261031210000 +0000" channel="novasportsprime.gr">
@@ -92918,7 +92908,7 @@
   </programme>
   <programme start="20261031150000 +0000" stop="20261031170000 +0000" channel="novasportsstart.gr">
     <title lang="el">Μπρέντφορντ - Νότιγχαμ Φόρεστ (Ζ) : Premier League 2026/27</title>
-    <desc lang="el">Premier League 2026/27. Η Premier League, η κορυφαία κατηγορία του αγγλικού ποδοσφαίρου που καθηλώνει εκατομμύρια φιλάθλους, αποκλειστικά στο Novasports!</desc>
+    <desc lang="el">Premier League 2026/27. Η Μπρέντφορντ (6η-11β) και η Νότιγχαμ Φόρεστ (18η-6β) έρχονται αντιμέτωπες στην 9η αγωνιστική και προέρχονται από εκτός έδρας ισοπαλίες με σκορ 1-1 κόντρα στη Χαλ και την.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/28/adeb2c66_8370_4534_906d_46ad5c4b8fd6_stb_xl.jpg" />
   </programme>
   <programme start="20261031170000 +0000" stop="20261031174500 +0000" channel="novasportsstart.gr">
@@ -92928,7 +92918,7 @@
   </programme>
   <programme start="20261031174500 +0000" stop="20261031194500 +0000" channel="novasportsstart.gr">
     <title lang="el">Άιντχoφεν - Βίλεμ (Ζ) : Eredivisie 2026/27</title>
-    <desc lang="el">Eredivisie 2026/27. Απολαύστε τους αγώνες της ολλανδικής Eredivisie, μίας διοργάνωσης με δυναμικό κι επιθετικό στυλ παιχνιδιού που αναδεικνύει νέα ταλέντα και μελλοντικούς αστέρες του αθλήματος,.</desc>
+    <desc lang="el">Eredivisie 2026/27. Η Άιντχoφεν (3η-20β) θέλει να επιστρέψει στα νικηφόρα αποτελέσματα και συναντά στην 11η αγωνιστική της Eredivisie την ουραγό της βαθμολογίας Βίλεμ (18η-2β), που δεν έχει πετύχει.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/28/f3095f36_1013_4a86_8822_5c04441fee1b_xl.jpg" />
   </programme>
   <programme start="20261031194500 +0000" stop="20261031214500 +0000" channel="novasportsstart.gr">
@@ -102960,11 +102950,7 @@
     <title lang="el">Βόλος – Ατρόμητος (LIVE)</title>
     <desc lang="el">Superbet Κύπελλο Ελλάδας · Πέμπτη 29/10, 18:00 · Ζωντανά</desc>
   </programme>
-  <programme start="20261029183000 +0000" stop="20261029210000 +0000" channel="sportfmtv1.gr">
-    <title lang="el">ΠΑΟΚ – ΑΕΚ</title>
-    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
-  </programme>
-  <programme start="20261029210000 +0000" stop="20261029230000 +0000" channel="sportfmtv1.gr">
+  <programme start="20261029190000 +0000" stop="20261029212000 +0000" channel="sportfmtv1.gr">
     <title lang="el">BALL BOYS (LIVE)</title>
     <desc lang="el">Εκπομπή</desc>
   </programme>
