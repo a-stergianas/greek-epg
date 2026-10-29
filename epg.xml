@@ -300,6 +300,9 @@
   <channel id="mega.gr">
     <display-name lang="el">MEGA</display-name>
   </channel>
+  <channel id="meganews.gr">
+    <display-name lang="el">MEGA News</display-name>
+  </channel>
   <channel id="moviesbest.cy">
     <display-name lang="el">Movies Best HD</display-name>
   </channel>
@@ -3410,17 +3413,17 @@
     <category lang="el">Δραματική</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/331/140/040054926412000800_1792583422001_L.jpg" />
   </programme>
-  <programme start="20261027220000 +0000" stop="20261027233000 +0000" channel="alpha.gr">
+  <programme start="20261027225000 +0000" stop="20261027234500 +0000" channel="alpha.gr">
+    <title lang="el">Tracker Κ2 Ε16</title>
+    <desc lang="el">Επεισόδιο: The Mercy Seat. Ο Κόλτερ βοηθά έναν παλιό φίλο με την αποστολή έρευνας και διάσωσης δύο αγνοούμενων αδερφών.</desc>
+    <category lang="el">Δραματική</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/962/616/040041165912000800_1793167333998_L.jpg" />
+  </programme>
+  <programme start="20261027234500 +0000" stop="20261028010000 +0000" channel="alpha.gr">
     <title lang="el">Μια Γυναίκα Ε7 (Ε)</title>
     <desc lang="el">Η Μαρίνα σε απόλυτο πανικό, ξυπνάει τον Μάρκο και του ζητά βοήθεια. Μαζί αρχίζουν να ψάχνουν τα παιδιά, σ' όλες τις Τζιτζιφιές. Η Ελένη κάνει το ίδιο απ' την πλευρά της. Τα παιδιά άφαντα. Εκείνα προσανατολίζονται με τις γραμμές του τρένου και φτάνουν στο σταθμό.</desc>
     <category lang="el">Δραματική</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/331/640/040053990512000800_1792583498150_L.jpg" />
-  </programme>
-  <programme start="20261027233000 +0000" stop="20261028010000 +0000" channel="alpha.gr">
-    <title lang="el">Tracker Κ2</title>
-    <desc lang="el">Ο μοναχικός επιβιωτιστής Colter Shaw περιπλανιέται σε όλη τη χώρα επιζητώντας τη δικαίωση. Χρησιμοποιώντας τις ιδιαίτερες ικανότητές του στον εντοπισμό, βοηθά απλούς ανθρώπους αλλά και την αστυνομία στην επίλυση όλων των ειδών μυστηρίων.</desc>
-    <category lang="el">Δραματική</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/330/664/040041165912000800_1792583513315_L.jpg" />
   </programme>
   <programme start="20261028010000 +0000" stop="20261028014500 +0000" channel="alpha.gr">
     <title lang="el">Αληθινοί Έρωτες Κ1 Ε12 (Ε)</title>
@@ -4368,7 +4371,7 @@
     <title lang="el">ΜΕ ΑΓΑΠΗ ΧΡΙΣΤΙΑΝΑ (E) Κ11 ΕΠ11</title>
   </programme>
   <programme start="20261031040000 +0000" stop="20261031051000 +0000" channel="alpha.cy">
-    <title lang="el">60' ΕΛΛΑΔΑ (E) Κ2 ΕΠ8</title>
+    <title lang="el">60' ΕΛΛΑΔΑ (E) Κ3 ΕΠ8</title>
   </programme>
   <programme start="20261031051000 +0000" stop="20261031061500 +0000" channel="alpha.cy">
     <title lang="el">ΕΠΤΑ ΘΑΝΑΣΙΜΕΣ ΠΕΘΕΡΕΣ (E) Κ1 ΕΠ58</title>
@@ -4428,7 +4431,7 @@
     <title lang="el">ΣΑΒΒΑΤΟΚΥΡΙΑΚΟ ΜΕ ΤΟΝ ΜΑΝΕΣΗ (E) Κ10 ΕΠ7</title>
   </programme>
   <programme start="20261101040000 +0000" stop="20261101051000 +0000" channel="alpha.cy">
-    <title lang="el">60' ΕΛΛΑΔΑ (E) Κ2 ΕΠ8</title>
+    <title lang="el">60' ΕΛΛΑΔΑ (E) Κ3 ΕΠ8</title>
   </programme>
   <programme start="20261101051000 +0000" stop="20261101061500 +0000" channel="alpha.cy">
     <title lang="el">ΕΠΤΑ ΘΑΝΑΣΙΜΕΣ ΠΕΘΕΡΕΣ (E) Κ1 ΕΠ58</title>
@@ -81149,6 +81152,936 @@
     <category lang="el">Κωμωδία</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/886/244/040040505212000800_1792736934111_L.jpg" />
   </programme>
+  <programme start="20261025220000 +0000" stop="20261025232000 +0000" channel="meganews.gr">
+    <title lang="el">Prive</title>
+    <desc lang="el">Επεισόδιο: Πασχάλης Τερζής. Η Έλενα Κατρίτση υποδεχόταν τους τηλεθεατές του MEGA κάθε εβδομάδα στις πιο PRIVΕ τηλεοπτικές συναντήσεις, προβάλλοντας ό,τι καλύτερο είχε να παρουσιάσει η εγχώρια και διεθνής showbiz της εποχής.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/111/648/040052385512000800_1792282988078_L.jpg" />
+  </programme>
+  <programme start="20261025232000 +0000" stop="20261026003000 +0000" channel="meganews.gr">
+    <title lang="el">Ανατροπή</title>
+    <desc lang="el">Επεισόδιο: Φώφη Γεννηματά. Η εκπομπή με άξονα την επικαιρότητα, παρακολουθεί τις εξελίξεις και φωτίζει όλες τις πλευρές τους. Τα πρόσωπα, τα στοιχεία, τα γεγονότα, οι απόψεις και τα μεγάλα ζητήματα της ελληνικής κοινωνίας. Με σαφές ερώτημα. Με αντικρουόμενες απαντήσεις. Χωρίς φλυαρίες. Χωρίς γενικότητες. Με αποκαλύψεις.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/85/772/040007135712000800_1792282350345_L.jpg" />
+  </programme>
+  <programme start="20261026003000 +0000" stop="20261026013000 +0000" channel="meganews.gr">
+    <title lang="el">Πάμε μια Βόλτα; (Ε)</title>
+    <desc lang="el">Επεισόδιο: Δήμητρα Γαλάνη. Σήμερα, η Νίκη Λυμπεράκη ακολουθεί τη Δήμητρα Γαλάνη, μία από τις σημαντικότερες προσωπικότητες της ελληνικής μουσικής, σε μια διαδρομή γεμάτη πρόσωπα, τόπους και μουσικές που σημάδεψαν τη ζωή και την πορεία της.</desc>
+    <category lang="el">Συνέντευξη</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/98/460/040050829712000800_1792282672274_L.jpg" />
+  </programme>
+  <programme start="20261026013000 +0000" stop="20261026021000 +0000" channel="meganews.gr">
+    <title lang="el">Vita News (Ε)</title>
+    <desc lang="el">Η Νόνη Δούνια με τη συμβολή ειδικών, μας ενημερώνει, για όλα όσα αφορούν την πρόληψη, τη σωστή διατροφή, την ψυχική ισορροπία και τις νέες τάσεις στην ιατρική επιστήμη.</desc>
+    <category lang="el">Υγεία - Wellbeing</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/95/532/040046732012000800_1792282602961_L.jpg" />
+  </programme>
+  <programme start="20261026021000 +0000" stop="20261026030000 +0000" channel="meganews.gr">
+    <title lang="el">Mega News Cosmos (Ε)</title>
+    <desc lang="el">Τα μεγάλα θέματα από τη διεθνή επικαιρότητα που απασχόλησαν την κοινωνία και όσα αναμένεται να έρθουν στο επίκεντρο, παρουσιάζονται και αναλύονται στο studio του MEGA News Cosmos.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/117/1004/040043607812000800_1792283031593_L.jpg" />
+  </programme>
+  <programme start="20261026030000 +0000" stop="20261026033000 +0000" channel="meganews.gr">
+    <title lang="el">Ιστορίες του Τόπου μας</title>
+    <desc lang="el">Άνθρωποι από όλα τα μέρη της Ελλάδας μιλούν για τον τόπο, τα έθιμα και τις ιστορίες τους, που συνδέονται με τον τόπο που γεννήθηκαν ή κατοικούν. Ένα ταξίδι σε ιστορίες που μας ανάθρεψαν στο παρελθόν και μας καθοδηγούν μέχρι το μέλλον.</desc>
+    <category lang="el">Ιστορικό - Πολεμικό</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/92/604/040039300712000800_1792282631852_L.jpg" />
+  </programme>
+  <programme start="20261026033000 +0000" stop="20261026034000 +0000" channel="meganews.gr">
+    <title lang="el">Vita News</title>
+    <desc lang="el">Η Νόνη Δούνια με τη συμβολή ειδικών, μας ενημερώνει, για όλα όσα αφορούν την πρόληψη, τη σωστή διατροφή, την ψυχική ισορροπία και τις νέες τάσεις στην ιατρική επιστήμη.</desc>
+    <category lang="el">Υγεία - Wellbeing</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/95/532/040046732012000800_1792282602961_L.jpg" />
+  </programme>
+  <programme start="20261026034000 +0000" stop="20261026074000 +0000" channel="meganews.gr">
+    <title lang="el">Κοινωνία Ώρα MEGA</title>
+    <desc lang="el">Το επιτυχημένο δίδυμο μας μεταφέρει για ακόμα μια χρονιά με άποψη, αμεσότητα αλλά και χιούμορ την πρώτη ολοκληρωμένη εικόνα της επικαιρότητα της ημέρας και όλων των θεμάτων που μας απασχολούν.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/91/628/040054177512000800_1792282507395_L.jpg" />
+  </programme>
+  <programme start="20261026074000 +0000" stop="20261026100500 +0000" channel="meganews.gr">
+    <title lang="el">Morning Point</title>
+    <desc lang="el">Η πρωινή ενημερωτική εκπομπή του MEGA News, Morning Point, δίνει το στίγμα της ημέρας με εγκυρότητα και ανάλυση σε βάθος. Καθημερινά, οι δημοσιογράφοι Ανδρέας Παπαδόπουλος και Μαρία Αστερίου φέρνουν στο προσκήνιο τις σημαντικότερες εξελίξεις από την Ελλάδα και τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/106/268/040043608412000800_1792282836244_L.jpg" />
+  </programme>
+  <programme start="20261026100500 +0000" stop="20261026101000 +0000" channel="meganews.gr">
+    <title lang="el">Mega News in English</title>
+    <desc lang="el">Οι σημαντικότερες ειδήσεις από την Ελλάδα και τον Κόσμο, παρουσιάζονται από το Mega News, σε ένα σύντομο δελτίο ειδήσεων στην Αγγλική γλώσσα.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/124/336/040043663612000800_1792283051613_L.jpg" />
+  </programme>
+  <programme start="20261026101000 +0000" stop="20261026104500 +0000" channel="meganews.gr">
+    <title lang="el">Οικονομικός Ταχυδρόμος</title>
+    <desc lang="el">Η οικονομία στο προσκήνιο. Όλες οι οικονομικές ειδήσεις από την Ελλάδα και τον κόσμο παρουσιάζονται και αναλύονται με τη σφραγίδα του Οικονομικού Ταχυδρόμου. Επιχειρήσεις, χρηματιστηριακά νέα, τράπεζες, ενέργεια, επενδύσεις αλλά και όλα όσα επηρεάζουν την τσέπη μας.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/109/196/040043608512000800_1792282873149_L.jpg" />
+  </programme>
+  <programme start="20261026104500 +0000" stop="20261026114000 +0000" channel="meganews.gr">
+    <title lang="el">Μεσημβρινό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Τα γεγονότα στις πραγματικές τους διαστάσεις. Όλες οι εξελίξεις στην ελληνική και διεθνή επικαιρότητα την ώρα που συμβαίνουν. Το πρώτο δελτίο ειδήσεων της ημέρας που δίνει ψύχραιμα και αντικειμενικά μια ολοκληρωμένη εικόνα όλων των σημαντικών ειδήσεων.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/119/956/040043660512000800_1792283019573_L.jpg" />
+  </programme>
+  <programme start="20261026114000 +0000" stop="20261026120000 +0000" channel="meganews.gr">
+    <title lang="el">Δελτίο Νοηματικής</title>
+    <desc lang="el">Οι σημαντικότερες ειδήσεις της ημέρας από την Ελλάδα και τον κόσμο.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/121/908/040043660612000800_1792283055820_L.jpg" />
+  </programme>
+  <programme start="20261026120000 +0000" stop="20261026134000 +0000" channel="meganews.gr">
+    <title lang="el">Now</title>
+    <desc lang="el">Το καθημερινό magazino 'Now' είναι μια δυναμική, ζωντανή τηλεοπτική εκπομπή. Παρέχει έναν συνδυασμό ροής, έκτακτων ειδήσεων, εις βάθος ανάλυσης των επίκαιρων γεγονότων, στοιχεία lifestyle αλλά και διαδραστικής συμμετοχής του κοινού.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/110/672/040043608312000800_1792282939676_L.jpg" />
+  </programme>
+  <programme start="20261026134000 +0000" stop="20261026163000 +0000" channel="meganews.gr">
+    <title lang="el">Live News</title>
+    <desc lang="el">Ο Νίκος Ευαγγελάτος ανοίγει ξανά παράθυρο στον κόσμο, φιλτράροντας τις εξελίξεις με τη ματιά της εμπειρίας και της ευθύνης. Διατηρώντας τη γνώριμη πλέον ταυτότητά του και παραμένοντας συντονισμένο με τις απαιτήσεις της εποχής, το 'Live News' συνεχίζει να καινοτομεί.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/89/176/040053995012000800_1792282400006_L.jpg" />
+  </programme>
+  <programme start="20261026163000 +0000" stop="20261026165000 +0000" channel="meganews.gr">
+    <title lang="el">Οικονομικός Ταχυδρόμος</title>
+    <desc lang="el">Η οικονομία στο προσκήνιο. Όλες οι οικονομικές ειδήσεις από την Ελλάδα και τον κόσμο παρουσιάζονται και αναλύονται με τη σφραγίδα του Οικονομικού Ταχυδρόμου. Επιχειρήσεις, χρηματιστηριακά νέα, τράπεζες, ενέργεια, επενδύσεις αλλά και όλα όσα επηρεάζουν την τσέπη μας.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/109/196/040043608512000800_1792282873149_L.jpg" />
+  </programme>
+  <programme start="20261026165000 +0000" stop="20261026170000 +0000" channel="meganews.gr">
+    <title lang="el">Mega News in English</title>
+    <desc lang="el">Οι σημαντικότερες ειδήσεις από την Ελλάδα και τον Κόσμο, παρουσιάζονται από το Mega News, σε ένα σύντομο δελτίο ειδήσεων στην Αγγλική γλώσσα.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/124/336/040043663612000800_1792283051613_L.jpg" />
+  </programme>
+  <programme start="20261026170000 +0000" stop="20261026173000 +0000" channel="meganews.gr">
+    <title lang="el">Mega Sports News</title>
+    <desc lang="el">Η αθλητική είδηση θέλει και συζήτηση! Και άποψη! Γι' αυτό η δυνατή ομάδα της αθλητικής διεύθυνσης του MEGA θα είναι καθημερινά στο MEGA NEWS. Για να σας ενημερώνει, να σας εξηγεί, αλλά κυρίως να τοποθετείται στα γεγονότα! Με τους πιο δυνατούς του είδους.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/110/172/040045768012000800_1792282895047_L.jpg" />
+  </programme>
+  <programme start="20261026173000 +0000" stop="20261026174500 +0000" channel="meganews.gr">
+    <title lang="el">Weather News</title>
+    <desc lang="el">Το καθημερινό δελτίο καιρού του MEGA NEWS προσφέρει έγκυρη, αναλυτική και κατανοητή ενημέρωση για τις καιρικές συνθήκες στην Ελλάδα και τον κόσμο. Με την Ελίνα Καρέτσου.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/95/532/040047245612000800_1792282605207_L.jpg" />
+  </programme>
+  <programme start="20261026174500 +0000" stop="20261026183000 +0000" channel="meganews.gr">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Κάθε σημαντικό γεγονός που ενδιαφέρει τους πολίτες από την Ελλάδα και τον κόσμο κάθε βράδυ είναι MEGA ΓΕΓΟΝΟΤΑ. Η δημοσιογραφική ομάδα του MEGA ερευνά, παρουσιάζει, αναλύει και σχολιάζει την πραγματικότητα με αμεσότητα, αξιοπιστία, εγκυρότητα, χωρίς εντυπωσιασμούς.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/100/412/040043660412000800_1792282716636_L.jpg" />
+  </programme>
+  <programme start="20261026183000 +0000" stop="20261026195000 +0000" channel="meganews.gr">
+    <title lang="el">MEGA News Talk</title>
+    <desc lang="el">Πολιτικό talk show με τον Τάκη Χατζή. Κορυφαία στελέχη της πολιτικής ζωής απαντούν στις ερωτήσεις του δημοσιογράφου.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/117/1004/040043608112000800_1792283029883_L.jpg" />
+  </programme>
+  <programme start="20261026195000 +0000" stop="20261026200000 +0000" channel="meganews.gr">
+    <title lang="el">Weather News</title>
+    <desc lang="el">Το καθημερινό δελτίο καιρού του MEGA NEWS προσφέρει έγκυρη, αναλυτική και κατανοητή ενημέρωση για τις καιρικές συνθήκες στην Ελλάδα και τον κόσμο. Με την Ελίνα Καρέτσου.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/95/532/040047245612000800_1792282605207_L.jpg" />
+  </programme>
+  <programme start="20261026200000 +0000" stop="20261026220000 +0000" channel="meganews.gr">
+    <title lang="el">Mega News Επικαιρότητα</title>
+    <desc lang="el">Ένα δίωρο γεμάτο με ενημέρωση. Ένα δυναμικό δελτίο ειδήσεων, με την υπογραφή του MEGA, που καταγράφει και παρουσιάζει όλα τα μεγάλα θέματα της επικαιρότητας με έρευνα, ανάλυση αλλά και σχολιασμό. Μετά το δελτίο ακολουθεί talk show με τους πρωταγωνιστές των εξελίξεων.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/106/268/040047198612000800_1792282831832_L.jpg" />
+  </programme>
+  <programme start="20261026220000 +0000" stop="20261026231000 +0000" channel="meganews.gr">
+    <title lang="el">MEGA News Reportaz</title>
+    <desc lang="el">Το 'MEGA News Reportaz' είναι μια δυναμική playlist με τις πιο σημαντικές και ενδιαφέρουσες ειδήσεις. Μέσα στη ροή του προγράμματος, οι τηλεθεατές έχουν την ευκαιρία να παρακολουθήσουν αναλυτικά ρεπορτάζ που καλύπτουν ποικίλα θέματα της επικαιρότητας, με την εγκυρότητα του MEGA News.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/820/132/040043607912000800_1792357177784_L.jpg" />
+  </programme>
+  <programme start="20261026231000 +0000" stop="20261026235000 +0000" channel="meganews.gr">
+    <title lang="el">Vidcast</title>
+    <desc lang="el">Παραγωγές - συνεντεύξεις από το In.gr και το OT.</desc>
+    <category lang="el">Συνέντευξη</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/821/608/040048427912000800_1792357114879_L.jpg" />
+  </programme>
+  <programme start="20261026235000 +0000" stop="20261027005000 +0000" channel="meganews.gr">
+    <title lang="el">Τελευταία Σελίδα</title>
+    <desc lang="el">Επεισόδιο: Δημήτρης Μητροπάνος. Ενημερωτική εκπομπή από το αρχείο του MEGA με τον Σταύρο Θεοδωράκη.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/819/656/040053077112000800_1792357105918_L.jpg" />
+  </programme>
+  <programme start="20261027005000 +0000" stop="20261027012000 +0000" channel="meganews.gr">
+    <title lang="el">Vidcast</title>
+    <desc lang="el">Παραγωγές - συνεντεύξεις από το In.gr και το OT.</desc>
+    <category lang="el">Συνέντευξη</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/821/608/040048427912000800_1792357114879_L.jpg" />
+  </programme>
+  <programme start="20261027012000 +0000" stop="20261027030000 +0000" channel="meganews.gr">
+    <title lang="el">Now (Ε)</title>
+    <desc lang="el">Το καθημερινό magazino 'Now' είναι μια δυναμική, ζωντανή τηλεοπτική εκπομπή. Παρέχει έναν συνδυασμό ροής, έκτακτων ειδήσεων, εις βάθος ανάλυσης των επίκαιρων γεγονότων, στοιχεία lifestyle αλλά και διαδραστικής συμμετοχής του κοινού.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/110/672/040043608312000800_1792282939676_L.jpg" />
+  </programme>
+  <programme start="20261027030000 +0000" stop="20261027033000 +0000" channel="meganews.gr">
+    <title lang="el">Ιστορίες του Τόπου μας</title>
+    <desc lang="el">Άνθρωποι από όλα τα μέρη της Ελλάδας μιλούν για τον τόπο, τα έθιμα και τις ιστορίες τους, που συνδέονται με τον τόπο που γεννήθηκαν ή κατοικούν. Ένα ταξίδι σε ιστορίες που μας ανάθρεψαν στο παρελθόν και μας καθοδηγούν μέχρι το μέλλον.</desc>
+    <category lang="el">Ιστορικό - Πολεμικό</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/92/604/040039300712000800_1792282631852_L.jpg" />
+  </programme>
+  <programme start="20261027033000 +0000" stop="20261027034000 +0000" channel="meganews.gr">
+    <title lang="el">Vita News</title>
+    <desc lang="el">Η Νόνη Δούνια με τη συμβολή ειδικών, μας ενημερώνει, για όλα όσα αφορούν την πρόληψη, τη σωστή διατροφή, την ψυχική ισορροπία και τις νέες τάσεις στην ιατρική επιστήμη.</desc>
+    <category lang="el">Υγεία - Wellbeing</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/95/532/040046732012000800_1792282602961_L.jpg" />
+  </programme>
+  <programme start="20261027034000 +0000" stop="20261027074000 +0000" channel="meganews.gr">
+    <title lang="el">Κοινωνία Ώρα MEGA</title>
+    <desc lang="el">Το επιτυχημένο δίδυμο μας μεταφέρει για ακόμα μια χρονιά με άποψη, αμεσότητα αλλά και χιούμορ την πρώτη ολοκληρωμένη εικόνα της επικαιρότητα της ημέρας και όλων των θεμάτων που μας απασχολούν.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/91/628/040054177512000800_1792282507395_L.jpg" />
+  </programme>
+  <programme start="20261027074000 +0000" stop="20261027100500 +0000" channel="meganews.gr">
+    <title lang="el">Morning Point</title>
+    <desc lang="el">Η πρωινή ενημερωτική εκπομπή του MEGA News, Morning Point, δίνει το στίγμα της ημέρας με εγκυρότητα και ανάλυση σε βάθος. Καθημερινά, οι δημοσιογράφοι Ανδρέας Παπαδόπουλος και Μαρία Αστερίου φέρνουν στο προσκήνιο τις σημαντικότερες εξελίξεις από την Ελλάδα και τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/106/268/040043608412000800_1792282836244_L.jpg" />
+  </programme>
+  <programme start="20261027100500 +0000" stop="20261027101000 +0000" channel="meganews.gr">
+    <title lang="el">Mega News in English</title>
+    <desc lang="el">Οι σημαντικότερες ειδήσεις από την Ελλάδα και τον Κόσμο, παρουσιάζονται από το Mega News, σε ένα σύντομο δελτίο ειδήσεων στην Αγγλική γλώσσα.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/124/336/040043663612000800_1792283051613_L.jpg" />
+  </programme>
+  <programme start="20261027101000 +0000" stop="20261027104500 +0000" channel="meganews.gr">
+    <title lang="el">Οικονομικός Ταχυδρόμος</title>
+    <desc lang="el">Η οικονομία στο προσκήνιο. Όλες οι οικονομικές ειδήσεις από την Ελλάδα και τον κόσμο παρουσιάζονται και αναλύονται με τη σφραγίδα του Οικονομικού Ταχυδρόμου. Επιχειρήσεις, χρηματιστηριακά νέα, τράπεζες, ενέργεια, επενδύσεις αλλά και όλα όσα επηρεάζουν την τσέπη μας.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/109/196/040043608512000800_1792282873149_L.jpg" />
+  </programme>
+  <programme start="20261027104500 +0000" stop="20261027114000 +0000" channel="meganews.gr">
+    <title lang="el">Μεσημβρινό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Τα γεγονότα στις πραγματικές τους διαστάσεις. Όλες οι εξελίξεις στην ελληνική και διεθνή επικαιρότητα την ώρα που συμβαίνουν. Το πρώτο δελτίο ειδήσεων της ημέρας που δίνει ψύχραιμα και αντικειμενικά μια ολοκληρωμένη εικόνα όλων των σημαντικών ειδήσεων.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/119/956/040043660512000800_1792283019573_L.jpg" />
+  </programme>
+  <programme start="20261027114000 +0000" stop="20261027120000 +0000" channel="meganews.gr">
+    <title lang="el">Δελτίο Νοηματικής</title>
+    <desc lang="el">Οι σημαντικότερες ειδήσεις της ημέρας από την Ελλάδα και τον κόσμο.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/121/908/040043660612000800_1792283055820_L.jpg" />
+  </programme>
+  <programme start="20261027120000 +0000" stop="20261027134000 +0000" channel="meganews.gr">
+    <title lang="el">Now</title>
+    <desc lang="el">Το καθημερινό magazino 'Now' είναι μια δυναμική, ζωντανή τηλεοπτική εκπομπή. Παρέχει έναν συνδυασμό ροής, έκτακτων ειδήσεων, εις βάθος ανάλυσης των επίκαιρων γεγονότων, στοιχεία lifestyle αλλά και διαδραστικής συμμετοχής του κοινού.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/110/672/040043608312000800_1792282939676_L.jpg" />
+  </programme>
+  <programme start="20261027134000 +0000" stop="20261027163000 +0000" channel="meganews.gr">
+    <title lang="el">Live News</title>
+    <desc lang="el">Ο Νίκος Ευαγγελάτος ανοίγει ξανά παράθυρο στον κόσμο, φιλτράροντας τις εξελίξεις με τη ματιά της εμπειρίας και της ευθύνης. Διατηρώντας τη γνώριμη πλέον ταυτότητά του και παραμένοντας συντονισμένο με τις απαιτήσεις της εποχής, το 'Live News' συνεχίζει να καινοτομεί.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/89/176/040053995012000800_1792282400006_L.jpg" />
+  </programme>
+  <programme start="20261027163000 +0000" stop="20261027165000 +0000" channel="meganews.gr">
+    <title lang="el">Οικονομικός Ταχυδρόμος</title>
+    <desc lang="el">Η οικονομία στο προσκήνιο. Όλες οι οικονομικές ειδήσεις από την Ελλάδα και τον κόσμο παρουσιάζονται και αναλύονται με τη σφραγίδα του Οικονομικού Ταχυδρόμου. Επιχειρήσεις, χρηματιστηριακά νέα, τράπεζες, ενέργεια, επενδύσεις αλλά και όλα όσα επηρεάζουν την τσέπη μας.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/109/196/040043608512000800_1792282873149_L.jpg" />
+  </programme>
+  <programme start="20261027165000 +0000" stop="20261027170000 +0000" channel="meganews.gr">
+    <title lang="el">Mega News in English</title>
+    <desc lang="el">Οι σημαντικότερες ειδήσεις από την Ελλάδα και τον Κόσμο, παρουσιάζονται από το Mega News, σε ένα σύντομο δελτίο ειδήσεων στην Αγγλική γλώσσα.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/124/336/040043663612000800_1792283051613_L.jpg" />
+  </programme>
+  <programme start="20261027170000 +0000" stop="20261027173000 +0000" channel="meganews.gr">
+    <title lang="el">Mega Sports News</title>
+    <desc lang="el">Η αθλητική είδηση θέλει και συζήτηση! Και άποψη! Γι' αυτό η δυνατή ομάδα της αθλητικής διεύθυνσης του MEGA θα είναι καθημερινά στο MEGA NEWS. Για να σας ενημερώνει, να σας εξηγεί, αλλά κυρίως να τοποθετείται στα γεγονότα! Με τους πιο δυνατούς του είδους.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/110/172/040045768012000800_1792282895047_L.jpg" />
+  </programme>
+  <programme start="20261027173000 +0000" stop="20261027174500 +0000" channel="meganews.gr">
+    <title lang="el">Weather News</title>
+    <desc lang="el">Το καθημερινό δελτίο καιρού του MEGA NEWS προσφέρει έγκυρη, αναλυτική και κατανοητή ενημέρωση για τις καιρικές συνθήκες στην Ελλάδα και τον κόσμο. Με την Ελίνα Καρέτσου.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/95/532/040047245612000800_1792282605207_L.jpg" />
+  </programme>
+  <programme start="20261027174500 +0000" stop="20261027183000 +0000" channel="meganews.gr">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Κάθε σημαντικό γεγονός που ενδιαφέρει τους πολίτες από την Ελλάδα και τον κόσμο κάθε βράδυ είναι MEGA ΓΕΓΟΝΟΤΑ. Η δημοσιογραφική ομάδα του MEGA ερευνά, παρουσιάζει, αναλύει και σχολιάζει την πραγματικότητα με αμεσότητα, αξιοπιστία, εγκυρότητα, χωρίς εντυπωσιασμούς.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/100/412/040043660412000800_1792282716636_L.jpg" />
+  </programme>
+  <programme start="20261027183000 +0000" stop="20261027193000 +0000" channel="meganews.gr">
+    <title lang="el">MEGA News Talk</title>
+    <desc lang="el">Πολιτικό talk show με τον Τάκη Χατζή. Κορυφαία στελέχη της πολιτικής ζωής απαντούν στις ερωτήσεις του δημοσιογράφου.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/117/1004/040043608112000800_1792283029883_L.jpg" />
+  </programme>
+  <programme start="20261027193000 +0000" stop="20261027210000 +0000" channel="meganews.gr">
+    <title lang="el">Πόλο: Ολυμπιακός - Γιαντράν (Ζ)</title>
+    <desc lang="el">Champions League Ανδρών 2026-27. 2η αγωνιστική. Ο Ολυμπιακός θέλει να κάνει το 2 στα 2 στη φάση των ομίλων της κορυφαίας διοργάνωσης απέναντι στην Γιαντράν Ερτσεγκ Νόβι. Στην πρεμιέρα, οι νταμπλούχοι Ελλάδας είχαν επικρατήσει με σκορ 17-10 του Ανόβερου στην Γερμανία.</desc>
+    <category lang="el">Πόλο</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/546/600/040036450212000800_1793123029071_L.jpg" />
+  </programme>
+  <programme start="20261027210000 +0000" stop="20261027220000 +0000" channel="meganews.gr">
+    <title lang="el">Mega News Επικαιρότητα</title>
+    <desc lang="el">Ένα δίωρο γεμάτο με ενημέρωση. Ένα δυναμικό δελτίο ειδήσεων, με την υπογραφή του MEGA, που καταγράφει και παρουσιάζει όλα τα μεγάλα θέματα της επικαιρότητας με έρευνα, ανάλυση αλλά και σχολιασμό. Μετά το δελτίο ακολουθεί talk show με τους πρωταγωνιστές των εξελίξεων.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/106/268/040047198612000800_1792282831832_L.jpg" />
+  </programme>
+  <programme start="20261027220000 +0000" stop="20261027231000 +0000" channel="meganews.gr">
+    <title lang="el">MEGA News Reportaz</title>
+    <desc lang="el">Το 'MEGA News Reportaz' είναι μια δυναμική playlist με τις πιο σημαντικές και ενδιαφέρουσες ειδήσεις. Μέσα στη ροή του προγράμματος, οι τηλεθεατές έχουν την ευκαιρία να παρακολουθήσουν αναλυτικά ρεπορτάζ που καλύπτουν ποικίλα θέματα της επικαιρότητας, με την εγκυρότητα του MEGA News.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/319/80/040043607912000800_1792391913809_L.jpg" />
+  </programme>
+  <programme start="20261027231000 +0000" stop="20261027235000 +0000" channel="meganews.gr">
+    <title lang="el">Vidcast</title>
+    <desc lang="el">Παραγωγές - συνεντεύξεις από το In.gr και το OT.</desc>
+    <category lang="el">Συνέντευξη</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/314/700/040048427912000800_1792391826304_L.jpg" />
+  </programme>
+  <programme start="20261027235000 +0000" stop="20261028005000 +0000" channel="meganews.gr">
+    <title lang="el">Εμπόλεμη Ζώνη</title>
+    <desc lang="el">Επεισόδιο: Το Τέλος της Ανθρωπότητας. Με σπάνιες εικόνες, αποκαλυπτικές μαρτυρίες και ντοκουμέντα, ο δημιουργός και οι συντελεστές της σειράς, αφηγούνται κινηματογραφικά την περιπέτεια των ανθρώπων που βρίσκονται εγκλωβισμένοι στη δίνη μεγάλων κρίσεων.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/301/12/040036629812000800_1792391542568_L.jpg" />
+  </programme>
+  <programme start="20261028005000 +0000" stop="20261028012000 +0000" channel="meganews.gr">
+    <title lang="el">Vidcast</title>
+    <desc lang="el">Παραγωγές - συνεντεύξεις από το In.gr και το OT.</desc>
+    <category lang="el">Συνέντευξη</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/314/700/040048427912000800_1792391826304_L.jpg" />
+  </programme>
+  <programme start="20261028012000 +0000" stop="20261028030000 +0000" channel="meganews.gr">
+    <title lang="el">Now (Ε)</title>
+    <desc lang="el">Το καθημερινό magazino 'Now' είναι μια δυναμική, ζωντανή τηλεοπτική εκπομπή. Παρέχει έναν συνδυασμό ροής, έκτακτων ειδήσεων, εις βάθος ανάλυσης των επίκαιρων γεγονότων, στοιχεία lifestyle αλλά και διαδραστικής συμμετοχής του κοινού.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/319/580/040043608312000800_1792391841166_L.jpg" />
+  </programme>
+  <programme start="20261028030000 +0000" stop="20261028033000 +0000" channel="meganews.gr">
+    <title lang="el">Ιστορίες του Τόπου μας</title>
+    <desc lang="el">Άνθρωποι από όλα τα μέρη της Ελλάδας μιλούν για τον τόπο, τα έθιμα και τις ιστορίες τους, που συνδέονται με τον τόπο που γεννήθηκαν ή κατοικούν. Ένα ταξίδι σε ιστορίες που μας ανάθρεψαν στο παρελθόν και μας καθοδηγούν μέχρι το μέλλον.</desc>
+    <category lang="el">Ιστορικό - Πολεμικό</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/329/840/040039300712000800_1792392089458_L.jpg" />
+  </programme>
+  <programme start="20261028033000 +0000" stop="20261028034000 +0000" channel="meganews.gr">
+    <title lang="el">Vita News</title>
+    <desc lang="el">Η Νόνη Δούνια με τη συμβολή ειδικών, μας ενημερώνει, για όλα όσα αφορούν την πρόληψη, τη σωστή διατροφή, την ψυχική ισορροπία και τις νέες τάσεις στην ιατρική επιστήμη.</desc>
+    <category lang="el">Υγεία - Wellbeing</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/301/512/040046732012000800_1792391530281_L.jpg" />
+  </programme>
+  <programme start="20261028034000 +0000" stop="20261028074000 +0000" channel="meganews.gr">
+    <title lang="el">Κοινωνία Ώρα MEGA</title>
+    <desc lang="el">Το επιτυχημένο δίδυμο μας μεταφέρει για ακόμα μια χρονιά με άποψη, αμεσότητα αλλά και χιούμορ την πρώτη ολοκληρωμένη εικόνα της επικαιρότητα της ημέρας και όλων των θεμάτων που μας απασχολούν.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/329/840/040054177512000800_1792392109804_L.jpg" />
+  </programme>
+  <programme start="20261028074000 +0000" stop="20261028100500 +0000" channel="meganews.gr">
+    <title lang="el">Morning Point</title>
+    <desc lang="el">Η πρωινή ενημερωτική εκπομπή του MEGA News, Morning Point, δίνει το στίγμα της ημέρας με εγκυρότητα και ανάλυση σε βάθος. Καθημερινά, οι δημοσιογράφοι Ανδρέας Παπαδόπουλος και Μαρία Αστερίου φέρνουν στο προσκήνιο τις σημαντικότερες εξελίξεις από την Ελλάδα και τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/298/84/040043608412000800_1792391496914_L.jpg" />
+  </programme>
+  <programme start="20261028100500 +0000" stop="20261028101000 +0000" channel="meganews.gr">
+    <title lang="el">Mega News in English</title>
+    <desc lang="el">Οι σημαντικότερες ειδήσεις από την Ελλάδα και τον Κόσμο, παρουσιάζονται από το Mega News, σε ένα σύντομο δελτίο ειδήσεων στην Αγγλική γλώσσα.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/302/988/040043663612000800_1792391467568_L.jpg" />
+  </programme>
+  <programme start="20261028101000 +0000" stop="20261028104500 +0000" channel="meganews.gr">
+    <title lang="el">Πειραιάς, το Λιμάνι της Ψυχής μας</title>
+    <desc lang="el">Ας περπατήσουμε μαζί στον Πειραιά... Κάθε δρόμος, κάθε γωνιά, κάθε σημείο των δαντελωτών ακτών και των πολυάριθμων όρμων της, θα μας αποκαλύψουν μια μικρή ή μεγάλη, σημαντική ή ασήμαντη ιστορία. Παρουσιάζει ο Στέφανος Μίλεσης.</desc>
+    <category lang="el">Ιστορικό - Πολεμικό</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/328/364/040053282412000800_1792392096224_L.jpg" />
+  </programme>
+  <programme start="20261028104500 +0000" stop="20261028114000 +0000" channel="meganews.gr">
+    <title lang="el">Μεσημβρινό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Τα γεγονότα στις πραγματικές τους διαστάσεις. Όλες οι εξελίξεις στην ελληνική και διεθνή επικαιρότητα την ώρα που συμβαίνουν. Το πρώτο δελτίο ειδήσεων της ημέρας που δίνει ψύχραιμα και αντικειμενικά μια ολοκληρωμένη εικόνα όλων των σημαντικών ειδήσεων.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/312/248/040043660512000800_1792391830749_L.jpg" />
+  </programme>
+  <programme start="20261028114000 +0000" stop="20261028120000 +0000" channel="meganews.gr">
+    <title lang="el">Δελτίο Νοηματικής</title>
+    <desc lang="el">Οι σημαντικότερες ειδήσεις της ημέρας από την Ελλάδα και τον κόσμο.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/307/868/040043660612000800_1792391672152_L.jpg" />
+  </programme>
+  <programme start="20261028120000 +0000" stop="20261028134000 +0000" channel="meganews.gr">
+    <title lang="el">Now</title>
+    <desc lang="el">Το καθημερινό magazino 'Now' είναι μια δυναμική, ζωντανή τηλεοπτική εκπομπή. Παρέχει έναν συνδυασμό ροής, έκτακτων ειδήσεων, εις βάθος ανάλυσης των επίκαιρων γεγονότων, στοιχεία lifestyle αλλά και διαδραστικής συμμετοχής του κοινού.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/319/580/040043608312000800_1792391841166_L.jpg" />
+  </programme>
+  <programme start="20261028134000 +0000" stop="20261028144000 +0000" channel="meganews.gr">
+    <title lang="el">Θάβεται η Ιστορία όταν Πονάει;</title>
+    <desc lang="el">Τρία εικοσάχρονα παιδιά από τα Σπόα Καρπάθου κατηγορούνται για τη σκύλευση του πτώματος ενός Γερμανού πιλότου. Χαράματα της 4ης Νοεμβρίου 1943 τα τουφεκίζουν. Έπειτα τα πετούν μέσα στο λάκο, που νωρίτερα τα είχαν βάλει να σκάψουν. Οι καταδικασμένοι έμειναν εκεί εβδομήντα ολόκληρα χρόνια.</desc>
+    <category lang="el">Ιστορικό - Πολεμικό</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/308/844/040046783112000800_1792391707828_L.jpg" />
+  </programme>
+  <programme start="20261028144000 +0000" stop="20261028154000 +0000" channel="meganews.gr">
+    <title lang="el">Έρευνα Ε19</title>
+    <desc lang="el">Επεισόδιο: Παιδιά Εμφυλίου Πολέμου. Η δημοσιογραφική ομάδα της 'Έρευνας' αναζητά το 'γιατί' των κοινωνικών και πολιτικών πραγμάτων. Και, μερικές φορές, καταφέρνει να φέρει στο φως και τις κρυμμένες όψεις τους.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/330/316/040006789012000800_1792392147073_L.jpg" />
+  </programme>
+  <programme start="20261028154000 +0000" stop="20261028165000 +0000" channel="meganews.gr">
+    <title lang="el">Ορίζοντας</title>
+    <desc lang="el">Επεισόδιο: Δίστομο - Αποζημιώσεις. Ενημερωτική εκπομπή με τον Σωτήρη Δανέζη που φιλοδοξεί να διευρύνει τους τηλεοπτικούς μας ορίζοντες.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/306/892/040012434612000800_1792391597437_L.jpg" />
+  </programme>
+  <programme start="20261028165000 +0000" stop="20261028170000 +0000" channel="meganews.gr">
+    <title lang="el">Mega News in English</title>
+    <desc lang="el">Οι σημαντικότερες ειδήσεις από την Ελλάδα και τον Κόσμο, παρουσιάζονται από το Mega News, σε ένα σύντομο δελτίο ειδήσεων στην Αγγλική γλώσσα.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/302/988/040043663612000800_1792391467568_L.jpg" />
+  </programme>
+  <programme start="20261028170000 +0000" stop="20261028184000 +0000" channel="meganews.gr">
+    <title lang="el">Μπάσκετ: Ολυμπιακός - Μερσίν (Ζ)</title>
+    <desc lang="el">Eurocup Women 2026-27. 3η αγωνιστική. Ο Ολυμπιακός έφυγε με τη νίκη από το Βρότσλαβ με το 78-68 επί της Σλέζα κι έκανε το 2/2 στον όμιλό του. Τώρα, αντιμετωπίζει την τουρκική Μεσρίν, που πέρσι κατέκτησε το τρόπαιο νικώντας τον Αθηναϊκό στους τελικούς.</desc>
+    <category lang="el">Μπάσκετ</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/546/100/0400551905003993090046443912000800_1793123032007_L.jpg" />
+  </programme>
+  <programme start="20261028184000 +0000" stop="20261028195000 +0000" channel="meganews.gr">
+    <title lang="el">Μεγάλη Εικόνα</title>
+    <desc lang="el">Μαρία Ευθυμίου. Eδώ και 20 χρόνια έχει ταξιδέψει σε όλη τη χώρα προσελκύοντας εκατοντάδες χιλιάδες ανθρώπους οι οποίοι σπεύδουν τα παρακολουθήσουν τα μαθήματά της. Η πανεπιστημιακός Μαρία Ευθυμίου μιλά στη Νίκη Λυμπεράκη για το παρελθόν, με έμφαση στα γεγονότα του 1940 αλλά και για το παρόν της Ελλάδας.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/301/512/040054318712000800_1792391533417_L.jpg" />
+  </programme>
+  <programme start="20261028195000 +0000" stop="20261028200000 +0000" channel="meganews.gr">
+    <title lang="el">Weather News</title>
+    <desc lang="el">Το καθημερινό δελτίο καιρού του MEGA NEWS προσφέρει έγκυρη, αναλυτική και κατανοητή ενημέρωση για τις καιρικές συνθήκες στην Ελλάδα και τον κόσμο. Με την Ελίνα Καρέτσου.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/304/940/040047245612000800_1792391501485_L.jpg" />
+  </programme>
+  <programme start="20261028200000 +0000" stop="20261028220000 +0000" channel="meganews.gr">
+    <title lang="el">Mega News Επικαιρότητα</title>
+    <desc lang="el">Ένα δίωρο γεμάτο με ενημέρωση. Ένα δυναμικό δελτίο ειδήσεων, με την υπογραφή του MEGA, που καταγράφει και παρουσιάζει όλα τα μεγάλα θέματα της επικαιρότητας με έρευνα, ανάλυση αλλά και σχολιασμό. Μετά το δελτίο ακολουθεί talk show με τους πρωταγωνιστές των εξελίξεων.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/302/988/040047198612000800_1792391467555_L.jpg" />
+  </programme>
+  <programme start="20261028220000 +0000" stop="20261028231000 +0000" channel="meganews.gr">
+    <title lang="el">MEGA News Reportaz</title>
+    <desc lang="el">Το 'MEGA News Reportaz' είναι μια δυναμική playlist με τις πιο σημαντικές και ενδιαφέρουσες ειδήσεις. Μέσα στη ροή του προγράμματος, οι τηλεθεατές έχουν την ευκαιρία να παρακολουθήσουν αναλυτικά ρεπορτάζ που καλύπτουν ποικίλα θέματα της επικαιρότητας, με την εγκυρότητα του MEGA News.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/170/580/040043607912000800_1792476258038_L.jpg" />
+  </programme>
+  <programme start="20261028231000 +0000" stop="20261028235000 +0000" channel="meganews.gr">
+    <title lang="el">Vidcast</title>
+    <desc lang="el">Παραγωγές - συνεντεύξεις από το In.gr και το OT.</desc>
+    <category lang="el">Συνέντευξη</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/158/868/040048427912000800_1792476008182_L.jpg" />
+  </programme>
+  <programme start="20261028235000 +0000" stop="20261029005000 +0000" channel="meganews.gr">
+    <title lang="el">Πρωταγωνιστές</title>
+    <desc lang="el">Επεισόδιο: Οι Γερμανοί που μας Αγάπησαν. Ιστορίες που στόχο έχουν να μας κάνουν να σκεφτόμαστε διαφορετικά. Άνθρωποι γνωστοί ή και της διπλανής πόρτας, οι 'πρωταγωνιστές' των εκπομπών θα μοιραστούν με τον Σταύρο Θεοδωράκη αληθινές εμπειρίες, ιδέες και γεγονότα.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/161/296/040044900712000800_1792476100955_L.jpg" />
+  </programme>
+  <programme start="20261029005000 +0000" stop="20261029012000 +0000" channel="meganews.gr">
+    <title lang="el">Vidcast</title>
+    <desc lang="el">Παραγωγές - συνεντεύξεις από το In.gr και το OT.</desc>
+    <category lang="el">Συνέντευξη</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/158/868/040048427912000800_1792476008182_L.jpg" />
+  </programme>
+  <programme start="20261029012000 +0000" stop="20261029030000 +0000" channel="meganews.gr">
+    <title lang="el">Now (Ε)</title>
+    <desc lang="el">Το καθημερινό magazino 'Now' είναι μια δυναμική, ζωντανή τηλεοπτική εκπομπή. Παρέχει έναν συνδυασμό ροής, έκτακτων ειδήσεων, εις βάθος ανάλυσης των επίκαιρων γεγονότων, στοιχεία lifestyle αλλά και διαδραστικής συμμετοχής του κοινού.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/176/436/040043608312000800_1792476418595_L.jpg" />
+  </programme>
+  <programme start="20261029030000 +0000" stop="20261029033000 +0000" channel="meganews.gr">
+    <title lang="el">Ιστορίες του Τόπου μας</title>
+    <desc lang="el">Άνθρωποι από όλα τα μέρη της Ελλάδας μιλούν για τον τόπο, τα έθιμα και τις ιστορίες τους, που συνδέονται με τον τόπο που γεννήθηκαν ή κατοικούν. Ένα ταξίδι σε ιστορίες που μας ανάθρεψαν στο παρελθόν και μας καθοδηγούν μέχρι το μέλλον.</desc>
+    <category lang="el">Ιστορικό - Πολεμικό</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/196/956/040039300712000800_1792476657994_L.jpg" />
+  </programme>
+  <programme start="20261029033000 +0000" stop="20261029034000 +0000" channel="meganews.gr">
+    <title lang="el">Vita News</title>
+    <desc lang="el">Η Νόνη Δούνια με τη συμβολή ειδικών, μας ενημερώνει, για όλα όσα αφορούν την πρόληψη, τη σωστή διατροφή, την ψυχική ισορροπία και τις νέες τάσεις στην ιατρική επιστήμη.</desc>
+    <category lang="el">Υγεία - Wellbeing</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/176/436/040046732012000800_1792476373071_L.jpg" />
+  </programme>
+  <programme start="20261029034000 +0000" stop="20261029074000 +0000" channel="meganews.gr">
+    <title lang="el">Κοινωνία Ώρα MEGA</title>
+    <desc lang="el">Το επιτυχημένο δίδυμο μας μεταφέρει για ακόμα μια χρονιά με άποψη, αμεσότητα αλλά και χιούμορ την πρώτη ολοκληρωμένη εικόνα της επικαιρότητα της ημέρας και όλων των θεμάτων που μας απασχολούν.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/196/956/040054177512000800_1792476636762_L.jpg" />
+  </programme>
+  <programme start="20261029074000 +0000" stop="20261029100500 +0000" channel="meganews.gr">
+    <title lang="el">Morning Point</title>
+    <desc lang="el">Η πρωινή ενημερωτική εκπομπή του MEGA News, Morning Point, δίνει το στίγμα της ημέρας με εγκυρότητα και ανάλυση σε βάθος. Καθημερινά, οι δημοσιογράφοι Ανδρέας Παπαδόπουλος και Μαρία Αστερίου φέρνουν στο προσκήνιο τις σημαντικότερες εξελίξεις από την Ελλάδα και τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/172/32/040043608412000800_1792476353163_L.jpg" />
+  </programme>
+  <programme start="20261029100500 +0000" stop="20261029101000 +0000" channel="meganews.gr">
+    <title lang="el">Mega News in English</title>
+    <desc lang="el">Οι σημαντικότερες ειδήσεις από την Ελλάδα και τον Κόσμο, παρουσιάζονται από το Mega News, σε ένα σύντομο δελτίο ειδήσεων στην Αγγλική γλώσσα.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/172/532/040043663612000800_1792476300377_L.jpg" />
+  </programme>
+  <programme start="20261029101000 +0000" stop="20261029104500 +0000" channel="meganews.gr">
+    <title lang="el">Οικονομικός Ταχυδρόμος</title>
+    <desc lang="el">Η οικονομία στο προσκήνιο. Όλες οι οικονομικές ειδήσεις από την Ελλάδα και τον κόσμο παρουσιάζονται και αναλύονται με τη σφραγίδα του Οικονομικού Ταχυδρόμου. Επιχειρήσεις, χρηματιστηριακά νέα, τράπεζες, ενέργεια, επενδύσεις αλλά και όλα όσα επηρεάζουν την τσέπη μας.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/178/888/040043608512000800_1792476446023_L.jpg" />
+  </programme>
+  <programme start="20261029104500 +0000" stop="20261029114000 +0000" channel="meganews.gr">
+    <title lang="el">Μεσημβρινό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Τα γεγονότα στις πραγματικές τους διαστάσεις. Όλες οι εξελίξεις στην ελληνική και διεθνή επικαιρότητα την ώρα που συμβαίνουν. Το πρώτο δελτίο ειδήσεων της ημέρας που δίνει ψύχραιμα και αντικειμενικά μια ολοκληρωμένη εικόνα όλων των σημαντικών ειδήσεων.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/172/532/040043660512000800_1792476294265_L.jpg" />
+  </programme>
+  <programme start="20261029114000 +0000" stop="20261029120000 +0000" channel="meganews.gr">
+    <title lang="el">Δελτίο Νοηματικής</title>
+    <desc lang="el">Οι σημαντικότερες ειδήσεις της ημέρας από την Ελλάδα και τον κόσμο.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/167/152/040043660612000800_1792476217836_L.jpg" />
+  </programme>
+  <programme start="20261029120000 +0000" stop="20261029134000 +0000" channel="meganews.gr">
+    <title lang="el">Now</title>
+    <desc lang="el">Το καθημερινό magazino 'Now' είναι μια δυναμική, ζωντανή τηλεοπτική εκπομπή. Παρέχει έναν συνδυασμό ροής, έκτακτων ειδήσεων, εις βάθος ανάλυσης των επίκαιρων γεγονότων, στοιχεία lifestyle αλλά και διαδραστικής συμμετοχής του κοινού.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/176/436/040043608312000800_1792476418595_L.jpg" />
+  </programme>
+  <programme start="20261029134000 +0000" stop="20261029163000 +0000" channel="meganews.gr">
+    <title lang="el">Live News</title>
+    <desc lang="el">Ο Νίκος Ευαγγελάτος ανοίγει ξανά παράθυρο στον κόσμο, φιλτράροντας τις εξελίξεις με τη ματιά της εμπειρίας και της ευθύνης. Διατηρώντας τη γνώριμη πλέον ταυτότητά του και παραμένοντας συντονισμένο με τις απαιτήσεις της εποχής, το 'Live News' συνεχίζει να καινοτομεί.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/159/844/040053995012000800_1792476038503_L.jpg" />
+  </programme>
+  <programme start="20261029163000 +0000" stop="20261029165000 +0000" channel="meganews.gr">
+    <title lang="el">Οικονομικός Ταχυδρόμος</title>
+    <desc lang="el">Η οικονομία στο προσκήνιο. Όλες οι οικονομικές ειδήσεις από την Ελλάδα και τον κόσμο παρουσιάζονται και αναλύονται με τη σφραγίδα του Οικονομικού Ταχυδρόμου. Επιχειρήσεις, χρηματιστηριακά νέα, τράπεζες, ενέργεια, επενδύσεις αλλά και όλα όσα επηρεάζουν την τσέπη μας.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/178/888/040043608512000800_1792476446023_L.jpg" />
+  </programme>
+  <programme start="20261029165000 +0000" stop="20261029170000 +0000" channel="meganews.gr">
+    <title lang="el">Mega News in English</title>
+    <desc lang="el">Οι σημαντικότερες ειδήσεις από την Ελλάδα και τον Κόσμο, παρουσιάζονται από το Mega News, σε ένα σύντομο δελτίο ειδήσεων στην Αγγλική γλώσσα.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/172/532/040043663612000800_1792476300377_L.jpg" />
+  </programme>
+  <programme start="20261029170000 +0000" stop="20261029173000 +0000" channel="meganews.gr">
+    <title lang="el">Mega Sports News</title>
+    <desc lang="el">Η αθλητική είδηση θέλει και συζήτηση! Και άποψη! Γι' αυτό η δυνατή ομάδα της αθλητικής διεύθυνσης του MEGA θα είναι καθημερινά στο MEGA NEWS. Για να σας ενημερώνει, να σας εξηγεί, αλλά κυρίως να τοποθετείται στα γεγονότα! Με τους πιο δυνατούς του είδους.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/175/960/040045768012000800_1792476446197_L.jpg" />
+  </programme>
+  <programme start="20261029173000 +0000" stop="20261029174500 +0000" channel="meganews.gr">
+    <title lang="el">Weather News</title>
+    <desc lang="el">Το καθημερινό δελτίο καιρού του MEGA NEWS προσφέρει έγκυρη, αναλυτική και κατανοητή ενημέρωση για τις καιρικές συνθήκες στην Ελλάδα και τον κόσμο. Με την Ελίνα Καρέτσου.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/196/956/040047245612000800_1792476660332_L.jpg" />
+  </programme>
+  <programme start="20261029174500 +0000" stop="20261029183000 +0000" channel="meganews.gr">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Κάθε σημαντικό γεγονός που ενδιαφέρει τους πολίτες από την Ελλάδα και τον κόσμο κάθε βράδυ είναι MEGA ΓΕΓΟΝΟΤΑ. Η δημοσιογραφική ομάδα του MEGA ερευνά, παρουσιάζει, αναλύει και σχολιάζει την πραγματικότητα με αμεσότητα, αξιοπιστία, εγκυρότητα, χωρίς εντυπωσιασμούς.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/166/176/040043660412000800_1792476166542_L.jpg" />
+  </programme>
+  <programme start="20261029183000 +0000" stop="20261029195000 +0000" channel="meganews.gr">
+    <title lang="el">MEGA News Talk</title>
+    <desc lang="el">Πολιτικό talk show με τον Τάκη Χατζή. Κορυφαία στελέχη της πολιτικής ζωής απαντούν στις ερωτήσεις του δημοσιογράφου.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/166/676/040043608112000800_1792476137091_L.jpg" />
+  </programme>
+  <programme start="20261029195000 +0000" stop="20261029200000 +0000" channel="meganews.gr">
+    <title lang="el">Weather News</title>
+    <desc lang="el">Το καθημερινό δελτίο καιρού του MEGA NEWS προσφέρει έγκυρη, αναλυτική και κατανοητή ενημέρωση για τις καιρικές συνθήκες στην Ελλάδα και τον κόσμο. Με την Ελίνα Καρέτσου.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/196/956/040047245612000800_1792476660332_L.jpg" />
+  </programme>
+  <programme start="20261029200000 +0000" stop="20261029220000 +0000" channel="meganews.gr">
+    <title lang="el">Ποδόσφαιρο: Μάντσεστερ Σίτι - Παρί Σεν Ζερμέν (Ζ)</title>
+    <desc lang="el">UEFA Champions League Γυναικών 2026-27. 3η αγωνιστική. Η Παρί Σεν Ζερμέν βρίσκεται αυτή τη στιγμή στην τρίτη θέση της βαθμολογίας του UWCL, έχοντας συγκεντρώσει τέσσερις βαθμούς στα δύο πρώτα της παιχνίδια, ενώ η Σίτι βρίσκεται στην 11η θέση με δύο βαθμούς.</desc>
+    <category lang="el">Ποδόσφαιρο</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/548/52/0400463280001792630036261112000800_1793123192226_L.jpg" />
+  </programme>
+  <programme start="20261029220000 +0000" stop="20261029231000 +0000" channel="meganews.gr">
+    <title lang="el">MEGA News Reportaz</title>
+    <desc lang="el">Το 'MEGA News Reportaz' είναι μια δυναμική playlist με τις πιο σημαντικές και ενδιαφέρουσες ειδήσεις. Μέσα στη ροή του προγράμματος, οι τηλεθεατές έχουν την ευκαιρία να παρακολουθήσουν αναλυτικά ρεπορτάζ που καλύπτουν ποικίλα θέματα της επικαιρότητας, με την εγκυρότητα του MEGA News.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/114/848/040043607912000800_1792564020480_L.jpg" />
+  </programme>
+  <programme start="20261029231000 +0000" stop="20261029235000 +0000" channel="meganews.gr">
+    <title lang="el">Vidcast</title>
+    <desc lang="el">Παραγωγές - συνεντεύξεις από το In.gr και το OT.</desc>
+    <category lang="el">Συνέντευξη</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/115/824/040048427912000800_1792564004807_L.jpg" />
+  </programme>
+  <programme start="20261029235000 +0000" stop="20261030005000 +0000" channel="meganews.gr">
+    <title lang="el">Ανατροπή</title>
+    <desc lang="el">Επεισόδιο: Χάρρυ Κλυνν. Η εκπομπή με άξονα την επικαιρότητα, παρακολουθεί τις εξελίξεις και φωτίζει όλες τις πλευρές τους. Τα πρόσωπα, τα στοιχεία, τα γεγονότα, οι απόψεις και τα μεγάλα ζητήματα της ελληνικής κοινωνίας. Με σαφές ερώτημα. Με αντικρουόμενες απαντήσεις. Χωρίς φλυαρίες. Χωρίς γενικότητες. Με αποκαλύψεις.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/81/140/040007135712000800_1792563194152_L.jpg" />
+  </programme>
+  <programme start="20261030005000 +0000" stop="20261030012000 +0000" channel="meganews.gr">
+    <title lang="el">Vidcast</title>
+    <desc lang="el">Παραγωγές - συνεντεύξεις από το In.gr και το OT.</desc>
+    <category lang="el">Συνέντευξη</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/115/824/040048427912000800_1792564004807_L.jpg" />
+  </programme>
+  <programme start="20261030012000 +0000" stop="20261030030000 +0000" channel="meganews.gr">
+    <title lang="el">Now (Ε)</title>
+    <desc lang="el">Το καθημερινό magazino 'Now' είναι μια δυναμική, ζωντανή τηλεοπτική εκπομπή. Παρέχει έναν συνδυασμό ροής, έκτακτων ειδήσεων, εις βάθος ανάλυσης των επίκαιρων γεγονότων, στοιχεία lifestyle αλλά και διαδραστικής συμμετοχής του κοινού.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/84/68/040043608312000800_1792563371101_L.jpg" />
+  </programme>
+  <programme start="20261030030000 +0000" stop="20261030033000 +0000" channel="meganews.gr">
+    <title lang="el">Ιστορίες του Τόπου μας</title>
+    <desc lang="el">Άνθρωποι από όλα τα μέρη της Ελλάδας μιλούν για τον τόπο, τα έθιμα και τις ιστορίες τους, που συνδέονται με τον τόπο που γεννήθηκαν ή κατοικούν. Ένα ταξίδι σε ιστορίες που μας ανάθρεψαν στο παρελθόν και μας καθοδηγούν μέχρι το μέλλον.</desc>
+    <category lang="el">Ιστορικό - Πολεμικό</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/95/304/040039300712000800_1792563580106_L.jpg" />
+  </programme>
+  <programme start="20261030033000 +0000" stop="20261030034000 +0000" channel="meganews.gr">
+    <title lang="el">Vita News</title>
+    <desc lang="el">Η Νόνη Δούνια με τη συμβολή ειδικών, μας ενημερώνει, για όλα όσα αφορούν την πρόληψη, τη σωστή διατροφή, την ψυχική ισορροπία και τις νέες τάσεις στην ιατρική επιστήμη.</desc>
+    <category lang="el">Υγεία - Wellbeing</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/91/400/040046732012000800_1792563545997_L.jpg" />
+  </programme>
+  <programme start="20261030034000 +0000" stop="20261030074000 +0000" channel="meganews.gr">
+    <title lang="el">Κοινωνία Ώρα MEGA</title>
+    <desc lang="el">Το επιτυχημένο δίδυμο μας μεταφέρει για ακόμα μια χρονιά με άποψη, αμεσότητα αλλά και χιούμορ την πρώτη ολοκληρωμένη εικόνα της επικαιρότητα της ημέρας και όλων των θεμάτων που μας απασχολούν.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/99/208/040054177512000800_1792563654208_L.jpg" />
+  </programme>
+  <programme start="20261030074000 +0000" stop="20261030100500 +0000" channel="meganews.gr">
+    <title lang="el">Morning Point</title>
+    <desc lang="el">Η πρωινή ενημερωτική εκπομπή του MEGA News, Morning Point, δίνει το στίγμα της ημέρας με εγκυρότητα και ανάλυση σε βάθος. Καθημερινά, οι δημοσιογράφοι Ανδρέας Παπαδόπουλος και Μαρία Αστερίου φέρνουν στο προσκήνιο τις σημαντικότερες εξελίξεις από την Ελλάδα και τον κόσμο.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/86/20/040043608412000800_1792563426390_L.jpg" />
+  </programme>
+  <programme start="20261030100500 +0000" stop="20261030101000 +0000" channel="meganews.gr">
+    <title lang="el">Mega News in English</title>
+    <desc lang="el">Οι σημαντικότερες ειδήσεις από την Ελλάδα και τον Κόσμο, παρουσιάζονται από το Mega News, σε ένα σύντομο δελτίο ειδήσεων στην Αγγλική γλώσσα.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/114/848/040043663612000800_1792564026631_L.jpg" />
+  </programme>
+  <programme start="20261030101000 +0000" stop="20261030104500 +0000" channel="meganews.gr">
+    <title lang="el">Οικονομικός Ταχυδρόμος</title>
+    <desc lang="el">Η οικονομία στο προσκήνιο. Όλες οι οικονομικές ειδήσεις από την Ελλάδα και τον κόσμο παρουσιάζονται και αναλύονται με τη σφραγίδα του Οικονομικού Ταχυδρόμου. Επιχειρήσεις, χρηματιστηριακά νέα, τράπεζες, ενέργεια, επενδύσεις αλλά και όλα όσα επηρεάζουν την τσέπη μας.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/107/516/040043608512000800_1792563870512_L.jpg" />
+  </programme>
+  <programme start="20261030104500 +0000" stop="20261030114000 +0000" channel="meganews.gr">
+    <title lang="el">Μεσημβρινό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Τα γεγονότα στις πραγματικές τους διαστάσεις. Όλες οι εξελίξεις στην ελληνική και διεθνή επικαιρότητα την ώρα που συμβαίνουν. Το πρώτο δελτίο ειδήσεων της ημέρας που δίνει ψύχραιμα και αντικειμενικά μια ολοκληρωμένη εικόνα όλων των σημαντικών ειδήσεων.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/114/348/040043660512000800_1792564008120_L.jpg" />
+  </programme>
+  <programme start="20261030114000 +0000" stop="20261030120000 +0000" channel="meganews.gr">
+    <title lang="el">Δελτίο Νοηματικής</title>
+    <desc lang="el">Οι σημαντικότερες ειδήσεις της ημέρας από την Ελλάδα και τον κόσμο.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/114/348/040043660612000800_1792564017042_L.jpg" />
+  </programme>
+  <programme start="20261030120000 +0000" stop="20261030134000 +0000" channel="meganews.gr">
+    <title lang="el">Now</title>
+    <desc lang="el">Το καθημερινό magazino 'Now' είναι μια δυναμική, ζωντανή τηλεοπτική εκπομπή. Παρέχει έναν συνδυασμό ροής, έκτακτων ειδήσεων, εις βάθος ανάλυσης των επίκαιρων γεγονότων, στοιχεία lifestyle αλλά και διαδραστικής συμμετοχής του κοινού.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/84/68/040043608312000800_1792563371101_L.jpg" />
+  </programme>
+  <programme start="20261030134000 +0000" stop="20261030163000 +0000" channel="meganews.gr">
+    <title lang="el">Live News</title>
+    <desc lang="el">Ο Νίκος Ευαγγελάτος ανοίγει ξανά παράθυρο στον κόσμο, φιλτράροντας τις εξελίξεις με τη ματιά της εμπειρίας και της ευθύνης. Διατηρώντας τη γνώριμη πλέον ταυτότητά του και παραμένοντας συντονισμένο με τις απαιτήσεις της εποχής, το 'Live News' συνεχίζει να καινοτομεί.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/103/112/040053995012000800_1792563767489_L.jpg" />
+  </programme>
+  <programme start="20261030163000 +0000" stop="20261030165000 +0000" channel="meganews.gr">
+    <title lang="el">Οικονομικός Ταχυδρόμος</title>
+    <desc lang="el">Η οικονομία στο προσκήνιο. Όλες οι οικονομικές ειδήσεις από την Ελλάδα και τον κόσμο παρουσιάζονται και αναλύονται με τη σφραγίδα του Οικονομικού Ταχυδρόμου. Επιχειρήσεις, χρηματιστηριακά νέα, τράπεζες, ενέργεια, επενδύσεις αλλά και όλα όσα επηρεάζουν την τσέπη μας.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/107/516/040043608512000800_1792563870512_L.jpg" />
+  </programme>
+  <programme start="20261030165000 +0000" stop="20261030170000 +0000" channel="meganews.gr">
+    <title lang="el">Mega News in English</title>
+    <desc lang="el">Οι σημαντικότερες ειδήσεις από την Ελλάδα και τον Κόσμο, παρουσιάζονται από το Mega News, σε ένα σύντομο δελτίο ειδήσεων στην Αγγλική γλώσσα.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/114/848/040043663612000800_1792564026631_L.jpg" />
+  </programme>
+  <programme start="20261030170000 +0000" stop="20261030173000 +0000" channel="meganews.gr">
+    <title lang="el">Mega Sports News</title>
+    <desc lang="el">Η αθλητική είδηση θέλει και συζήτηση! Και άποψη! Γι' αυτό η δυνατή ομάδα της αθλητικής διεύθυνσης του MEGA θα είναι καθημερινά στο MEGA NEWS. Για να σας ενημερώνει, να σας εξηγεί, αλλά κυρίως να τοποθετείται στα γεγονότα! Με τους πιο δυνατούς του είδους.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/91/400/040045768012000800_1792563493662_L.jpg" />
+  </programme>
+  <programme start="20261030173000 +0000" stop="20261030174500 +0000" channel="meganews.gr">
+    <title lang="el">Weather News</title>
+    <desc lang="el">Το καθημερινό δελτίο καιρού του MEGA NEWS προσφέρει έγκυρη, αναλυτική και κατανοητή ενημέρωση για τις καιρικές συνθήκες στην Ελλάδα και τον κόσμο. Με την Ελίνα Καρέτσου.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/94/328/040047245612000800_1792563557378_L.jpg" />
+  </programme>
+  <programme start="20261030174500 +0000" stop="20261030183000 +0000" channel="meganews.gr">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Κάθε σημαντικό γεγονός που ενδιαφέρει τους πολίτες από την Ελλάδα και τον κόσμο κάθε βράδυ είναι MEGA ΓΕΓΟΝΟΤΑ. Η δημοσιογραφική ομάδα του MEGA ερευνά, παρουσιάζει, αναλύει και σχολιάζει την πραγματικότητα με αμεσότητα, αξιοπιστία, εγκυρότητα, χωρίς εντυπωσιασμούς.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/106/540/040043660412000800_1792563836929_L.jpg" />
+  </programme>
+  <programme start="20261030183000 +0000" stop="20261030195000 +0000" channel="meganews.gr">
+    <title lang="el">Tonight</title>
+    <desc lang="el">Τalk show με την Βούλα Κεχαγιά. Στελέχη της πολιτικής ζωής, της οικονομίας και της κοινωνίας συζητούν στο στούντιο όλα τα καυτά θέματα της επικαιρότητας.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/105/564/040045768112000800_1792563780378_L.jpg" />
+  </programme>
+  <programme start="20261030195000 +0000" stop="20261030200000 +0000" channel="meganews.gr">
+    <title lang="el">Weather News</title>
+    <desc lang="el">Το καθημερινό δελτίο καιρού του MEGA NEWS προσφέρει έγκυρη, αναλυτική και κατανοητή ενημέρωση για τις καιρικές συνθήκες στην Ελλάδα και τον κόσμο. Με την Ελίνα Καρέτσου.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/94/328/040047245612000800_1792563557378_L.jpg" />
+  </programme>
+  <programme start="20261030200000 +0000" stop="20261030220000 +0000" channel="meganews.gr">
+    <title lang="el">Mega News Επικαιρότητα</title>
+    <desc lang="el">Ένα δίωρο γεμάτο με ενημέρωση. Ένα δυναμικό δελτίο ειδήσεων, με την υπογραφή του MEGA, που καταγράφει και παρουσιάζει όλα τα μεγάλα θέματα της επικαιρότητας με έρευνα, ανάλυση αλλά και σχολιασμό. Μετά το δελτίο ακολουθεί talk show με τους πρωταγωνιστές των εξελίξεων.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/88/472/040047198612000800_1792563447666_L.jpg" />
+  </programme>
+  <programme start="20261030220000 +0000" stop="20261030231000 +0000" channel="meganews.gr">
+    <title lang="el">Mega Stories</title>
+    <desc lang="el">Είμαστε οι ιστορίες μας: Αληθινές, τρυφερές, σκληρές, μεγαλειώδεις. Η Δώρα Αναγνωστοπούλου και η ομάδα της δίνουν βήμα σε συνανθρώπους μας που έχουν να μας διηγηθούν κάτι. Αυτό το 'κάτι' μας αφορά. Μας θυμίζει, πολλές φορές, τα δικά μας βιώματα.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/122/580/040039996212000800_1792667426618_L.jpg" />
+  </programme>
+  <programme start="20261030231000 +0000" stop="20261030232000 +0000" channel="meganews.gr">
+    <title lang="el">Vidcast</title>
+    <desc lang="el">Παραγωγές - συνεντεύξεις από το In.gr και το OT.</desc>
+    <category lang="el">Συνέντευξη</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/112/320/040048427912000800_1792667081348_L.jpg" />
+  </programme>
+  <programme start="20261030232000 +0000" stop="20261031005000 +0000" channel="meganews.gr">
+    <title lang="el">Video</title>
+    <desc lang="el">Επεισόδιο: Εβραίοι. Ενημερωτική εκπομπή από το αρχείο του MEGA με τον Παύλο Τσίμα.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/109/392/040053250812000800_1792666990029_L.jpg" />
+  </programme>
+  <programme start="20261031005000 +0000" stop="20261031012000 +0000" channel="meganews.gr">
+    <title lang="el">Vidcast</title>
+    <desc lang="el">Παραγωγές - συνεντεύξεις από το In.gr και το OT.</desc>
+    <category lang="el">Συνέντευξη</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/112/320/040048427912000800_1792667081348_L.jpg" />
+  </programme>
+  <programme start="20261031012000 +0000" stop="20261031030000 +0000" channel="meganews.gr">
+    <title lang="el">Now (Ε)</title>
+    <desc lang="el">Το καθημερινό magazino 'Now' είναι μια δυναμική, ζωντανή τηλεοπτική εκπομπή. Παρέχει έναν συνδυασμό ροής, έκτακτων ειδήσεων, εις βάθος ανάλυσης των επίκαιρων γεγονότων, στοιχεία lifestyle αλλά και διαδραστικής συμμετοχής του κοινού.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/109/892/040043608312000800_1792667038328_L.jpg" />
+  </programme>
+  <programme start="20261031030000 +0000" stop="20261031033000 +0000" channel="meganews.gr">
+    <title lang="el">Ιστορίες του Τόπου μας</title>
+    <desc lang="el">Άνθρωποι από όλα τα μέρη της Ελλάδας μιλούν για τον τόπο, τα έθιμα και τις ιστορίες τους, που συνδέονται με τον τόπο που γεννήθηκαν ή κατοικούν. Ένα ταξίδι σε ιστορίες που μας ανάθρεψαν στο παρελθόν και μας καθοδηγούν μέχρι το μέλλον.</desc>
+    <category lang="el">Ιστορικό - Πολεμικό</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/101/84/040039300712000800_1792666787178_L.jpg" />
+  </programme>
+  <programme start="20261031033000 +0000" stop="20261031034000 +0000" channel="meganews.gr">
+    <title lang="el">Vita News</title>
+    <desc lang="el">Η Νόνη Δούνια με τη συμβολή ειδικών, μας ενημερώνει, για όλα όσα αφορούν την πρόληψη, τη σωστή διατροφή, την ψυχική ισορροπία και τις νέες τάσεις στην ιατρική επιστήμη.</desc>
+    <category lang="el">Υγεία - Wellbeing</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/126/984/040046732012000800_1792667449942_L.jpg" />
+  </programme>
+  <programme start="20261031034000 +0000" stop="20261031072000 +0000" channel="meganews.gr">
+    <title lang="el">MEGA Σαββατοκύριακο</title>
+    <desc lang="el">Ο Ντίνος Σιωμόπουλος και η Στέλλα Γκαντώνα, το μάχιμο δημοσιογραφικό δίδυμο, έρχονται με την ψυχραιμία και την ενσυναίσθηση που τους αναγνωρίζουν οι τηλεθεατές για να φέρουν και φέτος στο προσκήνιο όσα επηρεάζουν την καθημερινότητα των πολιτών.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/102/60/040054283912000800_1792666793760_L.jpg" />
+  </programme>
+  <programme start="20261031072000 +0000" stop="20261031104500 +0000" channel="meganews.gr">
+    <title lang="el">Mega Non Stop</title>
+    <desc lang="el">Ενημερωτικό μαγκαζίνο με τον Ζήση Μούσιο, τον Βασίλη Τσεκούρα και τη Μαρία Αντωνά. Χαρτογράφηση της επικαιρότητας όπως αυτή διαμορφώνεται σε κάθε γωνιά της γης: από την πολιτική και την οικονομία μέχρι την κοινωνία, την τεχνολογία και την καθημερινή ζωή.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/130/888/040054676712000800_1792667493018_L.jpg" />
+  </programme>
+  <programme start="20261031104500 +0000" stop="20261031114000 +0000" channel="meganews.gr">
+    <title lang="el">Μεσημβρινό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Τα γεγονότα στις πραγματικές τους διαστάσεις. Όλες οι εξελίξεις στην ελληνική και διεθνή επικαιρότητα την ώρα που συμβαίνουν. Το πρώτο δελτίο ειδήσεων της ημέρας που δίνει ψύχραιμα και αντικειμενικά μια ολοκληρωμένη εικόνα όλων των σημαντικών ειδήσεων.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/102/60/040043660512000800_1792666748883_L.jpg" />
+  </programme>
+  <programme start="20261031114000 +0000" stop="20261031115000 +0000" channel="meganews.gr">
+    <title lang="el">Δελτίο Νοηματικής</title>
+    <desc lang="el">Οι σημαντικότερες ειδήσεις της ημέρας από την Ελλάδα και τον κόσμο.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/103/36/040043660612000800_1792666739507_L.jpg" />
+  </programme>
+  <programme start="20261031115000 +0000" stop="20261031121000 +0000" channel="meganews.gr">
+    <title lang="el">Vita News</title>
+    <desc lang="el">Η Νόνη Δούνια με τη συμβολή ειδικών, μας ενημερώνει, για όλα όσα αφορούν την πρόληψη, τη σωστή διατροφή, την ψυχική ισορροπία και τις νέες τάσεις στην ιατρική επιστήμη.</desc>
+    <category lang="el">Υγεία - Wellbeing</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/126/984/040046732012000800_1792667449942_L.jpg" />
+  </programme>
+  <programme start="20261031121000 +0000" stop="20261031130000 +0000" channel="meganews.gr">
+    <title lang="el">Mega News Cosmos</title>
+    <desc lang="el">Τα μεγάλα θέματα από τη διεθνή επικαιρότητα που απασχόλησαν την κοινωνία και όσα αναμένεται να έρθουν στο επίκεντρο, παρουσιάζονται και αναλύονται στο studio του MEGA News Cosmos.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/109/392/040043607812000800_1792667033323_L.jpg" />
+  </programme>
+  <programme start="20261031130000 +0000" stop="20261031145000 +0000" channel="meganews.gr">
+    <title lang="el">Μπάσκετ: Ολυμπιακός - Παναθηναϊκός (Ζ)</title>
+    <desc lang="el">Α1 Basketball League Γυναικών 2026-27. Με τον ανταγωνισμό να έχει μεγαλώσει, η 28η σεζόν στην Basket League γυναικών αποτελείται από 11 ομάδες, 22 αγωνιστικές κανονικής περιόδου και τα πλέι οφ.</desc>
+    <category lang="el">Μπάσκετ</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/134/292/0400400092003993090039931012000800_1792667538620_L.jpg" />
+  </programme>
+  <programme start="20261031145000 +0000" stop="20261031152000 +0000" channel="meganews.gr">
+    <title lang="el">Ένα Κλικ, Ένας Αιώνας</title>
+    <desc lang="el">Το ντοκιμαντέρ ζωντανεύει την ιστορία μέσα από εμβληματικές φωτογραφίες του 20ού αιώνα. Με αφετηρία μια και μόνο εικόνα, κάθε επεισόδιο ξετυλίγει τα γεγονότα, προσφέροντας μια βαθιά ματιά σε καθοριστικές στιγμές της σύγχρονης ιστορίας.</desc>
+    <category lang="el">Ιστορικό - Πολεμικό</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/118/676/040044705512000800_1792667364358_L.jpg" />
+  </programme>
+  <programme start="20261031152000 +0000" stop="20261031155000 +0000" channel="meganews.gr">
+    <title lang="el">Vidcast</title>
+    <desc lang="el">Ήρεμα Ρωτάτω. Vidcast από την εφημερίδα 'ΤΑ ΝΕΑ'.</desc>
+    <category lang="el">Συνέντευξη</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/112/320/040048427912000800_1792667081348_L.jpg" />
+  </programme>
+  <programme start="20261031155000 +0000" stop="20261031165000 +0000" channel="meganews.gr">
+    <title lang="el">Οικονομικός Ταχυδρόμος Week</title>
+    <desc lang="el">Όλες οι εγχώριες και διεθνείς οικονομικές ειδήσεις μπαίνουν στο τραπέζι του ΟΤ Week. Όσα συνέβησαν την εβδομάδα που πέρασε αλλά και όσα φέρνει η εβδομάδα που έρχεται. Ενημέρωση, ανάλυση γύρω από τα καυτά θέματα της οικονομίας. Όλες οι τελευταίες επιχειρηματικές ειδήσεις βρίσκονται στο ΟΤ Week.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/113/296/040043608212000800_1792667141117_L.jpg" />
+  </programme>
+  <programme start="20261031165000 +0000" stop="20261031174500 +0000" channel="meganews.gr">
+    <title lang="el">Πάμε μια Βόλτα;</title>
+    <desc lang="el">Επεισόδιο: Γιάννης Ξανθούλης. Πέρα από τη δημόσια εικόνα, υπάρχουν οι προσωπικές στιγμές που διαμορφώνουν έναν άνθρωπο. Η ζωή πίσω από τίτλους, ρόλους και στερεότυπα. Η Νίκη Λυμπεράκη ανοίγει χώρο σε ιστορίες που αξίζει να ακουστούν, επενδύοντας στην αμεσότητα και τον ουσιαστικό διάλογο.</desc>
+    <category lang="el">Συνέντευξη</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/115/748/040050829712000800_1792667224995_L.jpg" />
+  </programme>
+  <programme start="20261031174500 +0000" stop="20261031183000 +0000" channel="meganews.gr">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Κάθε σημαντικό γεγονός που ενδιαφέρει τους πολίτες από την Ελλάδα και τον κόσμο κάθε βράδυ είναι MEGA ΓΕΓΟΝΟΤΑ. Η δημοσιογραφική ομάδα του MEGA ερευνά, παρουσιάζει, αναλύει και σχολιάζει την πραγματικότητα με αμεσότητα, αξιοπιστία, εγκυρότητα, χωρίς εντυπωσιασμούς.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/105/488/040043660412000800_1792666962296_L.jpg" />
+  </programme>
+  <programme start="20261031183000 +0000" stop="20261031200000 +0000" channel="meganews.gr">
+    <title lang="el">Tonight</title>
+    <desc lang="el">Τalk show με την Βούλα Κεχαγιά. Στελέχη της πολιτικής ζωής, της οικονομίας και της κοινωνίας συζητούν στο στούντιο όλα τα καυτά θέματα της επικαιρότητας.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/103/536/040045768112000800_1792666885923_L.jpg" />
+  </programme>
+  <programme start="20261031200000 +0000" stop="20261031220000 +0000" channel="meganews.gr">
+    <title lang="el">Mega News Επικαιρότητα Σ/Κ</title>
+    <desc lang="el">Ένα δυναμικό δελτίο ειδήσεων, με την υπογραφή του MEGA, που καταγράφει και παρουσιάζει όλα τα μεγάλα θέματα της επικαιρότητας με έρευνα, ανάλυση αλλά και σχολιασμό. Με τον Νίκο Παναγιωτόπουλο.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/99/132/040054623612000800_1792666806942_L.jpg" />
+  </programme>
+  <programme start="20261031220000 +0000" stop="20261031232000 +0000" channel="meganews.gr">
+    <title lang="el">Prive</title>
+    <desc lang="el">Επεισόδιο: George Michael. Η Έλενα Κατρίτση υποδεχόταν τους τηλεθεατές του MEGA κάθε εβδομάδα στις πιο PRIVΕ τηλεοπτικές συναντήσεις, προβάλλοντας ό,τι καλύτερο είχε να παρουσιάσει η εγχώρια και διεθνής showbiz της εποχής.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/869/152/040052385512000800_1792736498435_L.jpg" />
+  </programme>
+  <programme start="20261031232000 +0000" stop="20261101003000 +0000" channel="meganews.gr">
+    <title lang="el">Πρωταγωνιστές</title>
+    <desc lang="el">Επεισόδιο: Ο Διωγμός των Τσιγγάνων. Ιστορίες που στόχο έχουν να μας κάνουν να σκεφτόμαστε διαφορετικά. Άνθρωποι γνωστοί ή και της διπλανής πόρτας, οι 'πρωταγωνιστές' των εκπομπών θα μοιραστούν με τον Σταύρο Θεοδωράκη αληθινές εμπειρίες, ιδέες και γεγονότα.</desc>
+    <category lang="el">Ψυχαγωγική Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/891/124/040044900712000800_1792737004048_L.jpg" />
+  </programme>
+  <programme start="20261101003000 +0000" stop="20261101013000 +0000" channel="meganews.gr">
+    <title lang="el">Πάμε μια Βόλτα; (Ε)</title>
+    <desc lang="el">Επεισόδιο: Γιάννης Ξανθούλης. Πέρα από τη δημόσια εικόνα, υπάρχουν οι προσωπικές στιγμές που διαμορφώνουν έναν άνθρωπο. Η ζωή πίσω από τίτλους, ρόλους και στερεότυπα. Η Νίκη Λυμπεράκη ανοίγει χώρο σε ιστορίες που αξίζει να ακουστούν, επενδύοντας στην αμεσότητα και τον ουσιαστικό διάλογο.</desc>
+    <category lang="el">Συνέντευξη</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/866/724/040050829712000800_1792736423662_L.jpg" />
+  </programme>
+  <programme start="20261101013000 +0000" stop="20261101021000 +0000" channel="meganews.gr">
+    <title lang="el">Vita News (Ε)</title>
+    <desc lang="el">Η Νόνη Δούνια με τη συμβολή ειδικών, μας ενημερώνει, για όλα όσα αφορούν την πρόληψη, τη σωστή διατροφή, την ψυχική ισορροπία και τις νέες τάσεις στην ιατρική επιστήμη.</desc>
+    <category lang="el">Υγεία - Wellbeing</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/871/104/040046732012000800_1792736533322_L.jpg" />
+  </programme>
+  <programme start="20261101021000 +0000" stop="20261101030000 +0000" channel="meganews.gr">
+    <title lang="el">Mega News Cosmos (Ε)</title>
+    <desc lang="el">Τα μεγάλα θέματα από τη διεθνή επικαιρότητα που απασχόλησαν την κοινωνία και όσα αναμένεται να έρθουν στο επίκεντρο, παρουσιάζονται και αναλύονται στο studio του MEGA News Cosmos.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/895/28/040043607812000800_1792737047689_L.jpg" />
+  </programme>
+  <programme start="20261101030000 +0000" stop="20261101033000 +0000" channel="meganews.gr">
+    <title lang="el">Ιστορίες του Τόπου μας</title>
+    <desc lang="el">Άνθρωποι από όλα τα μέρη της Ελλάδας μιλούν για τον τόπο, τα έθιμα και τις ιστορίες τους, που συνδέονται με τον τόπο που γεννήθηκαν ή κατοικούν. Ένα ταξίδι σε ιστορίες που μας ανάθρεψαν στο παρελθόν και μας καθοδηγούν μέχρι το μέλλον.</desc>
+    <category lang="el">Ιστορικό - Πολεμικό</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/882/340/040039300712000800_1792736815454_L.jpg" />
+  </programme>
+  <programme start="20261101033000 +0000" stop="20261101034000 +0000" channel="meganews.gr">
+    <title lang="el">Vita News</title>
+    <desc lang="el">Η Νόνη Δούνια με τη συμβολή ειδικών, μας ενημερώνει, για όλα όσα αφορούν την πρόληψη, τη σωστή διατροφή, την ψυχική ισορροπία και τις νέες τάσεις στην ιατρική επιστήμη.</desc>
+    <category lang="el">Υγεία - Wellbeing</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/871/104/040046732012000800_1792736533322_L.jpg" />
+  </programme>
+  <programme start="20261101034000 +0000" stop="20261101072000 +0000" channel="meganews.gr">
+    <title lang="el">MEGA Σαββατοκύριακο</title>
+    <desc lang="el">Ο Ντίνος Σιωμόπουλος και η Στέλλα Γκαντώνα, το μάχιμο δημοσιογραφικό δίδυμο, έρχονται με την ψυχραιμία και την ενσυναίσθηση που τους αναγνωρίζουν οι τηλεθεατές για να φέρουν και φέτος στο προσκήνιο όσα επηρεάζουν την καθημερινότητα των πολιτών.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/879/412/040054283912000800_1792736799414_L.jpg" />
+  </programme>
+  <programme start="20261101072000 +0000" stop="20261101104500 +0000" channel="meganews.gr">
+    <title lang="el">Mega Non Stop</title>
+    <desc lang="el">Ενημερωτικό μαγκαζίνο με τον Ζήση Μούσιο, τον Βασίλη Τσεκούρα και τη Μαρία Αντωνά. Χαρτογράφηση της επικαιρότητας όπως αυτή διαμορφώνεται σε κάθε γωνιά της γης: από την πολιτική και την οικονομία μέχρι την κοινωνία, την τεχνολογία και την καθημερινή ζωή.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/869/652/040054676712000800_1792736462832_L.jpg" />
+  </programme>
+  <programme start="20261101104500 +0000" stop="20261101114000 +0000" channel="meganews.gr">
+    <title lang="el">Μεσημβρινό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Τα γεγονότα στις πραγματικές τους διαστάσεις. Όλες οι εξελίξεις στην ελληνική και διεθνή επικαιρότητα την ώρα που συμβαίνουν. Το πρώτο δελτίο ειδήσεων της ημέρας που δίνει ψύχραιμα και αντικειμενικά μια ολοκληρωμένη εικόνα όλων των σημαντικών ειδήσεων.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/878/936/040043660512000800_1792736727275_L.jpg" />
+  </programme>
+  <programme start="20261101114000 +0000" stop="20261101115000 +0000" channel="meganews.gr">
+    <title lang="el">Δελτίο Νοηματικής</title>
+    <desc lang="el">Οι σημαντικότερες ειδήσεις της ημέρας από την Ελλάδα και τον κόσμο.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/883/816/040043660612000800_1792736827814_L.jpg" />
+  </programme>
+  <programme start="20261101115000 +0000" stop="20261101121000 +0000" channel="meganews.gr">
+    <title lang="el">Vita News</title>
+    <desc lang="el">Η Νόνη Δούνια με τη συμβολή ειδικών, μας ενημερώνει, για όλα όσα αφορούν την πρόληψη, τη σωστή διατροφή, την ψυχική ισορροπία και τις νέες τάσεις στην ιατρική επιστήμη.</desc>
+    <category lang="el">Υγεία - Wellbeing</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/871/104/040046732012000800_1792736533322_L.jpg" />
+  </programme>
+  <programme start="20261101121000 +0000" stop="20261101132000 +0000" channel="meganews.gr">
+    <title lang="el">Mega News Cosmos</title>
+    <desc lang="el">Τα μεγάλα θέματα από τη διεθνή επικαιρότητα που απασχόλησαν την κοινωνία και όσα αναμένεται να έρθουν στο επίκεντρο, παρουσιάζονται και αναλύονται στο studio του MEGA News Cosmos.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/895/28/040043607812000800_1792737047689_L.jpg" />
+  </programme>
+  <programme start="20261101132000 +0000" stop="20261101152000 +0000" channel="meganews.gr">
+    <title lang="el">Εξελίξεις Τώρα</title>
+    <desc lang="el">Το ενημερωτικό μαγκαζίνο του MEGA καταγράφει τις σημαντικότερες στιγμές της επικαιρότητας, 'φωτίζοντας' τα γεγονότα πίσω από τους τίτλους των ειδήσεων. Η δημοσιογράφος Αναστασία Γιάμαλη και οι συνεργάτες της, παραμένουν πιστοί στη δέσμευση για σφαιρική και πολυδιάστατη ενημέρωση.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/886/244/040054286012000800_1792736910262_L.jpg" />
+  </programme>
+  <programme start="20261101152000 +0000" stop="20261101155000 +0000" channel="meganews.gr">
+    <title lang="el">Vidcast</title>
+    <desc lang="el">Ήρεμα Ρωτάτω. Vidcast από την εφημερίδα 'ΤΑ ΝΕΑ'.</desc>
+    <category lang="el">Συνέντευξη</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/889/672/040048427912000800_1792736964000_L.jpg" />
+  </programme>
+  <programme start="20261101155000 +0000" stop="20261101165000 +0000" channel="meganews.gr">
+    <title lang="el">Ψηλά τα Χέρια</title>
+    <desc lang="el">Επεισόδιο: Δημήτρης Τσοβόλας. Ένα τολμηρό, ζωντανό talk show με παρουσιάστρια τη Λιάνα Κανέλλη, όπου η επικαιρότητα, η πολιτική και τα κοινωνικά ζητήματα αναλύονταν με παρρησία και έντονο διάλογο.</desc>
+    <category lang="el">Συνέντευξη</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/882/840/040044231212000800_1792736816473_L.jpg" />
+  </programme>
+  <programme start="20261101165000 +0000" stop="20261101174500 +0000" channel="meganews.gr">
+    <title lang="el">Πάμε μια Βόλτα;</title>
+    <desc lang="el">Επεισόδιο: Σωτήρης Τσαφούλιας. Η Νίκη Λυμπεράκη συνομιλεί με τον Σωτήρη Τσαφούλια και τον ακολουθεί σε μια διαδρομή όπου η προσωπική ιστορία συναντά τη δημιουργική του πορεία.</desc>
+    <category lang="el">Συνέντευξη</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/866/724/040050829712000800_1792736423662_L.jpg" />
+  </programme>
+  <programme start="20261101174500 +0000" stop="20261101183000 +0000" channel="meganews.gr">
+    <title lang="el">Κεντρικό Δελτίο Ειδήσεων</title>
+    <desc lang="el">Κάθε σημαντικό γεγονός που ενδιαφέρει τους πολίτες από την Ελλάδα και τον κόσμο κάθε βράδυ είναι MEGA ΓΕΓΟΝΟΤΑ. Η δημοσιογραφική ομάδα του MEGA ερευνά, παρουσιάζει, αναλύει και σχολιάζει την πραγματικότητα με αμεσότητα, αξιοπιστία, εγκυρότητα, χωρίς εντυπωσιασμούς.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/886/244/040043660412000800_1792736880267_L.jpg" />
+  </programme>
+  <programme start="20261101183000 +0000" stop="20261101200000 +0000" channel="meganews.gr">
+    <title lang="el">Tonight</title>
+    <desc lang="el">Τalk show με την Βούλα Κεχαγιά. Στελέχη της πολιτικής ζωής, της οικονομίας και της κοινωνίας συζητούν στο στούντιο όλα τα καυτά θέματα της επικαιρότητας.</desc>
+    <category lang="el">Εκπομπή</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/881/364/040045768112000800_1792736773121_L.jpg" />
+  </programme>
+  <programme start="20261101200000 +0000" stop="20261101220000 +0000" channel="meganews.gr">
+    <title lang="el">Mega News Επικαιρότητα Σ/Κ</title>
+    <desc lang="el">Ένα δυναμικό δελτίο ειδήσεων, με την υπογραφή του MEGA, που καταγράφει και παρουσιάζει όλα τα μεγάλα θέματα της επικαιρότητας με έρευνα, ανάλυση αλλά και σχολιασμό. Με τον Νίκο Παναγιωτόπουλο.</desc>
+    <category lang="el">Ειδήσεις</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/893/76/040054623612000800_1792737040872_L.jpg" />
+  </programme>
   <programme start="20261025210000 +0000" stop="20261025230000 +0000" channel="moviesbest.cy">
     <title lang="el">Good Guy with a Gun</title>
   </programme>
@@ -92099,7 +93032,7 @@
   </programme>
   <programme start="20261029190500 +0000" stop="20261029210500 +0000" channel="novasports4.gr">
     <title lang="el">Μακάμπι Τελ Αβίβ - Παρί (Z) : EuroLeague 2026/27</title>
-    <desc lang="el">EuroLeague 2026/27. Ενας ακόμη σημαντικός αγώνας της κορυφαίας ευρωπαϊκής διασυλλογικής διοργάνωσης μπάσκετ έρχεται στις οθόνες σας!</desc>
+    <desc lang="el">EuroLeague 2026/27. Η Μακάμπι (2-6), που προέρχεται από δύο συνεχόμενες ήττες, και η Παρί (2-6), που πέτυχε την πρώτη εκτός έδρας νίκη της επικρατώντας με 99-93 της Ντουμπάι, έρχονται αντιμέτωπες.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/24/1f24d175_529b_47e3_bbbb_eb3265768ae2_stb_xl.jpg" />
   </programme>
   <programme start="20261029210500 +0000" stop="20261029230500 +0000" channel="novasports4.gr">
@@ -105610,11 +106543,23 @@
     <category lang="el">Ειδήσεις</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/165/700/040030045812000800_1792476141200_L.jpg" />
   </programme>
-  <programme start="20261029121500 +0000" stop="20261029131500 +0000" channel="star.gr">
-    <title lang="el">Τα Φιλαράκια Κ8</title>
-    <desc lang="el">Κωμική σειρά αμερικανικής παραγωγής 1994-2004. Έξι νέοι άνθρωποι με πολλές ιδιαιτερότητες και αντιθέσεις προσπαθούν να αντιμετωπίσουν τα προβλήματα της ζωής με ζωντάνια, κέφι και χιούμορ.</desc>
+  <programme start="20261029121500 +0000" stop="20261029123500 +0000" channel="star.gr">
+    <title lang="el">Two and a Half Men Κ1 Ε1</title>
+    <desc lang="el">Η ζωή του ανέμελου εργένη Τσάρλι Χάρπερ αλλάζει ριζικά όταν ο πρόσφατα διαζευγμένος αδελφός του Άλαν μετακομίζει στο σπίτι του μαζί με το γιο του, τον Τζέικ. Ο Άλαν αποφασίζει να κάνει μια τελευταία προσπάθεια να τα ξαναβρει με την πρώην γυναίκα του και αποφασίζουν να δειπνήσουν μαζί.</desc>
     <category lang="el">Κωμωδία</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/167/152/040005387212000800_1792476202614_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/259/336/040045271812000800_1793271233668_L.jpg" />
+  </programme>
+  <programme start="20261029123500 +0000" stop="20261029125500 +0000" channel="star.gr">
+    <title lang="el">Two and a Half Men Κ1 Ε2</title>
+    <desc lang="el">Ο Τζέικ, παρά τις αντιρρήσεις του Τσάρλι, ταΐζει τους γλάρους και όταν ξεχνάει ανοιχτή την πόρτα τα πουλιά κυριολεκτικά 'καταλαμβάνουν' το σπίτι. Ο Άλαν εξακολουθεί να προσπαθεί να συμφιλιωθεί με την Τζούντιθ και την επισκέπτεται.</desc>
+    <category lang="el">Κωμωδία</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/259/336/040045271812000800_1793271233668_L.jpg" />
+  </programme>
+  <programme start="20261029125500 +0000" stop="20261029131500 +0000" channel="star.gr">
+    <title lang="el">Two and a Half Men Κ1 Ε3</title>
+    <desc lang="el">Ο Άλαν, απογοητευμένος από την αποτυχημένη οικογενειακή του ζωή, βγαίνει με τον Τσάρλι και πηγαίνουν να πιουν. Μεθυσμένοι, αποφασίζουν να αντιμετωπίσουν τον άνθρωπο, που θεωρούν υπεύθυνο για τα προβλήματα τους, τη μητέρα τους.</desc>
+    <category lang="el">Κωμωδία</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/259/336/040045271812000800_1793271233668_L.jpg" />
   </programme>
   <programme start="20261029131500 +0000" stop="20261029152000 +0000" channel="star.gr">
     <title lang="el">Ο Παράς και ο Φουκαράς</title>
@@ -105712,11 +106657,23 @@
     <category lang="el">Ειδήσεις</category>
     <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/111/920/040030045812000800_1792563982560_L.jpg" />
   </programme>
-  <programme start="20261030121500 +0000" stop="20261030130000 +0000" channel="star.gr">
-    <title lang="el">Τα Φιλαράκια Κ8</title>
-    <desc lang="el">Κωμική σειρά αμερικανικής παραγωγής 1994-2004. Έξι νέοι άνθρωποι με πολλές ιδιαιτερότητες και αντιθέσεις προσπαθούν να αντιμετωπίσουν τα προβλήματα της ζωής με ζωντάνια, κέφι και χιούμορ.</desc>
+  <programme start="20261030121500 +0000" stop="20261030123000 +0000" channel="star.gr">
+    <title lang="el">Two and a Half Men Κ1 Ε4</title>
+    <desc lang="el">Ενώ ο Τσάρλι προσπαθεί να εμπνευστεί για να γράψει ένα καινούριο διαφημιστικό, η Μπέρτα παραιτείται. Ο Άλαν αναλαμβάνει να την πείσει να αλλάξει γνώμη ενώ ζητάει από τον Τσάρλι να ετοιμάσει τον Τζέικ για να παρευρεθούν σε ένα δείπνο.</desc>
     <category lang="el">Κωμωδία</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/84/568/040005387212000800_1792563299074_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/259/336/040045271812000800_1793271233668_L.jpg" />
+  </programme>
+  <programme start="20261030123000 +0000" stop="20261030124500 +0000" channel="star.gr">
+    <title lang="el">Two and a Half Men Κ1 Ε5</title>
+    <desc lang="el">Μετά από μια βραδιά γλεντιού, την επόμενη μέρα ο Τσάρλι πηγαίνει απρόθυμα να δει τον Τζέικ να παίζει ποδόσφαιρο, κρατώντας την υπόσχεση, που του είχε δώσει. Σύντομα ανακαλύπτει τα πλεονεκτήματα της παρακολούθησης σχολικών αγώνων καθώς πολλές μαμάδες είναι γοητευτικές και ...διαθέσιμες!</desc>
+    <category lang="el">Κωμωδία</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/259/336/040045271812000800_1793271233668_L.jpg" />
+  </programme>
+  <programme start="20261030124500 +0000" stop="20261030130000 +0000" channel="star.gr">
+    <title lang="el">Two and a Half Men Κ1 Ε6</title>
+    <desc lang="el">Ο Τσάρλι αρχίζει να αναθεωρεί τον τρόπο, που φέρεται στις γυναίκες, όταν πρέπει να παρηγορήσουν την Έβελιν, η οποία δυσκολεύεται να ξεπεράσει τον χωρισμό από τον αγαπημένο της.</desc>
+    <category lang="el">Κωμωδία</category>
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/259/336/040045271812000800_1793271233668_L.jpg" />
   </programme>
   <programme start="20261030130000 +0000" stop="20261030152000 +0000" channel="star.gr">
     <title lang="el">Να 'τανε το 13 να Έπεφτε σε μας</title>
@@ -110704,7 +111661,7 @@
     <title lang="el">Το Μυστικό Όπλο</title>
     <desc lang="el">Κατά τη διάρκεια μιας απροσδόκητης και βιαστικής υποχώρησης των σοβιετικών στρατευμάτων, ο Κόκκινος Στρατός αναγκάζεται να αφήσει πίσω του το πιο πολύτιμο και απόρρητο όπλο του, τον θρυλικό εκτοξευτή ρουκετών 'Κατιούσα', ο οποίος κρατούνταν υπό άκρα μυστικότητα. (100')</desc>
     <category lang="el">Πολεμική</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/547/76/040055690712000800_1793123107058_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/883/816/0400000083120008000000_1792736796043_L.jpg" />
   </programme>
   <programme start="20261027025500 +0000" stop="20261027034500 +0000" channel="tv100.gr">
     <title lang="el">Αυτοκράτειρες στο Παλάτι Ε55</title>
@@ -110770,7 +111727,7 @@
     <title lang="el">Ο Β' Παγκόσμιος Πόλεμος σε Υψηλή Ανάλυση Ε4</title>
     <desc lang="el">Επεισόδιο: Σταθμοί Μάχης. Σειρά ντοκιμαντέρ ιστορικού περιεχομένου αμερικανικής παραγωγής 2001. Η παραγωγή συγκέντρωσε χιλιάδες ώρες σπάνιου, χαμένου έγχρωμου αρχειακού υλικού που βρέθηκε σε υπόγεια και ιδιωτικά αρχεία σε όλο τον κόσμο.</desc>
     <category lang="el">Ιστορικό - Πολεμικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/550/4/040055690912000800_1793123114716_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/881/864/0400000042120008000000_1792736832746_L.jpg" />
   </programme>
   <programme start="20261027120000 +0000" stop="20261027123000 +0000" channel="tv100.gr">
     <title lang="el">Γεγονότα στην TV100</title>
@@ -110854,7 +111811,7 @@
     <title lang="el">Ο Β' Παγκόσμιος Πόλεμος σε Υψηλή Ανάλυση</title>
     <desc lang="el">Επεισόδιο: 5. Σειρά ντοκιμαντέρ ιστορικού περιεχομένου αμερικανικής παραγωγής 2001. Η παραγωγή συγκέντρωσε χιλιάδες ώρες σπάνιου, χαμένου έγχρωμου αρχειακού υλικού που βρέθηκε σε υπόγεια και ιδιωτικά αρχεία σε όλο τον κόσμο.</desc>
     <category lang="el">Ιστορικό - Πολεμικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/550/4/040055690912000800_1793123114716_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/881/864/0400000042120008000000_1792736832746_L.jpg" />
   </programme>
   <programme start="20261027214500 +0000" stop="20261027220000 +0000" channel="tv100.gr">
     <title lang="el">Η Θεσσαλονίκη στους Αιώνες</title>
@@ -110920,7 +111877,7 @@
     <title lang="el">Σοφία Βέμπο: Παιδιά της Ελλάδος Παιδιά</title>
     <desc lang="el">Η Σοφία Βέμπο τραγουδά το εμβληματικό τραγούδι για την Ελληνική Αντίσταση κατά των Ιταλών 'Παιδιά της Ελλάδος Παιδιά'.</desc>
     <category lang="el">Θεματικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/545/124/040055691112000800_1793123080930_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/871/604/0400000053120008000000_1792736530741_L.jpg" />
   </programme>
   <programme start="20261028053000 +0000" stop="20261028055000 +0000" channel="tv100.gr">
     <title lang="el">Μπομπ ο Μάστορας Ε26</title>
@@ -110932,7 +111889,7 @@
     <title lang="el">Επίδοση Ιταλικού Τελεσιγράφου</title>
     <desc lang="el">Η επίδοση του Ιταλικού τελεσιγράφου στον Έλληνα Πρωθυπουργό Ιωάννη Μεταξά. Διαβάζει ο διακεκριμένος ηθοποιός Δημήτρης Ναζίρης.</desc>
     <category lang="el">Θεματικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/547/576/040055691212000800_1793123108606_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/871/604/0400000053120008000000_1792736530741_L.jpg" />
   </programme>
   <programme start="20261028060000 +0000" stop="20261028061500 +0000" channel="tv100.gr">
     <title lang="el">Εθνική Αντίσταση 1941-1944</title>
@@ -110944,25 +111901,25 @@
     <title lang="el">Ο Β' Παγκόσμιος Πόλεμος σε Υψηλή Ανάλυση Ε6</title>
     <desc lang="el">Επεισόδιο: Σημείο Χωρίς Επιστροφή. Σειρά ντοκιμαντέρ ιστορικού περιεχομένου αμερικανικής παραγωγής 2001. Η παραγωγή συγκέντρωσε χιλιάδες ώρες σπάνιου, χαμένου έγχρωμου αρχειακού υλικού που βρέθηκε σε υπόγεια και ιδιωτικά αρχεία σε όλο τον κόσμο.</desc>
     <category lang="el">Ιστορικό - Πολεμικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/550/4/040055690912000800_1793123114716_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/881/864/0400000042120008000000_1792736832746_L.jpg" />
   </programme>
   <programme start="20261028070500 +0000" stop="20261028071000 +0000" channel="tv100.gr">
     <title lang="el">Γιώργος Βαφόπουλος: Οι Πρώτες Ημέρες του Πολέμου του 1940</title>
     <desc lang="el">Ο κορυφαίος ποιητής, πεζογράφος, και ευεργέτης της Θεσσαλονίκης Γιώργος Βαφόπουλος μιλά στον Στέλιο Λουκά για το πώς έζησε ο ίδιος τις πρώτες ημέρες του πολέμου του 1940. Για τις ημέρες αυτές γράφει στο έργο του 'Σελίδες Αυτοβιογραφίας'.</desc>
     <category lang="el">Θεματικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/547/576/040055691712000800_1793123163389_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/871/604/0400000053120008000000_1792736530741_L.jpg" />
   </programme>
   <programme start="20261028071000 +0000" stop="20261028075500 +0000" channel="tv100.gr">
     <title lang="el">Ο Β' Παγκόσμιος Πόλεμος σε Υψηλή Ανάλυση Ε7</title>
     <desc lang="el">Επεισόδιο: Απόσταση Κρούσης. Σειρά ντοκιμαντέρ ιστορικού περιεχομένου αμερικανικής παραγωγής 2001. Η παραγωγή συγκέντρωσε χιλιάδες ώρες σπάνιου, χαμένου έγχρωμου αρχειακού υλικού που βρέθηκε σε υπόγεια και ιδιωτικά αρχεία σε όλο τον κόσμο.</desc>
     <category lang="el">Ιστορικό - Πολεμικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/550/4/040055690912000800_1793123114716_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/881/864/0400000042120008000000_1792736832746_L.jpg" />
   </programme>
   <programme start="20261028075500 +0000" stop="20261028080000 +0000" channel="tv100.gr">
     <title lang="el">Δημήτρης Ναζίρης: Έκκληση Διανοουμένων</title>
     <desc lang="el">Ο ηθοποιός Δημήτρης Ναζίρης διαβάζει την έκκληση των Ελλήνων διανοουμένων στις 10 Νοεμβρίου 1940. Η έκκληση αυτή απευθύνεται προς όλον τον κόσμο με στόχο να τον ευαισθητοποιήσει για τα Ελληνικά δίκαια.</desc>
     <category lang="el">Ιστορικό - Πολεμικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/545/124/040055691312000800_1793123035993_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/881/864/0400000042120008000000_1792736832746_L.jpg" />
   </programme>
   <programme start="20261028080000 +0000" stop="20261028100000 +0000" channel="tv100.gr">
     <title lang="el">Ντε Γκωλ</title>
@@ -110980,7 +111937,7 @@
     <title lang="el">Ο Β' Παγκόσμιος Πόλεμος σε Υψηλή Ανάλυση Ε6</title>
     <desc lang="el">Επεισόδιο: Σημείο Χωρίς Επιστροφή. Σειρά ντοκιμαντέρ ιστορικού περιεχομένου αμερικανικής παραγωγής 2001. Η παραγωγή συγκέντρωσε χιλιάδες ώρες σπάνιου, χαμένου έγχρωμου αρχειακού υλικού που βρέθηκε σε υπόγεια και ιδιωτικά αρχεία σε όλο τον κόσμο.</desc>
     <category lang="el">Ιστορικό - Πολεμικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/550/4/040055690912000800_1793123114716_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/881/864/0400000042120008000000_1792736832746_L.jpg" />
   </programme>
   <programme start="20261028110000 +0000" stop="20261028120500 +0000" channel="tv100.gr">
     <title lang="el">Thessaloniki Hub</title>
@@ -110992,13 +111949,13 @@
     <title lang="el">Ο Β' Παγκόσμιος Πόλεμος σε Υψηλή Ανάλυση Ε8</title>
     <desc lang="el">Επεισόδιο: Δόξα και Θάρρος. Σειρά ντοκιμαντέρ ιστορικού περιεχομένου αμερικανικής παραγωγής 2001. Η παραγωγή συγκέντρωσε χιλιάδες ώρες σπάνιου, χαμένου έγχρωμου αρχειακού υλικού που βρέθηκε σε υπόγεια και ιδιωτικά αρχεία σε όλο τον κόσμο.</desc>
     <category lang="el">Ιστορικό - Πολεμικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/550/4/040055690912000800_1793123114716_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/881/864/0400000042120008000000_1792736832746_L.jpg" />
   </programme>
   <programme start="20261028125000 +0000" stop="20261028130000 +0000" channel="tv100.gr">
     <title lang="el">Επίδοση Ιταλικού Τελεσιγράφου</title>
     <desc lang="el">Η επίδοση του Ιταλικού τελεσιγράφου στον Έλληνα Πρωθυπουργό Ιωάννη Μεταξά. Διαβάζει ο διακεκριμένος ηθοποιός Δημήτρης Ναζίρης.</desc>
     <category lang="el">Θεματικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/547/576/040055691212000800_1793123108606_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/871/604/0400000053120008000000_1792736530741_L.jpg" />
   </programme>
   <programme start="20261028130000 +0000" stop="20261028143000 +0000" channel="tv100.gr">
     <title lang="el">Ψωμί για Έναν Δραπέτη</title>
@@ -111022,7 +111979,7 @@
     <title lang="el">Απόδραση από τη Γερμανία</title>
     <desc lang="el">Το 1939, ο στρατός του Χίτλερ έκλεινε ξαφνικά τα σύνορα και εβδομήνα εννέα Αμερικανοί Μορμόνοι Ιεραπόστολοι που βρίσκονταν στη Γερμανία υπηρετώντας την εκκλησία τους, παγιδεύονται στην Γερμανία. (75')</desc>
     <category lang="el">Ιστορική</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/546/100/040055691412000800_1793123026740_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/882/840/0400000115120008000000_1792736805455_L.jpg" />
   </programme>
   <programme start="20261028180000 +0000" stop="20261028185000 +0000" channel="tv100.gr">
     <title lang="el">Γεγονότα στην TV100</title>
@@ -111052,7 +112009,7 @@
     <title lang="el">Ο Β' Παγκόσμιος Πόλεμος σε Υψηλή Ανάλυση Ε9</title>
     <desc lang="el">Επεισόδιο: Στο Χείλος της Αβύσσου. Σειρά ντοκιμαντέρ ιστορικού περιεχομένου αμερικανικής παραγωγής 2001. Η παραγωγή συγκέντρωσε χιλιάδες ώρες σπάνιου, χαμένου έγχρωμου αρχειακού υλικού που βρέθηκε σε υπόγεια και ιδιωτικά αρχεία σε όλο τον κόσμο.</desc>
     <category lang="el">Ιστορικό - Πολεμικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/550/4/040055690912000800_1793123114716_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/881/864/0400000042120008000000_1792736832746_L.jpg" />
   </programme>
   <programme start="20261028214500 +0000" stop="20261028220000 +0000" channel="tv100.gr">
     <title lang="el">Εθνική Αντίσταση 1941-1944</title>
@@ -111076,7 +112033,7 @@
     <title lang="el">Το Παιδί μιας Άλλης Μητέρας</title>
     <desc lang="el">Βασισμένο στην αληθινή ιστορία της Λουίζα Γκουλντ, το δράμα διαδραματίζεται κατά τη διάρκεια του Β' Παγκοσμίου Πολέμου, στο νησί Τζέρσεϊ που βρισκόταν υπό ναζιστική κατοχή. Η Λου πήρε κοντά της έναν Ρώσο αιχμάλωτο πολέμου που είχε δραπετεύσει και τον έκρυβε καθ' όλη τη διάρκεια του πολέμου. (120') (Μεταγλ.)</desc>
     <category lang="el">Πολεμική</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/548/552/040055691812000800_1793123154187_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/883/816/0400000083120008000000_1792736796043_L.jpg" />
   </programme>
   <programme start="20261029010000 +0000" stop="20261029025000 +0000" channel="tv100.gr">
     <title lang="el">Μεταξύ Εχθρών</title>
@@ -111148,7 +112105,7 @@
     <title lang="el">Ο Β' Παγκόσμιος Πόλεμος σε Υψηλή Ανάλυση Ε10</title>
     <desc lang="el">Επεισόδιο: Τέλος Παιχνιδιού. Σειρά ντοκιμαντέρ ιστορικού περιεχομένου αμερικανικής παραγωγής 2001. Η παραγωγή συγκέντρωσε χιλιάδες ώρες σπάνιου, χαμένου έγχρωμου αρχειακού υλικού που βρέθηκε σε υπόγεια και ιδιωτικά αρχεία σε όλο τον κόσμο.</desc>
     <category lang="el">Ιστορικό - Πολεμικό</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/550/4/040055690912000800_1793123114716_L.jpg" />
+    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/881/864/0400000042120008000000_1792736832746_L.jpg" />
   </programme>
   <programme start="20261029120000 +0000" stop="20261029123000 +0000" channel="tv100.gr">
     <title lang="el">Γεγονότα στην TV100</title>
