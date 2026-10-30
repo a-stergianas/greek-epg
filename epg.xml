@@ -9669,29 +9669,77 @@
     <title lang="el">Κλασική Ταινία</title>
     <desc lang="el">[K12] Κλασικές ταινίες από την ταινιοθήτη του Attica TV.</desc>
   </programme>
-  <programme start="20261102060000 +0000" stop="20261102100000 +0000" channel="attica.gr">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/967/724/040047676912000800_1792841759232_L.jpg" />
+  <programme start="20261102060000 +0200" stop="20261102070000 +0200" channel="attica.gr">
+    <title lang="el">Μουσικό Πρωινό</title>
+    <desc lang="el">[K8] Ελληνική και ξένη μουσική.</desc>
   </programme>
-  <programme start="20261102100000 +0000" stop="20261102140000 +0000" channel="attica.gr">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/967/724/040047676912000800_1792841759232_L.jpg" />
+  <programme start="20261102070000 +0200" stop="20261102080000 +0200" channel="attica.gr">
+    <title lang="el">Παιδικό Πρόγραμμα</title>
+    <desc lang="el">[K] Παιδικά κινούμενα σχέδια.</desc>
   </programme>
-  <programme start="20261102140000 +0000" stop="20261102180000 +0000" channel="attica.gr">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/967/724/040047676912000800_1792841759232_L.jpg" />
+  <programme start="20261102080000 +0200" stop="20261102090000 +0200" channel="attica.gr">
+    <title lang="el">Ντοκιμαντέρ</title>
+    <desc lang="el">[K8] Ντοκιμαντέρ.</desc>
   </programme>
-  <programme start="20261102180000 +0000" stop="20261102220000 +0000" channel="attica.gr">
-    <title lang="el">Attica TV</title>
-    <desc lang="el">Δεν υπάρχουν πληροφορίες προγράμματος.</desc>
-    <category lang="el">Special</category>
-    <icon src="https://tr.static.cdns.cosmotetvott.gr/ote-prod/967/724/040047676912000800_1792841759232_L.jpg" />
+  <programme start="20261102090000 +0200" stop="20261102093000 +0200" channel="attica.gr">
+    <title lang="el">Εικόνες της Γης (Earth Views)</title>
+    <desc lang="el">[K] Ντοκιμαντέρ. Πανέμορφες εικόνες από όλα τα μήκη και πλάτη της γης.</desc>
+  </programme>
+  <programme start="20261102093000 +0200" stop="20261102110000 +0200" channel="attica.gr">
+    <title lang="el">Παιδικό Πρόγραμμα</title>
+    <desc lang="el">[K] Παιδικά κινούμενα σχέδια.</desc>
+  </programme>
+  <programme start="20261102110000 +0200" stop="20261102120000 +0200" channel="attica.gr">
+    <title lang="el">Πάνω από τα Όρια (Ε)</title>
+    <desc lang="el">[K8] Εκπομπή αυτοκινήτου με το Στράτο Φωτεινέλη.</desc>
+  </programme>
+  <programme start="20261102120000 +0200" stop="20261102130000 +0200" channel="attica.gr">
+    <title lang="el">Παιδικό Πρόγραμμα</title>
+    <desc lang="el">[K] Παιδικά κινούμενα σχέδια.</desc>
+  </programme>
+  <programme start="20261102130000 +0200" stop="20261102140000 +0200" channel="attica.gr">
+    <title lang="el">Ο Κόσμος του Τσίρκου</title>
+    <desc lang="el">[K8] Θεαματικές παραστάσεις τσίρκου.</desc>
+  </programme>
+  <programme start="20261102140000 +0200" stop="20261102144500 +0200" channel="attica.gr">
+    <title lang="el">Οδύσσεια του Διαστήματος (A Space Odyssey) (Ε)</title>
+    <desc lang="el">[K8] Ξένη σειρά, 1980. Ο αστρονόμος Καρλ Σαγκάν μας καθοδηγεί σε μια ενδιαφέρουσα ξενάγηση στα διάφορα στοιχεία και τις κοσμολογικές θεωρίες του σύμπαντος. Παίζουν: Carl Sagan. Σκηνοθεσία: Carl Sagan. Διάρκεια: 45'.</desc>
+  </programme>
+  <programme start="20261102144500 +0200" stop="20261102153000 +0200" channel="attica.gr">
+    <title lang="el">Παιδικό Πρόγραμμα</title>
+    <desc lang="el">[K] Παιδικά κινούμενα σχέδια.</desc>
+  </programme>
+  <programme start="20261102153000 +0200" stop="20261102170000 +0200" channel="attica.gr">
+    <title lang="el">Ξένη Ταινία</title>
+    <desc lang="el">[K8] Ξένη ταινία, οικογενειακή.</desc>
+  </programme>
+  <programme start="20261102170000 +0200" stop="20261102180000 +0200" channel="attica.gr">
+    <title lang="el">Πυροσβεστική για Κλάματα (Tacoma FD)</title>
+    <desc lang="el">[K8] Ξένη σειρά. Μια κωμική ματιά στους πυροσβέστες που παλεύουν με τη δική τους ανία. Παίζουν: Kevin Heffernan,Steve Lemme. Σκηνοθεσία: Kevin Heffernan. Διάρκεια: 48'.</desc>
+  </programme>
+  <programme start="20261102180000 +0200" stop="20261102185000 +0200" channel="attica.gr">
+    <title lang="el">Κάτω από το Κατάστρωμα (Below Deck)</title>
+    <desc lang="el">[K8] Ξένη σειρά reality, 2013. Διάρκεια: 45'.</desc>
+  </programme>
+  <programme start="20261102185000 +0200" stop="20261102190000 +0200" channel="attica.gr">
+    <title lang="el">Art Cafe</title>
+    <desc lang="el">[K] Φίλερ μουσικής και πολιτισμού.</desc>
+  </programme>
+  <programme start="20261102190000 +0200" stop="20261102200000 +0200" channel="attica.gr">
+    <title lang="el">Η Δυναστεία των Μινγκ (Ming Dynasty)</title>
+    <desc lang="el">[K8] Α' προβολή. Ξένη σειρά. Η Ιστορία των χρόνων της Δυναστείας των Μίνγκ, που για 100 χρόνια αιματοκύλησαν τη χώρα με ίντριγκες, δολοφονίες και πολέμους, έως ότου μια κοπέλα γίνεται Αυτοκράτειρα για να διορθώσει τη διεφθαρμένη χώρα της. Παίζουν: Tang Wei. Σκηνοθεσία: Ting Zhang. Διάρκεια: 50'.</desc>
+  </programme>
+  <programme start="20261102200000 +0200" stop="20261102220000 +0200" channel="attica.gr">
+    <title lang="el">Αντιθέσεις</title>
+    <desc lang="el">[K8] Πολιτικό talk show με τους δημοσιογράφους Βαγγέλη Γιακουμή και Άννα Καραβοκύρη.</desc>
+  </programme>
+  <programme start="20261102220000 +0200" stop="20261102230000 +0200" channel="attica.gr">
+    <title lang="el">Πες μια Ιστορία (Tell me a Story)</title>
+    <desc lang="el">[K16] Ξένη σειρά, 2018. Μια σειρά-ανθολογία με αγαπημένα παραμύθια που συνυφαίνονται σε μια ανατρεπτική ιστορία αγάπης, απώλειας, απληστίας, εκδίκησης και φόνου. Παίζουν: Danielle Campbell, Paul Wesley. Σκηνοθεσία: Jeff T. Thomas. Διάρκεια: 50'.</desc>
+  </programme>
+  <programme start="20261102230000 +0200" stop="20261103003500 +0200" channel="attica.gr">
+    <title lang="el">Ξένη Ταινία</title>
+    <desc lang="el">[K16] Ξένη ταινία.</desc>
   </programme>
   <programme start="20261026204500 +0000" stop="20261027000000 +0000" channel="babytv.gr">
     <title lang="el">Οι Αγκαλίτσες</title>
@@ -26929,23 +26977,26 @@
   <programme start="20261101103000 +0000" stop="20261101130000 +0000" channel="cytavisionsports2.cy">
     <title lang="el">MILAN TV</title>
   </programme>
-  <programme start="20261101130000 +0000" stop="20261101132000 +0000" channel="cytavisionsports2.cy">
+  <programme start="20261101130000 +0000" stop="20261101133000 +0000" channel="cytavisionsports2.cy">
     <title lang="el">THE OCEAN RACE ATLANTIC 2026 - THE OFFICIAL FILM EP.2</title>
   </programme>
-  <programme start="20261101132000 +0000" stop="20261101140000 +0000" channel="cytavisionsports2.cy">
-    <title lang="el">ΩΡΑ ΓΙΑ ΜΠΑΛΑ ΑΡΗΣ - ΑΝΟΡΘΩΣΗ (Z)</title>
+  <programme start="20261101133000 +0000" stop="20261101140000 +0000" channel="cytavisionsports2.cy">
+    <title lang="el">INVINCIBLE S4 EP.7</title>
   </programme>
-  <programme start="20261101140000 +0000" stop="20261101160000 +0000" channel="cytavisionsports2.cy">
-    <title lang="el">ΑΡΗΣ - ΑΝΟΡΘΩΣΗ (Z)</title>
-  </programme>
-  <programme start="20261101160000 +0000" stop="20261101163000 +0000" channel="cytavisionsports2.cy">
+  <programme start="20261101140000 +0000" stop="20261101143000 +0000" channel="cytavisionsports2.cy">
     <title lang="el">QMMF - 24 HOURS OF LE MANS DOCUMENTARY EP.1</title>
   </programme>
-  <programme start="20261101163000 +0000" stop="20261101170000 +0000" channel="cytavisionsports2.cy">
+  <programme start="20261101143000 +0000" stop="20261101150000 +0000" channel="cytavisionsports2.cy">
     <title lang="el">GAMES OF THE FUTURE BY PHYGITAL 2026 - DOCUMENTARY EP.1</title>
   </programme>
-  <programme start="20261101170000 +0000" stop="20261101180000 +0000" channel="cytavisionsports2.cy">
-    <title lang="el">MILAN TV</title>
+  <programme start="20261101150000 +0000" stop="20261101152000 +0000" channel="cytavisionsports2.cy">
+    <title lang="el">MEDITERRANEAN GAMES 2026 EP.4</title>
+  </programme>
+  <programme start="20261101152000 +0000" stop="20261101160000 +0000" channel="cytavisionsports2.cy">
+    <title lang="el">ΩΡΑ ΓΙΑ ΜΠΑΛΑ ΑΡΗΣ - ΑΝΟΡΘΩΣΗ (Z)</title>
+  </programme>
+  <programme start="20261101160000 +0000" stop="20261101180000 +0000" channel="cytavisionsports2.cy">
+    <title lang="el">ΑΡΗΣ - ΑΝΟΡΘΩΣΗ (Z)</title>
   </programme>
   <programme start="20261101180000 +0000" stop="20261101200000 +0000" channel="cytavisionsports2.cy">
     <title lang="el">KRASAVA Ε.Ν.Υ - ΑΕΚ 31/10/26</title>
@@ -27557,16 +27608,16 @@
     <title lang="el">MAN UTD TV</title>
   </programme>
   <programme start="20261030130000 +0000" stop="20261030150000 +0000" channel="cytavisionsports5.cy">
-    <title lang="el">ATP 500 - BASEL (QF 1) (Z)</title>
+    <title lang="el">Holger RUNE - Valentin VACHEROT (QF 1) (Z)</title>
   </programme>
   <programme start="20261030150000 +0000" stop="20261030170000 +0000" channel="cytavisionsports5.cy">
-    <title lang="el">ATP 500 - BASEL (QF 2) (Z)</title>
+    <title lang="el">Taylor FRITZ - Arthur FILS (QF 2) (Z)</title>
   </programme>
   <programme start="20261030170000 +0000" stop="20261030190000 +0000" channel="cytavisionsports5.cy">
-    <title lang="el">ATP 500 - BASEL (QF 3) (Z)</title>
+    <title lang="el">Jerome KYM - Jiri LEHECKA (QF 3) (Z)</title>
   </programme>
   <programme start="20261030190000 +0000" stop="20261030210000 +0000" channel="cytavisionsports5.cy">
-    <title lang="el">ATP 500 - BASEL (QF 4) (Z)</title>
+    <title lang="el">Jan-Lennard STRUFF - Nuno BORGES (QF 4) (Z)</title>
   </programme>
   <programme start="20261030210000 +0000" stop="20261030220000 +0000" channel="cytavisionsports5.cy">
     <title lang="el">MAN UTD TV</title>
@@ -28004,19 +28055,19 @@
     <title lang="el">REAL MADRID TV</title>
   </programme>
   <programme start="20261030123000 +0000" stop="20261030143000 +0000" channel="cytavisionsports8.cy">
-    <title lang="el">ATP 500 - VIENNA (QF 1) (Z)</title>
+    <title lang="el">Adrian MANNARINO - Daniil MEDVEDEV (QF 1) (Z)</title>
   </programme>
   <programme start="20261030143000 +0000" stop="20261030163000 +0000" channel="cytavisionsports8.cy">
-    <title lang="el">ATP 500 - VIENNA (QF 2) (Z)</title>
+    <title lang="el">Tommy PAUL - Carlos ALCARAZ (QF 2) (Z)</title>
   </programme>
   <programme start="20261030163000 +0000" stop="20261030183000 +0000" channel="cytavisionsports8.cy">
-    <title lang="el">ATP 500 - VIENNA (QF 3) (Z)</title>
+    <title lang="el">Alexander ZVEREV - Arthur FERY (QF 3) (Z)</title>
   </programme>
   <programme start="20261030183000 +0000" stop="20261030190000 +0000" channel="cytavisionsports8.cy">
     <title lang="el">REAL MADRID TV</title>
   </programme>
   <programme start="20261030190000 +0000" stop="20261030210000 +0000" channel="cytavisionsports8.cy">
-    <title lang="el">ATP 500 - VIENNA (QF 4) (Z)</title>
+    <title lang="el">Matteo BERRETTINI - Alex DE MINAUR (QF 4) (Z)</title>
   </programme>
   <programme start="20261030210000 +0000" stop="20261030220000 +0000" channel="cytavisionsports8.cy">
     <title lang="el">REAL MADRID TV</title>
@@ -55245,9 +55296,9 @@
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/09/29/d069874c_20ca_46f3_bb1b_79c6d5a1e8f9_stb_xl.jpg" />
   </programme>
   <programme start="20261102091500 +0000" stop="20261102100000 +0000" channel="history.gr">
-    <title lang="el">Τα Μεγαλύτερα Μυστήρια της Ιστορίας 6</title>
-    <desc lang="el">Κύκλος 6. Ο Θάνατος και η Περιουσία του Εσκομπάρ.</desc>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2025/05/27/a8b1d6d9-f603-43f4-9af9-772f91f4a5fe_stb_xl.jpg" />
+    <title lang="el">Τα Μεγαλύτερα Μυστήρια της Ιστορίας 7</title>
+    <desc lang="el">Κύκλος 7 · Επεισόδιο 1. Περιοχή 51. Κρυμμένη στην έρημο της Νεβάδα, μια άκρως απόρρητη στρατιωτική βάση παραμένει ένας από τους πιο αυστηρά απαγορευμένους τόπους στις ΗΠΑ.</desc>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/04/03/d1c0597c_1e55_468c_a4d3_af3c5fd71e19_xl.jpg" />
   </programme>
   <programme start="20261102100000 +0000" stop="20261102104500 +0000" channel="history.gr">
     <title lang="el">Τα Ανεξήγητα με τον Ουίλιαμ Σάτνερ 5</title>
@@ -87697,17 +87748,17 @@
     <desc lang="el">Περιπέτεια. Στη μεσαιωνική Βρετανία, ο απερίσκεπτος ανιψιός του βασιλιά Αρθούρου αποδέχεται την πρόκληση ενός μυστηριώδους ιππότη.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/06/29/72482e3d_d081_4059_8878_575e1554dbf2_stb_xl.jpg" />
   </programme>
-  <programme start="20261031230500 +0000" stop="20261031233000 +0000" channel="novacinema3.gr">
+  <programme start="20261031230500 +0000" stop="20261031232900 +0000" channel="novacinema3.gr">
     <title lang="el">Κινηματογραφικά Νέα</title>
     <desc lang="el">Ενημερωτικό Μαγκαζίνο. Ενημερωθείτε για όλα όσα συμβαίνουν στο συναρπαστικό χώρο της έβδομης τέχνης αποκλειστικά από τα κανάλια Novacinema!</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2021/07/19/df58db48-55ac-418e-99e3-13b1975b59aa_stb_xl.jpg" />
   </programme>
-  <programme start="20261031233000 +0000" stop="20261101011000 +0000" channel="novacinema3.gr">
+  <programme start="20261031232900 +0000" stop="20261101005900 +0000" channel="novacinema3.gr">
     <title lang="el">XOXO, Your Cheating Wife 2</title>
     <desc lang="el">Αισθησιακή ταινία.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2021/07/19/20536438-975d-442e-8ba1-04535cb91bba_stb_xl.jpg" />
   </programme>
-  <programme start="20261101011000 +0000" stop="20261101025000 +0000" channel="novacinema3.gr">
+  <programme start="20261101005900 +0000" stop="20261101025000 +0000" channel="novacinema3.gr">
     <title lang="el">Faster</title>
     <desc lang="el">Ταινία Δράσης.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/04/06/bae23847_25ff_438f_b785_948db8373fa3_xl.jpg" />
@@ -87767,17 +87818,17 @@
     <desc lang="el">Ταινία Δράσης - Τρόμου. Ένα κοριτσάκι πιστεύει πως το τέρας κάτω από το κρεβάτι της κατασπάραξε την οικογένειά της και ζητά τη βοήθεια του μυστηριώδους γείτονά της.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/08/04/db8a4b94_03ad_4fa3_86ab_7af49f3e577a_xl.jpg" />
   </programme>
-  <programme start="20261101222500 +0000" stop="20261101233000 +0000" channel="novacinema3.gr">
+  <programme start="20261101222500 +0000" stop="20261101232900 +0000" channel="novacinema3.gr">
     <title lang="el">Κινηματογραφικά Νέα</title>
     <desc lang="el">Ενημερωτικό Μαγκαζίνο. Ενημερωθείτε για όλα όσα συμβαίνουν στο συναρπαστικό χώρο της έβδομης τέχνης αποκλειστικά από τα κανάλια Novacinema!</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2021/07/19/df58db48-55ac-418e-99e3-13b1975b59aa_stb_xl.jpg" />
   </programme>
-  <programme start="20261101233000 +0000" stop="20261102010000 +0000" channel="novacinema3.gr">
+  <programme start="20261101232900 +0000" stop="20261102005900 +0000" channel="novacinema3.gr">
     <title lang="el">Interracial Hotwives 3</title>
     <desc lang="el">Αισθησιακή ταινία.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2021/07/19/20536438-975d-442e-8ba1-04535cb91bba_stb_xl.jpg" />
   </programme>
-  <programme start="20261102010000 +0000" stop="20261102024000 +0000" channel="novacinema3.gr">
+  <programme start="20261102005900 +0000" stop="20261102024000 +0000" channel="novacinema3.gr">
     <title lang="el">Consumed</title>
     <desc lang="el">Ταινία Τρόμου. Για να αναρρώσει μετά από μια ασθένεια, μια γυναίκα πηγαίνει με τον σύζυγό της για κάμπινγκ στην άγρια φύση.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/06/29/ebddaafd_636a_4492_b524_a6be1587c3a3_stb_xl.jpg" />
@@ -89629,12 +89680,12 @@
   </programme>
   <programme start="20261101143000 +0000" stop="20261101150000 +0000" channel="novasports2.gr">
     <title lang="el">Λίγο Πριν τη Σέντρα (Ζ) : Λεβαδειακός - Άρης</title>
-    <desc lang="el">Λεβαδειακός - Άρης. Πληροφορηθείτε, λίγο πριν από τη σέντρα και με την ολοκλήρωση της προθέρμανσης, τις αρχικές ενδεκάδες και τα τελευταία νέα των ομάδων.</desc>
+    <desc lang="el">Λεβαδειακός - Άρης. Πληροφορηθείτε, λίγο πριν από τη σέντρα και με την ολοκλήρωση της προθέρμανσης, τις αρχικές ενδεκάδες και τα τελευταία νέα των ομάδων. Περιγραφή: Γ. Παπαβασιλείου</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2023/08/30/abfe1f85-2192-49e0-9f04-b2d7953a1dba_stb_xl.jpg" />
   </programme>
   <programme start="20261101150000 +0000" stop="20261101171500 +0000" channel="novasports2.gr">
     <title lang="el">Λεβαδειακός - Άρης (Ζ) : Super League 2026/27</title>
-    <desc lang="el">Super League 2026/27. Το ελληνικό πρωτάθλημα της Super League, με αποκλειστικούς αγώνες κορυφαίων ομάδων αλλά και δυνατά ντέρμπι της φετινής σεζόν ανάμεσα στους διεκδικητές του τίτλου, είναι στα.</desc>
+    <desc lang="el">Super League 2026/27. Ο Λεβαδειακός (12ος-3β) προέρχεται από λευκή ισοπαλία κόντρα στον Asteras AKTOR εκτός και υποδέχεται στην 9η αγωνιστική τον Άρη (4ος-16β), που είναι στην τέταρτη θέση μετά από.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/28/65d25bfd_32df_4647_9338_2d8d93b97cff_stb_xl.jpg" />
   </programme>
   <programme start="20261101171500 +0000" stop="20261101181500 +0000" channel="novasports2.gr">
@@ -89649,7 +89700,7 @@
   </programme>
   <programme start="20261101190000 +0000" stop="20261101210000 +0000" channel="novasports2.gr">
     <title lang="el">Παλμέιρας - Βάσκο Ντα Γκάμα (Ζ) : Copa do Brasil 2026</title>
-    <desc lang="el">Copa do Brasil 2026. Το Copa do Brasil του 2026 είναι η 38η διοργάνωση του κυπέλλου ποδοσφαίρου της Βραζιλίας και διεξάγεται από τις 17 Φεβρουαρίου έως τις 6 Δεκεμβρίου 2026.</desc>
+    <desc lang="el">Copa do Brasil 2026. Η Παλμέιρας και η Βάσκο ντα Γκάμα συγκρούονται στον πρώτο ημιτελικό του Copa do Brasil 2026, με τις δύο ομάδες να θέλουν το καλύτερο δυνατό αποτέλεσμα στη μάχη για τον τίτλο του.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/28/51e750d6_e746_4514_90ed_073ab0a87262_xl.jpg" />
   </programme>
   <programme start="20261101210000 +0000" stop="20261101213000 +0000" channel="novasports2.gr">
@@ -89659,7 +89710,7 @@
   </programme>
   <programme start="20261101213000 +0000" stop="20261101233000 +0000" channel="novasports2.gr">
     <title lang="el">Γκρέμιο - Ατλέτικο Μινέιρο (Ζ) : Copa do Brasil 2026</title>
-    <desc lang="el">Copa do Brasil 2026. Το Copa do Brasil του 2026 είναι η 38η διοργάνωση του κυπέλλου ποδοσφαίρου της Βραζιλίας και διεξάγεται από τις 17 Φεβρουαρίου έως τις 6 Δεκεμβρίου 2026.</desc>
+    <desc lang="el">Copa do Brasil 2026. Η Γκρέμιο και η Ατλέτικο Μινέιρο συγκρούονται στον πρώτο ημιτελικό του Copa do Brasil 2026, με τις δύο ομάδες να θέλουν το καλύτερο δυνατό αποτέλεσμα στη μάχη για τον τίτλο του.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/28/481ffc11_f7f6_480e_8fd3_afb952c567a3_stb_xl.jpg" />
   </programme>
   <programme start="20261101233000 +0000" stop="20261102000000 +0000" channel="novasports2.gr">
@@ -89699,7 +89750,7 @@
   </programme>
   <programme start="20261102173000 +0000" stop="20261102194500 +0000" channel="novasports2.gr">
     <title lang="el">Καλαμάτα - Ηρακλής (Ζ) : Super League 2026/27</title>
-    <desc lang="el">Super League 2026/27. Το ελληνικό πρωτάθλημα της Super League, με αποκλειστικούς αγώνες κορυφαίων ομάδων αλλά και δυνατά ντέρμπι της φετινής σεζόν ανάμεσα στους διεκδικητές του τίτλου, είναι στα.</desc>
+    <desc lang="el">Super League 2026/27. Η Καλαμάτα (8η-10β) υποδέχεται τον Ηρακλή (9ος-9β) για την 9η αγωνιστική της Super League, με τις δύο ομάδες να προέρχονται από ήττες κόντρα στον Ολυμπιακό εκτός με 5-0 και την.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/28/845eb492_d240_489a_b6b0_255884100195_stb_xl.jpg" />
   </programme>
   <programme start="20261102194500 +0000" stop="20261102201500 +0000" channel="novasports2.gr">
@@ -89964,7 +90015,7 @@
   </programme>
   <programme start="20261101123000 +0000" stop="20261101143000 +0000" channel="novasports3.gr">
     <title lang="el">Ζανκτ Πάουλι - Νυρεμβέργη (Ζ) : 2.Bundesliga 2026/27</title>
-    <desc lang="el">2.Bundesliga 2026/27. Παρακολουθείτε αγώνες της Bundesliga 2, της δεύτερης κατηγορίας του γερμανικού πρωταθλήματος ποδοσφαίρου.</desc>
+    <desc lang="el">2.Bundesliga 2026/27. Η Ζανκτ Πάουλι (7η-12β) φιλοξενεί τη Νυρεμβέργη (2η-18β) στη 10η αγωνιστική του πρωταθλήματος της δεύτερης κατηγορίας της Γερμανίας. Περιγραφή: Ισ. Πρίντεζης</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/28/21839e60_97c5_40cb_be47_6a7ffc1a3e19_stb_xl.jpg" />
   </programme>
   <programme start="20261101143000 +0000" stop="20261101163000 +0000" channel="novasports3.gr">
@@ -89974,7 +90025,7 @@
   </programme>
   <programme start="20261101163000 +0000" stop="20261101183000 +0000" channel="novasports3.gr">
     <title lang="el">Άιντραχτ Φρανκφούρτης - Αμβούργο (Ζ) : Bundesliga 2026/27</title>
-    <desc lang="el">Bundesliga 2026/27. Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες.</desc>
+    <desc lang="el">Bundesliga 2026/27. Η Άιντραχτ (14η-8β) υποδέχεται το Αμβούργο (11ο-9β) για την 8η αγωνιστική της Bundesliga.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/28/bae83e85_66dd_4a1f_bcdc_2615f4486e1a_stb_xl.jpg" />
   </programme>
   <programme start="20261101183000 +0000" stop="20261101203000 +0000" channel="novasports3.gr">
@@ -90284,7 +90335,7 @@
   </programme>
   <programme start="20261101143000 +0000" stop="20261101163000 +0000" channel="novasports4.gr">
     <title lang="el">Ουνιόν Βερολίνου - Κολωνία (Ζ) : Bundesliga 2026/27</title>
-    <desc lang="el">Bundesliga 2026/27. Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες.</desc>
+    <desc lang="el">Bundesliga 2026/27. Η Ουνιόν (17η-6β) συναντά την Κολωνία (12η-8β) στην 8η αγωνιστική της Bundesliga, με τις δύο ομάδες να προέρχονται από ισοπαλίες κόντρα στην Άουγκσμπουργκ εκτός έδρας και τη.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/28/dc1941ee_1e9d_4a15_ab01_59aaa0d91340_stb_xl.jpg" />
   </programme>
   <programme start="20261101163000 +0000" stop="20261101183000 +0000" channel="novasports4.gr">
@@ -92022,25 +92073,10 @@
     <desc lang="el">Τσέλσι - Άστον Βίλα (2010/11). Δείτε έναν κλασικό αγώνα από προηγούμενη σεζόν της Premier League επιλεγμένο από το πλούσιο αρχείο της κορυφαίας αγγλικής κατηγορίας.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2022/08/01/e3840777-59fe-4b6a-8cbb-db39268ebc39_stb_xl.jpg" />
   </programme>
-  <programme start="20261101163000 +0000" stop="20261101170000 +0000" channel="novasportspremierleague.gr">
-    <title lang="el">Classic Match : Γουέστ Χαμ - Τότεναμ (2012/13)</title>
-    <desc lang="el">Γουέστ Χαμ - Τότεναμ (2012/13). Δείτε έναν κλασικό αγώνα από προηγούμενη σεζόν της Premier League επιλεγμένο από το πλούσιο αρχείο της κορυφαίας αγγλικής κατηγορίας.</desc>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2022/08/01/e3840777-59fe-4b6a-8cbb-db39268ebc39_stb_xl.jpg" />
-  </programme>
-  <programme start="20261101170000 +0000" stop="20261101173000 +0000" channel="novasportspremierleague.gr">
-    <title lang="el">Classic Match : Φούλαμ - Μάντσεστερ Σίτι (2006/07)</title>
-    <desc lang="el">Φούλαμ - Μάντσεστερ Σίτι (2006/07). Δείτε έναν κλασικό αγώνα από προηγούμενη σεζόν της Premier League επιλεγμένο από το πλούσιο αρχείο της κορυφαίας αγγλικής κατηγορίας.</desc>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2022/08/01/e3840777-59fe-4b6a-8cbb-db39268ebc39_stb_xl.jpg" />
-  </programme>
-  <programme start="20261101173000 +0000" stop="20261101180000 +0000" channel="novasportspremierleague.gr">
-    <title lang="el">Classic Match : Μάντσεστερ Γ. - Λίβερπουλ (2013/14)</title>
-    <desc lang="el">Μάντσεστερ Γ. - Λίβερπουλ (2013/14). Δείτε έναν κλασικό αγώνα από προηγούμενη σεζόν της Premier League επιλεγμένο από το πλούσιο αρχείο της κορυφαίας αγγλικής κατηγορίας.</desc>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2022/08/01/e3840777-59fe-4b6a-8cbb-db39268ebc39_stb_xl.jpg" />
-  </programme>
-  <programme start="20261101180000 +0000" stop="20261101183000 +0000" channel="novasportspremierleague.gr">
-    <title lang="el">Classic Match : Μάντσεστερ Γ. - Λίβερπουλ (2015/16)</title>
-    <desc lang="el">Μάντσεστερ Γ. - Λίβερπουλ (2015/16). Δείτε έναν κλασικό αγώνα από προηγούμενη σεζόν της Premier League επιλεγμένο από το πλούσιο αρχείο της κορυφαίας αγγλικής κατηγορίας.</desc>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2022/08/01/e3840777-59fe-4b6a-8cbb-db39268ebc39_stb_xl.jpg" />
+  <programme start="20261101163000 +0000" stop="20261101183000 +0000" channel="novasportspremierleague.gr">
+    <title lang="el">Λίβερπουλ - Άρσεναλ (Ζ) : Premier League 2026/27</title>
+    <desc lang="el">Premier League 2026/27. Η Λίβερπουλ (4η-15β) φιλοξενεί την Άρσεναλ (2η-21β) στο ντέρμπι της 9ης αγωνιστικής, με τις δύο ομάδες να προέρχονται από νίκες με 2-0 στα εντός έδρας ματς με την Μπράιτον.</desc>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/28/ced6ec11_9bf5_421d_8a27_d6aca75d11eb_stb_xl.jpg" />
   </programme>
   <programme start="20261101183000 +0000" stop="20261101190000 +0000" channel="novasportspremierleague.gr">
     <title lang="el">Classic Match : Μπέρνλι - Μάντσεστερ Γ. (2009/10)</title>
@@ -92113,8 +92149,8 @@
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/19/96e8ff1c_874c_4b33_8d43_5e63ebbfa474_xl.jpg" />
   </programme>
   <programme start="20261102160000 +0000" stop="20261102170000 +0000" channel="novasportspremierleague.gr">
-    <title lang="el">Premier League Kick-off : 8η Αγωνιστική</title>
-    <desc lang="el">8η Αγωνιστική. Η προεπισκόπηση της αγωνιστικής ζωντανά από τους ειδικούς του Novasports: ανάλυση των σημαντικότερων αγώνων, τα τελευταία νέα και μοναδικά αφιερώματα.</desc>
+    <title lang="el">Premier League Kick-off : 9η Αγωνιστική</title>
+    <desc lang="el">9η Αγωνιστική. Η προεπισκόπηση της αγωνιστικής ζωντανά από τους ειδικούς του Novasports: ανάλυση των σημαντικότερων αγώνων, τα τελευταία νέα και μοναδικά αφιερώματα.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2022/08/05/f44a0479-e1b4-47e4-a9e5-3eb6e01ce8b4_stb_xl.jpg" />
   </programme>
   <programme start="20261102170000 +0000" stop="20261102190000 +0000" channel="novasportspremierleague.gr">
@@ -92134,7 +92170,7 @@
   </programme>
   <programme start="20261102200000 +0000" stop="20261102220000 +0000" channel="novasportspremierleague.gr">
     <title lang="el">Νιούκαστλ - Έβερτον (Ζ) : Premier League 2026/27</title>
-    <desc lang="el">Premier League 2026/27. Η Premier League, η κορυφαία κατηγορία του αγγλικού ποδοσφαίρου που καθηλώνει εκατομμύρια φιλάθλους, αποκλειστικά στο Novasports!</desc>
+    <desc lang="el">Premier League 2026/27. Η Νιούκαστλ (8η-11β), που επέστρεψε στις νίκες επικρατώντας με 2-0 της Κρίσταλ Πάλας εκτός, και η Έβερτον (11η-10β), που προέρχεται από δύο συνεχόμενες ήττες, έρχονται.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/28/1e141540_4ec5_4615_b5cd_48a5fa46ef6e_xl.jpg" />
   </programme>
   <programme start="20261026220000 +0000" stop="20261027010000 +0000" channel="novasportsprime.gr">
@@ -92469,7 +92505,7 @@
   </programme>
   <programme start="20261101170000 +0000" stop="20261101191500 +0000" channel="novasportsprime.gr">
     <title lang="el">ΠΑΟΚ - Asteras AKTOR (Ζ) : Super League 2026/27</title>
-    <desc lang="el">Super League 2026/27. Το ελληνικό πρωτάθλημα της Super League, με αποκλειστικούς αγώνες κορυφαίων ομάδων αλλά και δυνατά ντέρμπι της φετινής σεζόν ανάμεσα στους διεκδικητές του τίτλου, είναι στα.</desc>
+    <desc lang="el">Super League 2026/27. Ο ΠΑΟΚ (5ος-15β) θέλει τη νίκη μετά την εκτός έδρας ήττα από τον ΟΦΗ με 2-1 και φιλοξενεί στην 9η αγωνιστική τoν Asteras AKTOR (11ος-6β), που έμεινε στο ισόπαλο 0-0 κόντρα στον.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/28/b6b60fd7_3562_4a8f_b96a_60a337712ccb_xl.jpg" />
   </programme>
   <programme start="20261101191500 +0000" stop="20261101210000 +0000" channel="novasportsprime.gr">
@@ -92529,7 +92565,7 @@
   </programme>
   <programme start="20261102160000 +0000" stop="20261102181500 +0000" channel="novasportsprime.gr">
     <title lang="el">Ατρόμητος - Βόλος (Ζ) : Super League 2026/27</title>
-    <desc lang="el">Super League 2026/27. Το ελληνικό πρωτάθλημα της Super League, με αποκλειστικούς αγώνες κορυφαίων ομάδων αλλά και δυνατά ντέρμπι της φετινής σεζόν ανάμεσα στους διεκδικητές του τίτλου, είναι στα.</desc>
+    <desc lang="el">Super League 2026/27. Ο Ατρόμητος (13ος-2β) και ο Βόλος (14ος-0β) συναντιούνται για την 9η αγωνιστική της Super League και προέρχονται από ήττες απέναντι στον Άρη εκτός με 3-1 και τον Παναθηναϊκό.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/28/a2b8f023_12b6_42c1_afa0_322963a9f0e7_xl.jpg" />
   </programme>
   <programme start="20261102181500 +0000" stop="20261102191500 +0000" channel="novasportsprime.gr">
@@ -92899,7 +92935,7 @@
   </programme>
   <programme start="20261101123000 +0000" stop="20261101143000 +0000" channel="novasportsstart.gr">
     <title lang="el">Γκρόιτερ Φιρτ - Χόλσταϊν Κίελ (Ζ) : 2.Bundesliga 2026/27</title>
-    <desc lang="el">2.Bundesliga 2026/27. Παρακολουθείτε αγώνες της Bundesliga 2, της δεύτερης κατηγορίας του γερμανικού πρωταθλήματος ποδοσφαίρου.</desc>
+    <desc lang="el">2.Bundesliga 2026/27. Η Γκρόιτερ Φιρτ (12η-9β) φιλοξενεί τη Χόλσταϊν Κίελ (13η-8β) στη 10η αγωνιστική του πρωταθλήματος της δεύτερης κατηγορίας της Γερμανίας. Περιγραφή: Αγ. Στυλιάδης</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/28/fee20d9f_250f_4026_94b4_9ae293271efc_stb_xl.jpg" />
   </programme>
   <programme start="20261101143000 +0000" stop="20261101163000 +0000" channel="novasportsstart.gr">
@@ -92973,8 +93009,8 @@
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/09/ffd6c50c_03d2_41e7_823c_4fe173e1df6b_xl.jpg" />
   </programme>
   <programme start="20261102190000 +0000" stop="20261102194500 +0000" channel="novasportsstart.gr">
-    <title lang="el">Σπύρος Λούης: Τρέχοντας στην Ιστορία : Ντοκιμαντέρ</title>
-    <desc lang="el">Ντοκιμαντέρ. Σπύρος Λούης: Τρέχοντας στην Ιστορία</desc>
+    <title lang="el">Σπύρος Λούης: Τρέχοντας στην Ιστορία : Αθλητικό Ντοκιμαντέρ</title>
+    <desc lang="el">Αθλητικό Ντοκιμαντέρ.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/29/1f9b00fe_9596_49bd_9615_bcf18016e909_stb_xl.jpg" />
   </programme>
   <programme start="20261102194500 +0000" stop="20261102214500 +0000" channel="novasportsstart.gr">
@@ -92983,9 +93019,9 @@
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/28/332a8b8a_9c2e_4a6e_85f3_53b255fd1cbf_stb_xl.jpg" />
   </programme>
   <programme start="20261102214500 +0000" stop="20261102234500 +0000" channel="novasportsstart.gr">
-    <title lang="el">Άιντραχτ Φρανκφούρτης - Αμβούργο : Bundesliga 2026/27</title>
-    <desc lang="el">Bundesliga 2026/27. Το γερμανικό πρωτάθλημα της Bundesliga αποτελεί ένα από τα θεαματικότερα πρωταθλήματα της Ευρώπης και χαρακτηρίζεται από τον δυναμισμό, τα μεγάλα σκορ και τις αμφίρροπες.</desc>
-    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/28/bae83e85_66dd_4a1f_bcdc_2615f4486e1a_stb_xl.jpg" />
+    <title lang="el">Ατρόμητος - Βόλος : Super League 2026/27</title>
+    <desc lang="el">Super League 2026/27. Το ελληνικό πρωτάθλημα της Super League, με αποκλειστικούς αγώνες κορυφαίων ομάδων αλλά και δυνατά ντέρμπι της φετινής σεζόν ανάμεσα στους διεκδικητές του τίτλου, είναι στα.</desc>
+    <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/28/a2b8f023_12b6_42c1_afa0_322963a9f0e7_xl.jpg" />
   </programme>
   <programme start="20261026210000 +0000" stop="20261027030000 +0000" channel="nr1.gr">
     <title lang="el">The Number Ones</title>
@@ -93688,7 +93724,7 @@
     <desc lang="el">H εκπομπή που αγαπάει τα παλιά αντικείμενα, με παρουσιάστρια τη μοναδική Δέσποινα Μοιραράκη, ανανεωμένη για να μας παρουσιάσει ξεχωριστά, μοναδικά αντικείμενα αλλά και τις παράξενες ιστορίες τους για να είσαι εσύ ο κερδισμένος.</desc>
   </programme>
   <programme start="20261101020000 +0000" stop="20261101030000 +0000" channel="omega.cy">
-    <title lang="el">Chef ΣΤΗΝ ΚΟΥΖΙΝΑ ΣΑΣ (E)</title>
+    <title lang="el">Chef ΣΤΗΝ ΚΟΥΖΙΝΑ ΣΑΣ (Ε)</title>
   </programme>
   <programme start="20261101030000 +0000" stop="20261101040000 +0000" channel="omega.cy">
     <title lang="el">ΕΙΚΟΝΕΣ (E)</title>
@@ -93750,7 +93786,7 @@
     <desc lang="el">Πρωινό infotainment magazine του Σαββατοκύριακου με κοινωνικό πρόσημο, που συνδέει όλη την Ελλάδα, μέσω ζωντανών συνδέσεων αναδεικνύοντας ανθρώπινες ιστορίες και κατορθώματα επανεκκίνησης. Με έμφαση στη θετική πλευρά της ζωής και θέματα για την οικογένεια, τις σχέσεις, τη γυναίκα και το παιδί. Μια διαφορετική, ποικιλόμορφη παρέα, με την Ιωάννα Μαλέσκου, την Κατερίνα Ζαρίφη και τον Άγγελο Βουράκη, που καλύπτει όλο το φάσμα της ψυχαγωγίας, μέσω κοινωνικής ενημέρωσης.</desc>
   </programme>
   <programme start="20261102023000 +0000" stop="20261102030000 +0000" channel="omega.cy">
-    <title lang="el">Chef ΣΤΗΝ ΚΟΥΖΙΝΑ ΣΑΣ (E)</title>
+    <title lang="el">Chef ΣΤΗΝ ΚΟΥΖΙΝΑ ΣΑΣ (Ε)</title>
   </programme>
   <programme start="20261102030000 +0000" stop="20261102040000 +0000" channel="omega.cy">
     <title lang="el">ΕΙΚΟΝΕΣ (E)</title>
@@ -94207,7 +94243,7 @@
     <title lang="el">TOTAL GREEN S3, EP.8</title>
   </programme>
   <programme start="20261102173000 +0000" stop="20261102193000 +0000" channel="omonoiatv.cy">
-    <title lang="el">OMONOIA - ΑΠΟΕΛ (04/10/2026) - CYTA (Z)</title>
+    <title lang="el">OMONOIA - ΑΕΛ (02/11/2026) - OMTV (Z)</title>
   </programme>
   <programme start="20261102193000 +0000" stop="20261102200000 +0000" channel="omonoiatv.cy">
     <title lang="el">ΠΑΡΑΚΑΜΕΡΑ OMONOIA - ΑΕΛ</title>
@@ -103015,8 +103051,8 @@
     <desc lang="el">GBL MD4</desc>
   </programme>
   <programme start="20261101110000 +0000" stop="20261101131500 +0000" channel="sportfmtv1.gr">
-    <title lang="el">Ολυμπιακός- Περιστέρι (LIVE)</title>
-    <desc lang="el">GBL MD5</desc>
+    <title lang="el">Ολυμπιακός- Περιστέρι Betsson (LIVE)</title>
+    <desc lang="el">Stoiximan GBL · 5η αγωνιστική · Κυριακή 1/11, 13:00 · Ζωντανά</desc>
   </programme>
   <programme start="20261101131500 +0000" stop="20261101150000 +0000" channel="sportfmtv1.gr">
     <title lang="el">Vikos Φalcons-ΑΕΚ</title>
@@ -103054,6 +103090,42 @@
     <title lang="el">Καρδίτσα Ιαπωνική - Κολοσσός H Hotels Collection</title>
     <desc lang="el">GBL MD5</desc>
   </programme>
+  <programme start="20261102040000 +0000" stop="20261102060000 +0000" channel="sportfmtv1.gr">
+    <title lang="el">Μαρκό – Ολυμπιακός</title>
+    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
+  </programme>
+  <programme start="20261102060000 +0000" stop="20261102080000 +0000" channel="sportfmtv1.gr">
+    <title lang="el">Μύκονος Betsson BC – Δόξα Λευκάδας</title>
+    <desc lang="el">GBL MD5</desc>
+  </programme>
+  <programme start="20261102080000 +0000" stop="20261102100000 +0000" channel="sportfmtv1.gr">
+    <title lang="el">Παναθηναϊκός – Άρης</title>
+    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
+  </programme>
+  <programme start="20261102100000 +0000" stop="20261102120000 +0000" channel="sportfmtv1.gr">
+    <title lang="el">Ηρακλής – ΠΑΟΚ</title>
+    <desc lang="el">GBL MD5</desc>
+  </programme>
+  <programme start="20261102120000 +0000" stop="20261102140000 +0000" channel="sportfmtv1.gr">
+    <title lang="el">Παναθηναϊκός – ΑΕΚ</title>
+    <desc lang="el">Super League MD9</desc>
+  </programme>
+  <programme start="20261102140000 +0000" stop="20261102160000 +0000" channel="sportfmtv1.gr">
+    <title lang="el">Ολυμπιακός – Περιστέρι Betsson</title>
+    <desc lang="el">GBL MD5</desc>
+  </programme>
+  <programme start="20261102160000 +0000" stop="20261102180000 +0000" channel="sportfmtv1.gr">
+    <title lang="el">ΠΑΟΚ – ΑΕΚ</title>
+    <desc lang="el">Κύπελλο Ελλάδας – League Phase</desc>
+  </programme>
+  <programme start="20261102180000 +0000" stop="20261102200000 +0000" channel="sportfmtv1.gr">
+    <title lang="el">Άρης – Παναθηναϊκός AKTOR</title>
+    <desc lang="el">GBL MD5</desc>
+  </programme>
+  <programme start="20261102200000 +0000" stop="20261102220000 +0000" channel="sportfmtv1.gr">
+    <title lang="el">Παναθηναϊκός – ΑΕΚ</title>
+    <desc lang="el">Super League MD9</desc>
+  </programme>
   <programme start="20261027140000 +0000" stop="20261027160000 +0000" channel="sportfmtv2.gr">
     <title lang="el">Πανσερραϊκός – Νίκη Βόλου (LIVE)</title>
     <desc lang="el">Superbet Κύπελλο Ελλάδας · Τρίτη 27/10, 16:00 · Ζωντανά</desc>
@@ -103089,6 +103161,10 @@
   <programme start="20261031140000 +0000" stop="20261031163000 +0000" channel="sportfmtv3.gr">
     <title lang="el">Καρδίτσα Ιαπωνική – Κολοσσός H Hotels Collection (LIVE)</title>
     <desc lang="el">Stoiximan GBL · 5η αγωνιστική · Σάββατο 31/10, 16:00 · Ζωντανά</desc>
+  </programme>
+  <programme start="20261101173000 +0000" stop="20261101193000 +0000" channel="sportfmtv3.gr">
+    <title lang="el">Παναθηναϊκός – ΑΕΚ | Premium HD (LIVE)</title>
+    <desc lang="el">Stoiximan Super League · 9η αγωνιστική · Κυριακή 1/11, 19:30 · Ζωντανά · Premium HD</desc>
   </programme>
   <programme start="20261028170000 +0000" stop="20261028193000 +0000" channel="sportfmtv4.gr">
     <title lang="el">ΒΕΦ Ρίγα – Μύκονος Betsson BC (LIVE)</title>
@@ -107524,7 +107600,7 @@
   </programme>
   <programme start="20261031200000 +0000" stop="20261031205000 +0000" channel="tlc.gr">
     <title lang="el">Ενας Αντρας, Τέσσερις Γυναίκες 14</title>
-    <desc lang="el">Κύκλος 14 · Επεισόδιο 3. Αληθινή ιστορία - Επ. 3. Η Κριστίν, η Τζανέλ και η Μέρι συνεχίζουν να πορεύονται στη ζωή μετά την πολυγαμία, αντιμετωπίζοντας η καθεμία νέες ευκαιρίες, προκλήσεις και αναπάντητα ερωτήματα.</desc>
+    <desc lang="el">Κύκλος 21 · Επεισόδιο 3. Παλιές Συνήθειες. Η Κριστίν, η Τζανέλ και η Μέρι συνεχίζουν να πορεύονται στη ζωή μετά την πολυγαμία, αντιμετωπίζοντας η καθεμία νέες ευκαιρίες, προκλήσεις και αναπάντητα ερωτήματα.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2022/11/25/8672d063-9964-4a3b-9b91-bced2a8ca676_stb_xl.jpg" />
   </programme>
   <programme start="20261031205000 +0000" stop="20261031214000 +0000" channel="tlc.gr">
@@ -107549,7 +107625,7 @@
   </programme>
   <programme start="20261101000000 +0000" stop="20261101004500 +0000" channel="tlc.gr">
     <title lang="el">Ενας Αντρας, Τέσσερις Γυναίκες 14</title>
-    <desc lang="el">Κύκλος 14 · Επεισόδιο 3. Αληθινή ιστορία - Επ. 3. Η Κριστίν, η Τζανέλ και η Μέρι συνεχίζουν να πορεύονται στη ζωή μετά την πολυγαμία, αντιμετωπίζοντας η καθεμία νέες ευκαιρίες, προκλήσεις και αναπάντητα ερωτήματα.</desc>
+    <desc lang="el">Κύκλος 21 · Επεισόδιο 3. Παλιές Συνήθειες. Η Κριστίν, η Τζανέλ και η Μέρι συνεχίζουν να πορεύονται στη ζωή μετά την πολυγαμία, αντιμετωπίζοντας η καθεμία νέες ευκαιρίες, προκλήσεις και αναπάντητα ερωτήματα.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2022/11/25/8672d063-9964-4a3b-9b91-bced2a8ca676_stb_xl.jpg" />
   </programme>
   <programme start="20261101004500 +0000" stop="20261101013000 +0000" channel="tlc.gr">
@@ -107649,7 +107725,7 @@
   </programme>
   <programme start="20261101144500 +0000" stop="20261101153000 +0000" channel="tlc.gr">
     <title lang="el">Ενας Αντρας, Τέσσερις Γυναίκες 14</title>
-    <desc lang="el">Κύκλος 14 · Επεισόδιο 3. Αληθινή ιστορία - Επ. 3. Η Κριστίν, η Τζανέλ και η Μέρι συνεχίζουν να πορεύονται στη ζωή μετά την πολυγαμία, αντιμετωπίζοντας η καθεμία νέες ευκαιρίες, προκλήσεις και αναπάντητα ερωτήματα.</desc>
+    <desc lang="el">Κύκλος 21 · Επεισόδιο 3. Παλιές Συνήθειες. Η Κριστίν, η Τζανέλ και η Μέρι συνεχίζουν να πορεύονται στη ζωή μετά την πολυγαμία, αντιμετωπίζοντας η καθεμία νέες ευκαιρίες, προκλήσεις και αναπάντητα ερωτήματα.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2022/11/25/8672d063-9964-4a3b-9b91-bced2a8ca676_stb_xl.jpg" />
   </programme>
   <programme start="20261101153000 +0000" stop="20261101162000 +0000" channel="tlc.gr">
@@ -107689,12 +107765,12 @@
   </programme>
   <programme start="20261101200000 +0000" stop="20261101205000 +0000" channel="tlc.gr">
     <title lang="el">90 ημέρες: Αναζητώντας τον Ερωτα 2</title>
-    <desc lang="el">Κύκλος 2 · Επεισόδιο 3. Ριάλιτι - Επ. 3. Οκτώ άτομα από το 90 Μέρες πριν τον Γάμο είναι έτοιμα να δώσουν στον έρωτα μια ακόμα ευκαιρία σε έναν τροπικό παράδεισο, σε ένα ταξίδι έρωτα και δεύτερων ευκαιριών.</desc>
+    <desc lang="el">Κύκλος 2 · Επεισόδιο 3. Το Αγόρι που Πήρε τη Μαμά του. Οκτώ άτομα από το 90 Μέρες πριν τον Γάμο είναι έτοιμα να δώσουν στον έρωτα μια ακόμα ευκαιρία σε έναν τροπικό παράδεισο, σε ένα ταξίδι έρωτα και δεύτερων ευκαιριών.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/12/e91436ef_2ff5_41f5_a92a_b595b3d7a9e2_stb_xl.jpg" />
   </programme>
   <programme start="20261101205000 +0000" stop="20261101214000 +0000" channel="tlc.gr">
     <title lang="el">90 ημέρες: Αναζητώντας τον Ερωτα 2</title>
-    <desc lang="el">Κύκλος 2. Στα Σεντόνια. Οι πρωταγωνιστές λένε απροκάλυπτα τη γνώμη τους και δίνουν γαργαλιστικές λεπτομέρειες για το προηγούμενο επεισόδιο - κανείς δεν κρύβει τίποτα!</desc>
+    <desc lang="el">Κύκλος 2. Στα Σεντόνια: Το Αγόρι Πήρε τη Μαμά. Οι πρωταγωνιστές λένε απροκάλυπτα τη γνώμη τους και δίνουν γαργαλιστικές λεπτομέρειες για το προηγούμενο επεισόδιο - κανείς δεν κρύβει τίποτα!</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/12/e91436ef_2ff5_41f5_a92a_b595b3d7a9e2_stb_xl.jpg" />
   </programme>
   <programme start="20261101214000 +0000" stop="20261101223000 +0000" channel="tlc.gr">
@@ -107714,12 +107790,12 @@
   </programme>
   <programme start="20261102000000 +0000" stop="20261102004500 +0000" channel="tlc.gr">
     <title lang="el">90 ημέρες: Αναζητώντας τον Ερωτα 2</title>
-    <desc lang="el">Κύκλος 2 · Επεισόδιο 3. Ριάλιτι - Επ. 3. Οκτώ άτομα από το 90 Μέρες πριν τον Γάμο είναι έτοιμα να δώσουν στον έρωτα μια ακόμα ευκαιρία σε έναν τροπικό παράδεισο, σε ένα ταξίδι έρωτα και δεύτερων ευκαιριών.</desc>
+    <desc lang="el">Κύκλος 2 · Επεισόδιο 3. Το Αγόρι που Πήρε τη Μαμά του. Οκτώ άτομα από το 90 Μέρες πριν τον Γάμο είναι έτοιμα να δώσουν στον έρωτα μια ακόμα ευκαιρία σε έναν τροπικό παράδεισο, σε ένα ταξίδι έρωτα και δεύτερων ευκαιριών.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/12/e91436ef_2ff5_41f5_a92a_b595b3d7a9e2_stb_xl.jpg" />
   </programme>
   <programme start="20261102004500 +0000" stop="20261102013000 +0000" channel="tlc.gr">
     <title lang="el">90 ημέρες: Αναζητώντας τον Ερωτα 2</title>
-    <desc lang="el">Κύκλος 2. Στα Σεντόνια. Οι πρωταγωνιστές λένε απροκάλυπτα τη γνώμη τους και δίνουν γαργαλιστικές λεπτομέρειες για το προηγούμενο επεισόδιο - κανείς δεν κρύβει τίποτα!</desc>
+    <desc lang="el">Κύκλος 2. Στα Σεντόνια: Το Αγόρι Πήρε τη Μαμά. Οι πρωταγωνιστές λένε απροκάλυπτα τη γνώμη τους και δίνουν γαργαλιστικές λεπτομέρειες για το προηγούμενο επεισόδιο - κανείς δεν κρύβει τίποτα!</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2026/10/12/e91436ef_2ff5_41f5_a92a_b595b3d7a9e2_stb_xl.jpg" />
   </programme>
   <programme start="20261102013000 +0000" stop="20261102021500 +0000" channel="tlc.gr">
@@ -107754,7 +107830,7 @@
   </programme>
   <programme start="20261102063000 +0000" stop="20261102072000 +0000" channel="tlc.gr">
     <title lang="el">Ενας Αντρας, Τέσσερις Γυναίκες 14</title>
-    <desc lang="el">Κύκλος 14 · Επεισόδιο 3. Αληθινή ιστορία - Επ. 3. Η Κριστίν, η Τζανέλ και η Μέρι συνεχίζουν να πορεύονται στη ζωή μετά την πολυγαμία, αντιμετωπίζοντας η καθεμία νέες ευκαιρίες, προκλήσεις και αναπάντητα ερωτήματα.</desc>
+    <desc lang="el">Κύκλος 21 · Επεισόδιο 3. Παλιές Συνήθειες. Η Κριστίν, η Τζανέλ και η Μέρι συνεχίζουν να πορεύονται στη ζωή μετά την πολυγαμία, αντιμετωπίζοντας η καθεμία νέες ευκαιρίες, προκλήσεις και αναπάντητα ερωτήματα.</desc>
     <icon src="https://images-web.forthnet-be.cdn.united.cloud/144852fe/2022/11/25/8672d063-9964-4a3b-9b91-bced2a8ca676_stb_xl.jpg" />
   </programme>
   <programme start="20261102072000 +0000" stop="20261102074000 +0000" channel="tlc.gr">
