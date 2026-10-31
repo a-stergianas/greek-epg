@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-31T09:35:34.048131+00:00",
+  "generated_at": "2026-10-31T19:16:43.874883+00:00",
   "demo": false,
   "channels": 163,
-  "programmes": 23022,
-  "programmes_with_images": 16469,
+  "programmes": 23023,
+  "programmes_with_images": 16464,
   "window": {
     "start": "2026-10-28T00:00:00+02:00",
     "stop": "2026-11-04T00:00:00+02:00"
@@ -6361,10 +6361,10 @@
       "coverage_status": "complete"
     },
     "magentasport6.gr": {
-      "programmes": 72,
-      "programmes_with_images": 72,
+      "programmes": 73,
+      "programmes_with_images": 69,
       "used_sources": {
-        "magentatv": 72
+        "magentatv": 73
       },
       "overlapping_or_duplicate_dropped": {
         "nova": 72
@@ -6398,11 +6398,11 @@
           }
         },
         "2026-10-31": {
-          "programmes": 11,
+          "programmes": 12,
           "coverage_ratio": 1.0,
           "max_gap_hours": 0.0,
           "sources": {
-            "magentatv": 11
+            "magentatv": 12
           }
         },
         "2026-11-01": {
@@ -6434,7 +6434,7 @@
     },
     "magentasport7.gr": {
       "programmes": 96,
-      "programmes_with_images": 96,
+      "programmes_with_images": 94,
       "used_sources": {
         "magentatv": 96
       },
